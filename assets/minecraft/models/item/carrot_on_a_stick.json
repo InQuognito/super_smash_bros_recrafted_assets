@@ -98,6 +98,9 @@
 		{ "predicate": { "custom_model_data": 454 }, "model": "ssbrc:fighters/hero/items/spells/accelerate" },
 		{ "predicate": { "custom_model_data": 455 }, "model": "ssbrc:fighters/hero/items/spells/acceleratle" },
 		{ "predicate": { "custom_model_data": 456 }, "model": "ssbrc:fighters/hero/items/spells/zoom" },
+		{ "predicate": { "custom_model_data": 457 }, "model": "ssbrc:fighters/hero/items/spells/kamikaze" },
+		{ "predicate": { "custom_model_data": 458 }, "model": "ssbrc:fighters/hero/items/spells/sizz" },
+		{ "predicate": { "custom_model_data": 459 }, "model": "ssbrc:fighters/hero/items/spells/sizzle" },
 
 		{ "predicate": { "custom_model_data": 580 }, "model": "ssbrc:fighters/jigglypuff/skins/default/default" },
 		{ "predicate": { "custom_model_data": 581 }, "model": "ssbrc:fighters/jigglypuff/items/hyper_voice/default" },
