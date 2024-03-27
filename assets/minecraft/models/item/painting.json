@@ -17,6 +17,7 @@
 		{ "predicate": { "custom_model_data": 500 }, "model": "ssbrc:stages/miiverse/posts/giegue/0" },
 		{ "predicate": { "custom_model_data": 550 }, "model": "ssbrc:stages/miiverse/posts/greninja/0" },
 		{ "predicate": { "custom_model_data": 600 }, "model": "ssbrc:stages/miiverse/posts/hero/0" },
+		{ "predicate": { "custom_model_data": 601 }, "model": "ssbrc:stages/miiverse/posts/hero/1" },
 		{ "predicate": { "custom_model_data": 650 }, "model": "ssbrc:stages/miiverse/posts/jigglypuff/0" },
 		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:stages/miiverse/posts/joker/0" },
 		{ "predicate": { "custom_model_data": 750 }, "model": "ssbrc:stages/miiverse/posts/king_k_rool/0" },
