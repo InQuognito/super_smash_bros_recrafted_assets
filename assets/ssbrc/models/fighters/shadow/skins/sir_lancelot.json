@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/kirby/skins/keeby/default"
+		"base": "ssbrc:fighters/shadow/skins/sir_lancelot"
 	}
 }

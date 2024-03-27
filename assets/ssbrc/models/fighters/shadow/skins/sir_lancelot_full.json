@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/sonic/skins/hyrule_tunic"
+		"base": "ssbrc:fighters/shadow/skins/sir_lancelot"
 	}
 }

@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/sonic/skins/hyrule_tunic"
+		"base": "ssbrc:fighters/pit/skins/retro"
 	}
 }
