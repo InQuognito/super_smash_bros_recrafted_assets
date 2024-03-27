@@ -199,6 +199,7 @@
 		{ "predicate": { "custom_model_data": 1541 }, "model": "ssbrc:fighters/sonic/skins/gold" },
 		{ "predicate": { "custom_model_data": 1542 }, "model": "ssbrc:fighters/sonic/skins/classic" },
 		{ "predicate": { "custom_model_data": 1543 }, "model": "ssbrc:fighters/sonic/skins/werehog" },
+		{ "predicate": { "custom_model_data": 1544 }, "model": "ssbrc:fighters/sonic/skins/hylian_tunic" },
 
 		{ "predicate": { "custom_model_data": 1560 }, "model": "ssbrc:fighters/sora/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1561 }, "model": "ssbrc:fighters/sora/skins/default/anti" },
