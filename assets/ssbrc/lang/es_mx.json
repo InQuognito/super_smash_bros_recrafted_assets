@@ -1223,7 +1223,7 @@
 
 	"ssbrc.info.weight": "kg",
 
-	"ssbrc.tooltips.holdKey": "- mantén [",
+	"ssbrc.tooltips.hold_key": "- mantén [",
 
 	"ssbrc.tooltips.no_abilities": "Este combatiente no ",
 	"ssbrc.tooltips.no_passives": "posee ninguna habilidad pasiva.",

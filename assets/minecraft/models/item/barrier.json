@@ -70,6 +70,8 @@
 		{ "predicate": { "custom_model_data": 447 }, "model": "ssbrc:fighters/hero/skins/rek/kaclang" },
 		{ "predicate": { "custom_model_data": 448 }, "model": "ssbrc:fighters/hero/skins/sofia/default" },
 		{ "predicate": { "custom_model_data": 449 }, "model": "ssbrc:fighters/hero/skins/sofia/kaclang" },
+		{ "predicate": { "custom_model_data": 450 }, "model": "ssbrc:fighters/hero/skins/solo/default" },
+		{ "predicate": { "custom_model_data": 451 }, "model": "ssbrc:fighters/hero/skins/solo/kaclang" },
 
 		{ "predicate": { "custom_model_data": 580 }, "model": "ssbrc:fighters/jigglypuff/skins/default/default" },
 		{ "predicate": { "custom_model_data": 581 }, "model": "ssbrc:fighters/jigglypuff/skins/default/asleep" },
