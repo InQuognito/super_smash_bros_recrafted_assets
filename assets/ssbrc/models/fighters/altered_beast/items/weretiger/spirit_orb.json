@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "ssbrc:fighters/altered_beast/items/weretiger/spirit_orb"
+	}
+}

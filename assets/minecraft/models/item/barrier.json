@@ -250,15 +250,15 @@
 
 
 		{ "predicate": { "custom_model_data": 1820 }, "model": "ssbrc:fighters/altered_beast/skins/default/centurion" },
-		{ "predicate": { "custom_model_data": 1821 }, "model": "ssbrc:fighters/altered_beast/skins/default/warebear" },
-		{ "predicate": { "custom_model_data": 1822 }, "model": "ssbrc:fighters/altered_beast/skins/default/waredragon" },
-		{ "predicate": { "custom_model_data": 1823 }, "model": "ssbrc:fighters/altered_beast/skins/default/waretiger" },
-		{ "predicate": { "custom_model_data": 1824 }, "model": "ssbrc:fighters/altered_beast/skins/default/warewolf" },
+		{ "predicate": { "custom_model_data": 1821 }, "model": "ssbrc:fighters/altered_beast/skins/default/werebear" },
+		{ "predicate": { "custom_model_data": 1822 }, "model": "ssbrc:fighters/altered_beast/skins/default/weredragon" },
+		{ "predicate": { "custom_model_data": 1823 }, "model": "ssbrc:fighters/altered_beast/skins/default/weretiger" },
+		{ "predicate": { "custom_model_data": 1824 }, "model": "ssbrc:fighters/altered_beast/skins/default/werewolf" },
 		{ "predicate": { "custom_model_data": 1825 }, "model": "ssbrc:fighters/altered_beast/skins/gold/centurion" },
-		{ "predicate": { "custom_model_data": 1826 }, "model": "ssbrc:fighters/altered_beast/skins/gold/warebear" },
-		{ "predicate": { "custom_model_data": 1827 }, "model": "ssbrc:fighters/altered_beast/skins/gold/waredragon" },
-		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/skins/gold/waretiger" },
-		{ "predicate": { "custom_model_data": 1829 }, "model": "ssbrc:fighters/altered_beast/skins/gold/warewolf" },
+		{ "predicate": { "custom_model_data": 1826 }, "model": "ssbrc:fighters/altered_beast/skins/gold/werebear" },
+		{ "predicate": { "custom_model_data": 1827 }, "model": "ssbrc:fighters/altered_beast/skins/gold/weredragon" },
+		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/skins/gold/weretiger" },
+		{ "predicate": { "custom_model_data": 1829 }, "model": "ssbrc:fighters/altered_beast/skins/gold/werewolf" },
 
 		{ "predicate": { "custom_model_data": 1840 }, "model": "ssbrc:fighters/alucard/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1841 }, "model": "ssbrc:fighters/alucard/skins/default/blood_metamorphosis" },

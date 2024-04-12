@@ -107,37 +107,37 @@
 			}
 		]
 	},
-	"fighters.altered_beast.transform.warebear": {
+	"fighters.altered_beast.transform.werebear": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/altered_beast/transform/warebear",
+				"name":"ssbrc:fighters/altered_beast/transform/werebear",
 				"stream": false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.altered_beast.transform.waredragon": {
+	"fighters.altered_beast.transform.weredragon": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/altered_beast/transform/waredragon",
+				"name":"ssbrc:fighters/altered_beast/transform/weredragon",
 				"stream": false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.altered_beast.transform.waretiger": {
+	"fighters.altered_beast.transform.weretiger": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/altered_beast/transform/waretiger",
+				"name":"ssbrc:fighters/altered_beast/transform/weretiger",
 				"stream": false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.altered_beast.transform.warewolf": {
+	"fighters.altered_beast.transform.werewolf": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/altered_beast/transform/warewolf",
+				"name":"ssbrc:fighters/altered_beast/transform/werewolf",
 				"stream": false,
 				"volume": 1.0
 			}
