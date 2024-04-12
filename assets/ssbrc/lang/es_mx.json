@@ -170,9 +170,9 @@
 
 	"ssbrc.stage_select.stage_index": "Índice de etapa",
 	"ssbrc.stage_select.votes": "Votos: ",
-	"ssbrc.stage_select.vote_map": " ha votado por ",
-	"ssbrc.stage_select.vote_random": "un mapa al azar",
-	"ssbrc.stage_select.vote_map.display": "! Votos: ",
+	"ssbrc.stage_select.vote_stage": " ha votado por ",
+	"ssbrc.stage_select.vote_random": "un stagea al azar",
+	"ssbrc.stage_select.vote_stage.display": "! Votos: ",
 	"ssbrc.stage_select.votes_locked": "¡Todos los jugadores votaron!",
 
 	"ssbrc.game.start": "¡Ya!",
