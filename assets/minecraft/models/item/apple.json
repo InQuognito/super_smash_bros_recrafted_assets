@@ -1,7 +1,7 @@
 {
-	"parent": "item/generated",
+	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/apple"
+		"layer0": "minecraft:item/apple"
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:stages/pac_maze/fruit/cherry" },

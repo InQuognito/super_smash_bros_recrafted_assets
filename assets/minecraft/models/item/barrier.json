@@ -1,7 +1,7 @@
 {
-	"parent": "item/generated",
+	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/barrier"
+		"layer0": "minecraft:item/barrier"
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:fighters/rob/skins/default/depleted" },
@@ -259,6 +259,11 @@
 		{ "predicate": { "custom_model_data": 1827 }, "model": "ssbrc:fighters/altered_beast/skins/gold/weredragon" },
 		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/skins/gold/weretiger" },
 		{ "predicate": { "custom_model_data": 1829 }, "model": "ssbrc:fighters/altered_beast/skins/gold/werewolf" },
+		{ "predicate": { "custom_model_data": 1830 }, "model": "ssbrc:fighters/altered_beast/skins/player_2/centurion" },
+		{ "predicate": { "custom_model_data": 1831 }, "model": "ssbrc:fighters/altered_beast/skins/player_2/werebear" },
+		{ "predicate": { "custom_model_data": 1832 }, "model": "ssbrc:fighters/altered_beast/skins/player_2/weredragon" },
+		{ "predicate": { "custom_model_data": 1833 }, "model": "ssbrc:fighters/altered_beast/skins/player_2/weretiger" },
+		{ "predicate": { "custom_model_data": 1834 }, "model": "ssbrc:fighters/altered_beast/skins/player_2/werewolf" },
 
 		{ "predicate": { "custom_model_data": 1840 }, "model": "ssbrc:fighters/alucard/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1841 }, "model": "ssbrc:fighters/alucard/skins/default/blood_metamorphosis" },

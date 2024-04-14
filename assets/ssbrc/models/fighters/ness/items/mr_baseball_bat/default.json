@@ -1,5 +1,5 @@
 {
-	"parent": "item/handheld",
+	"parent": "minecraft:item/handheld",
 	"textures": {
 		"layer0": "ssbrc:fighters/ness/items/mr_baseball_bat/default"
 	}

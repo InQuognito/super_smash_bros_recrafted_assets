@@ -1,5 +1,5 @@
 {
-	"parent": "item/handheld",
+	"parent": "minecraft:item/handheld",
 	"textures": {
 		"layer0": "ssbrc:misc/empty",
 		"layer1": "ssbrc:fighters/zelda/items/dungeon_items/red_potion"

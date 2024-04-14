@@ -1,7 +1,7 @@
 {
-	"parent": "item/generated",
+	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/redstone"
+		"layer0": "minecraft:item/redstone"
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 150 }, "model": "ssbrc:stages/bowsers_castle/armor_stands/peach/arm_left" },

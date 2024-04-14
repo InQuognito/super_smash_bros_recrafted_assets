@@ -1,7 +1,7 @@
 {
-	"parent": "item/generated",
+	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/goat_horn"
+		"layer0": "minecraft:item/goat_horn"
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1920 }, "model": "ssbrc:fighters/shovel_knight/items/war_horn/default" }

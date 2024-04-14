@@ -1,7 +1,7 @@
 {
-	"parent": "item/handheld",
+	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "item/diamond_shovel"
+		"layer0": "minecraft:item/diamond_shovel"
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1920 }, "model": "ssbrc:fighters/shovel_knight/items/shovel_blade/default/default" },

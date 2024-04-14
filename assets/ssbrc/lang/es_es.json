@@ -165,7 +165,7 @@
 	"ssbrc.fighter_select.leave": "Salir del juego",
 	"ssbrc.fighter_select.random": "Todos",
 	"ssbrc.fighter_select.spectate": "Espectador",
-	"ssbrc.fighter_select.spectate": "¡Ahora estás viendo el juego! Para volver a unirte al juego, selecciona un combatiente.",
+	"ssbrc.fighter_select.spectate_game": "¡Ahora estás viendo el juego! Para volver a unirte al juego, selecciona un combatiente.",
 	"ssbrc.fighter_select.unowned": "¡No eres dueño de este combatiente!",
 
 	"ssbrc.stage_select.stage_index": "Índice de etapa",
@@ -1164,7 +1164,7 @@
 	"ssbrc.fighters.altered_beast.spawn": "¡Levántate de tu tumba y lucha por mí, mi Campeón!",
 	"ssbrc.fighters.altered_beast.spirit": "Spirit: ",
 	"ssbrc.fighters.altered_beast.form": "Figura: ",
-	"ssbrc.tooltips.altered_beast.centurion.sharp_axe": "Hacha afilada",
+	"ssbrc.tooltips.altered_beast.centurion.gladius": "Gladius",
 	"ssbrc.tooltips.altered_beast.mark_of_the_beast": "La marca de la bestia",
 	"ssbrc.tooltips.altered_beast.mark_of_the_beast.description.1": "- Altered Beast evoluciona con bajas",
 	"ssbrc.fighters.altered_beast.werebear": "Hombre oso",

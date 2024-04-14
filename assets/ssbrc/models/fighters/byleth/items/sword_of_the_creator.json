@@ -1,5 +1,5 @@
 {
-	"parent": "item/handheld",
+	"parent": "minecraft:item/handheld",
 	"textures": {
 		"layer0": "ssbrc:fighters/byleth/items/sword_of_the_creator"
 	},

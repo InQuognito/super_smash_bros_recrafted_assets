@@ -1,7 +1,7 @@
 {
-	"parent": "item/handheld",
+	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "item/iron_sword"
+		"layer0": "minecraft:item/iron_sword"
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 60 }, "model": "ssbrc:fighters/bowser/items/power_band/default" },
@@ -28,7 +28,7 @@
 		{ "predicate": { "custom_model_data": 1520 }, "model": "ssbrc:fighters/snake/items/cqc_knife/default" },
 		{ "predicate": { "custom_model_data": 1521 }, "model": "ssbrc:fighters/snake/items/cqc_knife/gold" },
 
-		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/items/waredragon/dragon_claw" },
+		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw" },
 
 		{ "predicate": { "custom_model_data": 1840 }, "model": "ssbrc:fighters/alucard/items/alucard_sword/default" },
 		{ "predicate": { "custom_model_data": 1841 }, "model": "ssbrc:fighters/alucard/items/crissaegrim" },

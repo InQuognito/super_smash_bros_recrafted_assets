@@ -1,5 +1,5 @@
 {
-	"parent": "item/generated",
+	"parent": "minecraft:item/generated",
 	"textures": {
 		"layer0": "ssbrc:fighters/zelda/items/dungeon_items/bow/default/pulling_0"
 	},

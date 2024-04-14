@@ -1,7 +1,7 @@
 {
-	"parent": "item/generated",
+	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/white_dye"
+		"layer0": "minecraft:item/white_dye"
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 150 }, "model": "ssbrc:fighters/peach/skins/default" },
