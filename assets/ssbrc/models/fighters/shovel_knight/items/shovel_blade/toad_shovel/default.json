@@ -1,26 +1,6 @@
 {
-	"parent": "minecraft:item/handheld",
+	"parent": "ssbrc:fighters/shovel_knight/items/shovel_blade/parent/default",
 	"textures": {
-		"layer0": "ssbrc:fighters/shovel_knight/items/shovel_blade/toad_shovel"
-	},
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [-45, -90, 0],
-			"translation": [0, 5.75, 1.75],
-			"scale": [1.2, 1.2, 1.2]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [45, -90, 0],
-			"translation": [0, 5.75, 1.75],
-			"scale": [1.2, 1.2, 1.2]
-		},
-		"firstperson_righthand": {
-			"rotation": [0, -90, 25],
-			"translation": [2, 1, 0]
-		},
-		"firstperson_lefthand": {
-			"rotation": [-25, 90, 0],
-			"translation": [2, 1, 0]
-		}
+		"base": "ssbrc:fighters/shovel_knight/items/shovel_blade/toad_shovel/default"
 	}
 }
