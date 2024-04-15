@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/handheld_rod",
 	"textures": {
-		"layer0": "minecraft:item/carrot_on_a_stick"
+		"layer0": "minecraft:item/nether_star"
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": -8 }, "model": "team_flags/aqua" },
@@ -12,7 +12,7 @@
 		{ "predicate": { "custom_model_data": -3 }, "model": "team_flags/green" },
 		{ "predicate": { "custom_model_data": -2 }, "model": "team_flags/blue" },
 		{ "predicate": { "custom_model_data": -1 }, "model": "team_flags/red" },
-		{ "predicate": { "custom_model_data": 0 }, "model": "item/carrot_on_a_stick_default" },
+		{ "predicate": { "custom_model_data": 0 }, "model": "item/nether_star_default" },
 		{ "predicate": { "custom_model_data": 1 }, "model": "fighters/rob/skins/default/charged" },
 		{ "predicate": { "custom_model_data": 20 }, "model": "fighters/banjokazooie/skins/default" },
 		{ "predicate": { "custom_model_data": 40 }, "model": "fighters/bayonetta/skins/default" },

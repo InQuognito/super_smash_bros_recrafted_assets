@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/steve",
+	"parent": "ssbrc:template/alex",
 	"textures": {
 		"base": "ssbrc:fighters/team_rocket/skins/default/jesse"
 	}
