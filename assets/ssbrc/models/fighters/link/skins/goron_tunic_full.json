@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/link/skins/tunic_of_time"
+		"base": "ssbrc:fighters/link/skins/goron_tunic"
 	}
 }

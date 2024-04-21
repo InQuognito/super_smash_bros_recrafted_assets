@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/toon_link/skins/third_sword"
+		"base": "ssbrc:fighters/link/skins/goron_tunic"
 	}
 }

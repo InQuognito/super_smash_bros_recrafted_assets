@@ -132,8 +132,6 @@
 				"ssbrc:trims/models/armor/fighters/greninja/gold_leggings",
 				"ssbrc:trims/models/armor/fighters/greninja/shiny",
 				"ssbrc:trims/models/armor/fighters/greninja/shiny_leggings",
-				"ssbrc:trims/models/armor/fighters/greninja/shadow",
-				"ssbrc:trims/models/armor/fighters/greninja/shadow_leggings",
 				"ssbrc:trims/models/armor/fighters/greninja/hero_style",
 				"ssbrc:trims/models/armor/fighters/greninja/hero_style_leggings",
 
@@ -200,6 +198,13 @@
 				"ssbrc:trims/models/armor/fighters/link/dark_tunic_leggings",
 				"ssbrc:trims/models/armor/fighters/link/tunic_of_time",
 				"ssbrc:trims/models/armor/fighters/link/tunic_of_time_leggings",
+
+				"ssbrc:trims/models/armor/fighters/link/dark_link",
+				"ssbrc:trims/models/armor/fighters/link/dark_link_leggings",
+				"ssbrc:trims/models/armor/fighters/link/goron_tunic",
+				"ssbrc:trims/models/armor/fighters/link/goron_tunic_leggings",
+				"ssbrc:trims/models/armor/fighters/link/zora_tunic",
+				"ssbrc:trims/models/armor/fighters/link/zora_tunic_leggings",
 
 				"ssbrc:trims/models/armor/fighters/lucario/default",
 				"ssbrc:trims/models/armor/fighters/lucario/default_leggings",

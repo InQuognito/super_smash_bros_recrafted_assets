@@ -100,15 +100,9 @@
 
 		{ "predicate": { "custom_model_data": 720 }, "model": "ssbrc:fighters/link/skins/default" },
 		{ "predicate": { "custom_model_data": 721 }, "model": "ssbrc:fighters/link/skins/gold" },
-		{ "predicate": { "custom_model_data": 722 }, "model": "ssbrc:fighters/link/skins/archaic_tunic" },
-		{ "predicate": { "custom_model_data": 723 }, "model": "ssbrc:fighters/link/skins/dark_tunic" },
-		{ "predicate": { "custom_model_data": 724 }, "model": "ssbrc:fighters/link/skins/tunic_of_time" },
-
-		{ "predicate": { "custom_model_data": 760 }, "model": "ssbrc:fighters/lucario/skins/default" },
-		{ "predicate": { "custom_model_data": 761 }, "model": "ssbrc:fighters/lucario/skins/gold" },
-		{ "predicate": { "custom_model_data": 762 }, "model": "ssbrc:fighters/lucario/skins/shiny" },
-		{ "predicate": { "custom_model_data": 763 }, "model": "ssbrc:fighters/lucario/skins/costume_party" },
-		{ "predicate": { "custom_model_data": 764 }, "model": "ssbrc:fighters/lucario/skins/pokken" },
+		{ "predicate": { "custom_model_data": 722 }, "model": "ssbrc:fighters/link/skins/dark_link" },
+		{ "predicate": { "custom_model_data": 723 }, "model": "ssbrc:fighters/link/skins/goron_tunic" },
+		{ "predicate": { "custom_model_data": 724 }, "model": "ssbrc:fighters/link/skins/zora_tunic" },
 
 		{ "predicate": { "custom_model_data": 820 }, "model": "ssbrc:fighters/luigi/skins/default" },
 		{ "predicate": { "custom_model_data": 821 }, "model": "ssbrc:fighters/luigi/skins/gold" },
@@ -126,8 +120,6 @@
 		{ "predicate": { "custom_model_data": 881 }, "model": "ssbrc:fighters/mega_man/skins/gold" },
 		{ "predicate": { "custom_model_data": 882 }, "model": "ssbrc:fighters/mega_man/skins/star_force" },
 
-		{ "predicate": { "custom_model_data": 1040 }, "model": "ssbrc:fighters/mr_game_and_watch/skins/default/idle" },
-
 		{ "predicate": { "custom_model_data": 1080 }, "model": "ssbrc:fighters/ness/skins/default" },
 		{ "predicate": { "custom_model_data": 1081 }, "model": "ssbrc:fighters/ness/skins/gold" },
 		{ "predicate": { "custom_model_data": 1082 }, "model": "ssbrc:fighters/ness/skins/moonside" },
@@ -135,9 +127,6 @@
 		{ "predicate": { "custom_model_data": 1084 }, "model": "ssbrc:fighters/ness/skins/phase_distortion" },
 
 		{ "predicate": { "custom_model_data": 1160 }, "model": "ssbrc:fighters/peach/skins/default" },
-		{ "predicate": { "custom_model_data": 1161 }, "model": "ssbrc:fighters/peach/skins/gold" },
-		{ "predicate": { "custom_model_data": 1162 }, "model": "ssbrc:fighters/peach/skins/flower_power" },
-		{ "predicate": { "custom_model_data": 1163 }, "model": "ssbrc:fighters/peach/skins/shadow_queen" },
 
 		{ "predicate": { "custom_model_data": 1200 }, "model": "ssbrc:fighters/pikachu/skins/default" },
 		{ "predicate": { "custom_model_data": 1201 }, "model": "ssbrc:fighters/pikachu/skins/gold" },
@@ -167,12 +156,6 @@
 		{ "predicate": { "custom_model_data": 1276 }, "model": "ssbrc:fighters/pokemon_trainer/skins/victor/coalossal" },
 		{ "predicate": { "custom_model_data": 1277 }, "model": "ssbrc:fighters/pokemon_trainer/skins/victor/rillaboom" },
 		{ "predicate": { "custom_model_data": 1278 }, "model": "ssbrc:fighters/pokemon_trainer/skins/victor/drizzile" },
-
-		{ "predicate": { "custom_model_data": 1380 }, "model": "ssbrc:fighters/roy/skins/default" },
-		{ "predicate": { "custom_model_data": 1381 }, "model": "ssbrc:fighters/roy/skins/gold" },
-		{ "predicate": { "custom_model_data": 1382 }, "model": "ssbrc:fighters/roy/skins/awakening" },
-		{ "predicate": { "custom_model_data": 1383 }, "model": "ssbrc:fighters/roy/skins/blazing_bachelor" },
-		{ "predicate": { "custom_model_data": 1384 }, "model": "ssbrc:fighters/roy/skins/young_lion" },
 
 		{ "predicate": { "custom_model_data": 1400 }, "model": "ssbrc:fighters/ryu/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1401 }, "model": "ssbrc:fighters/ryu/skins/default/evil" },
@@ -222,18 +205,6 @@
 		{ "predicate": { "custom_model_data": 1581 }, "model": "ssbrc:fighters/steve/skins/gold" },
 		{ "predicate": { "custom_model_data": 1582 }, "model": "ssbrc:fighters/steve/skins/alex" },
 		{ "predicate": { "custom_model_data": 1583 }, "model": "ssbrc:fighters/steve/skins/herobrine" },
-
-		{ "predicate": { "custom_model_data": 1620 }, "model": "ssbrc:fighters/terry/skins/default" },
-		{ "predicate": { "custom_model_data": 1621 }, "model": "ssbrc:fighters/terry/skins/gold" },
-		{ "predicate": { "custom_model_data": 1622 }, "model": "ssbrc:fighters/terry/skins/king_of_fighters" },
-		{ "predicate": { "custom_model_data": 1623 }, "model": "ssbrc:fighters/terry/skins/mark_of_the_wolves" },
-		{ "predicate": { "custom_model_data": 1624 }, "model": "ssbrc:fighters/terry/skins/mirror" },
-
-		{ "predicate": { "custom_model_data": 1640 }, "model": "ssbrc:fighters/toon_link/skins/default" },
-		{ "predicate": { "custom_model_data": 1641 }, "model": "ssbrc:fighters/toon_link/skins/gold" },
-		{ "predicate": { "custom_model_data": 1642 }, "model": "ssbrc:fighters/toon_link/skins/second_sword" },
-		{ "predicate": { "custom_model_data": 1643 }, "model": "ssbrc:fighters/toon_link/skins/third_sword" },
-		{ "predicate": { "custom_model_data": 1644 }, "model": "ssbrc:fighters/toon_link/skins/fourth_sword" },
 
 		{ "predicate": { "custom_model_data": 1720 }, "model": "ssbrc:fighters/wolf/skins/default" },
 		{ "predicate": { "custom_model_data": 1721 }, "model": "ssbrc:fighters/wolf/skins/gold" },

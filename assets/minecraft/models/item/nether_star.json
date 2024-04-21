@@ -139,10 +139,6 @@
 		{ "predicate": { "custom_model_data": 732 }, "model": "ssbrc:fighters/link/items/master_sword/gold/spinning/default" },
 		{ "predicate": { "custom_model_data": 733 }, "model": "ssbrc:fighters/link/items/master_sword/gold/spinning/awakened" },
 
-		{ "predicate": { "custom_model_data": 760 }, "model": "ssbrc:fighters/lucario/skins/default" },
-		{ "predicate": { "custom_model_data": 761 }, "model": "ssbrc:fighters/lucario/items/force_palm" },
-		{ "predicate": { "custom_model_data": 762 }, "model": "ssbrc:fighters/lucario/items/aura_sphere" },
-
 		{ "predicate": { "custom_model_data": 820 }, "model": "ssbrc:fighters/luigi/skins/default" },
 		{ "predicate": { "custom_model_data": 821 }, "model": "ssbrc:fighters/luigi/items/ice_ball/default" },
 		{ "predicate": { "custom_model_data": 822 }, "model": "ssbrc:fighters/luigi/items/ice_ball/gold" },
@@ -173,14 +169,6 @@
 		{ "predicate": { "custom_model_data": 1082 }, "model": "ssbrc:fighters/ness/items/pk_flash" },
 
 		{ "predicate": { "custom_model_data": 1160 }, "model": "ssbrc:fighters/peach/skins/default" },
-		{ "predicate": { "custom_model_data": 1161 }, "model": "ssbrc:fighters/peach/items/turnip/bored" },
-		{ "predicate": { "custom_model_data": 1162 }, "model": "ssbrc:fighters/peach/items/turnip/dot_eyes" },
-		{ "predicate": { "custom_model_data": 1163 }, "model": "ssbrc:fighters/peach/items/turnip/laughing" },
-		{ "predicate": { "custom_model_data": 1164 }, "model": "ssbrc:fighters/peach/items/turnip/shocked" },
-		{ "predicate": { "custom_model_data": 1165 }, "model": "ssbrc:fighters/peach/items/turnip/sleepy" },
-		{ "predicate": { "custom_model_data": 1166 }, "model": "ssbrc:fighters/peach/items/turnip/smiley" },
-		{ "predicate": { "custom_model_data": 1167 }, "model": "ssbrc:fighters/peach/items/turnip/stitch_face" },
-		{ "predicate": { "custom_model_data": 1168 }, "model": "ssbrc:fighters/peach/items/turnip/wink" },
 
 		{ "predicate": { "custom_model_data": 1200 }, "model": "ssbrc:fighters/pikachu/skins/default" },
 		{ "predicate": { "custom_model_data": 1201 }, "model": "ssbrc:fighters/pikachu/items/electric_terrain" },
@@ -195,13 +183,6 @@
 		{ "predicate": { "custom_model_data": 1227 }, "model": "ssbrc:fighters/pit/items/guardian_orbitars/gold" },
 
 		{ "predicate": { "custom_model_data": 1260 }, "model": "ssbrc:items/pokeball" },
-
-		{ "predicate": { "custom_model_data": 1380 }, "model": "ssbrc:fighters/roy/skins/default" },
-		{ "predicate": { "custom_model_data": 1381 }, "model": "ssbrc:fighters/roy/items/sword/default" },
-		{ "predicate": { "custom_model_data": 1382 }, "model": "ssbrc:fighters/roy/items/sword/gold" },
-		{ "predicate": { "custom_model_data": 1383 }, "model": "ssbrc:fighters/roy/items/sword/awakening" },
-		{ "predicate": { "custom_model_data": 1384 }, "model": "ssbrc:fighters/roy/items/sword/blazing_bachelor" },
-		{ "predicate": { "custom_model_data": 1385 }, "model": "ssbrc:fighters/roy/items/sword/young_lion" },
 
 		{ "predicate": { "custom_model_data": 1400 }, "model": "ssbrc:fighters/ryu/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1401 }, "model": "ssbrc:fighters/ryu/items/collarbone_breaker/default/default" },
@@ -258,8 +239,6 @@
 		{ "predicate": { "custom_model_data": 1584 }, "model": "minecraft:item/iron_pickaxe" },
 		{ "predicate": { "custom_model_data": 1585 }, "model": "minecraft:item/diamond_pickaxe" },
 		{ "predicate": { "custom_model_data": 1586 }, "model": "minecraft:item/netherite_pickaxe" },
-
-		{ "predicate": { "custom_model_data": 1620 }, "model": "ssbrc:fighters/terry/skins/default" },
 
 		{ "predicate": { "custom_model_data": 1720 }, "model": "ssbrc:fighters/wolf/skins/default" },
 		{ "predicate": { "custom_model_data": 1721 }, "model": "ssbrc:fighters/wolf/items/wolf_slash/default" },
