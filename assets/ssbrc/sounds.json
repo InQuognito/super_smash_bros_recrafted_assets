@@ -197,6 +197,20 @@
 			}
 		]
 	},
+	"fighters.bowser.fire_breath.loop": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/bowser/fire_breath/loop/1",
+				"stream": false,
+				"volume": 1.0
+			},
+			{
+				"name":"ssbrc:fighters/bowser/fire_breath/loop/2",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.bowser.rage.activate": {
 		"sounds":[
 			{
@@ -264,6 +278,33 @@
 		"sounds":[
 			{
 				"name":"ssbrc:fighters/byleth/golden_deer/failnaught/charge",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.captain_falcon.falcon_charge.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/captain_falcon/falcon_charge/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.captain_falcon.falcon_charge.deactivate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/captain_falcon/falcon_charge/deactivate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.captain_falcon.falcon_kick.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/captain_falcon/falcon_kick/activate",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -1107,10 +1148,46 @@
 			}
 		]
 	},
-	"fighters.mega_man.black_hole.activate": {
+	"fighters.mega_man.air_shooter.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/mega_man/black_hole/activate",
+				"name":"ssbrc:fighters/mega_man/air_shooter/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.mega_man.flame_sword.hit": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/mega_man/flame_sword/hit",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.mega_man.hyper_bomb.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/mega_man/hyper_bomb/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.mega_man.junk_shield.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/mega_man/junk_shield/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.mega_man.junk_shield.deactivate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/mega_man/junk_shield/deactivate",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -1120,6 +1197,42 @@
 		"sounds":[
 			{
 				"name":"ssbrc:fighters/mega_man/mega_buster/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.mega_man.metal_blade.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/mega_man/metal_blade/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.mega_man.pile_driver.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/mega_man/pile_driver/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.mega_man.death": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/mega_man/death",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.mega_man.shockwave": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/mega_man/shockwave",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -1242,10 +1355,28 @@
 			}
 		]
 	},
-	"fighters.pokemon_trainer.charizard.flare_blitz.activate": {
+	"fighters.pokemon_trainer.charizard.flare_blitz.activate.default": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/pokemon_trainer/charizard/flare_blitz/activate",
+				"name":"ssbrc:fighters/pokemon_trainer/charizard/flare_blitz/activate/default",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.pokemon_trainer.charizard.flare_blitz.activate.dawn": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/pokemon_trainer/charizard/flare_blitz/activate/dawn",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.pokemon_trainer.charizard.flare_blitz.activate.victor": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/pokemon_trainer/charizard/flare_blitz/activate/victor",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -1255,6 +1386,15 @@
 		"sounds":[
 			{
 				"name":"ssbrc:fighters/pokemon_trainer/ivysaur/leech_seed/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.pokemon_trainer.ivysaur.poison_powder.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/pokemon_trainer/ivysaur/poison_powder/activate",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -1657,10 +1797,10 @@
 			}
 		]
 	},
-	"fighters.sonic_the_hedgehog.lose_stock": {
+	"fighters.sonic_the_hedgehog.death": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/sonic_the_hedgehog/lose_stock",
+				"name":"ssbrc:fighters/sonic_the_hedgehog/death",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -1797,6 +1937,15 @@
 		"sounds":[
 			{
 				"name":"ssbrc:fighters/team_rocket/wobbuffet/destiny_bond/kill",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.team_rocket.wobbuffet.splash.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/team_rocket/wobbuffet/splash/activate",
 				"stream": false,
 				"volume": 1.0
 			}
