@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/steve",
+	"textures": {
+		"base": "ssbrc:fighters/altered_beast/skins/player_2/centurion/default"
+	}
+}

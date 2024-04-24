@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/altered_beast/skins/default/centurion"
+		"base": "ssbrc:fighters/altered_beast/skins/default/centurion/default"
 	}
 }
