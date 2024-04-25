@@ -330,6 +330,7 @@
 
 	"ssbrc.fighters.skin.default": "Default",
 	"ssbrc.fighters.skin.gold": "Gold",
+	"ssbrc.fighters.skin.player_2": "Player 2",
 
 	"ssbrc.fighters.effects.armor_break": "Armor Break!",
 	"ssbrc.fighters.effects.crit": "Critical Hit!",
@@ -974,6 +975,8 @@
 	"ssbrc.series.street_fighter": "Street Fighter",
 	"ssbrc.fighters.ryu": "Ryu",
 	"ssbrc.fighters.ryu.skin.hot_ryu": "Hot Ryu",
+	"ssbrc.fighters.ryu.skin.iron_fist": "Iron Fist",
+	"ssbrc.fighters.ryu.skin.super_turbo": "Super Turbo",
 	"ssbrc.tooltips.ryu.collarbone_breaker": "Collarbone Breaker",
 	"ssbrc.tooltips.ryu.collarbone_breaker.description.1": "] and release to launch a Hadouken",
 	"ssbrc.tooltips.ryu.collarbone_breaker.description.2": "- Hold before release to launch a stronger, slower Hadouken",
@@ -1088,6 +1091,7 @@
 	"ssbrc.fighters.hero.skin.erdrick": "Erdrick",
 	"ssbrc.fighters.hero.skin.rek": "Rek",
 	"ssbrc.fighters.hero.skin.sofia": "Sofia",
+	"ssbrc.fighters.hero.skin.solo": "Solo",
 	"ssbrc.tooltips.hero.flame_slash": "Flame Slash",
 	"ssbrc.tooltips.hero.erdricks_sword": "Erdrick's Sword",
 	"ssbrc.tooltips.hero.sword_of_light": "Sword of Light",

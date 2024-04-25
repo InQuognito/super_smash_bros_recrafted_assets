@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/rob/skins/ancient_minister"
+		"base": "ssbrc:fighters/rob/skins/ancient_minister/default"
 	}
 }

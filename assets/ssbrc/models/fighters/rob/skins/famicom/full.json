@@ -1,7 +1,7 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "ssbrc:fighters/rob/skins/famicom"
+		"0": "ssbrc:fighters/rob/skins/famicom/default"
 	},
 	"elements": [
 		{

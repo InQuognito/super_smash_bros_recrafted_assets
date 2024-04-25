@@ -22,9 +22,6 @@
 		{ "predicate": { "custom_model_data": 446 }, "model": "ssbrc:fighters/hero/items/sword/zenithian_sword/disabled" },
 		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:fighters/kirby/items/katana/default" },
 		{ "predicate": { "custom_model_data": 701 }, "model": "ssbrc:fighters/kirby/items/katana/gold" },
-		{ "predicate": { "custom_model_data": 1160 }, "model": "ssbrc:fighters/peach/items/frying_pan/default" },
-		{ "predicate": { "custom_model_data": 1162 }, "model": "ssbrc:fighters/peach/items/golf_club/default" },
-		{ "predicate": { "custom_model_data": 1164 }, "model": "ssbrc:fighters/peach/items/tennis_racket/default" },
 		{ "predicate": { "custom_model_data": 1520 }, "model": "ssbrc:fighters/snake/items/cqc_knife/default" },
 		{ "predicate": { "custom_model_data": 1521 }, "model": "ssbrc:fighters/snake/items/cqc_knife/gold" },
 
@@ -59,10 +56,6 @@
 		{ "predicate": { "custom_model_data": 9020 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/glass" },
 		{ "predicate": { "custom_model_data": 9021 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/obsidian" },
 		{ "predicate": { "custom_model_data": 9022 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/ruby" },
-		{ "predicate": { "custom_model_data": 9023 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/titanium" },
-
-		{ "predicate": { "custom_model_data": 100000 }, "model": "ssbrc:items/killing_edge/default" },
-		{ "predicate": { "custom_model_data": 100001 }, "model": "ssbrc:items/killing_edge/active" },
-		{ "predicate": { "custom_model_data": 100002 }, "model": "ssbrc:items/lips_stick" }
+		{ "predicate": { "custom_model_data": 9023 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/titanium" }
 	]
 }

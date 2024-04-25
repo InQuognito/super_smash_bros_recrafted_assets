@@ -163,8 +163,10 @@
 		{ "predicate": { "custom_model_data": 1403 }, "model": "ssbrc:fighters/ryu/skins/gold/evil" },
 		{ "predicate": { "custom_model_data": 1404 }, "model": "ssbrc:fighters/ryu/skins/hot_ryu/default" },
 		{ "predicate": { "custom_model_data": 1405 }, "model": "ssbrc:fighters/ryu/skins/hot_ryu/evil" },
-		{ "predicate": { "custom_model_data": 1406 }, "model": "ssbrc:fighters/ryu/skins/super_turbo/default" },
-		{ "predicate": { "custom_model_data": 1407 }, "model": "ssbrc:fighters/ryu/skins/super_turbo/evil" },
+		{ "predicate": { "custom_model_data": 1406 }, "model": "ssbrc:fighters/ryu/skins/iron_fist/default" },
+		{ "predicate": { "custom_model_data": 1407 }, "model": "ssbrc:fighters/ryu/skins/iron_fist/evil" },
+		{ "predicate": { "custom_model_data": 1408 }, "model": "ssbrc:fighters/ryu/skins/super_turbo/default" },
+		{ "predicate": { "custom_model_data": 1409 }, "model": "ssbrc:fighters/ryu/skins/super_turbo/evil" },
 
 		{ "predicate": { "custom_model_data": 1420 }, "model": "ssbrc:fighters/samus/skins/default" },
 		{ "predicate": { "custom_model_data": 1421 }, "model": "ssbrc:fighters/samus/skins/gold" },
@@ -220,17 +222,17 @@
 
 
 
-		{ "predicate": { "custom_model_data": 1820 }, "model": "ssbrc:fighters/altered_beast/skins/default/centurion/default" },
+		{ "predicate": { "custom_model_data": 1820 }, "model": "ssbrc:fighters/altered_beast/skins/default/centurion" },
 		{ "predicate": { "custom_model_data": 1821 }, "model": "ssbrc:fighters/altered_beast/skins/default/werebear" },
 		{ "predicate": { "custom_model_data": 1822 }, "model": "ssbrc:fighters/altered_beast/skins/default/weredragon" },
 		{ "predicate": { "custom_model_data": 1823 }, "model": "ssbrc:fighters/altered_beast/skins/default/weretiger" },
 		{ "predicate": { "custom_model_data": 1824 }, "model": "ssbrc:fighters/altered_beast/skins/default/werewolf" },
-		{ "predicate": { "custom_model_data": 1825 }, "model": "ssbrc:fighters/altered_beast/skins/gold/centurion/default" },
+		{ "predicate": { "custom_model_data": 1825 }, "model": "ssbrc:fighters/altered_beast/skins/gold/centurion" },
 		{ "predicate": { "custom_model_data": 1826 }, "model": "ssbrc:fighters/altered_beast/skins/gold/werebear" },
 		{ "predicate": { "custom_model_data": 1827 }, "model": "ssbrc:fighters/altered_beast/skins/gold/weredragon" },
 		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/skins/gold/weretiger" },
 		{ "predicate": { "custom_model_data": 1829 }, "model": "ssbrc:fighters/altered_beast/skins/gold/werewolf" },
-		{ "predicate": { "custom_model_data": 1830 }, "model": "ssbrc:fighters/altered_beast/skins/player_2/centurion/default" },
+		{ "predicate": { "custom_model_data": 1830 }, "model": "ssbrc:fighters/altered_beast/skins/player_2/centurion" },
 		{ "predicate": { "custom_model_data": 1831 }, "model": "ssbrc:fighters/altered_beast/skins/player_2/werebear" },
 		{ "predicate": { "custom_model_data": 1832 }, "model": "ssbrc:fighters/altered_beast/skins/player_2/weredragon" },
 		{ "predicate": { "custom_model_data": 1833 }, "model": "ssbrc:fighters/altered_beast/skins/player_2/weretiger" },
@@ -271,7 +273,7 @@
 
 		{ "predicate": { "custom_model_data": 1960 }, "model": "ssbrc:fighters/yar/skins/default" },
 		{ "predicate": { "custom_model_data": 1961 }, "model": "ssbrc:fighters/yar/skins/gold" },
-		{ "predicate": { "custom_model_data": 1962 }, "model": "ssbrc:fighters/yar/skins/player_two" },
+		{ "predicate": { "custom_model_data": 1962 }, "model": "ssbrc:fighters/yar/skins/player_2" },
 		{ "predicate": { "custom_model_data": 1963 }, "model": "ssbrc:fighters/yar/skins/recruit" },
 
 

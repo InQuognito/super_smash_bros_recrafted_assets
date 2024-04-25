@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/wolf/skins/star_fox_2"
+		"base": "ssbrc:fighters/wolf/skins/star_fox_2/default"
 	}
 }

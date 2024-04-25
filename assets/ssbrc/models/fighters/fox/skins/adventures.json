@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/fox/skins/adventures"
+		"base": "ssbrc:fighters/fox/skins/adventures/default"
 	}
 }

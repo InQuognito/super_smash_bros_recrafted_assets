@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/alex",
 	"textures": {
-		"base": "ssbrc:fighters/kirby/skins/default/default"
+		"base": "ssbrc:fighters/kirby/skins/keeby/default"
 	}
 }

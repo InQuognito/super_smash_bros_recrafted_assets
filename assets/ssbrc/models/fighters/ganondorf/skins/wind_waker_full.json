@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/ganondorf/skins/wind_waker"
+		"base": "ssbrc:fighters/ganondorf/skins/wind_waker/default"
 	}
 }

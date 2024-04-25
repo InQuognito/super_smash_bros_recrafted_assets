@@ -1,7 +1,7 @@
 {
 	"parent": "ssbrc:fighters/pit/skins/parent_full",
 	"textures": {
-		"base": "ssbrc:fighters/pit/skins/retro",
+		"base": "ssbrc:fighters/pit/skins/retro/default",
 		"elytra": "ssbrc:fighters/pit/skins/elytra"
 	}
 }

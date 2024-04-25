@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/wolf/skins/assault"
+		"base": "ssbrc:fighters/wolf/skins/assault/default"
 	}
 }

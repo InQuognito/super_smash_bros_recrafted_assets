@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/sonic/skins/classic"
+		"base": "ssbrc:fighters/sonic/skins/classic/default"
 	}
 }

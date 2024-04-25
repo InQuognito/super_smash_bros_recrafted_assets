@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:fighters/shovel_knight/skins/parent",
 	"textures": {
-		"skin": "ssbrc:fighters/shovel_knight/skins/toad_gear"
+		"skin": "ssbrc:fighters/shovel_knight/skins/toad_gear/default"
 	}
 }

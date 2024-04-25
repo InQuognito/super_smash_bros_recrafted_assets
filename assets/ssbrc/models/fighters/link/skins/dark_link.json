@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/link/skins/dark_link"
+		"base": "ssbrc:fighters/link/skins/dark_link/default"
 	}
 }

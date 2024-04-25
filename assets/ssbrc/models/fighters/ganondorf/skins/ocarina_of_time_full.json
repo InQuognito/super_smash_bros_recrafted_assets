@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/ganondorf/skins/ocarina_of_time"
+		"base": "ssbrc:fighters/ganondorf/skins/ocarina_of_time/default"
 	}
 }

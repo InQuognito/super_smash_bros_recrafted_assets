@@ -154,7 +154,6 @@
 		{ "predicate": { "custom_model_data": 884 }, "model": "ssbrc:fighters/mega_man/items/air_shooter" },
 		{ "predicate": { "custom_model_data": 885 }, "model": "ssbrc:fighters/mega_man/items/beat_call" },
 		{ "predicate": { "custom_model_data": 886 }, "model": "ssbrc:fighters/mega_man/items/drill_bomb" },
-		{ "predicate": { "custom_model_data": 887 }, "model": "ssbrc:fighters/mega_man/items/flame_sword" },
 		{ "predicate": { "custom_model_data": 888 }, "model": "ssbrc:fighters/mega_man/items/hyper_bomb/default" },
 		{ "predicate": { "custom_model_data": 889 }, "model": "ssbrc:fighters/mega_man/items/junk_shield" },
 		{ "predicate": { "custom_model_data": 890 }, "model": "ssbrc:fighters/mega_man/items/magma_bazooka" },

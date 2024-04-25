@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/greninja/skins/hero_style"
+		"base": "ssbrc:fighters/greninja/skins/hero_style/default"
 	}
 }

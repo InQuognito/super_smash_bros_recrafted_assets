@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/sonic/skins/hylian_tunic"
+		"base": "ssbrc:fighters/sonic/skins/hylian_tunic/default"
 	}
 }

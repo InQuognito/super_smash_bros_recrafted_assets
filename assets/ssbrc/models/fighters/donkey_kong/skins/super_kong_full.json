@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/donkey_kong/skins/super_kong"
+		"base": "ssbrc:fighters/donkey_kong/skins/super_kong/default"
 	}
 }

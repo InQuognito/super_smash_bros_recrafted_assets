@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/mario/skins/penguin"
+		"base": "ssbrc:fighters/mario/skins/penguin/default"
 	}
 }

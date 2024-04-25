@@ -1,7 +1,7 @@
 {
 	"parent": "ssbrc:fighters/dark_samus/skins/parent_full",
 	"textures": {
-		"base": "ssbrc:fighters/dark_samus/skins/prime_2",
+		"base": "ssbrc:fighters/dark_samus/skins/prime_2/default",
 		"arm_cannon": "ssbrc:fighters/dark_samus/items/phazon_beam/default"
 	}
 }

@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/sonic/skins/werehog"
+		"base": "ssbrc:fighters/sonic/skins/werehog/default"
 	}
 }

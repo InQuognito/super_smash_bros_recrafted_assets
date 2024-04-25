@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/alex",
 	"textures": {
-		"base": "ssbrc:fighters/greninja/skins/shadow"
+		"base": "ssbrc:fighters/greninja/skins/shadow/default"
 	}
 }

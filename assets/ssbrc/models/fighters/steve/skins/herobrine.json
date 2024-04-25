@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/steve/skins/herobrine"
+		"base": "ssbrc:fighters/steve/skins/herobrine/default"
 	}
 }

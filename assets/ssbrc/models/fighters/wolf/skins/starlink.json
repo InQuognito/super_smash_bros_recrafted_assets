@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/wolf/skins/starlink"
+		"base": "ssbrc:fighters/wolf/skins/starlink/default"
 	}
 }

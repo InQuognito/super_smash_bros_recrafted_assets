@@ -1,0 +1,72 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "ssbrc:fighters/altered_beast/skins/player_2/render.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\u1820"]
+		},
+
+		{
+			"type": "bitmap",
+			"file": "ssbrc:fighters/alucard/skins/lords_of_shadow/render.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\u1840"]
+		},
+
+		{
+			"type": "bitmap",
+			"file": "ssbrc:fighters/bowser/skins/bowsette/render.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\u0060"]
+		},
+
+		{
+			"type": "bitmap",
+			"file": "ssbrc:fighters/byleth/skins/awakened/render.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\u0100"]
+		},
+
+		{
+			"type": "bitmap",
+			"file": "ssbrc:fighters/captain_falcon/skins/blood_falcon/render.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\u0120"]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:fighters/captain_falcon/skins/rick_wheeler/render.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\u0121"]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:fighters/captain_falcon/skins/super_falcon/render.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\u0122"]
+		},
+
+		{
+			"type": "bitmap",
+			"file": "ssbrc:fighters/donkey_kong/skins/flower_power/render.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\u0300"]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:fighters/donkey_kong/skins/super_kong/render.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\u0301"]
+		}
+	]
+}
