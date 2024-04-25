@@ -26,7 +26,7 @@ def copy_and_zip_folders(source_dir, folders_to_include, output_zip):
 		with zipfile.ZipFile(output_zip, 'w') as zipf:
 			for folder in folders_to_include:
 				folder_path = os.path.join(temp_dir, folder)
-				for root, dirs, files in os.walk(folder_path):
+				for root, files in os.walk(folder_path):
 					for file in files:
 						file_path = os.path.join(root, file)
 						arcname = os.path.relpath(file_path, temp_dir)

@@ -6,9 +6,7 @@ ext = '.json'
 
 def length(source, target):
 	strict = False
-	'''
-	Compares target with source file, returning an error (or warning, depending on the setting) if the file length does not match
-	'''
+	'''Compares target with source file, returning an error (or warning, depending on the setting) if the file length does not match'''
 	# Count
 	with open(path + source + ext, 'r', encoding='utf-8') as file:
 		f1 = sum(1 for _ in file)
@@ -23,9 +21,7 @@ def length(source, target):
 	return 1
 
 def language(file, lang):
-	'''
-	Attempts to detect the target language in each string of file, returning a warning if not found
-	'''
+	'''Attempts to detect the target language in each string of file, returning a warning if not found'''
 	with open(path + file + ext, 'r') as f:
 		data = json.load(f)
 
@@ -38,8 +34,6 @@ def language(file, lang):
 	return 1
 
 def validate(source, target):
-	'''
-	Run all other checks in file, proceeding on success
-	'''
+	'''Run all other checks in file, proceeding on success'''
 	length(source, target)
 	language(target, 'es')

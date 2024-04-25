@@ -94,9 +94,7 @@
 
 		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:fighters/kirby/skins/default/default" },
 		{ "predicate": { "custom_model_data": 701 }, "model": "ssbrc:fighters/kirby/skins/gold/default" },
-		{ "predicate": { "custom_model_data": 702 }, "model": "ssbrc:fighters/kirby/skins/anti_kirby/default" },
 		{ "predicate": { "custom_model_data": 703 }, "model": "ssbrc:fighters/kirby/skins/keeby/default" },
-		{ "predicate": { "custom_model_data": 704 }, "model": "ssbrc:fighters/kirby/skins/kusamochi/default" },
 
 		{ "predicate": { "custom_model_data": 720 }, "model": "ssbrc:fighters/link/skins/default" },
 		{ "predicate": { "custom_model_data": 721 }, "model": "ssbrc:fighters/link/skins/gold" },
