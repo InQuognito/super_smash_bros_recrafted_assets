@@ -41,7 +41,7 @@ def copy_and_zip_folders(source_dir, folders_to_include, output_zip):
 		print('\n' + ('#' * 20) + '\nAll operations complete. You can now safely close this file.\n' + ('#' * 20))
 
 # Settings
-version = '2.4.2'
+version = '2.5'
 source_directory = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
 folders_to_include = ['assets']
 output_zip_file = 'scripts/bin/ssbrc_' + version + '.zip'
