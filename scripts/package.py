@@ -1,5 +1,5 @@
-import os
-import shutil
+from scripts.core import *
+
 import zipfile
 
 def copy_and_zip_folders(source_dir, folders_to_include, output_zip):

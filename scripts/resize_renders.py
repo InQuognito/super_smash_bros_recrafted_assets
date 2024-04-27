@@ -1,7 +1,6 @@
-import os
-from PIL import Image
+from scripts.core import *
 
-import ssbrc_data as ssbrc
+from PIL import Image
 
 def resize_image(input_image_path, output_image_path, max_size):
 	original_image = Image.open(input_image_path, 'r')

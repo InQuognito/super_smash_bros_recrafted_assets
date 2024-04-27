@@ -36,9 +36,7 @@
 
 		{ "predicate": { "custom_model_data": 260 }, "model": "ssbrc:fighters/dark_samus/skins/default" },
 		{ "predicate": { "custom_model_data": 261 }, "model": "ssbrc:fighters/dark_samus/skins/gold" },
-		{ "predicate": { "custom_model_data": 262 }, "model": "ssbrc:fighters/dark_samus/skins/prime_2" },
 		{ "predicate": { "custom_model_data": 263 }, "model": "ssbrc:fighters/dark_samus/skins/prime_3" },
-		{ "predicate": { "custom_model_data": 264 }, "model": "ssbrc:fighters/dark_samus/skins/prototype" },
 
 		{ "predicate": { "custom_model_data": 300 }, "model": "ssbrc:fighters/donkey_kong/skins/default" },
 		{ "predicate": { "custom_model_data": 301 }, "model": "ssbrc:fighters/donkey_kong/skins/gold" },
@@ -58,7 +56,6 @@
 		{ "predicate": { "custom_model_data": 420 }, "model": "ssbrc:fighters/greninja/skins/default" },
 		{ "predicate": { "custom_model_data": 421 }, "model": "ssbrc:fighters/greninja/skins/gold" },
 		{ "predicate": { "custom_model_data": 422 }, "model": "ssbrc:fighters/greninja/skins/shiny" },
-		{ "predicate": { "custom_model_data": 423 }, "model": "ssbrc:fighters/greninja/skins/shadow" },
 		{ "predicate": { "custom_model_data": 424 }, "model": "ssbrc:fighters/greninja/skins/hero_style" },
 
 		{ "predicate": { "custom_model_data": 440 }, "model": "ssbrc:fighters/hero/skins/default/default" },
@@ -177,8 +174,6 @@
 		{ "predicate": { "custom_model_data": 1523 }, "model": "ssbrc:fighters/snake/skins/gold/night_vision_goggles" },
 		{ "predicate": { "custom_model_data": 1524 }, "model": "ssbrc:fighters/snake/skins/iroquois_pliskin/default" },
 		{ "predicate": { "custom_model_data": 1525 }, "model": "ssbrc:fighters/snake/skins/iroquois_pliskin/night_vision_goggles" },
-		{ "predicate": { "custom_model_data": 1526 }, "model": "ssbrc:fighters/snake/skins/old_snake/default" },
-		{ "predicate": { "custom_model_data": 1527 }, "model": "ssbrc:fighters/snake/skins/old_snake/night_vision_goggles" },
 
 		{ "predicate": { "custom_model_data": 1540 }, "model": "ssbrc:fighters/sonic/skins/default" },
 		{ "predicate": { "custom_model_data": 1541 }, "model": "ssbrc:fighters/sonic/skins/gold" },
@@ -209,14 +204,10 @@
 		{ "predicate": { "custom_model_data": 1720 }, "model": "ssbrc:fighters/wolf/skins/default" },
 		{ "predicate": { "custom_model_data": 1721 }, "model": "ssbrc:fighters/wolf/skins/gold" },
 		{ "predicate": { "custom_model_data": 1722 }, "model": "ssbrc:fighters/wolf/skins/assault" },
-		{ "predicate": { "custom_model_data": 1723 }, "model": "ssbrc:fighters/wolf/skins/star_fox_2" },
-		{ "predicate": { "custom_model_data": 1724 }, "model": "ssbrc:fighters/wolf/skins/starlink" },
 
 		{ "predicate": { "custom_model_data": 1780 }, "model": "ssbrc:fighters/zelda/skins/default" },
 		{ "predicate": { "custom_model_data": 1781 }, "model": "ssbrc:fighters/zelda/skins/gold" },
 		{ "predicate": { "custom_model_data": 1782 }, "model": "ssbrc:fighters/zelda/skins/hyrule_warriors" },
-		{ "predicate": { "custom_model_data": 1783 }, "model": "ssbrc:fighters/zelda/skins/shadow_zelda" },
-		{ "predicate": { "custom_model_data": 1784 }, "model": "ssbrc:fighters/zelda/skins/twilight_princess" },
 
 
 
@@ -271,7 +262,6 @@
 
 		{ "predicate": { "custom_model_data": 1960 }, "model": "ssbrc:fighters/yar/skins/default" },
 		{ "predicate": { "custom_model_data": 1961 }, "model": "ssbrc:fighters/yar/skins/gold" },
-		{ "predicate": { "custom_model_data": 1962 }, "model": "ssbrc:fighters/yar/skins/player_2" },
 		{ "predicate": { "custom_model_data": 1963 }, "model": "ssbrc:fighters/yar/skins/recruit" },
 
 
