@@ -3,7 +3,7 @@ from core import *
 fighters_temp = dict(sorted(ssbrc.fighters.items(), key=lambda x: x[1]['model']))
 
 def create_head_cmd():
-	with open('assets\\minecraft\\models\\item\\barrier_test.json', 'w') as file:
+	with open('assets\\minecraft\\models\\item\\barrier.json', 'w') as file:
 		js_write(file, '{')
 		js_write(file, tab(1) + qm + 'parent' + sep_s + 'minecraft:item/generated' + suf_s)
 		js_write(file, tab(1) + qm + 'textures' + suf_e)

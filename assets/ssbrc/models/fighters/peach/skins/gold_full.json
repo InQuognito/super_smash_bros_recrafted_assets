@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighters/peach/skins/parent_full",
+	"textures": {
+		"base": "ssbrc:fighters/peach/skins/gold"
+	}
+}

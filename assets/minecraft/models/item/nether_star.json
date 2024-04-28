@@ -46,8 +46,6 @@
 		{ "predicate": { "custom_model_data": 182 }, "model": "ssbrc:fighters/cloud/items/sword/default/punisher" },
 		{ "predicate": { "custom_model_data": 183 }, "model": "ssbrc:fighters/cloud/items/sword/gold/operator" },
 		{ "predicate": { "custom_model_data": 184 }, "model": "ssbrc:fighters/cloud/items/sword/gold/punisher" },
-		{ "predicate": { "custom_model_data": 185 }, "model": "ssbrc:fighters/cloud/items/sword/advent_children/operator" },
-		{ "predicate": { "custom_model_data": 186 }, "model": "ssbrc:fighters/cloud/items/sword/advent_children/punisher" },
 
 		{ "predicate": { "custom_model_data": 260 }, "model": "ssbrc:fighters/dark_samus/skins/default" },
 		{ "predicate": { "custom_model_data": 261 }, "model": "ssbrc:fighters/dark_samus/items/phazon_beam/default/idle" },
@@ -266,7 +264,7 @@
 		{ "predicate": { "custom_model_data": 1903 }, "model": "ssbrc:fighters/shadow/items/chaos_emeralds/red" },
 		{ "predicate": { "custom_model_data": 1904 }, "model": "ssbrc:fighters/shadow/items/chaos_spear/disabled" },
 
-		{ "predicate": { "custom_model_data": 1920 }, "model": "ssbrc:fighters/shovel_knight/skins/default" },
+		{ "predicate": { "custom_model_data": 1920 }, "model": "ssbrc:fighters/shovel_knight/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1921 }, "model": "ssbrc:fighters/shovel_knight/items/chaos_sphere/default" },
 		{ "predicate": { "custom_model_data": 1922 }, "model": "ssbrc:fighters/shovel_knight/items/flare_wand/default" },
 		{ "predicate": { "custom_model_data": 1923 }, "model": "ssbrc:fighters/shovel_knight/items/phase_locket/default" },

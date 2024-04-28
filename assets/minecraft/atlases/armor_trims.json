@@ -85,12 +85,8 @@
 				"ssbrc:trims/models/armor/fighters/dark_samus/default_leggings",
 				"ssbrc:trims/models/armor/fighters/dark_samus/gold",
 				"ssbrc:trims/models/armor/fighters/dark_samus/gold_leggings",
-				"ssbrc:trims/models/armor/fighters/dark_samus/prime_2",
-				"ssbrc:trims/models/armor/fighters/dark_samus/prime_2_leggings",
 				"ssbrc:trims/models/armor/fighters/dark_samus/prime_3",
 				"ssbrc:trims/models/armor/fighters/dark_samus/prime_3_leggings",
-				"ssbrc:trims/models/armor/fighters/dark_samus/prototype",
-				"ssbrc:trims/models/armor/fighters/dark_samus/prototype_leggings",
 
 				"ssbrc:trims/models/armor/fighters/donkey_kong/default",
 				"ssbrc:trims/models/armor/fighters/donkey_kong/default_leggings",
@@ -308,10 +304,6 @@
 				"ssbrc:trims/models/armor/fighters/ryu/hot_ryu/default_leggings",
 				"ssbrc:trims/models/armor/fighters/ryu/hot_ryu/evil",
 				"ssbrc:trims/models/armor/fighters/ryu/hot_ryu/evil_leggings",
-				"ssbrc:trims/models/armor/fighters/ryu/super_turbo/default",
-				"ssbrc:trims/models/armor/fighters/ryu/super_turbo/default_leggings",
-				"ssbrc:trims/models/armor/fighters/ryu/super_turbo/evil",
-				"ssbrc:trims/models/armor/fighters/ryu/super_turbo/evil_leggings",
 
 				"ssbrc:trims/models/armor/fighters/samus/default",
 				"ssbrc:trims/models/armor/fighters/samus/default_leggings",
@@ -350,8 +342,6 @@
 				"ssbrc:trims/models/armor/fighters/snake/classic_tuxedo_leggings",
 				"ssbrc:trims/models/armor/fighters/snake/iroquois_pliskin",
 				"ssbrc:trims/models/armor/fighters/snake/iroquois_pliskin_leggings",
-				"ssbrc:trims/models/armor/fighters/snake/old_snake",
-				"ssbrc:trims/models/armor/fighters/snake/old_snake_leggings",
 
 				"ssbrc:trims/models/armor/fighters/sonic/default",
 				"ssbrc:trims/models/armor/fighters/sonic/default_leggings",
@@ -427,17 +417,11 @@
 				"ssbrc:trims/models/armor/fighters/wolf/gold_leggings",
 				"ssbrc:trims/models/armor/fighters/wolf/assault",
 				"ssbrc:trims/models/armor/fighters/wolf/assault_leggings",
-				"ssbrc:trims/models/armor/fighters/wolf/star_fox_2",
-				"ssbrc:trims/models/armor/fighters/wolf/star_fox_2_leggings",
-				"ssbrc:trims/models/armor/fighters/wolf/starlink",
-				"ssbrc:trims/models/armor/fighters/wolf/starlink_leggings",
 
 				"ssbrc:trims/models/armor/fighters/yar/default",
 				"ssbrc:trims/models/armor/fighters/yar/default_leggings",
 				"ssbrc:trims/models/armor/fighters/yar/gold",
 				"ssbrc:trims/models/armor/fighters/yar/gold_leggings",
-				"ssbrc:trims/models/armor/fighters/yar/player_2",
-				"ssbrc:trims/models/armor/fighters/yar/player_2_leggings",
 				"ssbrc:trims/models/armor/fighters/yar/recruit",
 				"ssbrc:trims/models/armor/fighters/yar/recruit_leggings",
 
@@ -447,10 +431,6 @@
 				"ssbrc:trims/models/armor/fighters/zelda/gold_leggings",
 				"ssbrc:trims/models/armor/fighters/zelda/hyrule_warriors",
 				"ssbrc:trims/models/armor/fighters/zelda/hyrule_warriors_leggings",
-				"ssbrc:trims/models/armor/fighters/zelda/shadow_zelda",
-				"ssbrc:trims/models/armor/fighters/zelda/shadow_zelda_leggings",
-				"ssbrc:trims/models/armor/fighters/zelda/twilight_princess",
-				"ssbrc:trims/models/armor/fighters/zelda/twilight_princess_leggings",
 
 
 
