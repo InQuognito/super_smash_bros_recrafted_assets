@@ -921,8 +921,8 @@
 	"ssbrc.tooltips.shadow.chaos_control": "Chaos Control",
 	"ssbrc.tooltips.shadow.chaos_control.description.1": "] to temporarily slow down all opponents",
 	"ssbrc.stages.green_hill_zone": "Green Hill Zone",
-	"ssbrc.music.green_hill_zonesonic_adventure_2": "Green Hill Zone (Sonic Adventure 2)",
-	"ssbrc.music.green_hill_zonesonic_mania": "Green Hill Zone (Sonic Mania)",
+	"ssbrc.music.green_hill_zone_sonic_adventure_2": "Green Hill Zone (Sonic Adventure 2)",
+	"ssbrc.music.green_hill_zone_sonic_mania": "Green Hill Zone (Sonic Mania)",
 
 	"ssbrc.series.pikmin": "Pikmin",
 	"ssbrc.stages.garden_of_hope": "Garden of Hope",
