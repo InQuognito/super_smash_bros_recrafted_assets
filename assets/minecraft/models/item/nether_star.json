@@ -241,9 +241,11 @@
 		{ "predicate": { "custom_model_data": 1820 }, "model": "ssbrc:fighters/altered_beast/skins/default/centurion" },
 		{ "predicate": { "custom_model_data": 1821 }, "model": "ssbrc:fighters/altered_beast/items/spirit_orb" },
 		{ "predicate": { "custom_model_data": 1824 }, "model": "ssbrc:fighters/altered_beast/items/werebear/spirit_orb" },
+		{ "predicate": { "custom_model_data": 1825 }, "model": "ssbrc:fighters/altered_beast/items/werebear/petrifying_breath" },
 		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/spirit_orb" },
 		{ "predicate": { "custom_model_data": 1829 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/electrocution" },
 		{ "predicate": { "custom_model_data": 1832 }, "model": "ssbrc:fighters/altered_beast/items/weretiger/spirit_orb" },
+		{ "predicate": { "custom_model_data": 1833 }, "model": "ssbrc:fighters/altered_beast/items/weretiger/sabretooth" },
 		{ "predicate": { "custom_model_data": 1836 }, "model": "ssbrc:fighters/altered_beast/items/werewolf/spirit_orb" },
 		{ "predicate": { "custom_model_data": 1837 }, "model": "ssbrc:fighters/altered_beast/items/werewolf/flame_hands" },
 

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "ssbrc:fighters/altered_beast/items/spirit_orb"
+	}
+}
