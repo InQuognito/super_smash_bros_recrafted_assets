@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/yar/skins/recruit/default"
+		"head": "ssbrc:fighters/yar/skins/recruit",
+		"arms": "ssbrc:trims/models/armor/fighters/yar/recruit",
+		"body": "ssbrc:trims/models/armor/fighters/yar/recruit_leggings"
 	}
 }

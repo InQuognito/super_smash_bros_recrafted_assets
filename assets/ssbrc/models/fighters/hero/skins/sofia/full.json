@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/hero/skins/sofia/default"
+		"head": "ssbrc:fighters/hero/skins/sofia/default",
+		"arms": "ssbrc:trims/models/armor/fighters/hero/sofia/default",
+		"body": "ssbrc:trims/models/armor/fighters/hero/sofia/default_leggings"
 	}
 }

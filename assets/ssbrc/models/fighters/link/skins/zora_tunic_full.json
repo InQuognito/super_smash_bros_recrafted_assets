@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/link/skins/zora_tunic/default"
+		"head": "ssbrc:fighters/link/skins/zora_tunic",
+		"arms": "ssbrc:trims/models/armor/fighters/link/zora_tunic",
+		"body": "ssbrc:trims/models/armor/fighters/link/zora_tunic_leggings"
 	}
 }

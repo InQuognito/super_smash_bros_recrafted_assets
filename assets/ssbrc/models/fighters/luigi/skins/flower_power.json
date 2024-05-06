@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/luigi/skins/flower_power/default"
+		"base": "ssbrc:fighters/luigi/skins/flower_power"
 	}
 }

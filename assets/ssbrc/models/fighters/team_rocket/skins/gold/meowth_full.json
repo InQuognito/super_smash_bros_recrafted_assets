@@ -1,0 +1,8 @@
+{
+	"parent": "ssbrc:template/steve",
+	"textures": {
+		"head": "ssbrc:fighters/team_rocket/skins/gold/meowth",
+		"arms": "ssbrc:trims/models/armor/fighters/team_rocket/gold/meowth",
+		"body": "ssbrc:trims/models/armor/fighters/team_rocket/gold/meowth_leggings"
+	}
+}

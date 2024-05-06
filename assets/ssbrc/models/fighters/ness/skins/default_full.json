@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/ness/skins/default"
+		"head": "ssbrc:fighters/ness/skins/default",
+		"arms": "ssbrc:trims/models/armor/fighters/ness/default",
+		"body": "ssbrc:trims/models/armor/fighters/ness/default_leggings"
 	}
 }

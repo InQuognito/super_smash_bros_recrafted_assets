@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/sonic/skins/hylian_tunic/default"
+		"head": "ssbrc:fighters/sonic/skins/hylian_tunic",
+		"arms": "ssbrc:trims/models/armor/fighters/sonic/hylian_tunic",
+		"body": "ssbrc:trims/models/armor/fighters/sonic/hylian_tunic_leggings"
 	}
 }

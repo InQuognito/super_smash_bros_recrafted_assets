@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/sonic/skins/classic/default"
+		"head": "ssbrc:fighters/sonic/skins/classic",
+		"arms": "ssbrc:trims/models/armor/fighters/sonic/classic",
+		"body": "ssbrc:trims/models/armor/fighters/sonic/classic_leggings"
 	}
 }

@@ -1,7 +1,9 @@
 {
 	"parent": "ssbrc:fighters/pit/skins/parent_full",
 	"textures": {
-		"base": "ssbrc:fighters/pit/skins/gold",
+		"head": "ssbrc:fighters/pit/skins/gold",
+		"arms": "ssbrc:trims/models/armor/fighters/pit/gold",
+		"body": "ssbrc:trims/models/armor/fighters/pit/gold_leggings",
 		"elytra": "ssbrc:fighters/pit/skins/elytra"
 	}
 }

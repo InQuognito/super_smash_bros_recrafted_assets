@@ -1,8 +1,10 @@
 {
 	"parent": "ssbrc:fighters/samus/skins/parent_full",
 	"textures": {
-		"base": "ssbrc:fighters/samus/skins/phazon_suit/default",
-		"arm_cannon_body": "ssbrc:fighters/samus/items/arm_cannon/power_beam/default",
-		"arm_cannon_energy": "ssbrc:fighters/samus/items/arm_cannon/power_beam/energy/default"
+		"head": "ssbrc:fighters/samus/skins/phazon_suit",
+		"arms": "ssbrc:trims/models/armor/fighters/samus/phazon_suit",
+		"body": "ssbrc:trims/models/armor/fighters/samus/phazon_suit_leggings",
+		"arm_cannon_body": "ssbrc:fighters/samus/items/arm_cannon/power_beam/phazon_suit",
+		"arm_cannon_energy": "ssbrc:fighters/samus/items/arm_cannon/power_beam/energy/phazon_suit"
 	}
 }

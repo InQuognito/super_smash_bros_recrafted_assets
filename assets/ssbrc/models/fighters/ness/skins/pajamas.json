@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/ness/skins/pajamas/default"
+		"base": "ssbrc:fighters/ness/skins/pajamas"
 	}
 }

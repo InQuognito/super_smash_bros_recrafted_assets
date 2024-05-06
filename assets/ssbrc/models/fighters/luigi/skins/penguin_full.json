@@ -1,6 +1,8 @@
 {
-	"parent": "ssbrc:template/alex",
+	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/luigi/skins/penguin/default"
+		"head": "ssbrc:fighters/luigi/skins/penguin",
+		"arms": "ssbrc:trims/models/armor/fighters/luigi/penguin",
+		"body": "ssbrc:trims/models/armor/fighters/luigi/penguin_leggings"
 	}
 }

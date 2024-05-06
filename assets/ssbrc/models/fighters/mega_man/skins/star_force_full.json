@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/steve",
-	"textures": {
-		"base": "ssbrc:fighters/mega_man/skins/star_force/default"
-	}
-}

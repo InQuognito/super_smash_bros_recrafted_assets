@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/snake/skins/old_snake/default"
+		"head": "ssbrc:fighters/snake/skins/old_snake/default",
+		"arms": "ssbrc:trims/models/armor/fighters/snake/old_snake",
+		"body": "ssbrc:trims/models/armor/fighters/snake/old_snake_leggings"
 	}
 }

@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/link/skins/dark_link/default"
+		"head": "ssbrc:fighters/link/skins/dark_link",
+		"arms": "ssbrc:trims/models/armor/fighters/link/dark_link",
+		"body": "ssbrc:trims/models/armor/fighters/link/dark_link_leggings"
 	}
 }

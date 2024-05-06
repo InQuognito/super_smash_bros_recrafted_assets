@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/mario/skins/flower_power/default"
+		"base": "ssbrc:fighters/mario/skins/flower_power"
 	}
 }

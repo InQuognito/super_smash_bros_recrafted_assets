@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/sora/skins/gold/valor"
+		"base": "ssbrc:fighters/sora/skins/gold/default"
 	}
 }

@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/ganondorf/skins/tears_of_the_kingdom/default"
+		"head": "ssbrc:fighters/ganondorf/skins/tears_of_the_kingdom",
+		"arms": "ssbrc:trims/models/armor/fighters/ganondorf/tears_of_the_kingdom",
+		"body": "ssbrc:trims/models/armor/fighters/ganondorf/tears_of_the_kingdom_leggings"
 	}
 }

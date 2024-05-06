@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/pokemon_trainer/skins/default/trainer"
+		"head": "ssbrc:fighters/pokemon_trainer/skins/default/trainer",
+		"arms": "ssbrc:trims/models/armor/fighters/pokemon_trainer/default/trainer",
+		"body": "ssbrc:trims/models/armor/fighters/pokemon_trainer/default/trainer_leggings"
 	}
 }

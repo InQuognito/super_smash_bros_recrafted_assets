@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/wolf/skins/assault/default"
+		"head": "ssbrc:fighters/wolf/skins/assault",
+		"arms": "ssbrc:trims/models/armor/fighters/wolf/assault",
+		"body": "ssbrc:trims/models/armor/fighters/wolf/assault_leggings"
 	}
 }

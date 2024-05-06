@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/link/skins/goron_tunic/default"
+		"head": "ssbrc:fighters/link/skins/goron_tunic",
+		"arms": "ssbrc:trims/models/armor/fighters/link/goron_tunic",
+		"body": "ssbrc:trims/models/armor/fighters/link/goron_tunic_leggings"
 	}
 }

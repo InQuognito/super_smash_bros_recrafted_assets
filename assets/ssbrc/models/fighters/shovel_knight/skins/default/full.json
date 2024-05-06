@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:fighters/shovel_knight/skins/parent/full",
 	"textures": {
-		"skin": "ssbrc:fighters/shovel_knight/skins/default"
+		"head": "ssbrc:fighters/shovel_knight/skins/default",
+		"arms": "ssbrc:trims/models/armor/fighters/shovel_knight/default",
+		"body": "ssbrc:trims/models/armor/fighters/shovel_knight/default_leggings"
 	}
 }

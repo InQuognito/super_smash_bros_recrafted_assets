@@ -1,7 +1,9 @@
 {
 	"parent": "ssbrc:fighters/dark_samus/skins/parent_full",
 	"textures": {
-		"base": "ssbrc:fighters/dark_samus/skins/prime_3/default",
-		"arm_cannon": "ssbrc:fighters/dark_samus/items/phazon_beam/default"
+		"head": "ssbrc:fighters/dark_samus/skins/prime_3",
+		"arms": "ssbrc:trims/models/armor/fighters/dark_samus/prime_3",
+		"body": "ssbrc:trims/models/armor/fighters/dark_samus/prime_3_leggings",
+		"arm_cannon": "ssbrc:fighters/dark_samus/items/phazon_beam/prime_3"
 	}
 }

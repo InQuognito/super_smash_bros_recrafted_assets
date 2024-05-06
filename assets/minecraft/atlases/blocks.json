@@ -52,6 +52,11 @@
 		},
 		{
 			"type": "directory",
+			"source": "trims",
+			"prefix": "trims/"
+		},
+		{
+			"type": "directory",
 			"source": "ui",
 			"prefix": "ui/"
 		}

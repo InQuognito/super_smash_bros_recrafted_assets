@@ -1,6 +1,8 @@
 {
-	"parent": "ssbrc:template/alex",
+	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/jigglypuff/skins/gold/default"
+		"head": "ssbrc:fighters/jigglypuff/skins/gold/default",
+		"arms": "ssbrc:trims/models/armor/fighters/jigglypuff/gold",
+		"body": "ssbrc:trims/models/armor/fighters/jigglypuff/gold_leggings"
 	}
 }

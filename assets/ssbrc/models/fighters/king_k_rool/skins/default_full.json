@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:fighters/king_k_rool/skins/parent_full",
 	"textures": {
-		"base": "ssbrc:fighters/king_k_rool/skins/default"
+		"head": "ssbrc:fighters/king_k_rool/skins/default",
+		"arms": "ssbrc:trims/models/armor/fighters/king_k_rool/default",
+		"body": "ssbrc:trims/models/armor/fighters/king_k_rool/default_leggings"
 	}
 }

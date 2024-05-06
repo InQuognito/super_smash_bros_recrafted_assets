@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/samus/skins/phazon_suit/default"
+		"base": "ssbrc:fighters/samus/skins/phazon_suit"
 	}
 }

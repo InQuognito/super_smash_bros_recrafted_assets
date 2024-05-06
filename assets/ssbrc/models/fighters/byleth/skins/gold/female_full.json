@@ -1,6 +1,8 @@
 {
-	"parent": "ssbrc:template/alex",
+	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/byleth/skins/gold/female"
+		"head": "ssbrc:fighters/byleth/skins/gold/female",
+		"arms": "ssbrc:trims/models/armor/fighters/byleth/gold/female",
+		"body": "ssbrc:trims/models/armor/fighters/byleth/gold/female_leggings"
 	}
 }

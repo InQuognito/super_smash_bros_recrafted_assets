@@ -23,7 +23,7 @@
 		{ "predicate": { "custom_model_data": 820 }, "model": "ssbrc:fighters/luigi/skins/default_full" },
 		{ "predicate": { "custom_model_data": 840 }, "model": "ssbrc:fighters/mario/skins/default_full" },
 		{ "predicate": { "custom_model_data": 841 }, "model": "ssbrc:fighters/mario/skins/gold_full" },
-		{ "predicate": { "custom_model_data": 880 }, "model": "ssbrc:fighters/mega_man/skins/default_full" },
+		{ "predicate": { "custom_model_data": 880 }, "model": "ssbrc:fighters/mega_man/skins/default/full" },
 		{ "predicate": { "custom_model_data": 1080 }, "model": "ssbrc:fighters/ness/skins/default_full" },
 		{ "predicate": { "custom_model_data": 1200 }, "model": "ssbrc:fighters/pikachu/skins/default_full" },
 		{ "predicate": { "custom_model_data": 1220 }, "model": "ssbrc:fighters/pit/skins/default_full" },

@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/ryu/skins/gold/default"
+		"head": "ssbrc:fighters/ryu/skins/gold/default",
+		"arms": "ssbrc:trims/models/armor/fighters/ryu/gold/default",
+		"body": "ssbrc:trims/models/armor/fighters/ryu/gold/default_leggings"
 	}
 }

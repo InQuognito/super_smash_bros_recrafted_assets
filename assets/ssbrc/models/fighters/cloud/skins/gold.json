@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/cloud/skins/gold"
+		"base": "ssbrc:fighters/cloud/skins/default"
 	}
 }

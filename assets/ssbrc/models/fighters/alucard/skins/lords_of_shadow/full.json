@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/alucard/skins/lords_of_shadow/default"
+		"head": "ssbrc:fighters/alucard/skins/lords_of_shadow/default",
+		"arms": "ssbrc:trims/models/armor/fighters/alucard/lords_of_shadow",
+		"body": "ssbrc:trims/models/armor/fighters/alucard/lords_of_shadow_leggings"
 	}
 }

@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/mario/skins/gold"
+		"head": "ssbrc:fighters/mario/skins/gold",
+		"arms": "ssbrc:trims/models/armor/fighters/mario/gold",
+		"body": "ssbrc:trims/models/armor/fighters/mario/gold_leggings"
 	}
 }

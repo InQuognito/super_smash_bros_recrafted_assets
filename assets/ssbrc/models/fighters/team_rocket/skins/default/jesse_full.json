@@ -1,6 +1,8 @@
 {
-	"parent": "ssbrc:template/alex",
+	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/team_rocket/skins/default/jesse"
+		"head": "ssbrc:fighters/team_rocket/skins/default/jesse",
+		"arms": "ssbrc:trims/models/armor/fighters/team_rocket/default/jesse",
+		"body": "ssbrc:trims/models/armor/fighters/team_rocket/default/jesse_leggings"
 	}
 }

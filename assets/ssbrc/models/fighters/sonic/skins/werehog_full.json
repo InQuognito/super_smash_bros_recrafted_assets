@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/sonic/skins/werehog/default"
+		"head": "ssbrc:fighters/sonic/skins/werehog",
+		"arms": "ssbrc:trims/models/armor/fighters/sonic/werehog",
+		"body": "ssbrc:trims/models/armor/fighters/sonic/werehog_leggings"
 	}
 }

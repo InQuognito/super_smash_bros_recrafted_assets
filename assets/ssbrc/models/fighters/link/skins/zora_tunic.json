@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/link/skins/zora_tunic/default"
+		"base": "ssbrc:fighters/link/skins/zora_tunic"
 	}
 }

@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/ness/skins/phase_distortion/default"
+		"base": "ssbrc:fighters/ness/skins/phase_distortion"
 	}
 }

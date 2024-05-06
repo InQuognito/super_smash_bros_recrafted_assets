@@ -1,6 +1,8 @@
 {
-	"parent": "ssbrc:template/alex",
+	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/greninja/skins/hero_style/default"
+		"head": "ssbrc:fighters/greninja/skins/default",
+		"arms": "ssbrc:trims/models/armor/fighters/greninja/hero_style",
+		"body": "ssbrc:trims/models/armor/fighters/greninja/hero_style_leggings"
 	}
 }

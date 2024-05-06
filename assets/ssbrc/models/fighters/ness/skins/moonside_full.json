@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/ness/skins/moonside/default"
+		"head": "ssbrc:fighters/ness/skins/moonside",
+		"arms": "ssbrc:trims/models/armor/fighters/ness/moonside",
+		"body": "ssbrc:trims/models/armor/fighters/ness/moonside_leggings"
 	}
 }

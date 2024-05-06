@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/captain_falcon/skins/rick_wheeler/default"
+		"head": "ssbrc:fighters/captain_falcon/skins/rick_wheeler",
+		"arms": "ssbrc:trims/models/armor/fighters/captain_falcon/rick_wheeler",
+		"body": "ssbrc:trims/models/armor/fighters/captain_falcon/rick_wheeler_leggings"
 	}
 }

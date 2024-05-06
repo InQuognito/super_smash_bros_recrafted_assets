@@ -1,6 +1,8 @@
 {
-	"parent": "ssbrc:template/alex",
+	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/luigi/skins/gooigi/default"
+		"head": "ssbrc:fighters/luigi/skins/gooigi",
+		"arms": "ssbrc:trims/models/armor/fighters/luigi/gooigi",
+		"body": "ssbrc:trims/models/armor/fighters/luigi/gooigi_leggings"
 	}
 }

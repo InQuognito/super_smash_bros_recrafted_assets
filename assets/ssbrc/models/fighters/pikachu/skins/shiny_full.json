@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/pikachu/skins/shiny"
+		"head": "ssbrc:fighters/pikachu/skins/shiny",
+		"arms": "ssbrc:trims/models/armor/fighters/pikachu/shiny",
+		"body": "ssbrc:trims/models/armor/fighters/pikachu/shiny_leggings"
 	}
 }

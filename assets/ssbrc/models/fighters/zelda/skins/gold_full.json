@@ -1,6 +1,8 @@
 {
-	"parent": "ssbrc:template/alex",
+	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/zelda/skins/gold"
+		"head": "ssbrc:fighters/zelda/skins/gold",
+		"arms": "ssbrc:trims/models/armor/fighters/zelda/gold",
+		"body": "ssbrc:trims/models/armor/fighters/zelda/gold_leggings"
 	}
 }

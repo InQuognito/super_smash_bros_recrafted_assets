@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/shadow/skins/default"
+		"head": "ssbrc:fighters/shadow/skins/default",
+		"arms": "ssbrc:trims/models/armor/fighters/shadow/default",
+		"body": "ssbrc:trims/models/armor/fighters/shadow/default_leggings"
 	}
 }

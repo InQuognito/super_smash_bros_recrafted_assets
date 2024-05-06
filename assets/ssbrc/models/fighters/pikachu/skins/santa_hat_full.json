@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/pikachu/skins/santa_hat"
+		"head": "ssbrc:fighters/pikachu/skins/santa_hat",
+		"arms": "ssbrc:trims/models/armor/fighters/pikachu/santa_hat",
+		"body": "ssbrc:trims/models/armor/fighters/pikachu/santa_hat_leggings"
 	}
 }

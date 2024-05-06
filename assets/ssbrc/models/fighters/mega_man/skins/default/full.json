@@ -1,0 +1,8 @@
+{
+	"parent": "ssbrc:template/steve",
+	"textures": {
+		"head": "ssbrc:fighters/mega_man/skins/default/default",
+		"arms": "ssbrc:trims/models/armor/fighters/mega_man/default/default",
+		"body": "ssbrc:trims/models/armor/fighters/mega_man/default/default_leggings"
+	}
+}

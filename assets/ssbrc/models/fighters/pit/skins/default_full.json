@@ -1,7 +1,9 @@
 {
 	"parent": "ssbrc:fighters/pit/skins/parent_full",
 	"textures": {
-		"base": "ssbrc:fighters/pit/skins/default",
+		"head": "ssbrc:fighters/pit/skins/default",
+		"arms": "ssbrc:trims/models/armor/fighters/pit/default",
+		"body": "ssbrc:trims/models/armor/fighters/pit/default_leggings",
 		"elytra": "ssbrc:fighters/pit/skins/elytra"
 	}
 }

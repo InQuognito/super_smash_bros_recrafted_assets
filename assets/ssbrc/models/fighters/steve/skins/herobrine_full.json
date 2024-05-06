@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/steve/skins/herobrine/default"
+		"head": "ssbrc:fighters/steve/skins/herobrine",
+		"arms": "ssbrc:trims/models/armor/fighters/steve/herobrine",
+		"body": "ssbrc:trims/models/armor/fighters/steve/herobrine_leggings"
 	}
 }

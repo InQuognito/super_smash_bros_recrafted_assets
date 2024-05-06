@@ -1,6 +1,8 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"base": "ssbrc:fighters/snake/skins/iroquois_pliskin/default"
+		"head": "ssbrc:fighters/snake/skins/iroquois_pliskin/default",
+		"arms": "ssbrc:trims/models/armor/fighters/snake/iroquois_pliskin",
+		"body": "ssbrc:trims/models/armor/fighters/snake/iroquois_pliskin_leggings"
 	}
 }
