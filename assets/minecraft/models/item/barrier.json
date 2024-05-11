@@ -111,9 +111,9 @@
 		{ "predicate": { "custom_model_data": 842 }, "model": "ssbrc:fighters/mario/skins/flower_power" },
 		{ "predicate": { "custom_model_data": 843 }, "model": "ssbrc:fighters/mario/skins/penguin" },
 
-		{ "predicate": { "custom_model_data": 880 }, "model": "ssbrc:fighters/mega_man/skins/default" },
-		{ "predicate": { "custom_model_data": 881 }, "model": "ssbrc:fighters/mega_man/skins/gold" },
-		{ "predicate": { "custom_model_data": 882 }, "model": "ssbrc:fighters/mega_man/skins/star_force" },
+		{ "predicate": { "custom_model_data": 880 }, "model": "ssbrc:fighters/mega_man/skins/default/default" },
+		{ "predicate": { "custom_model_data": 881 }, "model": "ssbrc:fighters/mega_man/skins/gold/default" },
+		{ "predicate": { "custom_model_data": 882 }, "model": "ssbrc:fighters/mega_man/skins/star_force/default" },
 
 		{ "predicate": { "custom_model_data": 1080 }, "model": "ssbrc:fighters/ness/skins/default" },
 		{ "predicate": { "custom_model_data": 1081 }, "model": "ssbrc:fighters/ness/skins/gold" },

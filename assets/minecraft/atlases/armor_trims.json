@@ -211,12 +211,12 @@
 				"ssbrc:trims/models/armor/fighters/mario/penguin",
 				"ssbrc:trims/models/armor/fighters/mario/penguin_leggings",
 
-				"ssbrc:trims/models/armor/fighters/mega_man/default",
-				"ssbrc:trims/models/armor/fighters/mega_man/default_leggings",
-				"ssbrc:trims/models/armor/fighters/mega_man/gold",
-				"ssbrc:trims/models/armor/fighters/mega_man/gold_leggings",
-				"ssbrc:trims/models/armor/fighters/mega_man/star_force",
-				"ssbrc:trims/models/armor/fighters/mega_man/star_force_leggings",
+				"ssbrc:trims/models/armor/fighters/mega_man/default/default",
+				"ssbrc:trims/models/armor/fighters/mega_man/default/default_leggings",
+				"ssbrc:trims/models/armor/fighters/mega_man/gold/default",
+				"ssbrc:trims/models/armor/fighters/mega_man/gold/default_leggings",
+				"ssbrc:trims/models/armor/fighters/mega_man/star_force/default",
+				"ssbrc:trims/models/armor/fighters/mega_man/star_force/default_leggings",
 
 				"ssbrc:trims/models/armor/fighters/ness/default",
 				"ssbrc:trims/models/armor/fighters/ness/default_leggings",

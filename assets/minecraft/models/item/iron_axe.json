@@ -4,6 +4,9 @@
 		"layer0": "minecraft:item/iron_axe"
 	},
 	"overrides": [
+		{ "predicate": { "custom_model_data": 100 }, "model": "ssbrc:fighters/byleth/items/black_eagles/aymr/default" },
+		{ "predicate": { "custom_model_data": 101 }, "model": "ssbrc:fighters/byleth/items/black_eagles/aymr/awakened" },
+
 		{ "predicate": { "custom_model_data": 820 }, "model": "ssbrc:fighters/luigi/items/hammer/default" },
 		{ "predicate": { "custom_model_data": 821 }, "model": "ssbrc:fighters/luigi/items/hammer/gold" },
 
