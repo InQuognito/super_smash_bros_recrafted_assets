@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/team_rocket/skins/gold/jesse"
+		"base": "ssbrc:fighters/team_rocket/skins/default/jesse"
 	}
 }

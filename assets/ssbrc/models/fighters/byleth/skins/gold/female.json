@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/head",
 	"textures": {
-		"base": "ssbrc:fighters/byleth/skins/gold/female"
+		"base": "ssbrc:fighters/byleth/skins/default/female"
 	}
 }

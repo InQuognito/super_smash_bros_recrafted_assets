@@ -270,16 +270,6 @@
 	"ssbrc.options.time_limit": "Time Limit",
 	"ssbrc.options.time_limit.description": "Controls how long the game will last.",
 
-	"ssbrc.options.time_limit.1": "1 Minute",
-	"ssbrc.options.time_limit.2": "2 Minutes",
-	"ssbrc.options.time_limit.3": "3 Minutes",
-	"ssbrc.options.time_limit.4": "4 Minutes",
-	"ssbrc.options.time_limit.5": "5 Minutes",
-	"ssbrc.options.time_limit.6": "6 Minutes",
-	"ssbrc.options.time_limit.7": "7 Minutes",
-	"ssbrc.options.time_limit.8": "8 Minutes",
-	"ssbrc.options.time_limit.9": "9 Minutes",
-
 	"ssbrc.options.teams": "Teams",
 	"ssbrc.options.teams.description": "When enabled, players will be able to join teams that fight and win as one unit.",
 

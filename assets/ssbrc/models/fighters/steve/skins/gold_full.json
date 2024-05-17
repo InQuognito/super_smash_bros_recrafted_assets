@@ -1,7 +1,7 @@
 {
 	"parent": "ssbrc:template/steve",
 	"textures": {
-		"head": "ssbrc:fighters/steve/skins/gold",
+		"head": "ssbrc:fighters/steve/skins/default",
 		"arms": "ssbrc:trims/models/armor/fighters/steve/gold",
 		"body": "ssbrc:trims/models/armor/fighters/steve/gold_leggings"
 	}
