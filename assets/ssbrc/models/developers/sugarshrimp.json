@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/steve",
+	"parent": "ssbrc:template/player/steve",
 	"textures": {
 		"base": "ssbrc:developers/sugarshrimp"
 	}

@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/steve",
+	"parent": "ssbrc:template/fighter/full",
 	"textures": {
 		"head": "ssbrc:fighters/sonic/skins/werehog",
 		"arms": "ssbrc:trims/models/armor/fighters/sonic/werehog",

@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/steve",
+	"parent": "ssbrc:fighters/mario/skins/parent_full",
 	"textures": {
 		"head": "ssbrc:fighters/mario/skins/default",
 		"arms": "ssbrc:trims/models/armor/fighters/mario/default",

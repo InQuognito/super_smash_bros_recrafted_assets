@@ -1,6 +1,6 @@
 {
-	"parent": "ssbrc:template/head",
+	"parent": "ssbrc:template/fighter/head",
 	"textures": {
-		"base": "ssbrc:fighters/zelda/skins/hyrule_warriors/default"
+		"base": "ssbrc:fighters/zelda/skins/hyrule_warriors"
 	}
 }

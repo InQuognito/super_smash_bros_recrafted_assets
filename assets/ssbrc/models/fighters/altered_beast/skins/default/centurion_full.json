@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/steve",
+	"parent": "ssbrc:template/fighter/full",
 	"textures": {
 		"head": "ssbrc:fighters/altered_beast/skins/default/centurion",
 		"arms": "ssbrc:trims/models/armor/fighters/altered_beast/default/centurion/default",

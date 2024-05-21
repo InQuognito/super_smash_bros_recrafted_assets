@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/steve",
+	"parent": "ssbrc:template/fighter/full",
 	"textures": {
 		"head": "ssbrc:fighters/hero/skins/sofia/default",
 		"arms": "ssbrc:trims/models/armor/fighters/hero/sofia/default",

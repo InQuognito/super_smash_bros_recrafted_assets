@@ -88,7 +88,7 @@
 	"ssbrc.lobby.credits.developer_bio.ricardo64": "Howdy, I’m Joe!! I like Mario and I do digital art and pixel art on occassion! I worked on textures for Alucard, Hero, Link, and Snake! Check out my art here: ",
 	"ssbrc.lobby.credits.developer_bio.ricardo64_link": "[Cardd]",
 	"ssbrc.lobby.credits.developer_bio.pastapower2k64": "Hey Paisanos, always remember to leave your shoes outside at night. That way the Sole Goblins have something to eat.",
-	"ssbrc.lobby.credits.developer_bio.miffenkop": "Hi there, I'm Jax and I was the one who optimized the Resource Pack! (Oh ya and I make 3D models and renders)",
+	"ssbrc.lobby.credits.developer_bio.miffenkop": "Hi there, I'm Jax and I was the one who optimized the Resource Pack! (Oh ya and I make 3D models and renders): ",
 
 	"ssbrc.lobby.credits.developer_bio.pmc_link": "[PlanetMinecraft]",
 	"ssbrc.lobby.credits.developer_bio.yt_link": "[YouTube]",
@@ -165,6 +165,7 @@
 	"ssbrc.fighter_select.random": "Random",
 	"ssbrc.fighter_select.spectate": "Spectate",
 	"ssbrc.fighter_select.spectate_game": "You are now spectating the game! To rejoin the game, please select a fighter.",
+	"ssbrc.fighter_select.spectate_warn": "You cannot spectate the game until someone has selected a fighter!",
 	"ssbrc.fighter_select.unowned": "You do not own this fighter!",
 
 	"ssbrc.stage_select.stage_index": "Stage Index",
@@ -752,6 +753,11 @@
 	"ssbrc.tooltips.captain_falcon.falcon_punch.description.1": "] to prepare a massive punch",
 	"ssbrc.tooltips.captain_falcon.falcon_punch.description.2": "- Deals massive damage if timed correctly",
 	"ssbrc.tooltips.captain_falcon.falcon_punch.description.3": "- Has a short window. If missed, stuns the user temporarily",
+	"ssbrc.tooltips.captain_falcon.falcon_charge": "Falcon Charge",
+	"ssbrc.tooltips.captain_falcon.falcon_charge.description.1": "] to gain a temporary speed boost at the cost of health",
+	"ssbrc.tooltips.captain_falcon.falcon_charge.description.2": "- Cannot reduce health to 0",
+	"ssbrc.tooltips.captain_falcon.falcon_kick": "Falcon Kick",
+	"ssbrc.tooltips.captain_falcon.falcon_kick.description.1": "] to lunge downward at an angle, igniting opponents",
 	"ssbrc.stages.sand_ocean": "Sand Ocean",
 	"ssbrc.music.brain_cleaner": "Brain Cleaner",
 

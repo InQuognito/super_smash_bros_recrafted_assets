@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/steve",
+	"parent": "ssbrc:template/fighter/full",
 	"textures": {
 		"head": "ssbrc:fighters/ganondorf/skins/tears_of_the_kingdom",
 		"arms": "ssbrc:trims/models/armor/fighters/ganondorf/tears_of_the_kingdom",

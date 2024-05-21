@@ -2,6 +2,17 @@ from core import *
 
 fighters_temp = dict(sorted(ssbrc.fighters.items(), key=lambda x: x[1]['model']))
 
+def create_skin_model():
+	for fighter in ssbrc.fighters:
+		for skin in ssbrc.fighters[fighter]['skins']:
+			if has_forms(fighter):
+				for form in ssbrc.fighters[fighter]['forms']:
+					print(fighter + " / " + skin + " / " + form)
+			else:
+				with open(f'assets\\ssbrc\\models\\fighters\\{fighter}\\skins\\{skin}.json', 'w') as file:
+					js_write(file, '{')
+					js_write(file, tab(1) + qm + 'parent' + sep_s + 'ssbrc:template/fighter/head')
+
 def create_head_cmd():
 	with open('assets\\minecraft\\models\\item\\barrier.json', 'w') as file:
 		js_write(file, '{')
@@ -49,4 +60,5 @@ def create_head_cmd():
 		js_write(file, tab(1) + ']')
 		js_write(file, '}')
 
+create_skin_model()
 create_head_cmd()

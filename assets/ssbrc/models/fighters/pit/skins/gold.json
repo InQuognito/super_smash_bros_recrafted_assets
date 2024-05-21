@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/head",
+	"parent": "ssbrc:template/fighter/head",
 	"textures": {
 		"base": "ssbrc:fighters/pit/skins/gold"
 	}

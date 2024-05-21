@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/steve",
+	"parent": "ssbrc:template/fighter/full",
 	"textures": {
 		"base": "ssbrc:fighters/ryu/items/ashura_senku/trail/hot_ryu/faded_1"
 	}

@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/steve",
+	"parent": "ssbrc:template/fighter/full",
 	"textures": {
 		"head": "ssbrc:fighters/greninja/skins/default",
 		"arms": "ssbrc:trims/models/armor/fighters/greninja/default",

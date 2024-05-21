@@ -2438,7 +2438,7 @@
 			}
 		]
 	},
-	"blackout": {
+	"stages.luigis_mansion.blackout": {
 		"sounds":[
 			{
 				"name":"ssbrc:stages/luigis_mansion/blackout/1",

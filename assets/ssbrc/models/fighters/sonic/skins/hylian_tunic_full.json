@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/steve",
+	"parent": "ssbrc:template/fighter/full",
 	"textures": {
 		"head": "ssbrc:fighters/sonic/skins/hylian_tunic",
 		"arms": "ssbrc:trims/models/armor/fighters/sonic/hylian_tunic",
