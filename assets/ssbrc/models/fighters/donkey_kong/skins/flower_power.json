@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/fighter/head",
+	"parent": "ssbrc:fighters/donkey_kong/skins/parent",
 	"textures": {
 		"base": "ssbrc:fighters/donkey_kong/skins/flower_power"
 	}

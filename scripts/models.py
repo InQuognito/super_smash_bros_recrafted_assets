@@ -2,16 +2,33 @@ from core import *
 
 fighters_temp = dict(sorted(ssbrc.fighters.items(), key=lambda x: x[1]['model']))
 
+def skin_model(fighter, skin):
+	if has_forms(fighter):
+		for form in ssbrc.fighters[fighter]['forms']:
+			if form != 'charizard':
+				with open(f'assets\\ssbrc\\models\\fighters\\{fighter}\\skins\\{skin}\\{form}.json', 'w') as file:
+					js_write(file, '{')
+					js_write(file, tab(1) + qm + 'parent' + sep_s + get_parent(fighter, skin, form) + suf_s)
+					js_write(file, tab(1) + qm + 'textures' + suf_e)
+					js_write(file, tab(2) + qm + 'base' + sep_s + get_texture(fighter, skin, form) + qm)
+					js_write(file, tab(1) + '}')
+					js_write(file, '}')
+	else:
+		with open(f'assets\\ssbrc\\models\\fighters\\{fighter}\\skins\\{skin}.json', 'w') as file:
+			js_write(file, '{')
+			js_write(file, tab(1) + qm + 'parent' + sep_s + get_parent(fighter, skin) + suf_s)
+			js_write(file, tab(1) + qm + 'textures' + suf_e)
+			js_write(file, tab(2) + qm + 'base' + sep_s + get_texture(fighter, skin) + qm)
+			js_write(file, tab(1) + '}')
+			js_write(file, '}')
+
 def create_skin_model():
 	for fighter in ssbrc.fighters:
+		for skin in ['default','gold']:
+			skin_model(fighter, skin)
 		for skin in ssbrc.fighters[fighter]['skins']:
-			if has_forms(fighter):
-				for form in ssbrc.fighters[fighter]['forms']:
-					print(fighter + " / " + skin + " / " + form)
-			else:
-				with open(f'assets\\ssbrc\\models\\fighters\\{fighter}\\skins\\{skin}.json', 'w') as file:
-					js_write(file, '{')
-					js_write(file, tab(1) + qm + 'parent' + sep_s + 'ssbrc:template/fighter/head')
+			if skin != 'bowsette':
+				skin_model(fighter, skin)
 
 def create_head_cmd():
 	with open('assets\\minecraft\\models\\item\\barrier.json', 'w') as file:

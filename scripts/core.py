@@ -36,23 +36,39 @@ def has_forms(fighter):
 		return True
 	return False
 
-def get_parent(fighter, skin):
+def get_parent(fighter, skin, form=''):
 	'''Returns the translation key, fixed for values that have merged entries.'''
 	default = f'ssbrc:template/fighter/head'
-	if fighter == 'mario' or fighter == 'luigi' or fighter == 'bowser' or fighter == 'donkey_kong' or fighter == 'king_k_rool' or fighter == 'rob' or fighter == 'shovel_knight':
-		if fighter == 'bowser' and skin != 'bowsette':
-			return 'ssbrc:fighters/bowser/skins/parent'
-		elif fighter == 'rob':
-			pass
-		return f'ssbrc.fighters.skin.{skin}'
-	elif skin == 'flower_power' or skin == 'penguin':
-		return f'ssbrc.series.super_mario_bros.skin.{skin}'
-	elif skin == 'shiny' or skin == 'shadow':
-		return f'ssbrc.series.pokemon.skin.{skin}'
-	elif skin == 'player_2':
-		return f'ssbrc.fighters.skin.player_2'
+	result = 'ssbrc:'
+	if fighter == 'mario' or fighter == 'luigi' or fighter == 'peach' or fighter == 'bowser' or fighter == 'donkey_kong' or fighter == 'king_k_rool' or fighter == 'rob' or fighter == 'shovel_knight':
+		result += 'fighters/'
+		if fighter == 'luigi':
+			result += 'mario'
+		else:
+			result += f'{fighter}'
+		result += '/skins/parent'
+		if fighter == 'rob':
+			if skin == 'ancient_minister':
+				return default
+			else:
+				result += f'/{form}'
+		return result
 	else:
 		return default
+
+def get_texture(fighter, skin, form=''):
+	'''Returns the translation key, fixed for values that have merged entries.'''
+	result = f'ssbrc:fighters/{fighter}/skins/'
+	if ((fighter == 'byleth' or fighter == 'cloud') and skin == 'gold') or (fighter == 'greninja' and skin == 'hero_style') or (fighter == 'hero' and skin == 'gold' and form == 'kaclang') or (fighter == 'pokemon_trainer' and skin == 'shiny' and form == 'trainer'):
+		result += 'default'
+	else:
+		result += f'{skin}'
+	if has_forms(fighter):
+		if fighter == 'rob':
+			pass
+		else:
+			result += f'/{form}'
+	return result
 
 def js_write(file, str):
 	'''Write to file, JSON format.'''

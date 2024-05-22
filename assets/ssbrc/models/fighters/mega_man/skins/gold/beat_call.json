@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/fighter/head",
 	"textures": {
-		"base": "ssbrc:fighters/mega_man/skins/default/beat_call"
+		"base": "ssbrc:fighters/mega_man/skins/gold/beat_call"
 	}
 }
