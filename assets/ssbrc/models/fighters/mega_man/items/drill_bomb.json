@@ -1127,8 +1127,7 @@
 	],
 	"display": {
 		"gui": {
-			"rotation": [-160, 45, 0],
-			"scale": [2, 2, 2]
+			"rotation": [-160, 45, 0]
 		}
 	},
 	"groups": [
