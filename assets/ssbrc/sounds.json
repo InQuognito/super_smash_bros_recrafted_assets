@@ -1,4 +1,8 @@
 {
+	"empty": {
+		"sounds":[
+		]
+	},
 	"one": {
 		"sounds":[
 			{
@@ -2456,6 +2460,15 @@
 		"sounds":[
 			{
 				"name":"ssbrc:stages/luigis_mansion/boo/deactivate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"stages.luigis_mansion.boo.laugh": {
+		"sounds":[
+			{
+				"name":"ssbrc:stages/luigis_mansion/boo/laugh",
 				"stream": false,
 				"volume": 1.0
 			}

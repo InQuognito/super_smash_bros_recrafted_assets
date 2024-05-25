@@ -4,14 +4,23 @@
 		"layer0": "minecraft:item/paper"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 600 }, "model": "ssbrc:fighters/joker/portraits/archangel" },
-		{ "predicate": { "custom_model_data": 601 }, "model": "ssbrc:fighters/joker/portraits/arsene" },
-		{ "predicate": { "custom_model_data": 602 }, "model": "ssbrc:fighters/joker/portraits/high_pixie" },
-		{ "predicate": { "custom_model_data": 603 }, "model": "ssbrc:fighters/joker/portraits/jack_frost" },
-		{ "predicate": { "custom_model_data": 604 }, "model": "ssbrc:fighters/joker/portraits/jack_o_lantern" },
-		{ "predicate": { "custom_model_data": 605 }, "model": "ssbrc:fighters/joker/portraits/raoul" },
-		{ "predicate": { "custom_model_data": 606 }, "model": "ssbrc:fighters/joker/portraits/sandman" },
-		{ "predicate": { "custom_model_data": 607 }, "model": "ssbrc:fighters/joker/portraits/yatagarasu" },
+		{ "predicate": { "custom_model_data": 600 }, "model": "ssbrc:fighters/joker/portraits/archangel/active" },
+		{ "predicate": { "custom_model_data": 601 }, "model": "ssbrc:fighters/joker/portraits/archangel/inactive" },
+		{ "predicate": { "custom_model_data": 602 }, "model": "ssbrc:fighters/joker/portraits/arsene/active" },
+		{ "predicate": { "custom_model_data": 603 }, "model": "ssbrc:fighters/joker/portraits/arsene/inactive" },
+		{ "predicate": { "custom_model_data": 604 }, "model": "ssbrc:fighters/joker/portraits/high_pixie/active" },
+		{ "predicate": { "custom_model_data": 605 }, "model": "ssbrc:fighters/joker/portraits/high_pixie/inactive" },
+		{ "predicate": { "custom_model_data": 606 }, "model": "ssbrc:fighters/joker/portraits/jack_frost/active" },
+		{ "predicate": { "custom_model_data": 607 }, "model": "ssbrc:fighters/joker/portraits/jack_frost/inactive" },
+		{ "predicate": { "custom_model_data": 608 }, "model": "ssbrc:fighters/joker/portraits/jack_o_lantern/active" },
+		{ "predicate": { "custom_model_data": 609 }, "model": "ssbrc:fighters/joker/portraits/jack_o_lantern/inactive" },
+		{ "predicate": { "custom_model_data": 610 }, "model": "ssbrc:fighters/joker/portraits/raoul/active" },
+		{ "predicate": { "custom_model_data": 611 }, "model": "ssbrc:fighters/joker/portraits/raoul/inactive" },
+		{ "predicate": { "custom_model_data": 612 }, "model": "ssbrc:fighters/joker/portraits/sandman/active" },
+		{ "predicate": { "custom_model_data": 613 }, "model": "ssbrc:fighters/joker/portraits/sandman/inactive" },
+		{ "predicate": { "custom_model_data": 614 }, "model": "ssbrc:fighters/joker/portraits/yatagarasu/active" },
+		{ "predicate": { "custom_model_data": 615 }, "model": "ssbrc:fighters/joker/portraits/yatagarasu/inactive" },
+
 		{ "predicate": { "custom_model_data": 1520 }, "model": "ssbrc:fighters/snake/status/undetected" },
 		{ "predicate": { "custom_model_data": 1521 }, "model": "ssbrc:fighters/snake/status/detected" }
 	]

@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighters/joker/portraits/parent",
+	"textures": {
+		"base": "ssbrc:fighters/joker/portraits/raoul/inactive"
+	}
+}
