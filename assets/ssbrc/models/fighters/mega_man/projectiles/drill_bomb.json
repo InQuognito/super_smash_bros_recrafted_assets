@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "ssbrc:fighters/mega_man/items/drill_bomb",
-		"particle": "ssbrc:fighters/mega_man/items/drill_bomb"
+		"0": "ssbrc:fighters/mega_man/projectiles/drill_bomb",
+		"particle": "ssbrc:fighters/mega_man/projectiles/drill_bomb"
 	},
 	"elements": [
 		{

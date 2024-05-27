@@ -1,8 +1,7 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "ssbrc:fighters/mega_man/items/remote_mine",
-		"particle": "ssbrc:fighters/mega_man/items/remote_mine"
+		"0": "ssbrc:fighters/mega_man/projectiles/remote_mine",
+		"particle": "ssbrc:fighters/mega_man/projectiles/remote_mine"
 	},
 	"elements": [
 		{

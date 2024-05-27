@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "ssbrc:stages/hyrule_castle/tornado"
@@ -54,7 +53,6 @@
 			"name": "tornado",
 			"origin": [8, 11.6875, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [0, 1, 2]
 		}
 	]

@@ -9,8 +9,6 @@
 		{ "predicate": { "custom_model_data": 440 }, "model": "ssbrc:fighters/hero/items/sword/sword_of_light/default" },
 		{ "predicate": { "custom_model_data": 441 }, "model": "ssbrc:fighters/hero/items/sword/sword_of_ramias/default" },
 		{ "predicate": { "custom_model_data": 442 }, "model": "ssbrc:fighters/hero/items/sword/zenithian_sword/default" },
-		{ "predicate": { "custom_model_data": 443 }, "model": "ssbrc:fighters/hero/items/sword/sword_of_light/gold" },
-
-		{ "predicate": { "custom_model_data": 887 }, "model": "ssbrc:fighters/mega_man/items/flame_sword" }
+		{ "predicate": { "custom_model_data": 443 }, "model": "ssbrc:fighters/hero/items/sword/sword_of_light/gold" }
 	]
 }
