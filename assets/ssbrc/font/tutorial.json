@@ -1,0 +1,17 @@
+{
+	"providers": [
+		{
+			"type": "space",
+			"advances": {
+				"-": -160
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:gui/tutorial/test.png",
+			"height": 160,
+			"ascent": -6390,
+			"chars": [ "\uf800" ]
+		}
+	]
+}
