@@ -7,6 +7,11 @@
 		},
 		{
 			"type": "directory",
+			"source": "common",
+			"prefix": "common/"
+		},
+		{
+			"type": "directory",
 			"source": "developers",
 			"prefix": "developers/"
 		},

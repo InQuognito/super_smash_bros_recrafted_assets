@@ -29,7 +29,10 @@
 		{ "predicate": { "custom_model_data": 1520 }, "model": "ssbrc:fighters/snake/items/cqc_knife/default" },
 		{ "predicate": { "custom_model_data": 1521 }, "model": "ssbrc:fighters/snake/items/cqc_knife/gold" },
 
-		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw" },
+		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/default" },
+		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/gold" },
+		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/player_2" },
+		{ "predicate": { "custom_model_data": 1832 }, "model": "ssbrc:fighters/altered_beast/items/weretiger/tiger_claw/default" },
 
 		{ "predicate": { "custom_model_data": 1840 }, "model": "ssbrc:fighters/alucard/items/alucard_sword/default" },
 		{ "predicate": { "custom_model_data": 1841 }, "model": "ssbrc:fighters/alucard/items/crissaegrim" },

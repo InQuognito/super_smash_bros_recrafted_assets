@@ -122,15 +122,6 @@
 		{ "predicate": { "custom_model_data": 888 }, "model": "ssbrc:fighters/mega_man/skins/default/pile_driver" },
 		{ "predicate": { "custom_model_data": 889 }, "model": "ssbrc:fighters/mega_man/skins/default/remote_mine" },
 		{ "predicate": { "custom_model_data": 890 }, "model": "ssbrc:fighters/mega_man/skins/gold/mega_buster" },
-		{ "predicate": { "custom_model_data": 891 }, "model": "ssbrc:fighters/mega_man/skins/gold/air_shooter" },
-		{ "predicate": { "custom_model_data": 892 }, "model": "ssbrc:fighters/mega_man/skins/gold/beat_call" },
-		{ "predicate": { "custom_model_data": 893 }, "model": "ssbrc:fighters/mega_man/skins/gold/drill_bomb" },
-		{ "predicate": { "custom_model_data": 894 }, "model": "ssbrc:fighters/mega_man/skins/gold/flame_sword" },
-		{ "predicate": { "custom_model_data": 895 }, "model": "ssbrc:fighters/mega_man/skins/gold/hyper_bomb" },
-		{ "predicate": { "custom_model_data": 896 }, "model": "ssbrc:fighters/mega_man/skins/gold/junk_shield" },
-		{ "predicate": { "custom_model_data": 897 }, "model": "ssbrc:fighters/mega_man/skins/gold/metal_blade" },
-		{ "predicate": { "custom_model_data": 898 }, "model": "ssbrc:fighters/mega_man/skins/gold/pile_driver" },
-		{ "predicate": { "custom_model_data": 899 }, "model": "ssbrc:fighters/mega_man/skins/gold/remote_mine" },
 		{ "predicate": { "custom_model_data": 900 }, "model": "ssbrc:fighters/mega_man/skins/star_force/mega_buster" },
 		{ "predicate": { "custom_model_data": 901 }, "model": "ssbrc:fighters/mega_man/skins/star_force/air_shooter" },
 		{ "predicate": { "custom_model_data": 902 }, "model": "ssbrc:fighters/mega_man/skins/star_force/beat_call" },
@@ -295,7 +286,7 @@
 		{ "predicate": { "custom_model_data": 9999 }, "model": "ssbrc:fighters/random" },
 		{ "predicate": { "custom_model_data": 10000 }, "model": "ssbrc:fighters/spectator" },
 
-		{ "predicate": { "custom_model_data": 99999 }, "model": "ssbrc:items/pokeball" },
+		{ "predicate": { "custom_model_data": 99999 }, "model": "ssbrc:common/pokemon/pokeball/default" },
 
 		{ "predicate": { "custom_model_data": 9999991 }, "model": "ssbrc:ui/arrow_left" },
 		{ "predicate": { "custom_model_data": 9999992 }, "model": "ssbrc:ui/arrow_right" }

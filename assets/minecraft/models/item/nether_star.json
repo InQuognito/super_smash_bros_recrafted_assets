@@ -74,9 +74,11 @@
 		{ "predicate": { "custom_model_data": 421 }, "model": "ssbrc:fighters/greninja/items/water_shuriken" },
 
 		{ "predicate": { "custom_model_data": 440 }, "model": "ssbrc:fighters/hero/skins/default/default" },
-		{ "predicate": { "custom_model_data": 441 }, "model": "ssbrc:fighters/hero/items/spells/bang" },
-		{ "predicate": { "custom_model_data": 442 }, "model": "ssbrc:fighters/hero/items/spells/kaclang" },
-		{ "predicate": { "custom_model_data": 443 }, "model": "ssbrc:fighters/hero/items/spells/magic_burst" },
+		{ "predicate": { "custom_model_data": 441 }, "model": "ssbrc:fighters/hero/items/spells/bang/default" },
+		{ "predicate": { "custom_model_data": 442 }, "model": "ssbrc:fighters/hero/items/spells/bang/disabled" },
+		{ "predicate": { "custom_model_data": 443 }, "model": "ssbrc:fighters/hero/items/spells/kaclang/default" },
+		{ "predicate": { "custom_model_data": 444 }, "model": "ssbrc:fighters/hero/items/spells/kaclang/disabled" },
+		{ "predicate": { "custom_model_data": 445 }, "model": "ssbrc:fighters/hero/items/spells/magic_burst" },
 
 		{ "predicate": { "custom_model_data": 580 }, "model": "ssbrc:fighters/jigglypuff/skins/default/default" },
 		{ "predicate": { "custom_model_data": 581 }, "model": "ssbrc:fighters/jigglypuff/items/hyper_voice/default" },

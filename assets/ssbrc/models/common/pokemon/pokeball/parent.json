@@ -1,0 +1,26 @@
+{
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-11, 16, -6],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-11, 16, -6],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [3.48, 12.39, -2.65]
+		},
+		"firstperson_lefthand": {
+			"rotation": [3.48, 12.39, -2.65]
+		},
+		"ground": {
+			"rotation": [62, -33, 52],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [15, -145, 0],
+			"scale": [1.25, 1.25, 1.25]
+		}
+	}
+}

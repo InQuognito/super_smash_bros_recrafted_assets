@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighters/hero/items/spells/parent",
+	"textures": {
+		"base": "ssbrc:fighters/hero/items/spells/bang/disabled"
+	}
+}

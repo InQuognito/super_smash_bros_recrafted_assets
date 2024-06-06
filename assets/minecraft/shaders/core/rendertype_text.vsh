@@ -19,49 +19,49 @@ out vec2 texCoord0;
 
 void main() {
     ivec3 control = ivec3(0);
-    if (Position.y > 3200.0) control = ivec3(Color.rgb * 255.0 + 0.5);
+    if (Position.y > 400.0) control = ivec3(Color.rgb * 255.0 + 0.5);
     if (control == ivec3(1, 0, 0)) {
-        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(0.0, -6400.0, 0.0), 1.0);
+        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(0.0, -800.0, 0.0), 1.0);
         gl_Position.xy += vec2(-1.0, 0.0);
         vertexColor = vec4(1.0);
     }
     else if (control == ivec3(2, 0, 0)) {
-        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(-80.0, -6400.0, 0.0), 1.0);
+        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(-80.0, -800.0, 0.0), 1.0);
         gl_Position.xy += vec2(0.0, 0.0);
         vertexColor = vec4(1.0);
     }
     else if (control == ivec3(3, 0, 0)) {
-        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(-160.0, -6400.0, 0.0), 1.0);
+        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(-160.0, -800.0, 0.0), 1.0);
         gl_Position.xy += vec2(1.0, 0.0);
         vertexColor = vec4(1.0);
     }
     else if (control == ivec3(0, 1, 0)) {
-        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(0.0, -6480.0, 0.0), 1.0);
+        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(0.0, -880.0, 0.0), 1.0);
         gl_Position.xy += vec2(-1.0, -1.0);
         vertexColor = vec4(1.0);
     }
     else if (control == ivec3(0, 2, 0)) {
-        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(-80.0, -6480.0, 0.0), 1.0);
+        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(-80.0, -880.0, 0.0), 1.0);
         gl_Position.xy += vec2(0.0, -1.0);
         vertexColor = vec4(1.0);
     }
     else if (control == ivec3(0, 3, 0)) {
-        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(-160.0, -6480.0, 0.0), 1.0);
+        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(-160.0, -880.0, 0.0), 1.0);
         gl_Position.xy += vec2(1.0, -1.0);
         vertexColor = vec4(1.0);
     }
     else if (control == ivec3(0, 0, 1)) {
-        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(0.0, -6560.0, 0.0), 1.0);
+        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(0.0, -960.0, 0.0), 1.0);
         gl_Position.xy += vec2(-1.0, -2.0);
         vertexColor = vec4(1.0);
     }
     else if (control == ivec3(0, 0, 2)) {
-        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(-80.0, -6560.0, 0.0), 1.0);
+        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(-80.0, -960.0, 0.0), 1.0);
         gl_Position.xy += vec2(0.0, -2.0);
         vertexColor = vec4(1.0);
     }
     else if (control == ivec3(0, 0, 3)) {
-        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(-160.0, -6560.0, 0.0), 1.0);
+        gl_Position = ProjMat * ModelViewMat * vec4(Position + vec3(-160.0, -960.0, 0.0), 1.0);
         gl_Position.xy += vec2(1.0, -2.0);
         vertexColor = vec4(1.0);
     }

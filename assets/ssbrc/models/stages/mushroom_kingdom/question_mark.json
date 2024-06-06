@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "ssbrc:stages/mushroom_kingdom/question_mark"
+		"0": "ssbrc:ui/question_mark"
 	},
 	"elements": [
 		{
@@ -39,18 +39,5 @@
 				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
 		}
-	],
-	"display": {
-		"gui": {
-			"rotation": [0, -180, 0]
-		},
-		"head": {
-			"translation": [0, -17.5, -15.5],
-			"scale": [0.4, 0.4, 0.4]
-		},
-		"fixed": {
-			"translation": [0, 0, 15.75],
-			"scale": [2, 2, 2]
-		}
-	}
+	]
 }

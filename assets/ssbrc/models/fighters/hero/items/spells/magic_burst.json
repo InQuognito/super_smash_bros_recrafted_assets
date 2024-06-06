@@ -1,20 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "ssbrc:fighters/hero/items/spells/parent",
 	"textures": {
-		"layer0": "ssbrc:fighters/hero/items/spells/magic_burst"
-	},
-	"display": {
-		"thirdperson_righthand": {
-			"scale": [0, 0, 0]
-		},
-		"thirdperson_lefthand": {
-			"scale": [0, 0, 0]
-		},
-		"firstperson_righthand": {
-			"scale": [0, 0, 0]
-		},
-		"firstperson_lefthand": {
-			"scale": [0, 0, 0]
-		}
+		"base": "ssbrc:fighters/hero/items/spells/magic_burst"
 	}
 }

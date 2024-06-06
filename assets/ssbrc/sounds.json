@@ -84,64 +84,82 @@
 			}
 		]
 	},
-	"fighters.altered_beast.electrocution.hit": {
+	"fighters.altered_beast.werebear.petrifying_breath.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/altered_beast/electrocution/hit",
+				"name":"ssbrc:fighters/altered_beast/werebear/petrifying_breath/activate",
 				"stream": false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.altered_beast.electrocution.loop": {
+	"fighters.altered_beast.werebear.petrifying_breath.deactivate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/altered_beast/electrocution/loop",
+				"name":"ssbrc:fighters/altered_beast/werebear/petrifying_breath/deactivate",
 				"stream": false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.altered_beast.flame_hands.activate": {
+	"fighters.altered_beast.werebear.transform": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/altered_beast/flame_hands/activate",
+				"name":"ssbrc:fighters/altered_beast/werebear/transform",
 				"stream": false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.altered_beast.transform.werebear": {
+	"fighters.altered_beast.weredragon.electrocution.hit": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/altered_beast/transform/werebear",
+				"name":"ssbrc:fighters/altered_beast/weredragon/electrocution/hit",
 				"stream": false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.altered_beast.transform.weredragon": {
+	"fighters.altered_beast.weredragon.electrocution.loop": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/altered_beast/transform/weredragon",
+				"name":"ssbrc:fighters/altered_beast/weredragon/electrocution/loop",
 				"stream": false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.altered_beast.transform.weretiger": {
+	"fighters.altered_beast.weredragon.transform": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/altered_beast/transform/weretiger",
+				"name":"ssbrc:fighters/altered_beast/weredragon/transform",
 				"stream": false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.altered_beast.transform.werewolf": {
+	"fighters.altered_beast.weretiger.transform": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/altered_beast/transform/werewolf",
+				"name":"ssbrc:fighters/altered_beast/weretiger/transform",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.altered_beast.werewolf.flame_hands.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/altered_beast/werewolf/flame_hands/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.altered_beast.werewolf.transform": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/altered_beast/werewolf/transform",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -1468,33 +1486,6 @@
 			}
 		]
 	},
-	"fighters.roy.counter.activate": {
-		"sounds":[
-			{
-				"name":"ssbrc:fighters/roy/counter/activate",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"fighters.roy.counter.hit": {
-		"sounds":[
-			{
-				"name":"ssbrc:fighters/roy/counter/hit",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"fighters.roy.counter.success": {
-		"sounds":[
-			{
-				"name":"ssbrc:fighters/roy/counter/success",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
 	"fighters.ryu.ashura_senku.activate": {
 		"sounds":[
 			{
@@ -2171,245 +2162,10 @@
 			}
 		]
 	},
-	"items.cracker_launcher.activate": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/cracker_launcher/activate",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.cracker_launcher.activate_last": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/cracker_launcher/activate_last",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.cracker_launcher.expire": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/cracker_launcher/expire",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.deaths_scythe.hit": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/deaths_scythe/hit1",
-				"stream": false,
-				"volume": 1.0
-			},
-			{
-				"name":"ssbrc:items/deaths_scythe/hit2",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.deaths_scythe.reap": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/deaths_scythe/reap",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.franklin_badge.activate": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/franklin_badge/activate",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.franklin_badge.reflect": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/franklin_badge/reflect",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.freezie.hit": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/freezie/hit",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.freezie.land": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/freezie/land",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.killing_edge.awaken": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/killing_edge/awaken",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.killing_edge.crit": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/killing_edge/crit",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.killing_edge.hit": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/killing_edge/hit1",
-				"stream": false,
-				"volume": 1.0
-			},
-			{
-				"name":"ssbrc:items/killing_edge/hit2",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.lips_stick.hit": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/lips_stick/hit",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.metal_box.activate": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/metal_box/activate",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.motion_sensor_bomb.beep": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/motion_sensor_bomb/beep",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.motion_sensor_bomb.enable": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/motion_sensor_bomb/enable",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.motion_sensor_bomb.idle": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/motion_sensor_bomb/idle",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.mushroom.grow": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/mushroom/grow",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.mushroom.shrink": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/mushroom/shrink",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
 	"items.poke_ball.open": {
 		"sounds":[
 			{
 				"name":"ssbrc:items/poke_ball/open",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.ray_gun.activate": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/ray_gun/activate",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.ray_gun.misfire": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/ray_gun/misfire",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.shell.hit": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/shell/hit",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.special_flag.activate": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/special_flag/activate",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.special_flag.loop": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/special_flag/loop",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"misc.target_break": {
-		"sounds":[
-			{
-				"name":"ssbrc:misc/target_break",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -2437,6 +2193,24 @@
 		"sounds":[
 			{
 				"name":"ssbrc:stages/green_hill_zone/spring",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"stages.hyrule_castle.tornado.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:stages/hyrule_castle/tornado/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"stages.hyrule_castle.tornado.hit": {
+		"sounds":[
+			{
+				"name":"ssbrc:stages/hyrule_castle/tornado/hit",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -2578,6 +2352,33 @@
 		"sounds":[
 			{
 				"name":"ssbrc:stages/pac_maze/siren",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"stages.pallet_town.abra.appear": {
+		"sounds":[
+			{
+				"name":"ssbrc:stages/pallet_town/abra/appear",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"stages.pallet_town.abra.vanish": {
+		"sounds":[
+			{
+				"name":"ssbrc:stages/pallet_town/abra/vanish",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"stages.palutenas_temple.spring": {
+		"sounds":[
+			{
+				"name":"ssbrc:stages/palutenas_temple/spring",
 				"stream": false,
 				"volume": 1.0
 			}

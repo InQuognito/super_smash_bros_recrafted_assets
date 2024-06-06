@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/fighter/head",
 	"textures": {
-		"base": "ssbrc:fighters/yar/skins/recruit/default"
+		"base": "ssbrc:fighters/yar/skins/recruit"
 	}
 }

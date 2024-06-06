@@ -1,7 +1,7 @@
 {
 	"parent": "ssbrc:template/fighter/full",
 	"textures": {
-		"head": "ssbrc:fighters/hero/skins/gold/default",
+		"head": "ssbrc:fighters/hero/skins/default/default",
 		"arms": "ssbrc:trims/models/armor/fighters/hero/gold/default",
 		"body": "ssbrc:trims/models/armor/fighters/hero/gold/default_leggings"
 	}
