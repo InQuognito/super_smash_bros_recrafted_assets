@@ -8,17 +8,220 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "ssbrc:ui/popups/tutorial/default.png",
+			"file": "ssbrc:ui/popup/test.png",
 			"height": 160,
-			"ascent": -6390,
+			"ascent": -10,
+			"chars": [ "\uf799" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/tutorial/default.png",
+			"height": 160,
+			"ascent": -10,
 			"chars": [ "\uf800" ]
 		},
 		{
 			"type": "bitmap",
-			"file": "ssbrc:ui/popups/tutorial/complete.png",
+			"file": "ssbrc:ui/popup/tutorial/complete.png",
 			"height": 160,
-			"ascent": -6390,
+			"ascent": -10,
 			"chars": [ "\uf801" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/altered_beast/default.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf802" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/altered_beast/complete.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf803" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/bowser/default.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf804" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/bowser/complete.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf805" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/cloud/default.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf806" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/cloud/complete.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf807" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/dark_samus/default.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf808" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/dark_samus/complete.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf809" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/donkey_kong/default.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf810" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/donkey_kong/complete.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf811" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/greninja/default.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf812" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/greninja/complete.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf813" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/kirby/default.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf814" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/kirby/complete.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf815" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/link/default.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf816" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/link/complete.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf817" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/pit/default.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf818" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/pit/complete.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf819" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/samus/default.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf820" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/samus/complete.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf821" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/shadow/default.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf822" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/shadow/complete.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf823" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/sonic/default.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf824" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/sonic/complete.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf825" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/sora/default.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf826" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/sora/complete.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf827" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/zelda/default.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf828" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/popup/zelda/complete.png",
+			"height": 160,
+			"ascent": -10,
+			"chars": [ "\uf829" ]
 		}
 	]
 }

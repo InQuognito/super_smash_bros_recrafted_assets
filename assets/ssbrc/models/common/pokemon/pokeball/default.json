@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "ssbrc:common/pokemon/pokeball/parent",
 	"textures": {
 		"base": "ssbrc:common/pokemon/pokeball/default"

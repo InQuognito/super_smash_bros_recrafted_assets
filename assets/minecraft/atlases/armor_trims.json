@@ -3,10 +3,10 @@
 		{
 			"type": "minecraft:paletted_permutations",
 			"textures": [
-				"ssbrc:trims/models/armor/fighters/altered_beast/default/centurion/default",
-				"ssbrc:trims/models/armor/fighters/altered_beast/default/centurion/default_leggings",
-				"ssbrc:trims/models/armor/fighters/altered_beast/default/centurion/shirtless",
-				"ssbrc:trims/models/armor/fighters/altered_beast/default/centurion/shirtless_leggings",
+				"ssbrc:trims/models/armor/fighters/altered_beast/default/centurion",
+				"ssbrc:trims/models/armor/fighters/altered_beast/default/centurion_leggings",
+				"ssbrc:trims/models/armor/fighters/altered_beast/default/shirtless",
+				"ssbrc:trims/models/armor/fighters/altered_beast/default/shirtless_leggings",
 				"ssbrc:trims/models/armor/fighters/altered_beast/default/werebear",
 				"ssbrc:trims/models/armor/fighters/altered_beast/default/werebear_leggings",
 				"ssbrc:trims/models/armor/fighters/altered_beast/default/weredragon",

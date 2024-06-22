@@ -171,8 +171,6 @@
 		{ "predicate": { "custom_model_data": 1226 }, "model": "ssbrc:fighters/pit/items/guardian_orbitars/default" },
 		{ "predicate": { "custom_model_data": 1227 }, "model": "ssbrc:fighters/pit/items/guardian_orbitars/gold" },
 
-		{ "predicate": { "custom_model_data": 1260 }, "model": "ssbrc:items/pokeball" },
-
 		{ "predicate": { "custom_model_data": 1400 }, "model": "ssbrc:fighters/ryu/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1401 }, "model": "ssbrc:fighters/ryu/items/collarbone_breaker/default/default" },
 		{ "predicate": { "custom_model_data": 1402 }, "model": "ssbrc:fighters/ryu/items/satsui_no_hado_rage" },
@@ -287,7 +285,6 @@
 		{ "predicate": { "custom_model_data": 1930 }, "model": "ssbrc:fighters/shovel_knight/items/throwing_anchor/disabled" },
 		{ "predicate": { "custom_model_data": 1931 }, "model": "ssbrc:fighters/shovel_knight/items/war_horn/disabled" },
 
-		{ "predicate": { "custom_model_data": 1940 }, "model": "ssbrc:fighters/team_rocket/skins/logo" },
 		{ "predicate": { "custom_model_data": 1944 }, "model": "ssbrc:fighters/team_rocket/items/meowth/payday" },
 
 		{ "predicate": { "custom_model_data": 1960 }, "model": "ssbrc:fighters/yar/skins/default" },

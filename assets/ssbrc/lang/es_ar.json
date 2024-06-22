@@ -13,9 +13,9 @@
 	"ssbrc.profile.yes": "SÍ",
 
 	"ssbrc.stats.wins": "Victorias",
-	"ssbrc.stats.win_loss_ratio": "Relación Victorias/Derrotas",
+	"ssbrc.stats.win_loss": "Relación Victorias/Derrotas",
 	"ssbrc.stats.kills": "Asesinatos",
-	"ssbrc.stats.kill_death_ratio": "Relación Bajas/Muertes",
+	"ssbrc.stats.kill_death": "Relación Bajas/Muertes",
 
 	"ssbrc.statistics.index": "Índice de Estadísticas",
 	"ssbrc.statistics.general": "Estadísticas Generales",
@@ -26,10 +26,10 @@
 	"ssbrc.statistics.current_win_streak": "Racha Ganadora Actual: ",
 	"ssbrc.statistics.wins": "Victorias: ",
 	"ssbrc.statistics.games_played": "Partidas Jugadas: ",
-	"ssbrc.statistics.win_loss_ratio": "Relación Victorias/Derrotas: ",
+	"ssbrc.statistics.win_loss": "Relación Victorias/Derrotas: ",
 	"ssbrc.statistics.kills": "Bajas: ",
 	"ssbrc.statistics.deaths": "Muertes: ",
-	"ssbrc.statistics.kill_death_ratio": "Relación Bajas/Muertes: ",
+	"ssbrc.statistics.kill_death": "Relación Bajas/Muertes: ",
 
 	"ssbrc.bonuses.participation": "Participación",
 	"ssbrc.bonuses.win": "Victoria",

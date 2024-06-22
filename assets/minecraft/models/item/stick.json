@@ -22,7 +22,6 @@
 		{ "predicate": { "custom_model_data": 720 }, "model": "ssbrc:fighters/link/skins/default_full" },
 		{ "predicate": { "custom_model_data": 820 }, "model": "ssbrc:fighters/luigi/skins/default_full" },
 		{ "predicate": { "custom_model_data": 840 }, "model": "ssbrc:fighters/mario/skins/default_full" },
-		{ "predicate": { "custom_model_data": 841 }, "model": "ssbrc:fighters/mario/skins/gold_full" },
 		{ "predicate": { "custom_model_data": 880 }, "model": "ssbrc:fighters/mega_man/skins/default/full" },
 		{ "predicate": { "custom_model_data": 1080 }, "model": "ssbrc:fighters/ness/skins/default_full" },
 		{ "predicate": { "custom_model_data": 1200 }, "model": "ssbrc:fighters/pikachu/skins/default_full" },
@@ -49,6 +48,8 @@
 
 		{ "predicate": { "custom_model_data": 9998 }, "model": "ssbrc:fighters/random" },
 		{ "predicate": { "custom_model_data": 9999 }, "model": "ssbrc:fighters/spectator" },
+
+		{ "predicate": { "custom_model_data": 10000 }, "model": "ssbrc:misc/mario_statue" },
 
 		{ "predicate": { "custom_model_data": 1000000 }, "model": "ssbrc:developers/nessispsirockin" },
 		{ "predicate": { "custom_model_data": 1000001 }, "model": "ssbrc:developers/inquognito" },
