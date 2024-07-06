@@ -1,0 +1,16 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/icons/sword.png",
+			"ascent": 8,
+			"chars": [ "\uf800" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/icons/fire.png",
+			"ascent": 8,
+			"chars": [ "\uf801" ]
+		}
+	]
+}

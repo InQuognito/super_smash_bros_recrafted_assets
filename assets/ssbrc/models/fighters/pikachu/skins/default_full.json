@@ -1,8 +1,6 @@
 {
-	"parent": "ssbrc:template/fighter/full",
+	"parent": "ssbrc:template/player/steve",
 	"textures": {
-		"head": "ssbrc:fighters/pikachu/skins/default",
-		"arms": "ssbrc:trims/models/armor/fighters/pikachu/default",
-		"body": "ssbrc:trims/models/armor/fighters/pikachu/default_leggings"
+		"base": "ssbrc:fighters/pikachu/skins/full"
 	}
 }

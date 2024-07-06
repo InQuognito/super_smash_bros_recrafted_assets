@@ -1,8 +1,6 @@
 {
-	"parent": "ssbrc:template/fighter/full",
+	"parent": "ssbrc:template/player/steve",
 	"textures": {
-		"head": "ssbrc:fighters/team_rocket/skins/default/meowth",
-		"arms": "ssbrc:trims/models/armor/fighters/team_rocket/default/meowth",
-		"body": "ssbrc:trims/models/armor/fighters/team_rocket/default/meowth_leggings"
+		"base": "ssbrc:fighters/team_rocket/skins/default/meowth_full"
 	}
 }

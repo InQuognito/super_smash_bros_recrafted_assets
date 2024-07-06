@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighters/pokemon_trainer/skins/squirtle_shell",
+	"textures": {
+		"base": "ssbrc:fighters/pokemon_trainer/skins/default/squirtle_shell"
+	}
+}

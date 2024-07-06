@@ -1,8 +1,6 @@
 {
-	"parent": "ssbrc:fighters/bowser/skins/parent_full",
+	"parent": "ssbrc:template/player/steve",
 	"textures": {
-		"head": "ssbrc:fighters/bowser/skins/default",
-		"arms": "ssbrc:trims/models/armor/fighters/bowser/default",
-		"body": "ssbrc:trims/models/armor/fighters/bowser/default_leggings"
+		"base": "ssbrc:fighters/bowser/skins/full"
 	}
 }

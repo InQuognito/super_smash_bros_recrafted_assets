@@ -27,12 +27,12 @@ out vec2 texCoord1;
 out vec2 texCoord2;
 
 void main() {
-    gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
+	gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
 
-    vertexDistance = fog_distance(Position, FogShape);
-    vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, Color);
-    vertexLight = texelFetch(Sampler2, UV2 / 16, 0);
-    texCoord0 = UV0;
-    texCoord1 = UV1;
-    texCoord2 = UV2;
+	vertexDistance = fog_distance(Position, FogShape);
+	vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, Color);
+	vertexLight = texelFetch(Sampler2, UV2 / 16, 0);
+	texCoord0 = UV0;
+	texCoord1 = UV1;
+	texCoord2 = UV2;
 }

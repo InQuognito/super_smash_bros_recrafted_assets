@@ -1,6 +1,6 @@
 from core import *
 
-fighters_temp = dict(sorted(ssbrc.fighters.items(), key=lambda x: x[1]['model']))
+fighters_temp = dict(sorted(ssbrc.fighter.items(), key=lambda x: x[1]['model']))
 
 def skin_model(fighter, skin):
 	if has_forms(fighter):

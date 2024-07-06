@@ -1,8 +1,6 @@
 {
-	"parent": "ssbrc:template/fighter/full",
+	"parent": "ssbrc:template/player/steve",
 	"textures": {
-		"head": "ssbrc:fighters/kirby/skins/default/default",
-		"arms": "ssbrc:trims/models/armor/fighters/kirby/default",
-		"body": "ssbrc:trims/models/armor/fighters/kirby/default_leggings"
+		"base": "ssbrc:fighters/kirby/skins/default/full"
 	}
 }

@@ -1,8 +1,6 @@
 {
-	"parent": "ssbrc:template/fighter/full",
+	"parent": "ssbrc:template/player/steve",
 	"textures": {
-		"head": "ssbrc:fighters/mega_man/skins/default/mega_buster",
-		"arms": "ssbrc:trims/models/armor/fighters/mega_man/default/mega_buster",
-		"body": "ssbrc:trims/models/armor/fighters/mega_man/default/mega_buster_leggings"
+		"base": "ssbrc:fighters/mega_man/skins/default/full"
 	}
 }

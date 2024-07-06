@@ -165,6 +165,15 @@
 			}
 		]
 	},
+	"fighters.altered_beast.spawn": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/altered_beast/spawn",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.alucard.holy_water.activate": {
 		"sounds":[
 			{
@@ -1399,6 +1408,15 @@
 		"sounds":[
 			{
 				"name":"ssbrc:fighters/pokemon_trainer/charizard/flare_blitz/activate/victor",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.pokemon_trainer.ivysaur.knock_off.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/pokemon_trainer/ivysaur/knock_off/activate",
 				"stream": false,
 				"volume": 1.0
 			}

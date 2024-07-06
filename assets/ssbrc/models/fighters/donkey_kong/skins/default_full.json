@@ -1,8 +1,6 @@
 {
-	"parent": "ssbrc:fighters/donkey_kong/skins/parent_full",
+	"parent": "ssbrc:template/player/steve",
 	"textures": {
-		"head": "ssbrc:fighters/donkey_kong/skins/default",
-		"arms": "ssbrc:trims/models/armor/fighters/donkey_kong/default",
-		"body": "ssbrc:trims/models/armor/fighters/donkey_kong/default_leggings"
+		"base": "ssbrc:fighters/donkey_kong/skins/full"
 	}
 }

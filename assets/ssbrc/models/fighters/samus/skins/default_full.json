@@ -1,10 +1,6 @@
 {
-	"parent": "ssbrc:fighters/samus/skins/parent_full",
+	"parent": "ssbrc:template/player/steve",
 	"textures": {
-		"head": "ssbrc:fighters/samus/skins/default",
-		"arms": "ssbrc:trims/models/armor/fighters/samus/default",
-		"body": "ssbrc:trims/models/armor/fighters/samus/default_leggings",
-		"arm_cannon_body": "ssbrc:fighters/samus/items/arm_cannon/power_beam/default",
-		"arm_cannon_energy": "ssbrc:fighters/samus/items/arm_cannon/power_beam/energy/default"
+		"base": "ssbrc:fighters/samus/skins/full"
 	}
 }

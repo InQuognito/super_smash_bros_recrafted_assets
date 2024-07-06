@@ -171,6 +171,9 @@
 		{ "predicate": { "custom_model_data": 1226 }, "model": "ssbrc:fighters/pit/items/guardian_orbitars/default" },
 		{ "predicate": { "custom_model_data": 1227 }, "model": "ssbrc:fighters/pit/items/guardian_orbitars/gold" },
 
+		{ "predicate": { "custom_model_data": 1260 }, "model": "ssbrc:fighters/pokemon_trainer/skins/default/squirtle_shell" },
+		{ "predicate": { "custom_model_data": 1261 }, "model": "ssbrc:fighters/pokemon_trainer/skins/shiny/squirtle_shell" },
+
 		{ "predicate": { "custom_model_data": 1400 }, "model": "ssbrc:fighters/ryu/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1401 }, "model": "ssbrc:fighters/ryu/items/collarbone_breaker/default/default" },
 		{ "predicate": { "custom_model_data": 1402 }, "model": "ssbrc:fighters/ryu/items/satsui_no_hado_rage" },

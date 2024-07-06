@@ -1,8 +1,6 @@
 {
-	"parent": "ssbrc:template/fighter/full",
+	"parent": "ssbrc:template/player/steve",
 	"textures": {
-		"head": "ssbrc:fighters/giegue/skins/default",
-		"arms": "ssbrc:trims/models/armor/fighters/giegue/default",
-		"body": "ssbrc:trims/models/armor/fighters/giegue/default_leggings"
+		"base": "ssbrc:fighters/giegue/skins/full"
 	}
 }

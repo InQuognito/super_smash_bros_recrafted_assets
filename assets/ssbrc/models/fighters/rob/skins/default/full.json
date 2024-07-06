@@ -1,8 +1,6 @@
 {
-	"parent": "ssbrc:fighters/rob/skins/parent/full",
+	"parent": "ssbrc:template/player/steve",
 	"textures": {
-		"head": "ssbrc:fighters/rob/skins/default",
-		"arms": "ssbrc:trims/models/armor/fighters/rob/default",
-		"body": "ssbrc:trims/models/armor/fighters/rob/default_leggings"
+		"base": "ssbrc:fighters/rob/skins/full"
 	}
 }

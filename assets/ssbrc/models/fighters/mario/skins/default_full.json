@@ -1,8 +1,6 @@
 {
 	"parent": "ssbrc:fighters/mario/skins/parent_full",
 	"textures": {
-		"head": "ssbrc:fighters/mario/skins/default",
-		"arms": "ssbrc:trims/models/armor/fighters/mario/default",
-		"body": "ssbrc:trims/models/armor/fighters/mario/default_leggings"
+		"base": "ssbrc:fighters/mario/skins/full"
 	}
 }

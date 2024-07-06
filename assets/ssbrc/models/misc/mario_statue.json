@@ -1,8 +1,6 @@
 {
 	"parent": "ssbrc:fighters/mario/skins/parent_full",
 	"textures": {
-		"head": "ssbrc:misc/mario_statue",
-		"arms": "ssbrc:trims/models/armor/armor_stands/mario_statue",
-		"body": "ssbrc:trims/models/armor/armor_stands/mario_statue_leggings"
+		"base": "ssbrc:misc/mario_statue"
 	}
 }

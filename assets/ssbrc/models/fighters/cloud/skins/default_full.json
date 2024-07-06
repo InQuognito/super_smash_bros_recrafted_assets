@@ -1,8 +1,6 @@
 {
-	"parent": "ssbrc:template/fighter/full",
+	"parent": "ssbrc:template/player/steve",
 	"textures": {
-		"head": "ssbrc:fighters/cloud/skins/default",
-		"arms": "ssbrc:trims/models/armor/fighters/cloud/default",
-		"body": "ssbrc:trims/models/armor/fighters/cloud/default_leggings"
+		"base": "ssbrc:fighters/cloud/skins/full"
 	}
 }
