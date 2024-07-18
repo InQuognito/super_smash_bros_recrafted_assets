@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/player/steve",
+	"parent": "ssbrc:fighters/shovel_knight/skins/parent/full",
 	"textures": {
 		"base": "ssbrc:fighters/shovel_knight/skins/full"
 	}

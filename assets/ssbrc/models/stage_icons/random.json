@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:stage_icons/parent",
+	"textures": {
+		"base": "ssbrc:ui/question_mark"
+	}
+}

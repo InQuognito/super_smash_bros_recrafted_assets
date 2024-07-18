@@ -1,6 +1,6 @@
 from core import *
 
-fighters_temp = dict(sorted(ssbrc.fighter.items(), key=lambda x: x[1]['model']))
+fighters_temp = dict(sorted(ssbrc.fighters.items(), key=lambda x: x[1]['model']))
 
 def skin_model(fighter, skin):
 	if has_forms(fighter):
@@ -77,5 +77,31 @@ def create_head_cmd():
 		js_write(file, tab(1) + ']')
 		js_write(file, '}')
 
-create_skin_model()
-create_head_cmd()
+def create_miiverse_cmd():
+	with open('assets\\minecraft\\models\\item\\painting.json', 'w') as file:
+		js_write(file, '{')
+		js_write(file, tab(1) + qm + 'parent' + sep_s + 'minecraft:item/generated' + suf_s)
+		js_write(file, tab(1) + qm + 'textures' + suf_e)
+		js_write(file, tab(2) + qm + 'layer0' + sep_s + 'minecraft:item/painting' + qm)
+		js_write(file, tab(1) + ent)
+		js_write(file, tab(1) + qm + 'overrides' + suf_l)
+
+		fighter_count = len(fighters_temp)
+		n = 1
+		for fighter in fighters_temp:
+			i = fighters_temp[fighter]['model']
+			for post in range(0, fighters_temp[fighter]['miiverse_posts']):
+				if n == fighter_count and post == (fighters_temp[fighter]['miiverse_posts'] - 1):
+					js_write(file, tab(2) + '{ "predicate": { "custom_model_data": '+ str(i) + ' }, "model": "ssbrc:stages/miiverse/posts/' + fighter + '/' + str(post) + '" }')
+				else:
+					js_write(file, tab(2) + '{ "predicate": { "custom_model_data": '+ str(i) + ' }, "model": "ssbrc:stages/miiverse/posts/' + fighter + '/' + str(post) + '" },')
+			i += 1
+			n += 1
+
+		js_write(file, tab(1) + ']')
+		js_write(file, '}')
+
+#create_skin_model()
+#create_head_cmd()
+
+create_miiverse_cmd()

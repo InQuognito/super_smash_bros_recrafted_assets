@@ -1,6 +1,7 @@
 {
-	"parent": "ssbrc:template/player/steve",
+	"parent": "ssbrc:fighters/king_k_rool/skins/parent_full",
 	"textures": {
+		"head": "ssbrc:fighters/king_k_rool/skins/default",
 		"base": "ssbrc:fighters/king_k_rool/skins/full"
 	}
 }

@@ -1,12 +1,15 @@
 {
+	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
+	"textures": {
+		"base": "ssbrc:fighters/rob/skins/full"
+	},
 	"elements": [
 		{
 			"name": "head",
 			"from": [4, 15, 4],
 			"to": [12, 23, 12],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"color": 4,
 			"faces": {
 				"north": {"uv": [2, 2, 4, 4], "texture": "#base"},
 				"east": {"uv": [0, 2, 2, 4], "texture": "#base"},
@@ -21,7 +24,6 @@
 			"from": [3.5, 14, 3.5],
 			"to": [12.5, 23, 12.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"color": 7,
 			"faces": {
 				"north": {"uv": [10, 2, 12, 4], "texture": "#base"},
 				"east": {"uv": [8, 2, 10, 4], "texture": "#base"},
@@ -36,7 +38,6 @@
 			"from": [4, 3, 6],
 			"to": [12, 15, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"color": 7,
 			"faces": {
 				"north": {"uv": [5, 5, 7, 8], "texture": "#base"},
 				"east": {"uv": [4, 5, 5, 8], "texture": "#base"},
@@ -51,7 +52,6 @@
 			"from": [3.75, 2.75, 5.75],
 			"to": [12.25, 15.25, 10.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"color": 7,
 			"faces": {
 				"north": {"uv": [5, 9, 7, 12], "texture": "#base"},
 				"east": {"uv": [4, 9, 5, 12], "texture": "#base"},
@@ -66,7 +66,6 @@
 			"from": [0, 3, 6],
 			"to": [4, 15, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"color": 7,
 			"faces": {
 				"north": {"uv": [9, 13, 10, 16], "texture": "#base"},
 				"east": {"uv": [8, 13, 9, 16], "texture": "#base"},
@@ -81,7 +80,6 @@
 			"from": [-0.25, 2.75, 5.75],
 			"to": [4.25, 15.25, 10.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"color": 8,
 			"faces": {
 				"north": {"uv": [13, 13, 14, 16], "texture": "#base"},
 				"east": {"uv": [12, 13, 13, 16], "texture": "#base"},
@@ -96,7 +94,6 @@
 			"from": [12, 3, 6],
 			"to": [16, 15, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"color": 5,
 			"faces": {
 				"north": {"uv": [11, 5, 12, 8], "texture": "#base"},
 				"east": {"uv": [10, 5, 11, 8], "texture": "#base"},
@@ -111,7 +108,6 @@
 			"from": [11.75, 2.75, 5.75],
 			"to": [16.25, 15.25, 10.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"color": 3,
 			"faces": {
 				"north": {"uv": [11, 9, 12, 12], "texture": "#base"},
 				"east": {"uv": [10, 9, 11, 12], "texture": "#base"},
@@ -126,7 +122,6 @@
 			"from": [4, -9, 6],
 			"to": [8, 3, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"color": 7,
 			"faces": {
 				"north": {"uv": [5, 13, 6, 16], "texture": "#base"},
 				"east": {"uv": [4, 13, 5, 16], "texture": "#base"},
@@ -141,7 +136,6 @@
 			"from": [3.75, -9.25, 5.75],
 			"to": [8.25, 3.25, 10.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"color": 9,
 			"faces": {
 				"north": {"uv": [1, 13, 2, 16], "texture": "#base"},
 				"east": {"uv": [0, 13, 1, 16], "texture": "#base"},
@@ -156,7 +150,6 @@
 			"from": [8, -9, 6],
 			"to": [12, 3, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"color": 2,
 			"faces": {
 				"north": {"uv": [1, 5, 2, 8], "texture": "#base"},
 				"east": {"uv": [0, 5, 1, 8], "texture": "#base"},
@@ -171,7 +164,6 @@
 			"from": [7.75, -9.25, 5.75],
 			"to": [12.25, 3.25, 10.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"color": 9,
 			"faces": {
 				"north": {"uv": [1, 9, 2, 12], "texture": "#base"},
 				"east": {"uv": [0, 9, 1, 12], "texture": "#base"},

@@ -283,6 +283,7 @@
 		{ "predicate": { "custom_model_data": 1961 }, "model": "ssbrc:fighters/yar/skins/gold" },
 		{ "predicate": { "custom_model_data": 1962 }, "model": "ssbrc:fighters/yar/skins/recruit" },
 
+		{ "predicate": { "custom_model_data": 9998 }, "model": "ssbrc:fighters/petrified" },
 		{ "predicate": { "custom_model_data": 9999 }, "model": "ssbrc:fighters/random" },
 		{ "predicate": { "custom_model_data": 10000 }, "model": "ssbrc:fighters/spectator" },
 
