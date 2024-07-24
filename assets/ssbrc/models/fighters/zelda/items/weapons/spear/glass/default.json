@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "ssbrc:fighters/zelda/items/weapons/spear/glass"
+		"layer0": "ssbrc:fighters/zelda/items/weapons/spear/glass/default"
 	},
 	"display": {
 		"thirdperson_righthand": {

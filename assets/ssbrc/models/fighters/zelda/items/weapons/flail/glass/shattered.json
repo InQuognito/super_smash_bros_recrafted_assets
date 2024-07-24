@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "ssbrc:fighters/zelda/items/weapons/flail/glass"
+		"layer0": "ssbrc:fighters/zelda/items/weapons/flail/glass/shattered"
 	},
 	"display": {
 		"thirdperson_righthand": {

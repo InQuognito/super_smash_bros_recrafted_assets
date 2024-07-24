@@ -25,7 +25,7 @@
 				"east": {"uv": [0, 12, 4, 16], "texture": "#base"},
 				"south": {"uv": [12, 12, 16, 16], "texture": "#base"},
 				"west": {"uv": [8, 12, 12, 16], "texture": "#base"},
-				"up": {"uv": [4, 8, 8, 12], "texture": "#base"},
+				"up": {"uv": [8, 12, 4, 8], "texture": "#base"},
 				"down": {"uv": [8, 8, 12, 12], "texture": "#base"}
 			}
 		}
@@ -70,7 +70,6 @@
 			"name": "Head",
 			"origin": [8, 4.5, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [0, 1]
 		}
 	]

@@ -102,6 +102,15 @@
 			}
 		]
 	},
+	"fighters.altered_beast.werebear.petrifying_breath.hit": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/altered_beast/werebear/petrifying_breath/hit",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.altered_beast.werebear.transform": {
 		"sounds":[
 			{

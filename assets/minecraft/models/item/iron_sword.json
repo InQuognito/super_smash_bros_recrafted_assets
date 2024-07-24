@@ -42,27 +42,32 @@
 
 		{ "predicate": { "custom_model_data": 9000 }, "model": "ssbrc:fighters/zelda/items/weapons/dagger/default" },
 		{ "predicate": { "custom_model_data": 9001 }, "model": "ssbrc:fighters/zelda/items/weapons/dagger/emerald" },
-		{ "predicate": { "custom_model_data": 9002 }, "model": "ssbrc:fighters/zelda/items/weapons/dagger/glass" },
+		{ "predicate": { "custom_model_data": 9002 }, "model": "ssbrc:fighters/zelda/items/weapons/dagger/glass/default" },
 		{ "predicate": { "custom_model_data": 9003 }, "model": "ssbrc:fighters/zelda/items/weapons/dagger/obsidian" },
 		{ "predicate": { "custom_model_data": 9004 }, "model": "ssbrc:fighters/zelda/items/weapons/dagger/ruby" },
 		{ "predicate": { "custom_model_data": 9005 }, "model": "ssbrc:fighters/zelda/items/weapons/dagger/titanium" },
 		{ "predicate": { "custom_model_data": 9006 }, "model": "ssbrc:fighters/zelda/items/weapons/flail/default" },
 		{ "predicate": { "custom_model_data": 9007 }, "model": "ssbrc:fighters/zelda/items/weapons/flail/emerald" },
-		{ "predicate": { "custom_model_data": 9008 }, "model": "ssbrc:fighters/zelda/items/weapons/flail/glass" },
+		{ "predicate": { "custom_model_data": 9008 }, "model": "ssbrc:fighters/zelda/items/weapons/flail/glass/default" },
 		{ "predicate": { "custom_model_data": 9009 }, "model": "ssbrc:fighters/zelda/items/weapons/flail/obsidian" },
 		{ "predicate": { "custom_model_data": 9010 }, "model": "ssbrc:fighters/zelda/items/weapons/flail/ruby" },
 		{ "predicate": { "custom_model_data": 9011 }, "model": "ssbrc:fighters/zelda/items/weapons/flail/titanium" },
 		{ "predicate": { "custom_model_data": 9012 }, "model": "ssbrc:fighters/zelda/items/weapons/rapier/default" },
 		{ "predicate": { "custom_model_data": 9013 }, "model": "ssbrc:fighters/zelda/items/weapons/rapier/emerald" },
-		{ "predicate": { "custom_model_data": 9014 }, "model": "ssbrc:fighters/zelda/items/weapons/rapier/glass" },
+		{ "predicate": { "custom_model_data": 9014 }, "model": "ssbrc:fighters/zelda/items/weapons/rapier/glass/default" },
 		{ "predicate": { "custom_model_data": 9015 }, "model": "ssbrc:fighters/zelda/items/weapons/rapier/obsidian" },
 		{ "predicate": { "custom_model_data": 9016 }, "model": "ssbrc:fighters/zelda/items/weapons/rapier/ruby" },
 		{ "predicate": { "custom_model_data": 9017 }, "model": "ssbrc:fighters/zelda/items/weapons/rapier/titanium" },
 		{ "predicate": { "custom_model_data": 9018 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/default" },
 		{ "predicate": { "custom_model_data": 9019 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/emerald" },
-		{ "predicate": { "custom_model_data": 9020 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/glass" },
+		{ "predicate": { "custom_model_data": 9020 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/glass/default" },
 		{ "predicate": { "custom_model_data": 9021 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/obsidian" },
 		{ "predicate": { "custom_model_data": 9022 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/ruby" },
-		{ "predicate": { "custom_model_data": 9023 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/titanium" }
+		{ "predicate": { "custom_model_data": 9023 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/titanium" },
+
+		{ "predicate": { "custom_model_data": 9024 }, "model": "ssbrc:fighters/zelda/items/weapons/dagger/glass/shattered" },
+		{ "predicate": { "custom_model_data": 9025 }, "model": "ssbrc:fighters/zelda/items/weapons/flail/glass/shattered" },
+		{ "predicate": { "custom_model_data": 9026 }, "model": "ssbrc:fighters/zelda/items/weapons/rapier/glass/shattered" },
+		{ "predicate": { "custom_model_data": 9027 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/glass/shattered" }
 	]
 }

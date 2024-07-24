@@ -71,7 +71,8 @@
 		{ "predicate": { "custom_model_data": 400 }, "model": "ssbrc:fighters/ganondorf/skins/default" },
 
 		{ "predicate": { "custom_model_data": 420 }, "model": "ssbrc:fighters/greninja/skins/default" },
-		{ "predicate": { "custom_model_data": 421 }, "model": "ssbrc:fighters/greninja/items/water_shuriken" },
+		{ "predicate": { "custom_model_data": 421 }, "model": "ssbrc:fighters/greninja/items/night_slash" },
+		{ "predicate": { "custom_model_data": 422 }, "model": "ssbrc:fighters/greninja/items/water_shuriken" },
 
 		{ "predicate": { "custom_model_data": 440 }, "model": "ssbrc:fighters/hero/skins/default/default" },
 		{ "predicate": { "custom_model_data": 441 }, "model": "ssbrc:fighters/hero/items/spells/bang/default" },
@@ -172,7 +173,8 @@
 		{ "predicate": { "custom_model_data": 1227 }, "model": "ssbrc:fighters/pit/items/guardian_orbitars/gold" },
 
 		{ "predicate": { "custom_model_data": 1260 }, "model": "ssbrc:fighters/pokemon_trainer/skins/default/squirtle_shell" },
-		{ "predicate": { "custom_model_data": 1261 }, "model": "ssbrc:fighters/pokemon_trainer/skins/shiny/squirtle_shell" },
+		{ "predicate": { "custom_model_data": 1261 }, "model": "ssbrc:fighters/pokemon_trainer/skins/gold/squirtle_shell" },
+		{ "predicate": { "custom_model_data": 1262 }, "model": "ssbrc:fighters/pokemon_trainer/skins/shiny/squirtle_shell" },
 
 		{ "predicate": { "custom_model_data": 1400 }, "model": "ssbrc:fighters/ryu/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1401 }, "model": "ssbrc:fighters/ryu/items/collarbone_breaker/default/default" },
@@ -344,19 +346,6 @@
 
 		{ "predicate": { "custom_model_data": 9050 }, "model": "ssbrc:fighters/zelda/items/inventory_refresh/full_price" },
 		{ "predicate": { "custom_model_data": 9051 }, "model": "ssbrc:fighters/zelda/items/inventory_refresh/half_price" },
-
-		{ "predicate": { "custom_model_data": 9052 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bow/default/idle" },
-		{ "predicate": { "custom_model_data": 9053 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bow/default/pulling_0" },
-		{ "predicate": { "custom_model_data": 9054 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bow/default/pulling_1" },
-		{ "predicate": { "custom_model_data": 9055 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bow/default/pulling_2" },
-		{ "predicate": { "custom_model_data": 9056 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bow/fire/idle" },
-		{ "predicate": { "custom_model_data": 9057 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bow/fire/pulling_0" },
-		{ "predicate": { "custom_model_data": 9058 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bow/fire/pulling_1" },
-		{ "predicate": { "custom_model_data": 9059 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bow/fire/pulling_2" },
-		{ "predicate": { "custom_model_data": 9060 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bow/poison/idle" },
-		{ "predicate": { "custom_model_data": 9061 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bow/poison/pulling_0" },
-		{ "predicate": { "custom_model_data": 9062 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bow/poison/pulling_1" },
-		{ "predicate": { "custom_model_data": 9063 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bow/poison/pulling_2" },
 
 		{ "predicate": { "custom_model_data": 9064 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bomb/stowed" },
 

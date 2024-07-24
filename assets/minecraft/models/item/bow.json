@@ -30,21 +30,21 @@
 			"predicate": {
 				"pulling": 1
 			},
-			"model": "item/bow_pulling_0"
+			"model": "minecraft:item/bow_pulling_0"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"pull": 0.65
 			},
-			"model": "item/bow_pulling_1"
+			"model": "minecraft:item/bow_pulling_1"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"pull": 0.9
 			},
-			"model": "item/bow_pulling_2"
+			"model": "minecraft:item/bow_pulling_2"
 		},
 		{
 			"predicate": {
@@ -198,6 +198,93 @@
 				"pull": 0.9
 			},
 			"model": "ssbrc:fighters/link/items/fairy_bow/gold/pulling_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1780
+			},
+			"model": "ssbrc:fighters/zelda/items/dungeon_items/bow/default/idle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1780,
+				"pulling": 1
+			},
+			"model": "ssbrc:fighters/zelda/items/dungeon_items/bow/default/pulling_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1780,
+				"pulling": 1,
+				"pull": 0.65
+			},
+			"model": "ssbrc:fighters/zelda/items/dungeon_items/bow/default/pulling_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1780,
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "ssbrc:fighters/zelda/items/dungeon_items/bow/default/pulling_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1781
+			},
+			"model": "ssbrc:fighters/zelda/items/dungeon_items/bow/fire/idle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1781,
+				"pulling": 1
+			},
+			"model": "ssbrc:fighters/zelda/items/dungeon_items/bow/fire/pulling_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1781,
+				"pulling": 1,
+				"pull": 0.65
+			},
+			"model": "ssbrc:fighters/zelda/items/dungeon_items/bow/fire/pulling_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1781,
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "ssbrc:fighters/zelda/items/dungeon_items/bow/fire/pulling_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1782
+			},
+			"model": "ssbrc:fighters/zelda/items/dungeon_items/bow/poison/idle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1782,
+				"pulling": 1
+			},
+			"model": "ssbrc:fighters/zelda/items/dungeon_items/bow/poison/pulling_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1782,
+				"pulling": 1,
+				"pull": 0.65
+			},
+			"model": "ssbrc:fighters/zelda/items/dungeon_items/bow/poison/pulling_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1782,
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "ssbrc:fighters/zelda/items/dungeon_items/bow/poison/pulling_2"
 		}
 	]
 }
