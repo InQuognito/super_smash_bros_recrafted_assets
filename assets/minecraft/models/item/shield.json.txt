@@ -1,0 +1,165 @@
+{
+	"textures": {
+		"particle": "minecraft:block/dark_oak_planks"
+	},
+	"overrides": [
+		{
+			"predicate":{
+				"custom_model_data": 100,
+				"blocking": 0
+			},
+			"model": "ssbrc:fighters/byleth/items/black_eagles/shield/default"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 100,
+				"blocking": 1
+			},
+			"model": "ssbrc:fighters/byleth/items/black_eagles/shield/blocking"
+		},
+
+		{
+			"predicate":{
+				"custom_model_data": 440,
+				"blocking": 0
+			},
+			"model": "ssbrc:fighters/hero/items/shield/default/default"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 440,
+				"blocking": 1
+			},
+			"model": "ssbrc:fighters/hero/items/shield/default/blocking"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 441,
+				"blocking": 0
+			},
+			"model": "ssbrc:fighters/hero/items/shield/gold/default"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 441,
+				"blocking": 1
+			},
+			"model": "ssbrc:fighters/hero/items/shield/gold/blocking"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 442,
+				"blocking": 0
+			},
+			"model": "ssbrc:fighters/hero/items/shield/erdrick/default"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 442,
+				"blocking": 1
+			},
+			"model": "ssbrc:fighters/hero/items/shield/erdrick/blocking"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 443,
+				"blocking": 0
+			},
+			"model": "ssbrc:fighters/hero/items/shield/rek/default"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 443,
+				"blocking": 1
+			},
+			"model": "ssbrc:fighters/hero/items/shield/rek/blocking"
+		},
+
+		{
+			"predicate":{
+				"custom_model_data": 720,
+				"blocking": 0
+			},
+			"model": "ssbrc:fighters/link/items/hylian_shield/default/default"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 720,
+				"blocking": 1
+			},
+			"model": "ssbrc:fighters/link/items/hylian_shield/default/blocking"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 721,
+				"blocking": 0
+			},
+			"model": "ssbrc:fighters/link/items/hylian_shield/gold/default"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 721,
+				"blocking": 1
+			},
+			"model": "ssbrc:fighters/link/items/hylian_shield/gold/blocking"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 722,
+				"blocking": 0
+			},
+			"model": "ssbrc:fighters/link/items/hylian_shield/dark_link/default"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 722,
+				"blocking": 1
+			},
+			"model": "ssbrc:fighters/link/items/hylian_shield/dark_link/blocking"
+		},
+
+		{
+			"predicate":{
+				"custom_model_data": 1780,
+				"blocking": 0
+			},
+			"model": "ssbrc:fighters/zelda/items/small_shield/default"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 1780,
+				"blocking": 1
+			},
+			"model": "ssbrc:fighters/zelda/items/small_shield/blocking"
+		},
+
+		{
+			"predicate":{
+				"custom_model_data": 1840,
+				"blocking": 0
+			},
+			"model": "ssbrc:fighters/alucard/items/alucard_shield/default/default"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 1840,
+				"blocking": 1
+			},
+			"model": "ssbrc:fighters/alucard/items/alucard_shield/default/blocking"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 1841,
+				"blocking": 0
+			},
+			"model": "ssbrc:fighters/alucard/items/alucard_shield/gold/default"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 1841,
+				"blocking": 1
+			},
+			"model": "ssbrc:fighters/alucard/items/alucard_shield/gold/blocking"
+		}
+	]
+}

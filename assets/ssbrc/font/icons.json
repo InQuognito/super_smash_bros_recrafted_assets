@@ -11,6 +11,12 @@
 			"file": "ssbrc:ui/icons/fire.png",
 			"ascent": 8,
 			"chars": [ "\uf801" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:ui/icons/rupee.png",
+			"ascent": 8,
+			"chars": [ "\uf999" ]
 		}
 	]
 }

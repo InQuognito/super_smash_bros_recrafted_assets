@@ -126,8 +126,6 @@
 		{ "predicate": { "custom_model_data": 1901 }, "model": "ssbrc:stages/pyrosphere/fgii_graham/body" },
 		{ "predicate": { "custom_model_data": 1902 }, "model": "ssbrc:stages/pyrosphere/fgii_graham/propeller" },
 		{ "predicate": { "custom_model_data": 1950 }, "model": "ssbrc:stage_icons/yggdrasils_altar" },
-		{ "predicate": { "custom_model_data": 2000 }, "model": "ssbrc:stage_icons/hoenn_pokemon_league" },
-		{ "predicate": { "custom_model_data": 2050 }, "model": "ssbrc:stage_icons/minecraft_world" },
 
 		{ "predicate": { "custom_model_data": 9999 }, "model": "ssbrc:stage_icons/random" }
 	]
