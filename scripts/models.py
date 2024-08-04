@@ -89,14 +89,15 @@ def create_miiverse_cmd():
 		fighter_count = len(fighters_temp)
 		n = 1
 		for fighter in fighters_temp:
-			i = fighters_temp[fighter]['model']
-			for post in range(0, fighters_temp[fighter]['miiverse_posts']):
-				if n == fighter_count and post == (fighters_temp[fighter]['miiverse_posts'] - 1):
-					js_write(file, tab(2) + '{ "predicate": { "custom_model_data": '+ str(i) + ' }, "model": "ssbrc:stages/miiverse/posts/' + fighter + '/' + str(post) + '" }')
-				else:
-					js_write(file, tab(2) + '{ "predicate": { "custom_model_data": '+ str(i) + ' }, "model": "ssbrc:stages/miiverse/posts/' + fighter + '/' + str(post) + '" },')
-			i += 1
-			n += 1
+			if fighter != 'peach':
+				i = fighters_temp[fighter]['model']
+				for post in range(0, fighters_temp[fighter]['miiverse_posts']):
+					if n == fighter_count and post == (fighters_temp[fighter]['miiverse_posts'] - 1):
+						js_write(file, tab(2) + '{ "predicate": { "custom_model_data": '+ str(i) + ' }, "model": "ssbrc:stages/miiverse/posts/' + fighter + '/' + str(post) + '" }')
+					else:
+						js_write(file, tab(2) + '{ "predicate": { "custom_model_data": '+ str(i) + ' }, "model": "ssbrc:stages/miiverse/posts/' + fighter + '/' + str(post) + '" },')
+				i += 1
+				n += 1
 
 		js_write(file, tab(1) + ']')
 		js_write(file, '}')

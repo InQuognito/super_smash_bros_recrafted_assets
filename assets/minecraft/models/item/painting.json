@@ -27,7 +27,6 @@
 		{ "predicate": { "custom_model_data": 840 }, "model": "ssbrc:stages/miiverse/posts/mario/1" },
 		{ "predicate": { "custom_model_data": 880 }, "model": "ssbrc:stages/miiverse/posts/mega_man/0" },
 		{ "predicate": { "custom_model_data": 1080 }, "model": "ssbrc:stages/miiverse/posts/ness/0" },
-		{ "predicate": { "custom_model_data": 1160 }, "model": "ssbrc:stages/miiverse/posts/peach/0" },
 		{ "predicate": { "custom_model_data": 1200 }, "model": "ssbrc:stages/miiverse/posts/pikachu/0" },
 		{ "predicate": { "custom_model_data": 1220 }, "model": "ssbrc:stages/miiverse/posts/pit/0" },
 		{ "predicate": { "custom_model_data": 1260 }, "model": "ssbrc:stages/miiverse/posts/pokemon_trainer/0" },
