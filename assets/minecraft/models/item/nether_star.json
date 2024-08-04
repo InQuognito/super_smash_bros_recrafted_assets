@@ -30,10 +30,12 @@
 
 		{ "predicate": { "custom_model_data": 120 }, "model": "ssbrc:fighters/captain_falcon/skins/default" },
 		{ "predicate": { "custom_model_data": 121 }, "model": "ssbrc:fighters/captain_falcon/items/fists_of_fury/default" },
-		{ "predicate": { "custom_model_data": 122 }, "model": "ssbrc:fighters/captain_falcon/items/falcon_punch/default" },
-		{ "predicate": { "custom_model_data": 123 }, "model": "ssbrc:fighters/captain_falcon/items/falcon_punch/blood_falcon" },
-		{ "predicate": { "custom_model_data": 124 }, "model": "ssbrc:fighters/captain_falcon/items/fists_of_fury/gold" },
-		{ "predicate": { "custom_model_data": 125 }, "model": "ssbrc:fighters/captain_falcon/items/fists_of_fury/blood_falcon" },
+		{ "predicate": { "custom_model_data": 122 }, "model": "ssbrc:fighters/captain_falcon/items/fists_of_fury/gold" },
+		{ "predicate": { "custom_model_data": 123 }, "model": "ssbrc:fighters/captain_falcon/items/fists_of_fury/blood_falcon" },
+		{ "predicate": { "custom_model_data": 124 }, "model": "ssbrc:fighters/captain_falcon/items/falcon_punch/default" },
+		{ "predicate": { "custom_model_data": 125 }, "model": "ssbrc:fighters/captain_falcon/items/falcon_punch/blood_falcon" },
+		{ "predicate": { "custom_model_data": 126 }, "model": "ssbrc:fighters/captain_falcon/items/falcon_charge/default" },
+		{ "predicate": { "custom_model_data": 127 }, "model": "ssbrc:fighters/captain_falcon/items/falcon_charge/blood_falcon" },
 
 		{ "predicate": { "custom_model_data": 180 }, "model": "ssbrc:fighters/cloud/skins/default" },
 		{ "predicate": { "custom_model_data": 181 }, "model": "ssbrc:fighters/cloud/items/sword/default/operator" },

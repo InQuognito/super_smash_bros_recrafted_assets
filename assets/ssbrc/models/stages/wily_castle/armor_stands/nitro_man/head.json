@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/fighter/head",
+	"parent": "ssbrc:template/player/head",
 	"textures": {
 		"base": "ssbrc:stages/wily_castle/armor_stands/nitro_man"
 	}

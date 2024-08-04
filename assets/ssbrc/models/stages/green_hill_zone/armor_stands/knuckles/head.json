@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/fighter/head",
+	"parent": "ssbrc:template/player/head",
 	"textures": {
 		"base": "ssbrc:stages/green_hill_zone/armor_stands/knuckles"
 	}
