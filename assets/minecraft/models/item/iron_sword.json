@@ -6,17 +6,20 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 60 }, "model": "ssbrc:fighters/bowser/items/power_band/default" },
 		{ "predicate": { "custom_model_data": 61 }, "model": "ssbrc:fighters/bowser/items/power_band/gold" },
+
 		{ "predicate": { "custom_model_data": 100 }, "model": "ssbrc:fighters/byleth/items/steel_sword/default" },
 		{ "predicate": { "custom_model_data": 101 }, "model": "ssbrc:fighters/byleth/items/steel_sword/gold" },
 		{ "predicate": { "custom_model_data": 102 }, "model": "ssbrc:fighters/byleth/items/blue_lions/areadbhar/default" },
 		{ "predicate": { "custom_model_data": 103 }, "model": "ssbrc:fighters/byleth/items/blue_lions/areadbhar/awakened" },
 		{ "predicate": { "custom_model_data": 104 }, "model": "ssbrc:fighters/byleth/items/blue_lions/areadbhar/spinning/default" },
 		{ "predicate": { "custom_model_data": 105 }, "model": "ssbrc:fighters/byleth/items/blue_lions/areadbhar/spinning/awakened" },
+
 		{ "predicate": { "custom_model_data": 400 }, "model": "ssbrc:fighters/ganondorf/items/sword/default" },
 		{ "predicate": { "custom_model_data": 401 }, "model": "ssbrc:fighters/ganondorf/items/sword/gold" },
 		{ "predicate": { "custom_model_data": 402 }, "model": "ssbrc:fighters/ganondorf/items/sword/ocarina_of_time" },
 		{ "predicate": { "custom_model_data": 403 }, "model": "ssbrc:fighters/ganondorf/items/sword/tears_of_the_kingdom" },
 		{ "predicate": { "custom_model_data": 404 }, "model": "ssbrc:fighters/ganondorf/items/sword/wind_waker" },
+
 		{ "predicate": { "custom_model_data": 440 }, "model": "ssbrc:fighters/hero/items/sword/sword_of_light/default" },
 		{ "predicate": { "custom_model_data": 441 }, "model": "ssbrc:fighters/hero/items/sword/sword_of_ramias/default" },
 		{ "predicate": { "custom_model_data": 442 }, "model": "ssbrc:fighters/hero/items/sword/zenithian_sword/default" },
@@ -24,10 +27,17 @@
 		{ "predicate": { "custom_model_data": 444 }, "model": "ssbrc:fighters/hero/items/sword/sword_of_light/disabled" },
 		{ "predicate": { "custom_model_data": 445 }, "model": "ssbrc:fighters/hero/items/sword/sword_of_ramias/disabled" },
 		{ "predicate": { "custom_model_data": 446 }, "model": "ssbrc:fighters/hero/items/sword/zenithian_sword/disabled" },
+
 		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:fighters/kirby/items/katana/default" },
 		{ "predicate": { "custom_model_data": 701 }, "model": "ssbrc:fighters/kirby/items/katana/gold" },
+
+		{ "predicate": { "custom_model_data": 1200 }, "model": "minecraft:item/iron_sword" },
+		{ "predicate": { "custom_model_data": 1202 }, "model": "ssbrc:fighters/pikachu/items/mega_punch/shiny" },
+
 		{ "predicate": { "custom_model_data": 1520 }, "model": "ssbrc:fighters/snake/items/cqc_knife/default" },
 		{ "predicate": { "custom_model_data": 1521 }, "model": "ssbrc:fighters/snake/items/cqc_knife/gold" },
+
+
 
 		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/default" },
 		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/gold" },

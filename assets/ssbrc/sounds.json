@@ -386,24 +386,6 @@
 			}
 		]
 	},
-	"fighters.captain_falcon.falcon_punch.blood_falcon.charge": {
-		"sounds":[
-			{
-				"name":"ssbrc:fighters/captain_falcon/falcon_punch/blood_falcon/charge",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"fighters.captain_falcon.falcon_punch.blood_falcon.unleash": {
-		"sounds":[
-			{
-				"name":"ssbrc:fighters/captain_falcon/falcon_punch/blood_falcon/unleash",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
 	"fighters.captain_falcon.raptor_boost.activate": {
 		"sounds":[
 			{

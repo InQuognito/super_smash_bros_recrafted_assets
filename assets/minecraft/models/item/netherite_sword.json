@@ -4,6 +4,9 @@
 		"layer0": "minecraft:item/netherite_sword"
 	},
 	"overrides": [
+		{ "predicate": { "custom_model_data": 1260 }, "model": "minecraft:item/netherite_sword" },
+		{ "predicate": { "custom_model_data": 1264 }, "model": "ssbrc:fighters/pokemon_trainer/items/knock_off/victor" },
+
 		{ "predicate": { "custom_model_data": 1900 }, "model": "ssbrc:fighters/shadow/items/black_sword/default" },
 		{ "predicate": { "custom_model_data": 1901 }, "model": "ssbrc:fighters/shadow/items/black_sword/gold" },
 		{ "predicate": { "custom_model_data": 1902 }, "model": "ssbrc:fighters/shadow/items/black_sword/sir_lancelot" }
