@@ -166,13 +166,8 @@
 		{ "predicate": { "custom_model_data": 1201 }, "model": "ssbrc:fighters/pikachu/items/electric_terrain" },
 
 		{ "predicate": { "custom_model_data": 1220 }, "model": "ssbrc:fighters/pit/skins/default" },
-		{ "predicate": { "custom_model_data": 1221 }, "model": "ssbrc:fighters/pit/items/palutena_bow/default/idle" },
-		{ "predicate": { "custom_model_data": 1222 }, "model": "ssbrc:fighters/pit/items/palutena_bow/default/pulling_0" },
-		{ "predicate": { "custom_model_data": 1223 }, "model": "ssbrc:fighters/pit/items/palutena_bow/default/pulling_1" },
-		{ "predicate": { "custom_model_data": 1224 }, "model": "ssbrc:fighters/pit/items/palutena_bow/default/pulling_2" },
-		{ "predicate": { "custom_model_data": 1225 }, "model": "ssbrc:fighters/pit/items/palutena_bow/default/split" },
-		{ "predicate": { "custom_model_data": 1226 }, "model": "ssbrc:fighters/pit/items/guardian_orbitars/default" },
-		{ "predicate": { "custom_model_data": 1227 }, "model": "ssbrc:fighters/pit/items/guardian_orbitars/gold" },
+		{ "predicate": { "custom_model_data": 1221 }, "model": "ssbrc:fighters/pit/items/guardian_orbitars/default" },
+		{ "predicate": { "custom_model_data": 1222 }, "model": "ssbrc:fighters/pit/items/guardian_orbitars/gold" },
 
 		{ "predicate": { "custom_model_data": 1260 }, "model": "ssbrc:fighters/pokemon_trainer/skins/default/squirtle_shell" },
 		{ "predicate": { "custom_model_data": 1261 }, "model": "ssbrc:fighters/pokemon_trainer/skins/gold/squirtle_shell" },

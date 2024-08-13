@@ -201,6 +201,66 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 1221
+			},
+			"model": "ssbrc:fighters/pit/items/palutena_bow/default/idle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1221,
+				"pulling": 1
+			},
+			"model": "ssbrc:fighters/pit/items/palutena_bow/default/pulling_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1221,
+				"pulling": 1,
+				"pull": 0.65
+			},
+			"model": "ssbrc:fighters/pit/items/palutena_bow/default/pulling_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1221,
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "ssbrc:fighters/pit/items/palutena_bow/default/pulling_2"
+		},
+		{ "predicate": { "custom_model_data": 1222 }, "model": "ssbrc:fighters/pit/items/palutena_bow/default/split" },
+		{
+			"predicate": {
+				"custom_model_data": 1223
+			},
+			"model": "ssbrc:fighters/pit/items/palutena_bow/retro/idle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1223,
+				"pulling": 1
+			},
+			"model": "ssbrc:fighters/pit/items/palutena_bow/retro/pulling_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1223,
+				"pulling": 1,
+				"pull": 0.65
+			},
+			"model": "ssbrc:fighters/pit/items/palutena_bow/retro/pulling_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1223,
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "ssbrc:fighters/pit/items/palutena_bow/retro/pulling_2"
+		},
+		{ "predicate": { "custom_model_data": 1224 }, "model": "ssbrc:fighters/pit/items/palutena_bow/retro/split" },
+		{
+			"predicate": {
 				"custom_model_data": 1780
 			},
 			"model": "ssbrc:fighters/zelda/items/dungeon_items/bow/default/idle"

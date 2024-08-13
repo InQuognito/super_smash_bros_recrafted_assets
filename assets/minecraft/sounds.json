@@ -59,6 +59,14 @@
 		],
 		"replace":true
 	},
+	"entity.generic.eat": {
+		"sounds":[],
+		"replace":true
+	},
+	"entity.player.burp": {
+		"sounds":[],
+		"replace":true
+	},
 	"item.armor.equip_generic": {
 		"sounds":[],
 		"replace":true
