@@ -350,7 +350,7 @@
 	"ssbrc.fighter.super_mario_bros.super_jump": "Super Jump",
 	"ssbrc.fighter.super_mario_bros.super_jump.description.1": "] to charge",
 	"ssbrc.fighter.super_mario_bros.super_jump.description.2": "- Grants a single powerful jump",
-	"ssbrc.fighter.super_mario_bros.super_jump.description.3": "- Moving will reset the jump",
+	"ssbrc.fighter.super_mario_bros.super_jump.description.3": "- Moving too far will reset the jump",
 	"ssbrc.fighter.super_mario_bros.stomp": "Stomp",
 	"ssbrc.fighter.super_mario_bros.stomp.description.1": "- Jumping on an opponent will deal damage",
 	"ssbrc.fighter.mario": "Mario",

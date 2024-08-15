@@ -517,12 +517,12 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -10, 0],
-			"translation": [3.5, 0, -3],
+			"translation": [3.5, 12, -3],
 			"scale": [4, 4, 3]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, -10, 0],
-			"translation": [3.5, 0, -3],
+			"translation": [3.5, 12, -3],
 			"scale": [4, 4, 3]
 		},
 		"gui": {

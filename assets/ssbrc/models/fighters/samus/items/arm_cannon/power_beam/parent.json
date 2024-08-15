@@ -433,12 +433,12 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -10, 0],
-			"translation": [4, 1, -1],
+			"translation": [4, 12, -1],
 			"scale": [4, 4, 3]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, -10, 0],
-			"translation": [4, 1, -1],
+			"translation": [4, 12, -1],
 			"scale": [4, 4, 3]
 		},
 		"gui": {

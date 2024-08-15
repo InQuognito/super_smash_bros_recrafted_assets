@@ -78,10 +78,10 @@
 
 		{ "predicate": { "custom_model_data": 440 }, "model": "ssbrc:fighters/hero/skins/default/default" },
 		{ "predicate": { "custom_model_data": 441 }, "model": "ssbrc:fighters/hero/items/spells/bang/default" },
-		{ "predicate": { "custom_model_data": 442 }, "model": "ssbrc:fighters/hero/items/spells/bang/disabled" },
-		{ "predicate": { "custom_model_data": 443 }, "model": "ssbrc:fighters/hero/items/spells/kaclang/default" },
-		{ "predicate": { "custom_model_data": 444 }, "model": "ssbrc:fighters/hero/items/spells/kaclang/disabled" },
-		{ "predicate": { "custom_model_data": 445 }, "model": "ssbrc:fighters/hero/items/spells/magic_burst" },
+		{ "predicate": { "custom_model_data": 441, "damaged": 1 }, "model": "ssbrc:fighters/hero/items/spells/bang/disabled" },
+		{ "predicate": { "custom_model_data": 442 }, "model": "ssbrc:fighters/hero/items/spells/kaclang/default" },
+		{ "predicate": { "custom_model_data": 442, "damaged": 1 }, "model": "ssbrc:fighters/hero/items/spells/kaclang/disabled" },
+		{ "predicate": { "custom_model_data": 443 }, "model": "ssbrc:fighters/hero/items/spells/magic_burst" },
 
 		{ "predicate": { "custom_model_data": 580 }, "model": "ssbrc:fighters/jigglypuff/skins/default/default" },
 		{ "predicate": { "custom_model_data": 581 }, "model": "ssbrc:fighters/jigglypuff/items/hyper_voice/default" },
@@ -258,10 +258,11 @@
 
 		{ "predicate": { "custom_model_data": 1840 }, "model": "ssbrc:fighters/alucard/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1841 }, "model": "ssbrc:fighters/alucard/items/holy_water/default" },
-		{ "predicate": { "custom_model_data": 1842 }, "model": "ssbrc:fighters/alucard/items/blood_metamorphosis/default" },
-		{ "predicate": { "custom_model_data": 1843 }, "model": "ssbrc:fighters/alucard/items/holy_water/gold" },
+		{ "predicate": { "custom_model_data": 1842 }, "model": "ssbrc:fighters/alucard/items/holy_water/gold" },
+		{ "predicate": { "custom_model_data": 1843 }, "model": "ssbrc:fighters/alucard/items/blood_metamorphosis/default" },
+		{ "predicate": { "custom_model_data": 1843, "damaged": 1 }, "model": "ssbrc:fighters/alucard/items/blood_metamorphosis/disabled" },
 		{ "predicate": { "custom_model_data": 1844 }, "model": "ssbrc:fighters/alucard/items/blood_metamorphosis/gold" },
-		{ "predicate": { "custom_model_data": 1845 }, "model": "ssbrc:fighters/alucard/items/blood_metamorphosis/disabled" },
+		{ "predicate": { "custom_model_data": 1844, "damaged": 1 }, "model": "ssbrc:fighters/alucard/items/blood_metamorphosis/disabled" },
 
 		{ "predicate": { "custom_model_data": 1860 }, "model": "ssbrc:fighters/giegue/skins/default" },
 		{ "predicate": { "custom_model_data": 1861 }, "model": "ssbrc:fighters/giegue/items/pk_freeze" },
@@ -348,21 +349,21 @@
 
 
 		{ "predicate": { "custom_model_data": 50003 }, "model": "ssbrc:pokemon/type_icons/electric/default" },
+		{ "predicate": { "custom_model_data": 50003, "damaged": 1 }, "model": "ssbrc:pokemon/type_icons/electric/disabled" },
 		{ "predicate": { "custom_model_data": 50006 }, "model": "ssbrc:pokemon/type_icons/fire/default" },
+		{ "predicate": { "custom_model_data": 50006, "damaged": 1 }, "model": "ssbrc:pokemon/type_icons/fire/disabled" },
 		{ "predicate": { "custom_model_data": 50008 }, "model": "ssbrc:pokemon/type_icons/ghost/default" },
+		{ "predicate": { "custom_model_data": 50008, "damaged": 1 }, "model": "ssbrc:pokemon/type_icons/ghost/disabled" },
 		{ "predicate": { "custom_model_data": 50009 }, "model": "ssbrc:pokemon/type_icons/grass/default" },
+		{ "predicate": { "custom_model_data": 50009, "damaged": 1 }, "model": "ssbrc:pokemon/type_icons/grass/disabled" },
 		{ "predicate": { "custom_model_data": 50010 }, "model": "ssbrc:pokemon/type_icons/ground/default" },
+		{ "predicate": { "custom_model_data": 50010, "damaged": 1 }, "model": "ssbrc:pokemon/type_icons/ground/disabled" },
 		{ "predicate": { "custom_model_data": 50012 }, "model": "ssbrc:pokemon/type_icons/normal/default" },
+		{ "predicate": { "custom_model_data": 50012, "damaged": 1 }, "model": "ssbrc:pokemon/type_icons/normal/disabled" },
 		{ "predicate": { "custom_model_data": 50013 }, "model": "ssbrc:pokemon/type_icons/poison/default" },
+		{ "predicate": { "custom_model_data": 50013, "damaged": 1 }, "model": "ssbrc:pokemon/type_icons/poison/disabled" },
 		{ "predicate": { "custom_model_data": 50018 }, "model": "ssbrc:pokemon/type_icons/water/default" },
-
-		{ "predicate": { "custom_model_data": 60003 }, "model": "ssbrc:pokemon/type_icons/electric/disabled" },
-		{ "predicate": { "custom_model_data": 60006 }, "model": "ssbrc:pokemon/type_icons/fire/disabled" },
-		{ "predicate": { "custom_model_data": 60008 }, "model": "ssbrc:pokemon/type_icons/ghost/disabled" },
-		{ "predicate": { "custom_model_data": 60009 }, "model": "ssbrc:pokemon/type_icons/grass/disabled" },
-		{ "predicate": { "custom_model_data": 60012 }, "model": "ssbrc:pokemon/type_icons/normal/disabled" },
-		{ "predicate": { "custom_model_data": 60013 }, "model": "ssbrc:pokemon/type_icons/poison/disabled" },
-		{ "predicate": { "custom_model_data": 60018 }, "model": "ssbrc:pokemon/type_icons/water/disabled" },
+		{ "predicate": { "custom_model_data": 50018, "damaged": 1 }, "model": "ssbrc:pokemon/type_icons/water/disabled" },
 
 
 
