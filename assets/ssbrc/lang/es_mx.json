@@ -284,6 +284,9 @@
 	"ssbrc.options.blind_pickTitle": "Elección ciega: ",
 	"ssbrc.options.blind_pick.description": "Cuando esté habilitado, los jugadores no podrán ver el luchador recibido al seleccionar al azar.",
 
+	"ssbrc.options.friendly_fire": "Fuego amigo",
+	"ssbrc.options.friendly_fire.description": "Los ataques no dañarán a los compañeros de equipo.",
+
 	"ssbrc.options.hazards": "Peligros",
 	"ssbrc.options.hazardsTitle": "Peligros: ",
 	"ssbrc.options.hazards.description": "Cuando están habilitados, los escenarios pueden contener nuevas mecánicas como trampas, enemigos y otros elementos que no forman parte del diseño estándar.",
@@ -348,6 +351,7 @@
 	"ssbrc.fighter.super_mario_bros.super_jump": "Súper salto",
 	"ssbrc.fighter.super_mario_bros.super_jump.description.1": "] para cargar",
 	"ssbrc.fighter.super_mario_bros.super_jump.description.2": "- Mover restablecerá el salto",
+	"ssbrc.fighter.super_mario_bros.super_jump.description.3": "- Moverse demasiado lejos restablecerá el salto",
 	"ssbrc.fighter.super_mario_bros.stomp": "Pisar",
 	"ssbrc.fighter.super_mario_bros.stomp.description.1": "- Saltar sobre una oponente causará daño",
 	"ssbrc.fighter.mario": "Mario",
@@ -635,6 +639,9 @@
 	"ssbrc.fighter.pokemon_trainer.ivysaur.victor": "Rillaboom",
 	"ssbrc.fighter.pokemon_trainer.ivysaur.knock_off": "Noqueada",
 	"ssbrc.fighter.pokemon_trainer.ivysaur.knock_off.description.1": "- Tiene la posibilidad de derribar objetos",
+	"ssbrc.fighter.pokemon_trainer.ivysaur.poison_powder": "Polvo Veneno",
+	"ssbrc.fighter.pokemon_trainer.ivysaur.poison_powder.description.1": "] para crear una nube de esporas venenosas",
+	"ssbrc.fighter.pokemon_trainer.ivysaur.poison_powder.description.2": "- Inflige daño rápido a todos los oponentes",
 	"ssbrc.fighter.pokemon_trainer.ivysaur.leech_seed": "Semilla Enredadera",
 	"ssbrc.fighter.pokemon_trainer.ivysaur.leech_seed.description.1": "] para plantar una semilla enredadera",
 	"ssbrc.fighter.pokemon_trainer.ivysaur.leech_seed.description.2": "- Drena la salud de los oponentes que lo tocan",
