@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/right/parent",
+	"textures": {
+		"base": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/player_2"
+	}
+}

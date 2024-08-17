@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:fighters/mario/skins/parent_full",
+	"parent": "ssbrc:fighters/luigi/skins/parent_full",
 	"textures": {
 		"base": "ssbrc:fighters/luigi/skins/full"
 	}

@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighters/captain_falcon/items/fists_of_fury/right/parent",
+	"textures": {
+		"base": "ssbrc:fighters/captain_falcon/items/fists_of_fury/gold"
+	}
+}

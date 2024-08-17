@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/item/hud",
+	"textures": {
+		"base": "ssbrc:fighters/ness/items/pk_fire/default"
+	}
+}

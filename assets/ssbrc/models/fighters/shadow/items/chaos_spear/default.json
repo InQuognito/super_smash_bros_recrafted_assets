@@ -1,20 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "ssbrc:template/item/hud",
 	"textures": {
-		"layer0": "ssbrc:fighters/shadow/items/chaos_spear/default"
-	},
-	"display": {
-		"thirdperson_righthand": {
-			"scale": [0, 0, 0]
-		},
-		"thirdperson_lefthand": {
-			"scale": [0, 0, 0]
-		},
-		"firstperson_righthand": {
-			"scale": [0, 0, 0]
-		},
-		"firstperson_lefthand": {
-			"scale": [0, 0, 0]
-		}
+		"base": "ssbrc:fighters/shadow/items/chaos_spear/default"
 	}
 }

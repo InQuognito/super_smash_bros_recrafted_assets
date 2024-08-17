@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighters/altered_beast/items/weretiger/tiger_claw/right/parent",
+	"textures": {
+		"base": "ssbrc:fighters/altered_beast/items/weretiger/tiger_claw/player_2"
+	}
+}

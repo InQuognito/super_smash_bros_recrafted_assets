@@ -4,6 +4,11 @@
 		"layer0": "minecraft:item/golden_axe"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1824 }, "model": "ssbrc:fighters/altered_beast/items/werebear/bear_claw" }
+		{ "predicate": { "custom_model_data": 1824 }, "model": "ssbrc:fighters/altered_beast/items/werebear/bear_claw/right/default" },
+		{ "predicate": { "custom_model_data": 1824, "lefthanded": 1 }, "model": "ssbrc:fighters/altered_beast/items/werebear/bear_claw/left/default" },
+		{ "predicate": { "custom_model_data": 1825 }, "model": "ssbrc:fighters/altered_beast/items/werebear/bear_claw/right/gold" },
+		{ "predicate": { "custom_model_data": 1825, "lefthanded": 1 }, "model": "ssbrc:fighters/altered_beast/items/werebear/bear_claw/left/gold" },
+		{ "predicate": { "custom_model_data": 1826 }, "model": "ssbrc:fighters/altered_beast/items/werebear/bear_claw/right/player_2" },
+		{ "predicate": { "custom_model_data": 1826, "lefthanded": 1 }, "model": "ssbrc:fighters/altered_beast/items/werebear/bear_claw/left/player_2" }
 	]
 }

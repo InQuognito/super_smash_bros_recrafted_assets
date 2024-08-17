@@ -350,6 +350,15 @@
 			}
 		]
 	},
+	"fighters.captain_falcon.falcon_kick.voice": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/captain_falcon/falcon_kick/voice",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.captain_falcon.falcon_punch.default.charge_voice": {
 		"sounds":[
 			{
@@ -2184,6 +2193,15 @@
 		"sounds":[
 			{
 				"name":"ssbrc:stages/bowsers_castle/banzai_bill/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"stages.bowsers_castle.thwomp.land": {
+		"sounds":[
+			{
+				"name":"ssbrc:stages/bowsers_castle/thwomp/land",
 				"stream": false,
 				"volume": 1.0
 			}

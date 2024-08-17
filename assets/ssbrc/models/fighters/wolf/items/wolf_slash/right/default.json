@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighters/wolf/items/wolf_slash/right/parent",
+	"textures": {
+		"base": "ssbrc:fighters/wolf/items/wolf_slash/default"
+	}
+}

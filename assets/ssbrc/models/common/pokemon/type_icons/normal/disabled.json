@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/item/hud",
+	"textures": {
+		"base": "ssbrc:common/pokemon/type_icons/normal/disabled"
+	}
+}

@@ -1,5 +1,9 @@
 {
+	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
+	"textures": {
+		"base": "ssbrc:fighters/bowser/skins/full"
+	},
 	"elements": [
 		{
 			"from": [4, 14, 4],
@@ -47,7 +51,7 @@
 			"faces": {
 				"north": {"uv": [11, 2, 12, 2.5], "texture": "#base"},
 				"east": {"uv": [9.25, 2, 11, 2.5], "texture": "#base"},
-				"south": {"uv": [13.75, 2, 14.75, 2.5], "texture": "#base"},
+				"south": {"uv": [14, 2, 15, 2.5], "texture": "#base"},
 				"west": {"uv": [12, 2, 13.75, 2.5], "texture": "#base"},
 				"up": {"uv": [12, 2, 11, 0.25], "texture": "#base"},
 				"down": {"uv": [13, 0.25, 12, 2], "texture": "#base"}
@@ -59,11 +63,11 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 15, 0]},
 			"faces": {
 				"north": {"uv": [10.75, 2.75, 11.75, 4.25], "texture": "#base"},
-				"east": {"uv": [10.5, 2.75, 10.75, 4.25], "texture": "#base"},
-				"south": {"uv": [12, 2.75, 13, 4.25], "texture": "#base"},
-				"west": {"uv": [11.75, 2.75, 12, 4.25], "texture": "#base"},
+				"east": {"uv": [11, 0.25, 11.25, 1.75], "texture": "#base"},
+				"south": {"uv": [11.75, 2.5, 12.75, 4], "texture": "#base"},
+				"west": {"uv": [11.75, 2.5, 12, 4], "texture": "#base"},
 				"up": {"uv": [11.75, 2.75, 10.75, 2.5], "texture": "#base"},
-				"down": {"uv": [12.75, 2.5, 11.75, 2.75], "texture": "#base"}
+				"down": {"uv": [13.25, 2, 12.25, 2.25], "texture": "#base"}
 			}
 		},
 		{
@@ -71,12 +75,12 @@
 			"to": [14, 24, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 15, 0]},
 			"faces": {
-				"north": {"uv": [9.5, 4.75, 10, 5.75], "texture": "#base"},
-				"east": {"uv": [9, 4.75, 9.5, 5.75], "texture": "#base"},
-				"south": {"uv": [10.5, 4.75, 11, 5.75], "texture": "#base"},
-				"west": {"uv": [10, 4.75, 10.5, 5.75], "texture": "#base"},
-				"up": {"uv": [10, 4.75, 9.5, 4.25], "texture": "#base"},
-				"down": {"uv": [10.5, 4.25, 10, 4.75], "texture": "#base"}
+				"north": {"uv": [14.5, 5.5, 15, 6.5], "texture": "#base"},
+				"east": {"uv": [14, 5.5, 14.5, 6.5], "texture": "#base"},
+				"south": {"uv": [15.5, 5.5, 16, 6.5], "texture": "#base"},
+				"west": {"uv": [15, 5.5, 15.5, 6.5], "texture": "#base"},
+				"up": {"uv": [15, 5.5, 14.5, 5], "texture": "#base"},
+				"down": {"uv": [15.5, 5, 15, 5.5], "texture": "#base"}
 			}
 		},
 		{
@@ -84,12 +88,12 @@
 			"to": [4, 24, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 15, 0]},
 			"faces": {
-				"north": {"uv": [9.5, 6.25, 10, 7.25], "texture": "#base"},
-				"east": {"uv": [9, 6.25, 9.5, 7.25], "texture": "#base"},
-				"south": {"uv": [10.5, 6.25, 11, 7.25], "texture": "#base"},
-				"west": {"uv": [10, 6.25, 10.5, 7.25], "texture": "#base"},
-				"up": {"uv": [10, 6.25, 9.5, 5.75], "texture": "#base"},
-				"down": {"uv": [10.5, 5.75, 10, 6.25], "texture": "#base"}
+				"north": {"uv": [14.5, 7, 15, 8], "texture": "#base"},
+				"east": {"uv": [14, 7, 14.5, 8], "texture": "#base"},
+				"south": {"uv": [15.5, 7, 16, 8], "texture": "#base"},
+				"west": {"uv": [15, 7, 15.5, 8], "texture": "#base"},
+				"up": {"uv": [15, 7, 14.5, 6.5], "texture": "#base"},
+				"down": {"uv": [15.5, 6.5, 15, 7], "texture": "#base"}
 			}
 		},
 		{

@@ -39,10 +39,18 @@
 
 
 
-		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/default" },
-		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/gold" },
-		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/player_2" },
-		{ "predicate": { "custom_model_data": 1832 }, "model": "ssbrc:fighters/altered_beast/items/weretiger/tiger_claw/default" },
+		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/right/default" },
+		{ "predicate": { "custom_model_data": 1828, "lefthanded": 1 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/left/default" },
+		{ "predicate": { "custom_model_data": 1829 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/right/gold" },
+		{ "predicate": { "custom_model_data": 1829, "lefthanded": 1 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/left/gold" },
+		{ "predicate": { "custom_model_data": 1830 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/right/player_2" },
+		{ "predicate": { "custom_model_data": 1830, "lefthanded": 1 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/dragon_claw/left/player_2" },
+		{ "predicate": { "custom_model_data": 1832 }, "model": "ssbrc:fighters/altered_beast/items/weretiger/tiger_claw/right/default" },
+		{ "predicate": { "custom_model_data": 1832, "lefthanded": 1 }, "model": "ssbrc:fighters/altered_beast/items/weretiger/tiger_claw/left/default" },
+		{ "predicate": { "custom_model_data": 1833 }, "model": "ssbrc:fighters/altered_beast/items/weretiger/tiger_claw/right/gold" },
+		{ "predicate": { "custom_model_data": 1833, "lefthanded": 1 }, "model": "ssbrc:fighters/altered_beast/items/weretiger/tiger_claw/left/gold" },
+		{ "predicate": { "custom_model_data": 1834 }, "model": "ssbrc:fighters/altered_beast/items/weretiger/tiger_claw/right/player_2" },
+		{ "predicate": { "custom_model_data": 1834, "lefthanded": 1 }, "model": "ssbrc:fighters/altered_beast/items/weretiger/tiger_claw/left/player_2" },
 
 		{ "predicate": { "custom_model_data": 1840 }, "model": "ssbrc:fighters/alucard/items/alucard_sword/default" },
 		{ "predicate": { "custom_model_data": 1841 }, "model": "ssbrc:fighters/alucard/items/crissaegrim" },

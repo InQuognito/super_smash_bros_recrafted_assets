@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/player/steve",
+	"parent": "ssbrc:template/player/alex",
 	"textures": {
 		"base": "ssbrc:fighters/greninja/skins/full"
 	}
