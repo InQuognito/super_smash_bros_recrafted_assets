@@ -13,6 +13,8 @@
 		{ "predicate": { "custom_model_data": 840 }, "model": "ssbrc:fighters/mario/items/hammer/default" },
 		{ "predicate": { "custom_model_data": 841 }, "model": "ssbrc:fighters/mario/items/hammer/gold" },
 
-		{ "predicate": { "custom_model_data": 1820 }, "model": "ssbrc:fighters/altered_beast/items/gladius" }
+		{ "predicate": { "custom_model_data": 1820 }, "model": "ssbrc:fighters/altered_beast/items/gladius" },
+
+		{ "predicate": { "custom_model_data": 50000 }, "model": "ssbrc:common/pokemon/shiny_baton" }
 	]
 }

@@ -31,9 +31,6 @@
 		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:fighters/kirby/items/katana/default" },
 		{ "predicate": { "custom_model_data": 701 }, "model": "ssbrc:fighters/kirby/items/katana/gold" },
 
-		{ "predicate": { "custom_model_data": 1200 }, "model": "minecraft:item/iron_sword" },
-		{ "predicate": { "custom_model_data": 1202 }, "model": "ssbrc:fighters/pikachu/items/mega_punch/shiny" },
-
 		{ "predicate": { "custom_model_data": 1520 }, "model": "ssbrc:fighters/snake/items/cqc_knife/default" },
 		{ "predicate": { "custom_model_data": 1521 }, "model": "ssbrc:fighters/snake/items/cqc_knife/gold" },
 
@@ -85,6 +82,8 @@
 		{ "predicate": { "custom_model_data": 9024 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/glass/shattered" },
 		{ "predicate": { "custom_model_data": 9025 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/obsidian" },
 		{ "predicate": { "custom_model_data": 9026 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/ruby" },
-		{ "predicate": { "custom_model_data": 9027 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/titanium" }
+		{ "predicate": { "custom_model_data": 9027 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/titanium" },
+
+		{ "predicate": { "custom_model_data": 50000 }, "model": "ssbrc:common/pokemon/shiny_baton" }
 	]
 }
