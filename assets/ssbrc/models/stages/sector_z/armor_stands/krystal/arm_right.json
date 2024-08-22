@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/arm_right/steve",
+	"parent": "ssbrc:template/arm_right/alex",
 	"textures": {
 		"base": "ssbrc:stages/sector_z/armor_stands/krystal"
 	}

@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:template/arm_left/steve",
+	"parent": "ssbrc:template/arm_left/alex",
 	"textures": {
 		"base": "ssbrc:stages/sector_z/armor_stands/pigma"
 	}

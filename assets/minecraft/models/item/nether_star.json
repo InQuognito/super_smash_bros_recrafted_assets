@@ -58,6 +58,10 @@
 		{ "predicate": { "custom_model_data": 269 }, "model": "ssbrc:fighters/dark_samus/items/phazon_beam/gold/charge_1" },
 		{ "predicate": { "custom_model_data": 270 }, "model": "ssbrc:fighters/dark_samus/items/phazon_beam/gold/charge_2" },
 		{ "predicate": { "custom_model_data": 271 }, "model": "ssbrc:fighters/dark_samus/items/phazon_overload/gold" },
+		{ "predicate": { "custom_model_data": 272 }, "model": "ssbrc:fighters/dark_samus/items/phazon_beam/prime_3/idle" },
+		{ "predicate": { "custom_model_data": 273 }, "model": "ssbrc:fighters/dark_samus/items/phazon_beam/prime_3/charge_0" },
+		{ "predicate": { "custom_model_data": 274 }, "model": "ssbrc:fighters/dark_samus/items/phazon_beam/prime_3/charge_1" },
+		{ "predicate": { "custom_model_data": 275 }, "model": "ssbrc:fighters/dark_samus/items/phazon_beam/prime_3/charge_2" },
 
 		{ "predicate": { "custom_model_data": 300 }, "model": "ssbrc:fighters/donkey_kong/skins/default" },
 		{ "predicate": { "custom_model_data": 301 }, "model": "ssbrc:fighters/donkey_kong/items/barrel/default" },
