@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "ssbrc:fighters/link/items/master_sword/dark/awakened"
+		"layer0": "ssbrc:fighters/link/items/master_sword/dark_link/awakened"
 	},
 	"display": {
 		"thirdperson_righthand": {
