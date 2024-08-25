@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighters/king_k_rool/items/boxing_glove/left/parent",
+	"textures": {
+		"base": "ssbrc:fighters/king_k_rool/items/boxing_glove/default"
+	}
+}

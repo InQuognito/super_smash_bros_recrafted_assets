@@ -1,6 +1,6 @@
 {
-	"parent": "ssbrc:template/item/hud",
+	"parent": "ssbrc:fighters/zelda/items/great_fairy_blessing/parent",
 	"textures": {
-		"base": "ssbrc:fighters/zelda/items/great_fairy_blessing/15"
+		"price": "ssbrc:fighters/zelda/items/great_fairy_blessing/15"
 	}
 }

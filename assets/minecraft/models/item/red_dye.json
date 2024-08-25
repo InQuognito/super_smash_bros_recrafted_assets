@@ -4,7 +4,9 @@
 		"layer0": "minecraft:item/red_dye"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 680 }, "model": "ssbrc:fighters/king_k_rool/items/boxing_glove/default" },
-		{ "predicate": { "custom_model_data": 681 }, "model": "ssbrc:fighters/king_k_rool/items/boxing_glove/gold" }
+		{ "predicate": { "custom_model_data": 680 }, "model": "ssbrc:fighters/king_k_rool/items/boxing_glove/right/default" },
+		{ "predicate": { "custom_model_data": 680, "lefthanded": 1 }, "model": "ssbrc:fighters/king_k_rool/items/boxing_glove/left/default" },
+		{ "predicate": { "custom_model_data": 681 }, "model": "ssbrc:fighters/king_k_rool/items/boxing_glove/right/gold" },
+		{ "predicate": { "custom_model_data": 681, "lefthanded": 1 }, "model": "ssbrc:fighters/king_k_rool/items/boxing_glove/left/gold" }
 	]
 }
