@@ -147,7 +147,7 @@
 		{ "predicate": { "custom_model_data": 889 }, "model": "ssbrc:fighters/mega_man/items/mega_buster/star_force/air_shooter" },
 		{ "predicate": { "custom_model_data": 890 }, "model": "ssbrc:fighters/mega_man/items/mega_buster/star_force/drill_bomb" },
 		{ "predicate": { "custom_model_data": 891 }, "model": "ssbrc:fighters/mega_man/items/mega_buster/star_force/flame_sword" },
-		{ "predicate": { "custom_model_data": 892 }, "model": "ssbrc:fighters/mega_man/items/mega_buster/star_force/pile_driver" },
+		{ "predicate": { "custom_model_data": 892 }, "model": "ssbrc:fighters/mega_man/items/mega_buster/default/pile_driver" },
 		{ "predicate": { "custom_model_data": 893 }, "model": "ssbrc:fighters/mega_man/items/mega_buster/star_force/remote_mine" },
 		{ "predicate": { "custom_model_data": 894 }, "model": "ssbrc:fighters/mega_man/items/beat_call/default" },
 		{ "predicate": { "custom_model_data": 895 }, "model": "ssbrc:fighters/mega_man/items/beat_call/gold" },
