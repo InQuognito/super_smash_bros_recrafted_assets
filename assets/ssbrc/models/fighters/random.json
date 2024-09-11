@@ -1,7 +1,7 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "ssbrc:ui/question_mark_test"
+		"0": "ssbrc:ui/question_mark"
 	},
 	"elements": [
 		{

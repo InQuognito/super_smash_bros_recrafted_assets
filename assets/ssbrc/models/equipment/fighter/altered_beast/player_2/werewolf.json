@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/altered_beast/player_2/werewolf" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/altered_beast/player_2/werewolf" }
+		]
+	}
+}

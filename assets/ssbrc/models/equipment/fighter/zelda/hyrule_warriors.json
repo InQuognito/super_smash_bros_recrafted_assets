@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/zelda/hyrule_warriors" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/zelda/hyrule_warriors" }
+		]
+	}
+}

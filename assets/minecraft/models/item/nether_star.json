@@ -259,13 +259,9 @@
 
 		{ "predicate": { "custom_model_data": 1820 }, "model": "ssbrc:fighters/altered_beast/skins/default/centurion" },
 		{ "predicate": { "custom_model_data": 1821 }, "model": "ssbrc:fighters/altered_beast/items/spirit_orb" },
-		{ "predicate": { "custom_model_data": 1824 }, "model": "ssbrc:fighters/altered_beast/items/werebear/spirit_orb" },
 		{ "predicate": { "custom_model_data": 1825 }, "model": "ssbrc:fighters/altered_beast/items/werebear/petrifying_breath" },
-		{ "predicate": { "custom_model_data": 1828 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/spirit_orb" },
 		{ "predicate": { "custom_model_data": 1829 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/electrocution" },
-		{ "predicate": { "custom_model_data": 1832 }, "model": "ssbrc:fighters/altered_beast/items/weretiger/spirit_orb" },
 		{ "predicate": { "custom_model_data": 1833 }, "model": "ssbrc:fighters/altered_beast/items/weretiger/sabretooth" },
-		{ "predicate": { "custom_model_data": 1836 }, "model": "ssbrc:fighters/altered_beast/items/werewolf/spirit_orb" },
 		{ "predicate": { "custom_model_data": 1837 }, "model": "ssbrc:fighters/altered_beast/items/werewolf/flame_hands" },
 
 		{ "predicate": { "custom_model_data": 1840 }, "model": "ssbrc:fighters/alucard/skins/default/default" },
@@ -387,13 +383,13 @@
 
 
 
-		{ "predicate": { "custom_model_data": 9999991 }, "model": "ssbrc:team_flags/red" },
-		{ "predicate": { "custom_model_data": 9999992 }, "model": "ssbrc:team_flags/blue" },
-		{ "predicate": { "custom_model_data": 9999993 }, "model": "ssbrc:team_flags/green" },
-		{ "predicate": { "custom_model_data": 9999994 }, "model": "ssbrc:team_flags/yellow" },
-		{ "predicate": { "custom_model_data": 9999995 }, "model": "ssbrc:team_flags/purple" },
-		{ "predicate": { "custom_model_data": 9999996 }, "model": "ssbrc:team_flags/orange" },
-		{ "predicate": { "custom_model_data": 9999997 }, "model": "ssbrc:team_flags/pink" },
-		{ "predicate": { "custom_model_data": 9999998 }, "model": "ssbrc:team_flags/aqua" }
+		{ "predicate": { "custom_model_data": 9999991 }, "model": "ssbrc:misc/team_flags/red" },
+		{ "predicate": { "custom_model_data": 9999992 }, "model": "ssbrc:misc/team_flags/blue" },
+		{ "predicate": { "custom_model_data": 9999993 }, "model": "ssbrc:misc/team_flags/green" },
+		{ "predicate": { "custom_model_data": 9999994 }, "model": "ssbrc:misc/team_flags/yellow" },
+		{ "predicate": { "custom_model_data": 9999995 }, "model": "ssbrc:misc/team_flags/purple" },
+		{ "predicate": { "custom_model_data": 9999996 }, "model": "ssbrc:misc/team_flags/orange" },
+		{ "predicate": { "custom_model_data": 9999997 }, "model": "ssbrc:misc/team_flags/pink" },
+		{ "predicate": { "custom_model_data": 9999998 }, "model": "ssbrc:misc/team_flags/aqua" }
 	]
 }

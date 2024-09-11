@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/ness/moonside" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/ness/moonside" }
+		]
+	}
+}

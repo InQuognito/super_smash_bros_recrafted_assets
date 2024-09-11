@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "ssbrc:template/item/hud",
 	"textures": {
 		"0": "ssbrc:fighters/zelda/items/great_fairy_blessing/fairy",

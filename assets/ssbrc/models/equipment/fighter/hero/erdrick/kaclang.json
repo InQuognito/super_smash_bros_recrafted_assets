@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/hero/erdrick/kaclang" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/hero/erdrick/kaclang" }
+		]
+	}
+}

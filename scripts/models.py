@@ -22,13 +22,47 @@ def skin_model(fighter, skin):
 			js_write(file, tab(1) + '}')
 			js_write(file, '}')
 
+def equipment_model(path='assets\\ssbrc\\models\\equipment\\fighter\\'):
+	for fighter in ssbrc.fighters:
+		reset_path(path + fighter)
+		for skin in chain(['default','gold'], ssbrc.fighters[fighter]['skins']):
+			if has_forms(fighter):
+				create_path(path + fighter + '\\' + skin)
+				for form in ssbrc.fighters[fighter]['forms']:
+					with open(f'{path}{fighter}\\{skin}\\{form}.json', 'w') as file:
+						js_write(file, '{')
+						js_write(file, tab(1) + qm + 'layers' + suf_e)
+						js_write(file, tab(2) + qm + 'humanoid' + suf_l)
+						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}/{form}' + '" }')
+						js_write(file, tab(2) + '],')
+						js_write(file, tab(2) + qm + 'humanoid_leggings' + suf_l)
+						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}/{form}' + '" }')
+						js_write(file, tab(2) + ']')
+						js_write(file, tab(1) + '}')
+						js_write(file, '}')
+			else:
+				with open(f'{path}{fighter}\\{skin}.json', 'w') as file:
+					js_write(file, '{')
+					js_write(file, tab(1) + qm + 'layers' + suf_e)
+					js_write(file, tab(2) + qm + 'humanoid' + suf_l)
+					js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
+					js_write(file, tab(2) + '],')
+					js_write(file, tab(2) + qm + 'humanoid_leggings' + suf_l)
+					js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
+					if fighter == 'pit':
+						js_write(file, tab(2) + '],')
+						js_write(file, tab(2) + qm + 'wings' + suf_l)
+						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/default' + '" }')
+						js_write(file, tab(2) + ']')
+					else:
+						js_write(file, tab(2) + ']')
+					js_write(file, tab(1) + '}')
+					js_write(file, '}')
+
 def create_skin_model():
 	for fighter in ssbrc.fighters:
-		for skin in ['default','gold']:
+		for skin in chain(['default','gold'], ssbrc.fighters[fighter]['skins']):
 			skin_model(fighter, skin)
-		for skin in ssbrc.fighters[fighter]['skins']:
-			if skin != 'bowsette':
-				skin_model(fighter, skin)
 
 def create_head_cmd():
 	with open('assets\\minecraft\\models\\item\\barrier.json', 'w') as file:
@@ -104,5 +138,7 @@ def create_miiverse_cmd():
 
 #create_skin_model()
 #create_head_cmd()
+
+equipment_model()
 
 create_miiverse_cmd()

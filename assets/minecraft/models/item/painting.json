@@ -44,6 +44,6 @@
 		{ "predicate": { "custom_model_data": 1900 }, "model": "ssbrc:stages/miiverse/posts/shadow/0" },
 		{ "predicate": { "custom_model_data": 1920 }, "model": "ssbrc:stages/miiverse/posts/shovel_knight/0" },
 		{ "predicate": { "custom_model_data": 1940 }, "model": "ssbrc:stages/miiverse/posts/team_rocket/0" },
-		{ "predicate": { "custom_model_data": 1960 }, "model": "ssbrc:stages/miiverse/posts/yar/0" }
+		{ "predicate": { "custom_model_data": 1960 }, "model": "ssbrc:stages/miiverse/posts/yar/0" },
 	]
 }

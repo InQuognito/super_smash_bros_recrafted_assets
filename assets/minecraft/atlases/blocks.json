@@ -52,16 +52,6 @@
 		},
 		{
 			"type": "directory",
-			"source": "team_flags",
-			"prefix": "team_flags/"
-		},
-		{
-			"type": "directory",
-			"source": "trims",
-			"prefix": "trims/"
-		},
-		{
-			"type": "directory",
 			"source": "ui",
 			"prefix": "ui/"
 		}

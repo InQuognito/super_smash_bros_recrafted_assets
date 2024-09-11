@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/ganondorf/tears_of_the_kingdom" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/ganondorf/tears_of_the_kingdom" }
+		]
+	}
+}

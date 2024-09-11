@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/ganondorf/wind_waker" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/ganondorf/wind_waker" }
+		]
+	}
+}

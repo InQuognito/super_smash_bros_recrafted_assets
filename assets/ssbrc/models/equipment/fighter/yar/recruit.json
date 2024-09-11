@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/yar/recruit" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/yar/recruit" }
+		]
+	}
+}

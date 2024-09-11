@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/pokemon_trainer/gold/trainer" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/pokemon_trainer/gold/trainer" }
+		]
+	}
+}

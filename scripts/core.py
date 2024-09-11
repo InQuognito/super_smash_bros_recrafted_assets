@@ -1,6 +1,8 @@
 import os
 import shutil
 
+from itertools import chain
+
 import ssbrc_data as ssbrc
 
 qm = '\"'
@@ -11,6 +13,10 @@ suf_e = '\": {'
 suf_l = '\": ['
 ent = '},'
 
+def remove_file(file):
+	if os.path.exists(file):
+		os.remove(file)
+
 def remove_path(path):
 	if os.path.exists(path):
 		shutil.rmtree(path)
@@ -18,6 +24,10 @@ def remove_path(path):
 def create_path(path):
 	if not os.path.exists(path):
 		os.makedirs(path)
+
+def reset_path(path):
+	remove_path(path)
+	create_path(path)
 
 def tab(n):
 	'''Returns n number of tabs.'''
@@ -32,7 +42,7 @@ def count_skins(fighter):
 
 def has_forms(fighter):
 	'''Returns true if the specified fighter has forms, otherwise return false.'''
-	if 'forms' in ssbrc.fighters[fighter].keys():
+	if 'true_forms' in ssbrc.fighters[fighter].keys():
 		return True
 	return False
 
