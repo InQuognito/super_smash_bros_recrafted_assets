@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:fighters/mario/skins/parent_full",
-	"textures": {
-		"head": "ssbrc:fighters/luigi/skins/gold",
-		"arms": "ssbrc:trims/models/armor/fighters/luigi/gold",
-		"body": "ssbrc:trims/models/armor/fighters/luigi/gold_leggings"
-	}
-}

@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/pikachu/skins/santa_hat",
-		"arms": "ssbrc:trims/models/armor/fighters/pikachu/santa_hat",
-		"body": "ssbrc:trims/models/armor/fighters/pikachu/santa_hat_leggings"
-	}
-}

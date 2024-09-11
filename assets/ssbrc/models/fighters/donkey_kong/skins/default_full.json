@@ -1,7 +1,0 @@
-{
-	"parent": "ssbrc:fighters/donkey_kong/skins/parent_full",
-	"textures": {
-		"head": "ssbrc:fighters/donkey_kong/skins/default",
-		"base": "ssbrc:fighters/donkey_kong/skins/full"
-	}
-}

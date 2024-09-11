@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/ryu/skins/hot_ryu/default",
-		"arms": "ssbrc:trims/models/armor/fighters/ryu/hot_ryu/default",
-		"body": "ssbrc:trims/models/armor/fighters/ryu/hot_ryu/default_leggings"
-	}
-}

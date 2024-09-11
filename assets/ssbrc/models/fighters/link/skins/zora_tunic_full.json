@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/link/skins/zora_tunic",
-		"arms": "ssbrc:trims/models/armor/fighters/link/zora_tunic",
-		"body": "ssbrc:trims/models/armor/fighters/link/zora_tunic_leggings"
-	}
-}

@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/fighter/head",
+	"textures": {
+		"base": "ssbrc:fighters/team_rocket/skins/gold/james"
+	}
+}

@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/joker/skins/shujin_academy/default",
-		"arms": "ssbrc:trims/models/armor/fighters/joker/shujin_academy",
-		"body": "ssbrc:trims/models/armor/fighters/joker/shujin_academy_leggings"
-	}
-}

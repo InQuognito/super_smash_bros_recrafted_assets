@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/joker/skins/christmas_outfit/default",
-		"arms": "ssbrc:trims/models/armor/fighters/joker/christmas_outfit",
-		"body": "ssbrc:trims/models/armor/fighters/joker/christmas_outfit_leggings"
-	}
-}

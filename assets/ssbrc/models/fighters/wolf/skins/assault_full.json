@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/wolf/skins/assault",
-		"arms": "ssbrc:trims/models/armor/fighters/wolf/assault",
-		"body": "ssbrc:trims/models/armor/fighters/wolf/assault_leggings"
-	}
-}

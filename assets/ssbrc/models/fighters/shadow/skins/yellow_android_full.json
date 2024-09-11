@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/shadow/skins/yellow_android",
-		"arms": "ssbrc:trims/models/armor/fighters/shadow/yellow_android",
-		"body": "ssbrc:trims/models/armor/fighters/shadow/yellow_android_leggings"
-	}
-}

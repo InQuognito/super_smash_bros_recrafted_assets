@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/mega_man/skins/star_force/default",
-		"arms": "ssbrc:trims/models/armor/fighters/mega_man/star_force/default",
-		"body": "ssbrc:trims/models/armor/fighters/mega_man/star_force/default_leggings"
-	}
-}

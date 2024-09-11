@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/mega_man/skins/gold/default",
-		"arms": "ssbrc:trims/models/armor/fighters/mega_man/gold/default",
-		"body": "ssbrc:trims/models/armor/fighters/mega_man/gold/default_leggings"
-	}
-}

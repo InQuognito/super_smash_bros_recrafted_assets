@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/greninja/skins/shiny",
-		"arms": "ssbrc:trims/models/armor/fighters/greninja/shiny",
-		"body": "ssbrc:trims/models/armor/fighters/greninja/shiny_leggings"
-	}
-}

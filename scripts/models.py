@@ -3,22 +3,14 @@ from core import *
 fighters_temp = dict(sorted(ssbrc.fighters.items(), key=lambda x: x[1]['model']))
 
 def skin_model(fighter, skin):
-	if has_forms(fighter):
-		for form in ssbrc.fighters[fighter]['forms']:
-			if form != 'charizard':
-				with open(f'assets\\ssbrc\\models\\fighters\\{fighter}\\skins\\{skin}\\{form}.json', 'w') as file:
-					js_write(file, '{')
-					js_write(file, tab(1) + qm + 'parent' + sep_s + get_parent(fighter, skin, form) + suf_s)
-					js_write(file, tab(1) + qm + 'textures' + suf_e)
-					js_write(file, tab(2) + qm + 'base' + sep_s + get_texture(fighter, skin, form) + qm)
-					js_write(file, tab(1) + '}')
-					js_write(file, '}')
-	else:
-		with open(f'assets\\ssbrc\\models\\fighters\\{fighter}\\skins\\{skin}.json', 'w') as file:
+	for form in ssbrc.fighters[fighter]['forms']:
+		path = f'assets\\ssbrc\\models\\item\\fighter\\'
+		create_path(path)
+		with open(f'{path}{fighter}\\{skin}\\{form}.json', 'w') as file:
 			js_write(file, '{')
-			js_write(file, tab(1) + qm + 'parent' + sep_s + get_parent(fighter, skin) + suf_s)
+			js_write(file, tab(1) + qm + 'parent' + sep_s + get_parent(fighter, skin, form) + suf_s)
 			js_write(file, tab(1) + qm + 'textures' + suf_e)
-			js_write(file, tab(2) + qm + 'base' + sep_s + get_texture(fighter, skin) + qm)
+			js_write(file, tab(2) + qm + 'base' + sep_s + get_texture(fighter, skin, form) + qm)
 			js_write(file, tab(1) + '}')
 			js_write(file, '}')
 
@@ -26,29 +18,22 @@ def equipment_model(path='assets\\ssbrc\\models\\equipment\\fighter\\'):
 	for fighter in ssbrc.fighters:
 		reset_path(path + fighter)
 		for skin in chain(['default','gold'], ssbrc.fighters[fighter]['skins']):
-			if has_forms(fighter):
-				create_path(path + fighter + '\\' + skin)
-				for form in ssbrc.fighters[fighter]['forms']:
-					with open(f'{path}{fighter}\\{skin}\\{form}.json', 'w') as file:
-						js_write(file, '{')
-						js_write(file, tab(1) + qm + 'layers' + suf_e)
-						js_write(file, tab(2) + qm + 'humanoid' + suf_l)
-						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}/{form}' + '" }')
-						js_write(file, tab(2) + '],')
-						js_write(file, tab(2) + qm + 'humanoid_leggings' + suf_l)
-						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}/{form}' + '" }')
-						js_write(file, tab(2) + ']')
-						js_write(file, tab(1) + '}')
-						js_write(file, '}')
-			else:
-				with open(f'{path}{fighter}\\{skin}.json', 'w') as file:
+			create_path(path + fighter + '\\' + skin)
+			for form in ssbrc.fighters[fighter]['forms']:
+				with open(f'{path}{fighter}\\{skin}\\{form}.json', 'w') as file:
 					js_write(file, '{')
 					js_write(file, tab(1) + qm + 'layers' + suf_e)
 					js_write(file, tab(2) + qm + 'humanoid' + suf_l)
-					js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
+					if has_forms(fighter):
+						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}/{form}' + '" }')
+					else:
+						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
 					js_write(file, tab(2) + '],')
 					js_write(file, tab(2) + qm + 'humanoid_leggings' + suf_l)
-					js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
+					if has_forms(fighter):
+						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}/{form}' + '" }')
+					else:
+						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
 					if fighter == 'pit':
 						js_write(file, tab(2) + '],')
 						js_write(file, tab(2) + qm + 'wings' + suf_l)
@@ -59,10 +44,21 @@ def equipment_model(path='assets\\ssbrc\\models\\equipment\\fighter\\'):
 					js_write(file, tab(1) + '}')
 					js_write(file, '}')
 
-def create_skin_model():
+def create_skin_model(path='assets\\ssbrc\\models\\item\\fighter\\'):
+	create_path(path)
 	for fighter in ssbrc.fighters:
+		create_path(f'{path}\\{fighter}')
 		for skin in chain(['default','gold'], ssbrc.fighters[fighter]['skins']):
-			skin_model(fighter, skin)
+			create_path(f'{path}\\{fighter}\\{skin}')
+			for form in ssbrc.fighters[fighter]['forms']:
+				create_path(path)
+				with open(f'{path}{fighter}\\{skin}\\{form}.json', 'w') as file:
+					js_write(file, '{')
+					js_write(file, tab(1) + qm + 'parent' + sep_s + get_parent(fighter, skin, form) + suf_s)
+					js_write(file, tab(1) + qm + 'textures' + suf_e)
+					js_write(file, tab(2) + qm + 'base' + sep_s + get_texture(fighter, skin, form) + qm)
+					js_write(file, tab(1) + '}')
+					js_write(file, '}')
 
 def create_head_cmd():
 	with open('assets\\minecraft\\models\\item\\barrier.json', 'w') as file:
@@ -136,7 +132,7 @@ def create_miiverse_cmd():
 		js_write(file, tab(1) + ']')
 		js_write(file, '}')
 
-#create_skin_model()
+create_skin_model()
 #create_head_cmd()
 
 equipment_model()

@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/ganondorf/skins/gold",
-		"arms": "ssbrc:trims/models/armor/fighters/ganondorf/gold",
-		"body": "ssbrc:trims/models/armor/fighters/ganondorf/gold_leggings"
-	}
-}

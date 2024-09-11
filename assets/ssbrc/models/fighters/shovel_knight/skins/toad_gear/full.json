@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:fighters/shovel_knight/skins/parent/full",
-	"textures": {
-		"head": "ssbrc:fighters/shovel_knight/skins/toad_gear",
-		"arms": "ssbrc:trims/models/armor/fighters/shovel_knight/toad_gear",
-		"body": "ssbrc:trims/models/armor/fighters/shovel_knight/toad_gear_leggings"
-	}
-}

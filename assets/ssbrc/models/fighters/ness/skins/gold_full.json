@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/ness/skins/gold",
-		"arms": "ssbrc:trims/models/armor/fighters/ness/gold",
-		"body": "ssbrc:trims/models/armor/fighters/ness/gold_leggings"
-	}
-}

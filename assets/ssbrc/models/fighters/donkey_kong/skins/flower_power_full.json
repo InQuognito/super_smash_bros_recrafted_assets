@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/donkey_kong/skins/flower_power",
-		"arms": "ssbrc:trims/models/armor/fighters/donkey_kong/flower_power",
-		"body": "ssbrc:trims/models/armor/fighters/donkey_kong/flower_power_leggings"
-	}
-}

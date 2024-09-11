@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:fighters/shovel_knight/skins/parent/full",
-	"textures": {
-		"head": "ssbrc:fighters/shovel_knight/skins/armor_of_chaos",
-		"arms": "ssbrc:trims/models/armor/fighters/shovel_knight/armor_of_chaos",
-		"body": "ssbrc:trims/models/armor/fighters/shovel_knight/armor_of_chaos_leggings"
-	}
-}

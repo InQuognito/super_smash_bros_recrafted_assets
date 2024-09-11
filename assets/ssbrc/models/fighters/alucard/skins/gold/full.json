@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/alucard/skins/gold/default",
-		"arms": "ssbrc:trims/models/armor/fighters/alucard/gold",
-		"body": "ssbrc:trims/models/armor/fighters/alucard/gold_leggings"
-	}
-}

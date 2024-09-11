@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/link/skins/goron_tunic",
-		"arms": "ssbrc:trims/models/armor/fighters/link/goron_tunic",
-		"body": "ssbrc:trims/models/armor/fighters/link/goron_tunic_leggings"
-	}
-}

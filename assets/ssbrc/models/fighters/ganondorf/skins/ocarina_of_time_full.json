@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/ganondorf/skins/ocarina_of_time",
-		"arms": "ssbrc:trims/models/armor/fighters/ganondorf/ocarina_of_time",
-		"body": "ssbrc:trims/models/armor/fighters/ganondorf/ocarina_of_time_leggings"
-	}
-}

@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/ness/skins/phase_distortion",
-		"arms": "ssbrc:trims/models/armor/fighters/ness/phase_distortion",
-		"body": "ssbrc:trims/models/armor/fighters/ness/phase_distortion_leggings"
-	}
-}

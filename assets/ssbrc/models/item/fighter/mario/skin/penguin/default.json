@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighters/mario/skins/parent",
+	"textures": {
+		"base": "ssbrc:fighters/mario/skins/penguin"
+	}
+}

@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:fighters/rob/skins/parent/full",
-	"textures": {
-		"head": "ssbrc:fighters/rob/skins/famicom",
-		"arms": "ssbrc:trims/models/armor/fighters/rob/famicom",
-		"body": "ssbrc:trims/models/armor/fighters/rob/famicom_leggings"
-	}
-}

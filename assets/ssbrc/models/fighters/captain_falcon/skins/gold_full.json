@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/captain_falcon/skins/gold",
-		"arms": "ssbrc:trims/models/armor/fighters/captain_falcon/gold",
-		"body": "ssbrc:trims/models/armor/fighters/captain_falcon/gold_leggings"
-	}
-}

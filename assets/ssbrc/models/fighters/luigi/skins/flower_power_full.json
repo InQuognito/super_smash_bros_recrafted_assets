@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:fighters/mario/skins/parent_full",
-	"textures": {
-		"head": "ssbrc:fighters/luigi/skins/flower_power",
-		"arms": "ssbrc:trims/models/armor/fighters/luigi/flower_power",
-		"body": "ssbrc:trims/models/armor/fighters/luigi/flower_power_leggings"
-	}
-}

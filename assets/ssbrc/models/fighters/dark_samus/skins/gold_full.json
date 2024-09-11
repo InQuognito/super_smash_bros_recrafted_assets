@@ -1,9 +1,0 @@
-{
-	"parent": "ssbrc:fighters/dark_samus/skins/parent_full",
-	"textures": {
-		"head": "ssbrc:fighters/dark_samus/skins/gold",
-		"arms": "ssbrc:trims/models/armor/fighters/dark_samus/gold",
-		"body": "ssbrc:trims/models/armor/fighters/dark_samus/gold_leggings",
-		"arm_cannon": "ssbrc:fighters/dark_samus/items/phazon_beam/gold"
-	}
-}

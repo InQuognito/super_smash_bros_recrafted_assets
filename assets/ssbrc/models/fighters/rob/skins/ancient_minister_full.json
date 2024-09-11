@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/full",
-	"textures": {
-		"head": "ssbrc:fighters/rob/skins/ancient_minister",
-		"arms": "ssbrc:trims/models/armor/fighters/rob/ancient_minister",
-		"body": "ssbrc:trims/models/armor/fighters/rob/ancient_minister_leggings"
-	}
-}
