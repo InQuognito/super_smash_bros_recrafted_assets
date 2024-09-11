@@ -24,13 +24,13 @@ def equipment_model(path='assets\\ssbrc\\models\\equipment\\fighter\\'):
 					js_write(file, '{')
 					js_write(file, tab(1) + qm + 'layers' + suf_e)
 					js_write(file, tab(2) + qm + 'humanoid' + suf_l)
-					if has_forms(fighter):
+					if has_forms(fighter) and forms_isolated_to(fighter) != 'head':
 						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}/{form}' + '" }')
 					else:
 						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
 					js_write(file, tab(2) + '],')
 					js_write(file, tab(2) + qm + 'humanoid_leggings' + suf_l)
-					if has_forms(fighter):
+					if has_forms(fighter) and forms_isolated_to(fighter) != 'head':
 						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}/{form}' + '" }')
 					else:
 						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
@@ -132,7 +132,7 @@ def create_miiverse_cmd():
 		js_write(file, tab(1) + ']')
 		js_write(file, '}')
 
-create_skin_model()
+#create_skin_model()
 #create_head_cmd()
 
 equipment_model()

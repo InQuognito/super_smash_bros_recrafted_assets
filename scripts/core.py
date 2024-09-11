@@ -46,6 +46,12 @@ def has_forms(fighter):
 		return True
 	return False
 
+def forms_isolated_to(fighter):
+	'''Returns true if the specified fighter has forms, otherwise return false.'''
+	if 'forms_isolated_to' in ssbrc.fighters[fighter].keys():
+		return ssbrc.fighters[fighter]['forms_isolated_to']
+	return 'none'
+
 def get_parent(fighter, skin, form=''):
 	'''Returns the translation key, fixed for values that have merged entries.'''
 	default = f'ssbrc:template/fighter/head'

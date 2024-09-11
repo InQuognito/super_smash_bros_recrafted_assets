@@ -1,10 +1,10 @@
 {
 	"layers": {
 		"humanoid": [
-			{ "texture": "ssbrc:fighter/alucard/default/default" }
+			{ "texture": "ssbrc:fighter/alucard/default" }
 		],
 		"humanoid_leggings": [
-			{ "texture": "ssbrc:fighter/alucard/default/default" }
+			{ "texture": "ssbrc:fighter/alucard/default" }
 		]
 	}
 }

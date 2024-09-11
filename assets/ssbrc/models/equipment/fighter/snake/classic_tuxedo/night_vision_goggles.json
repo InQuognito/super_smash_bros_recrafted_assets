@@ -1,10 +1,10 @@
 {
 	"layers": {
 		"humanoid": [
-			{ "texture": "ssbrc:fighter/snake/classic_tuxedo/night_vision_goggles" }
+			{ "texture": "ssbrc:fighter/snake/classic_tuxedo" }
 		],
 		"humanoid_leggings": [
-			{ "texture": "ssbrc:fighter/snake/classic_tuxedo/night_vision_goggles" }
+			{ "texture": "ssbrc:fighter/snake/classic_tuxedo" }
 		]
 	}
 }

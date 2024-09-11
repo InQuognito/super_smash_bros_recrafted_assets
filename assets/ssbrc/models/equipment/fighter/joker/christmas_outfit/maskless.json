@@ -1,10 +1,10 @@
 {
 	"layers": {
 		"humanoid": [
-			{ "texture": "ssbrc:fighter/joker/christmas_outfit/maskless" }
+			{ "texture": "ssbrc:fighter/joker/christmas_outfit" }
 		],
 		"humanoid_leggings": [
-			{ "texture": "ssbrc:fighter/joker/christmas_outfit/maskless" }
+			{ "texture": "ssbrc:fighter/joker/christmas_outfit" }
 		]
 	}
 }

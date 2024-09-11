@@ -1,10 +1,10 @@
 {
 	"layers": {
 		"humanoid": [
-			{ "texture": "ssbrc:fighter/rob/ancient_minister/charged" }
+			{ "texture": "ssbrc:fighter/rob/ancient_minister" }
 		],
 		"humanoid_leggings": [
-			{ "texture": "ssbrc:fighter/rob/ancient_minister/charged" }
+			{ "texture": "ssbrc:fighter/rob/ancient_minister" }
 		]
 	}
 }

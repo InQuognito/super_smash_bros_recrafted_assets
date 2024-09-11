@@ -1,10 +1,10 @@
 {
 	"layers": {
 		"humanoid": [
-			{ "texture": "ssbrc:fighter/joker/shujin_academy/default" }
+			{ "texture": "ssbrc:fighter/joker/shujin_academy" }
 		],
 		"humanoid_leggings": [
-			{ "texture": "ssbrc:fighter/joker/shujin_academy/default" }
+			{ "texture": "ssbrc:fighter/joker/shujin_academy" }
 		]
 	}
 }
