@@ -1,0 +1,31 @@
+{
+	"parent": "ssbrc:template/item/hud",
+	"textures": {
+		"base": "ssbrc:fighters/zelda/items/great_fairy_blessing/fairy"
+	},
+	"elements": [
+		{
+			"name": "fairy",
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#base"}
+			}
+		},
+		{
+			"name": "price",
+			"from": [9, 0.5, 7.9],
+			"to": [16, 6, 7.9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 8.5, 7.9]},
+			"faces": {
+				"north": {"uv": [1, 2, 15, 13], "texture": "#price"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

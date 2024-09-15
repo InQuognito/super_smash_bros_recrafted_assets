@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/common/pokemon/pokemon/slowpoke/parent",
+	"textures": {
+		"base": "ssbrc:pokemon/slowpoke/shiny"
+	}
+}

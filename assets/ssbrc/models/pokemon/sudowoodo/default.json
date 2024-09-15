@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:pokemon/sudowoodo/parent",
-	"textures": {
-		"base": "ssbrc:pokemon/sudowoodo/default"
-	}
-}

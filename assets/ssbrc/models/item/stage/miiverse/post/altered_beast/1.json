@@ -1,0 +1,8 @@
+{
+	"parent": "ssbrc:item/stage/miiverse/post/template",
+	"textures": {
+		"post": "ssbrc:stages/miiverse/posts/altered_beast/1",
+		"author": "ssbrc:stages/miiverse/signatures/jedimasterhomer",
+		"particle": "ssbrc:stages/miiverse/posts/altered_beast/1"
+	}
+}

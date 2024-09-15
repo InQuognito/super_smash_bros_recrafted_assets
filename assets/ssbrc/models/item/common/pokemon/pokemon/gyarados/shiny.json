@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/common/pokemon/pokemon/gyarados/parent",
+	"textures": {
+		"base": "ssbrc:pokemon/gyarados/shiny"
+	}
+}

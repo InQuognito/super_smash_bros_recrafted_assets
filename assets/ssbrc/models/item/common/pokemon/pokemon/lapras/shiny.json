@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/common/pokemon/pokemon/lapras/parent",
+	"textures": {
+		"base": "ssbrc:pokemon/lapras/shiny"
+	}
+}

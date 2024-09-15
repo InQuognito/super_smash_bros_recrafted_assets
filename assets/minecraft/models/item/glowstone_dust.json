@@ -4,10 +4,6 @@
 		"layer0": "minecraft:item/diamond"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 600 }, "model": "ssbrc:fighters/joker/items/hama/sigil" },
-
-		{ "predicate": { "custom_model_data": 99990 }, "model": "ssbrc:misc/discord" },
-		{ "predicate": { "custom_model_data": 99991 }, "model": "ssbrc:misc/planetminecraft" },
-		{ "predicate": { "custom_model_data": 99992 }, "model": "ssbrc:misc/youtube" }
+		{ "predicate": { "custom_model_data": 600 }, "model": "ssbrc:fighters/joker/items/hama/sigil" }
 	]
 }

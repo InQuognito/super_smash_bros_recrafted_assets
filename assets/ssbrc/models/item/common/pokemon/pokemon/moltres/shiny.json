@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/common/pokemon/pokemon/moltres/parent",
+	"textures": {
+		"base": "ssbrc:pokemon/moltres/shiny"
+	}
+}

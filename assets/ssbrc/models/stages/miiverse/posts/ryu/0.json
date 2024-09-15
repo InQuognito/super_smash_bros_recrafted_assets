@@ -1,7 +1,0 @@
-{
-	"parent": "ssbrc:stages/miiverse/posts/template",
-	"textures": {
-		"post": "ssbrc:stages/miiverse/posts/ryu/0",
-		"author": "ssbrc:stages/miiverse/signatures/jedimasterhomer"
-	}
-}

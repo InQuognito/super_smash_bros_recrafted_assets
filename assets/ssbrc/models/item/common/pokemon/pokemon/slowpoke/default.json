@@ -1,0 +1,9 @@
+{
+	"parent": "ssbrc:item/common/pokemon/pokemon/slowpoke/parent",
+	"textures": {
+		"base": "ssbrc:pokemon/slowpoke/default"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/common/pokemon/pokemon/slowpoke/shiny" }
+	]
+}

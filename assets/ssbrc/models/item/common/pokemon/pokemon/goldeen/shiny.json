@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/common/pokemon/pokemon/goldeen/parent",
+	"textures": {
+		"base": "ssbrc:pokemon/goldeen/shiny"
+	}
+}

@@ -345,12 +345,6 @@
 		{ "predicate": { "custom_model_data": 9043 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bomb/red" },
 		{ "predicate": { "custom_model_data": 9044 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bomb/white" },
 
-		{ "predicate": { "custom_model_data": 9045 }, "model": "ssbrc:fighters/zelda/items/great_fairy_blessing/5" },
-		{ "predicate": { "custom_model_data": 9046 }, "model": "ssbrc:fighters/zelda/items/great_fairy_blessing/10" },
-		{ "predicate": { "custom_model_data": 9047 }, "model": "ssbrc:fighters/zelda/items/great_fairy_blessing/15" },
-		{ "predicate": { "custom_model_data": 9048 }, "model": "ssbrc:fighters/zelda/items/great_fairy_blessing/20" },
-		{ "predicate": { "custom_model_data": 9049 }, "model": "ssbrc:fighters/zelda/items/great_fairy_blessing/25" },
-
 		{ "predicate": { "custom_model_data": 9050 }, "model": "ssbrc:fighters/zelda/items/inventory_refresh/full_price" },
 		{ "predicate": { "custom_model_data": 9051 }, "model": "ssbrc:fighters/zelda/items/inventory_refresh/half_price" },
 
@@ -373,23 +367,6 @@
 		{ "predicate": { "custom_model_data": 50013 }, "model": "ssbrc:common/pokemon/type_icons/poison/default" },
 		{ "predicate": { "custom_model_data": 50013, "damaged": 1 }, "model": "ssbrc:common/pokemon/type_icons/poison/disabled" },
 		{ "predicate": { "custom_model_data": 50018 }, "model": "ssbrc:common/pokemon/type_icons/water/default" },
-		{ "predicate": { "custom_model_data": 50018, "damaged": 1 }, "model": "ssbrc:common/pokemon/type_icons/water/disabled" },
-
-
-
-		{ "predicate": { "custom_model_data": 9999988 }, "model": "ssbrc:inventory_icons/skin_options" },
-		{ "predicate": { "custom_model_data": 9999989 }, "model": "minecraft:item/written_book" },
-		{ "predicate": { "custom_model_data": 9999990 }, "model": "ssbrc:inventory_icons/selector" },
-
-
-
-		{ "predicate": { "custom_model_data": 9999991 }, "model": "ssbrc:misc/team_flags/red" },
-		{ "predicate": { "custom_model_data": 9999992 }, "model": "ssbrc:misc/team_flags/blue" },
-		{ "predicate": { "custom_model_data": 9999993 }, "model": "ssbrc:misc/team_flags/green" },
-		{ "predicate": { "custom_model_data": 9999994 }, "model": "ssbrc:misc/team_flags/yellow" },
-		{ "predicate": { "custom_model_data": 9999995 }, "model": "ssbrc:misc/team_flags/purple" },
-		{ "predicate": { "custom_model_data": 9999996 }, "model": "ssbrc:misc/team_flags/orange" },
-		{ "predicate": { "custom_model_data": 9999997 }, "model": "ssbrc:misc/team_flags/pink" },
-		{ "predicate": { "custom_model_data": 9999998 }, "model": "ssbrc:misc/team_flags/aqua" }
+		{ "predicate": { "custom_model_data": 50018, "damaged": 1 }, "model": "ssbrc:common/pokemon/type_icons/water/disabled" }
 	]
 }

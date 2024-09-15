@@ -1,0 +1,9 @@
+{
+	"parent": "ssbrc:item/common/pokemon/pokemon/moltres/parent",
+	"textures": {
+		"base": "ssbrc:pokemon/moltres/default"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/common/pokemon/pokemon/moltres/shiny" }
+	]
+}

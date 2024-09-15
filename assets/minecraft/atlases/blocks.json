@@ -17,6 +17,11 @@
 		},
 		{
 			"type": "directory",
+			"source": "entity",
+			"prefix": "entity/"
+		},
+		{
+			"type": "directory",
 			"source": "fighters",
 			"prefix": "fighters/"
 		},

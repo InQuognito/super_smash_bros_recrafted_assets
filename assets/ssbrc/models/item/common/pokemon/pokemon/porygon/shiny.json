@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/common/pokemon/pokemon/porygon/parent",
+	"textures": {
+		"base": "ssbrc:pokemon/porygon/shiny"
+	}
+}

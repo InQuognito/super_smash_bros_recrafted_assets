@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/fighter/mario/skin/parent/full",
+	"textures": {
+		"base": "ssbrc:misc/mario_statue"
+	}
+}

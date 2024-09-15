@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:pokemon/slowpoke/parent",
-	"textures": {
-		"base": "ssbrc:pokemon/slowpoke/shiny"
-	}
-}

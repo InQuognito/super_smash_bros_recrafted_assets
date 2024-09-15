@@ -1,7 +1,0 @@
-{
-	"parent": "ssbrc:stages/miiverse/posts/template",
-	"textures": {
-		"post": "ssbrc:stages/miiverse/posts/mega_man/0",
-		"author": "ssbrc:stages/miiverse/signatures/jedimasterhomer"
-	}
-}

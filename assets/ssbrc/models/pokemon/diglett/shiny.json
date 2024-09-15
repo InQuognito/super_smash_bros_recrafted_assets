@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:pokemon/diglett/parent",
-	"textures": {
-		"base": "ssbrc:pokemon/diglett/shiny"
-	}
-}
