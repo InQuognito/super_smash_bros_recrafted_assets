@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:stage_icons/parent",
+	"parent": "ssbrc:item/stage_icon/parent",
 	"textures": {
 		"base": "ssbrc:stage_icons/dream_land"
 	}

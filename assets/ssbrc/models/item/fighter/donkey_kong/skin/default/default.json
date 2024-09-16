@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:fighters/donkey_kong/skins/parent",
+	"parent": "ssbrc:item/fighter/donkey_kong/skin/parent",
 	"textures": {
 		"base": "ssbrc:fighters/donkey_kong/skins/default"
 	}

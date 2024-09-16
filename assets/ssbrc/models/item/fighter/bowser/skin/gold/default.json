@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:fighters/bowser/skins/parent",
+	"parent": "ssbrc:item/fighter/bowser/skin/parent",
 	"textures": {
 		"base": "ssbrc:fighters/bowser/skins/gold"
 	}
