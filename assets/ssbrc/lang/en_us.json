@@ -39,8 +39,8 @@
 	"ssbrc.bonuses.win": "Victory",
 	"ssbrc.bonuses.kills": "KOs",
 
-	"ssbrc.ui.go_back": "Go Back",
-	"ssbrc.ui.next_page": "Next Page",
+	"ssbrc.ui.back": "Go Back",
+	"ssbrc.ui.forward": "Next Page",
 	"ssbrc.ui.click_to_open": "Click to open",
 	"ssbrc.ui.click_to_vote": "Click to vote",
 	"ssbrc.ui.page_2": "Page 2",

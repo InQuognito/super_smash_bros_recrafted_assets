@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:fighters/rob/skins/parent/ready",
+	"parent": "ssbrc:item/fighter/rob/skin/parent/ready",
 	"textures": {
 		"base": "ssbrc:fighters/rob/skins/default"
 	}

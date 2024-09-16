@@ -39,8 +39,8 @@
 	"ssbrc.bonuses.win": "Victoria",
 	"ssbrc.bonuses.kills": "Nocauts",
 
-	"ssbrc.ui.go_back": "Previo",
-	"ssbrc.ui.next_page": "Siguiente página",
+	"ssbrc.ui.back": "Previo",
+	"ssbrc.ui.forward": "Siguiente página",
 	"ssbrc.ui.click_to_open": "Haga clic para abrir",
 	"ssbrc.ui.click_to_vote": "Haga clic para votar",
 	"ssbrc.ui.page_2": "Página 2",

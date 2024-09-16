@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:fighters/king_k_rool/skins/parent",
+	"parent": "ssbrc:item/fighter/king_k_rool/skin/parent",
 	"textures": {
 		"base": "ssbrc:fighters/king_k_rool/skins/default"
 	}
