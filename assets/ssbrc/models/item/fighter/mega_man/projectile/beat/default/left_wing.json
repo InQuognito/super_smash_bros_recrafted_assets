@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/fighter/mega_man/projectile/beat/parent/left_wing",
+	"textures": {
+		"base": "ssbrc:fighters/mega_man/projectiles/beat/default/default"
+	}
+}

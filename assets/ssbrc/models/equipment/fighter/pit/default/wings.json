@@ -5,6 +5,9 @@
 		],
 		"humanoid_leggings": [
 			{ "texture": "ssbrc:fighter/pit/default" }
+		],
+		"wings": [
+			{ "texture": "ssbrc:fighter/pit/default" }
 		]
 	}
 }

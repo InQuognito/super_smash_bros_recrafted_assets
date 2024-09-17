@@ -1197,10 +1197,10 @@
 			}
 		]
 	},
-	"fighters.mega_man.hyper_bomb.activate": {
+	"fighters.mega_man.hyper_bomb.explode": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/mega_man/hyper_bomb/activate",
+				"name":"ssbrc:fighters/mega_man/hyper_bomb/explode",
 				"stream": false,
 				"volume": 1.0
 			}
