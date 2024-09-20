@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:fighters/mario/skins/parent",
+	"parent": "ssbrc:item/fighter/mario/skin/parent/default",
 	"textures": {
 		"base": "ssbrc:fighters/luigi/skins/gold"
 	}

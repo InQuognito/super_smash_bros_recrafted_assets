@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/fighter/head",
 	"textures": {
-		"base": "ssbrc:fighters/altered_beast/skins/gold/shirtless"
+		"base": "ssbrc:fighters/altered_beast/skins/gold/centurion"
 	}
 }

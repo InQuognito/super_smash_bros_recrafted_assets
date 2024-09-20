@@ -51,8 +51,9 @@
 	"ssbrc.shop.credits": "Credits: ",
 	"ssbrc.shop.price": "Price: ",
 	"ssbrc.shop.cannot_afford": "Insufficient Credits",
-	"ssbrc.shop.purchase": "Click to purchase!",
+	"ssbrc.shop.browse_skins": "Click to browse skins",
 	"ssbrc.shop.owned": "Owned",
+	"ssbrc.shop.purchase": "Click to purchase!",
 
 	"ssbrc.shop.collection.autumn": "Fall Collection",
 	"ssbrc.shop.collection.winter": "Winter Collection",

@@ -2099,37 +2099,37 @@
 			}
 		]
 	},
-	"fighters.zelda.rupee.down_end": {
+	"fighters.zelda.rupee.remove.end": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/zelda/rupee/down_end",
+				"name":"ssbrc:fighters/zelda/rupee/remove/end",
 				"stream": false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.zelda.rupee.down": {
+	"fighters.zelda.rupee.remove.tick": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/zelda/rupee/down",
+				"name":"ssbrc:fighters/zelda/rupee/remove/tick",
 				"stream": false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.zelda.rupee.up_end": {
+	"fighters.zelda.rupee.add.end": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/zelda/rupee/up_end",
+				"name":"ssbrc:fighters/zelda/rupee/add/end",
 				"stream": false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.zelda.rupee.up": {
+	"fighters.zelda.rupee.add.tick": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/zelda/rupee/up",
+				"name":"ssbrc:fighters/zelda/rupee/add/tick",
 				"stream": false,
 				"volume": 1.0
 			}

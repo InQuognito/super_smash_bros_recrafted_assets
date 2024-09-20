@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/fighter/head",
 	"textures": {
-		"base": "ssbrc:fighters/kirby/skins/default"
+		"base": "ssbrc:fighters/kirby/skins/default/default"
 	}
 }

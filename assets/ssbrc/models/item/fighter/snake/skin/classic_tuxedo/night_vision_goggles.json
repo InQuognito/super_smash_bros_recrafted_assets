@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/fighter/head",
 	"textures": {
-		"base": "ssbrc:fighters/snake/skins/classic_tuxedo/night_vision_goggles"
+		"base": "ssbrc:fighters/snake/skins/default/night_vision_goggles"
 	}
 }
