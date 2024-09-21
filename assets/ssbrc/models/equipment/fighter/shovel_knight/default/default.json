@@ -1,10 +1,10 @@
 {
 	"layers": {
 		"humanoid": [
-			{ "texture": "ssbrc:fighter/shovel_knight/default/default" }
+			{ "texture": "ssbrc:fighter/shovel_knight/default" }
 		],
 		"humanoid_leggings": [
-			{ "texture": "ssbrc:fighter/shovel_knight/default/default" }
+			{ "texture": "ssbrc:fighter/shovel_knight/default" }
 		]
 	}
 }
