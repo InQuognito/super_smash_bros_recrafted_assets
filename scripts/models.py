@@ -24,17 +24,29 @@ def equipment_model(path='assets\\ssbrc\\models\\equipment\\fighter\\'):
 					js_write(file, '{')
 					js_write(file, tab(1) + qm + 'layers' + suf_e)
 					js_write(file, tab(2) + qm + 'humanoid' + suf_l)
-					if has_forms(fighter) and forms_isolated_to(fighter) != 'head':
-						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}/{form}' + '" }')
+					if fighter == 'shovel_knight':
+						if form == 'phase_locket':
+							js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{form}' + '" }')
+						else:
+							js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
 					else:
-						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
+						if has_forms(fighter) and forms_isolated_to(fighter) != 'head':
+							js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}/{form}' + '" }')
+						else:
+							js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
 					js_write(file, tab(2) + '],')
 					js_write(file, tab(2) + qm + 'humanoid_leggings' + suf_l)
-					if has_forms(fighter) and forms_isolated_to(fighter) != 'head':
-						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}/{form}' + '" }')
+					if fighter == 'shovel_knight':
+						if form == 'phase_locket':
+							js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{form}' + '" }')
+						else:
+							js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
 					else:
-						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
-					if fighter == 'pit':
+						if has_forms(fighter) and forms_isolated_to(fighter) != 'head':
+							js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}/{form}' + '" }')
+						else:
+							js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
+					if fighter == 'pit' and form == 'wings':
 						js_write(file, tab(2) + '],')
 						js_write(file, tab(2) + qm + 'wings' + suf_l)
 						js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/default' + '" }')
