@@ -931,7 +931,7 @@
 	"ssbrc.fighter.shadow": "Shadow",
 	"ssbrc.skin.sir_lancelot": "Sir Lancelot",
 	"ssbrc.skin.yellow_android": "Yellow Android",
-	"ssbrc.fighter.shadow.black_sword": "Black Sword",
+	"ssbrc.fighter.shadow.black_sword.default": "Black Sword",
 	"ssbrc.fighter.shadow.black_sword.sir_lancelot": "Arondight",
 	"ssbrc.fighter.shadow.chaos_spear": "Chaos Spear",
 	"ssbrc.fighter.shadow.chaos_spear.description.1": "] to charge up a spear of pure energy",
@@ -985,7 +985,7 @@
 	"ssbrc.series.mii": "Mii",
 	"ssbrc.stage.miiverse": "Miiverse",
 
-	"ssbrc.series.pac_man": "Pac-Man",
+	"ssbrc.fighter.pac_man": "Pac-Man",
 	"ssbrc.stage.pac_maze": "Pac-Maze",
 	"ssbrc.stage.pac_maze.ghost.blinky": "Blinky",
 	"ssbrc.stage.pac_maze.ghost.clyde": "Clyde",
