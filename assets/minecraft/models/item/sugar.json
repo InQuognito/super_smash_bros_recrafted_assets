@@ -84,8 +84,6 @@
 		{ "predicate": { "custom_model_data": 1341 }, "model": "ssbrc:stages/pac_maze/ghosts/eyes/f1" },
 		{ "predicate": { "custom_model_data": 1342 }, "model": "ssbrc:stages/pac_maze/ghosts/eyes/f2" },
 		{ "predicate": { "custom_model_data": 1343 }, "model": "ssbrc:stages/pac_maze/dot" },
-		{ "predicate": { "custom_model_data": 1351 }, "model": "ssbrc:stages/pallet_town/rope" },
-		{ "predicate": { "custom_model_data": 1352 }, "model": "ssbrc:stages/pallet_town/mistys_bike" },
 		{ "predicate": { "custom_model_data": 1601 }, "model": "ssbrc:stages/shadow_moses_island/camera/on" },
 		{ "predicate": { "custom_model_data": 1602 }, "model": "ssbrc:stages/shadow_moses_island/camera/off" },
 		{ "predicate": { "custom_model_data": 1751 }, "model": "ssbrc:stages/tower_of_fate/gear" },
