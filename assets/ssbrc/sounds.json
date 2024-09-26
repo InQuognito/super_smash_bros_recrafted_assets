@@ -156,6 +156,15 @@
 			}
 		]
 	},
+	"fighters.altered_beast.werewolf.flame_arrow.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/altered_beast/werewolf/flame_arrow/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.altered_beast.werewolf.flame_hands.activate": {
 		"sounds":[
 			{
@@ -1251,6 +1260,15 @@
 			}
 		]
 	},
+	"fighters.mega_man.remote_mine.set": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/mega_man/remote_mine/set",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.mega_man.death": {
 		"sounds":[
 			{
@@ -2012,7 +2030,7 @@
 	"fighters.yar.gatling_gun.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/yar/ray_blaster/variants/gatling_gun/activate",
+				"name":"ssbrc:fighters/yar/gatling_gun/activate",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -2021,7 +2039,7 @@
 	"fighters.yar.missile_launcher.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/yar/ray_blaster/variants/missile_launcher/activate",
+				"name":"ssbrc:fighters/yar/missile_launcher/activate",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -2030,7 +2048,16 @@
 	"fighters.yar.missile_launcher.explode": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/yar/ray_blaster/variants/missile_launcher/explode",
+				"name":"ssbrc:fighters/yar/missile_launcher/explode",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.yar.omnishot.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/yar/omnishot/activate",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -2039,7 +2066,7 @@
 	"fighters.yar.railgun.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/yar/ray_blaster/variants/railgun/activate",
+				"name":"ssbrc:fighters/yar/railgun/activate",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -2048,7 +2075,7 @@
 	"fighters.yar.railgun.charge": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/yar/ray_blaster/variants/railgun/charge",
+				"name":"ssbrc:fighters/yar/railgun/charge",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -2057,7 +2084,7 @@
 	"fighters.yar.triple_shot.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/yar/ray_blaster/variants/triple_shot/activate",
+				"name":"ssbrc:fighters/yar/triple_shot/activate",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -2144,24 +2171,6 @@
 			}
 		]
 	},
-	"items.activate": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/activate",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.pickup": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/pickup",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
 	"items.angel_feather.activate": {
 		"sounds":[
 			{
@@ -2175,15 +2184,6 @@
 		"sounds":[
 			{
 				"name":"ssbrc:items/angel_feather/jump",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"items.poke_ball.open": {
-		"sounds":[
-			{
-				"name":"ssbrc:items/poke_ball/open",
 				"stream": false,
 				"volume": 1.0
 			}

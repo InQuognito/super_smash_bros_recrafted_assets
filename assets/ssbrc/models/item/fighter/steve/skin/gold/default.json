@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/fighter/head",
 	"textures": {
-		"base": "ssbrc:fighters/steve/skins/gold"
+		"base": "ssbrc:fighters/steve/skins/default"
 	}
 }
