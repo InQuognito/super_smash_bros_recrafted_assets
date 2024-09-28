@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/fighter/link/item/hylian_shield/parent",
+	"textures": {
+		"base": "ssbrc:fighters/link/items/hylian_shield/default"
+	}
+}
