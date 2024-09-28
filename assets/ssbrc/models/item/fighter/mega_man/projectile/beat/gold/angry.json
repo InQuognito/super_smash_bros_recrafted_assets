@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:item/fighter/mega_man/projectile/beat/parent/body",
+	"parent": "ssbrc:item/fighter/mega_man/projectile/beat/parent",
 	"textures": {
 		"base": "ssbrc:fighters/mega_man/projectiles/beat/gold/angry"
 	}
