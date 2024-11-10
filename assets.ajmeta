@@ -1,0 +1,34 @@
+{
+	"beat": {
+		"files": [
+			"assets/animated_java/models/item/empty.json",
+			"assets/animated_java/textures/item/beat/gold_default.png",
+			"assets/animated_java/textures/item/beat/gold_angry.png",
+			"assets/animated_java/textures/item/transparent.png",
+			"assets/animated_java/models/item/beat/default/beat.json",
+			"assets/animated_java/models/item/beat/default/left_foot.json",
+			"assets/animated_java/models/item/beat/default/right_foot.json",
+			"assets/animated_java/models/item/beat/default/mouth.json",
+			"assets/animated_java/models/item/beat/default/right_wing.json",
+			"assets/animated_java/models/item/beat/default/left_wing.json",
+			"assets/animated_java/models/item/beat/default_angry_/left_foot.json",
+			"assets/animated_java/models/item/beat/default_angry_/right_foot.json",
+			"assets/animated_java/models/item/beat/default_angry_/mouth.json",
+			"assets/animated_java/models/item/beat/default_angry_/right_wing.json",
+			"assets/animated_java/models/item/beat/default_angry_/left_wing.json",
+			"assets/animated_java/models/item/beat/default_angry_/beat.json",
+			"assets/animated_java/models/item/beat/gold_default_/left_foot.json",
+			"assets/animated_java/models/item/beat/gold_default_/right_foot.json",
+			"assets/animated_java/models/item/beat/gold_default_/mouth.json",
+			"assets/animated_java/models/item/beat/gold_default_/right_wing.json",
+			"assets/animated_java/models/item/beat/gold_default_/left_wing.json",
+			"assets/animated_java/models/item/beat/gold_default_/beat.json",
+			"assets/animated_java/models/item/beat/gold_angry_/left_foot.json",
+			"assets/animated_java/models/item/beat/gold_angry_/right_foot.json",
+			"assets/animated_java/models/item/beat/gold_angry_/mouth.json",
+			"assets/animated_java/models/item/beat/gold_angry_/right_wing.json",
+			"assets/animated_java/models/item/beat/gold_angry_/left_wing.json",
+			"assets/animated_java/models/item/beat/gold_angry_/beat.json"
+		]
+	}
+}

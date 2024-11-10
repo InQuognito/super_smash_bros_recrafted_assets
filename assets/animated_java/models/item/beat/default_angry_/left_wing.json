@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/beat/default/left_wing",
+	"textures": {
+		"0": "ssbrc:fighters/mega_man/projectiles/beat/default/angry"
+	}
+}

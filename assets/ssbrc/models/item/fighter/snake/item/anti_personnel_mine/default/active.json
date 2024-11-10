@@ -1,0 +1,7 @@
+{
+	"parent": "ssbrc:item/fighter/snake/item/anti_personnel_mine/parent",
+	"textures": {
+		"base": "ssbrc:fighters/snake/items/anti_personnel_mine/base",
+		"status": "ssbrc:fighters/snake/items/anti_personnel_mine/active"
+	}
+}

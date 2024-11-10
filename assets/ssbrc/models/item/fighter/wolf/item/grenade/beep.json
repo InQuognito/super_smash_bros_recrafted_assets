@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/fighter/wolf/item/grenade/parent",
+	"textures": {
+		"base": "ssbrc:fighters/wolf/items/grenade/beep"
+	}
+}

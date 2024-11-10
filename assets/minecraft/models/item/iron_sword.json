@@ -4,9 +4,6 @@
 		"layer0": "minecraft:item/iron_sword"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 60 }, "model": "ssbrc:fighters/bowser/items/power_band/default" },
-		{ "predicate": { "custom_model_data": 61 }, "model": "ssbrc:fighters/bowser/items/power_band/gold" },
-
 		{ "predicate": { "custom_model_data": 100 }, "model": "ssbrc:fighters/byleth/items/steel_sword/default" },
 		{ "predicate": { "custom_model_data": 101 }, "model": "ssbrc:fighters/byleth/items/steel_sword/gold" },
 		{ "predicate": { "custom_model_data": 102 }, "model": "ssbrc:fighters/byleth/items/blue_lions/areadbhar/default" },

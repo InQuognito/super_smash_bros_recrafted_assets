@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/fighter/mega_man/item/hyper_bomb/parent",
+	"textures": {
+		"base": "ssbrc:fighters/mega_man/items/hyper_bomb/default"
+	}
+}

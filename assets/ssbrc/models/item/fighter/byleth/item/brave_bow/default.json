@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/bow",
+	"textures": {
+		"layer0": "ssbrc:fighters/byleth/items/brave_bow/idle"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/fighter/byleth/item/brave_bow/pulling_0" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "ssbrc:item/fighter/byleth/item/brave_bow/pulling_1" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "ssbrc:item/fighter/byleth/item/brave_bow/pulling_2" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "ssbrc:item/fighter/byleth/item/brave_bow/pulling_3" }
+	]
+}

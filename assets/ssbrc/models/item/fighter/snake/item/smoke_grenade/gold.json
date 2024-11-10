@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/fighter/snake/item/smoke_grenade/parent",
+	"textures": {
+		"base": "ssbrc:fighters/snake/items/smoke_grenade/gold"
+	}
+}

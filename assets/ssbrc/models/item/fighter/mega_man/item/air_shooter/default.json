@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/fighter/mega_man/item/mega_buster/parent/default",
+	"textures": {
+		"base": "ssbrc:fighters/mega_man/items/mega_buster/default/air_shooter"
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"0": "ssbrc:fighters/mega_man/projectiles/beat/default/default"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [6.95, 8, 4.75],
+			"to": [19.05, 8, 11.25],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [4, 0, 0, 0],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [2.625, 0, 0, 0],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [4, 0, 0, 0],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [2.625, 0, 0, 0],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [0, 2.625, 4, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [0, 0, 4, 2.625],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

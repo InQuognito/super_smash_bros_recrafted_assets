@@ -1,0 +1,28 @@
+{
+	"parent": "minecraft:item/bow",
+	"textures": {
+		"layer0": "ssbrc:fighters/zelda/items/bow/poison/idle"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"pulling": 1
+			},
+			"model": "ssbrc:item/fighter/zelda/item/bow/poison/pulling_0"
+		},
+		{
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65
+			},
+			"model": "ssbrc:item/fighter/zelda/item/bow/poison/pulling_1"
+		},
+		{
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "ssbrc:item/fighter/zelda/item/bow/poison/pulling_2"
+		}
+	]
+}

@@ -12,8 +12,6 @@
 		{ "predicate": { "custom_model_data": 6 }, "model": "ssbrc:fighters/rob/items/robo_beam/gold/ready" },
 		{ "predicate": { "custom_model_data": 7 }, "model": "ssbrc:fighters/rob/items/robo_beam/gold/charged" },
 
-		{ "predicate": { "custom_model_data": 60 }, "model": "ssbrc:fighters/bowser/skins/default" },
-
 		{ "predicate": { "custom_model_data": 100 }, "model": "ssbrc:fighters/byleth/skins/default/female" },
 		{ "predicate": { "custom_model_data": 101 }, "model": "ssbrc:fighters/byleth/items/blue_lions/steed_charge" },
 		{ "predicate": { "custom_model_data": 102 }, "model": "ssbrc:fighters/byleth/items/golden_deer/brave_bow/idle" },
@@ -62,12 +60,6 @@
 		{ "predicate": { "custom_model_data": 273 }, "model": "ssbrc:fighters/dark_samus/items/phazon_beam/prime_3/charge_0" },
 		{ "predicate": { "custom_model_data": 274 }, "model": "ssbrc:fighters/dark_samus/items/phazon_beam/prime_3/charge_1" },
 		{ "predicate": { "custom_model_data": 275 }, "model": "ssbrc:fighters/dark_samus/items/phazon_beam/prime_3/charge_2" },
-
-		{ "predicate": { "custom_model_data": 300 }, "model": "ssbrc:fighters/donkey_kong/skins/default" },
-		{ "predicate": { "custom_model_data": 301 }, "model": "ssbrc:fighters/donkey_kong/items/barrel/default" },
-		{ "predicate": { "custom_model_data": 302 }, "model": "ssbrc:fighters/donkey_kong/items/orange_grenade" },
-		{ "predicate": { "custom_model_data": 303 }, "model": "ssbrc:fighters/donkey_kong/items/barrel/oil" },
-		{ "predicate": { "custom_model_data": 304 }, "model": "ssbrc:fighters/donkey_kong/items/barrel/gold" },
 
 		{ "predicate": { "custom_model_data": 380 }, "model": "ssbrc:fighters/fox/skins/default" },
 		{ "predicate": { "custom_model_data": 381 }, "model": "ssbrc:fighters/fox/items/krazoan_staff/default" },
@@ -126,14 +118,6 @@
 		{ "predicate": { "custom_model_data": 731 }, "model": "ssbrc:fighters/link/items/master_sword/dark_link/spinning/default" },
 		{ "predicate": { "custom_model_data": 732 }, "model": "ssbrc:fighters/link/items/master_sword/dark_link/spinning/awakened" },
 		{ "predicate": { "custom_model_data": 733 }, "model": "ssbrc:fighters/link/items/boomerang" },
-
-		{ "predicate": { "custom_model_data": 820 }, "model": "ssbrc:fighters/luigi/skins/default" },
-		{ "predicate": { "custom_model_data": 821 }, "model": "ssbrc:fighters/luigi/items/ice_ball/default" },
-		{ "predicate": { "custom_model_data": 822 }, "model": "ssbrc:fighters/luigi/items/ice_ball/gold" },
-
-		{ "predicate": { "custom_model_data": 840 }, "model": "ssbrc:fighters/mario/skins/default" },
-		{ "predicate": { "custom_model_data": 841 }, "model": "ssbrc:fighters/mario/items/fireball/default" },
-		{ "predicate": { "custom_model_data": 842 }, "model": "ssbrc:fighters/mario/items/fireball/gold" },
 
 		{ "predicate": { "custom_model_data": 880 }, "model": "ssbrc:fighters/mega_man/skins/default" },
 		{ "predicate": { "custom_model_data": 881 }, "model": "ssbrc:fighters/mega_man/items/mega_buster/default/default" },
@@ -253,13 +237,6 @@
 		{ "predicate": { "custom_model_data": 1780 }, "model": "ssbrc:fighters/zelda/skins/default" },
 
 
-
-		{ "predicate": { "custom_model_data": 1820 }, "model": "ssbrc:fighters/altered_beast/skins/default/centurion" },
-		{ "predicate": { "custom_model_data": 1821 }, "model": "ssbrc:fighters/altered_beast/items/spirit_orb" },
-		{ "predicate": { "custom_model_data": 1825 }, "model": "ssbrc:fighters/altered_beast/items/werebear/petrifying_breath" },
-		{ "predicate": { "custom_model_data": 1829 }, "model": "ssbrc:fighters/altered_beast/items/weredragon/electrocution" },
-		{ "predicate": { "custom_model_data": 1833 }, "model": "ssbrc:fighters/altered_beast/items/weretiger/sabretooth" },
-		{ "predicate": { "custom_model_data": 1837 }, "model": "ssbrc:fighters/altered_beast/items/werewolf/flame_hands" },
 
 		{ "predicate": { "custom_model_data": 1840 }, "model": "ssbrc:fighters/alucard/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1841 }, "model": "ssbrc:fighters/alucard/items/holy_water/default" },

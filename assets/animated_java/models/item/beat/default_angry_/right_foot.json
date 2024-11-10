@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/beat/default/right_foot",
+	"textures": {
+		"0": "ssbrc:fighters/mega_man/projectiles/beat/default/angry"
+	}
+}

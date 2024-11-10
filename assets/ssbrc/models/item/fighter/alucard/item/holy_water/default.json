@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/fighter/alucard/item/holy_water/parent",
+	"textures": {
+		"base": "ssbrc:fighters/alucard/items/holy_water/default"
+	}
+}

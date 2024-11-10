@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:item/fighter/dark_samus/item/phazon_beam/parent/idle",
+	"textures": {
+		"base": "ssbrc:fighters/dark_samus/items/phazon_beam/default"
+	}
+}
