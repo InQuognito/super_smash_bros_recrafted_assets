@@ -1,0 +1,11 @@
+{
+	"parent": "ssbrc:template/player/steve",
+	"textures": {
+		"base": "ssbrc:fighters/ryu/items/ashura_senku/trail/gold/faded_0"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/fighter/ryu/misc/ashura_senku/trail/gold/faded_1" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "ssbrc:item/fighter/ryu/misc/ashura_senku/trail/gold/faded_2" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "ssbrc:item/fighter/ryu/misc/ashura_senku/trail/gold/faded_3" }
+	]
+}

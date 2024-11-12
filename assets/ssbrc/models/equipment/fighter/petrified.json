@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/petrified" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/petrified" }
+		]
+	}
+}

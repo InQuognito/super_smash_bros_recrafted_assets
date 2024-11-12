@@ -1,0 +1,10 @@
+{
+	"parent": "ssbrc:template/item/hud",
+	"textures": {
+		"base": "ssbrc:fighters/rob/items/robo_beam/gold/depleted"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/fighter/rob/item/robo_beam/gold/ready" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "ssbrc:item/fighter/rob/item/robo_beam/gold/charged" }
+	]
+}

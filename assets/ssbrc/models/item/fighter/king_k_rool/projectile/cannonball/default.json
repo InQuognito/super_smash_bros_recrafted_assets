@@ -3,8 +3,5 @@
 	"textures": {
 		"side": "ssbrc:fighters/king_k_rool/projectile/cannonball/default/side",
 		"top": "ssbrc:fighters/king_k_rool/projectile/cannonball/default/top"
-	},
-	"overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/fighter/king_k_rool/projectile/cannonball/gold" }
-	]
+	}
 }

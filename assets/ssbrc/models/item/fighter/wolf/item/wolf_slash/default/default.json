@@ -1,9 +1,9 @@
 {
-	"parent": "ssbrc:item/fighter/wolf/item/wolf_slash/default/parent",
+	"parent": "ssbrc:item/fighter/wolf/item/wolf_slash/parent/default",
 	"textures": {
 		"base": "ssbrc:fighters/wolf/items/wolf_slash/default"
 	},
 	"overrides": [
-		{ "predicate": { "lefthanded": 1 }, "model": "ssbrc:item/fighter/wolf/item/wolf_slash/left/default" }
+		{ "predicate": { "lefthanded": 1 }, "model": "ssbrc:item/fighter/wolf/item/wolf_slash/default/left" }
 	]
 }

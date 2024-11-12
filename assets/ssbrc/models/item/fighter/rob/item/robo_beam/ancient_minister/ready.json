@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/item/hud",
+	"textures": {
+		"base": "ssbrc:fighters/rob/items/robo_beam/ancient_minister/ready"
+	}
+}

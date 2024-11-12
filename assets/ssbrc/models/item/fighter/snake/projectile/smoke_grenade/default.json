@@ -2,8 +2,5 @@
 	"parent": "ssbrc:item/fighter/snake/projectile/smoke_grenade/parent",
 	"textures": {
 		"base": "ssbrc:fighters/snake/items/smoke_grenade/default"
-	},
-	"overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/fighter/snake/projectile/smoke_grenade/gold" }
-	]
+	}
 }

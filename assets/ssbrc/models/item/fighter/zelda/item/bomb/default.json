@@ -1,0 +1,10 @@
+{
+	"parent": "ssbrc:item/fighter/zelda/item/bomb/parent",
+	"textures": {
+		"0": "ssbrc:fighters/zelda/items/dungeon_items/bomb/default"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/fighter/zelda/item/bomb/red" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "ssbrc:item/fighter/zelda/item/bomb/white" }
+	]
+}
