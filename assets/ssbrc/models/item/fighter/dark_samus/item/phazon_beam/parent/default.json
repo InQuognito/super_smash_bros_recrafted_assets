@@ -567,17 +567,9 @@
 			"translation": [3.5, 0, -4.5],
 			"scale": [4, 4, 3.28]
 		},
-		"ground": {
-			"scale": [4, 4, 4]
-		},
 		"gui": {
 			"rotation": [45, 160, 0],
-			"scale": [4, 4, 3]
-		},
-		"fixed": {
-			"rotation": [0, 90, 0],
-			"translation": [0.75, 0, -1.25],
-			"scale": [3, 3, 3]
+			"scale": [3.5, 3.5, 3]
 		}
 	},
 	"groups": [

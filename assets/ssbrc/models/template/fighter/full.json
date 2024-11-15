@@ -161,7 +161,6 @@
 			"origin": [0, 24, 0],
 			"rotation": [6, -5, 0],
 			"color": 0,
-			"nbt": "{}",
 			"children": [0, 1]
 		},
 		2,

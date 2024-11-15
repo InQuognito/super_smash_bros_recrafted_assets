@@ -1283,14 +1283,12 @@
 			"name": "Head",
 			"origin": [8, 4.5, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [0, 1]
 		},
 		{
 			"name": "crown",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [
 				2,
 				3,
