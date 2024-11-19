@@ -2,5 +2,8 @@
 	"parent": "ssbrc:template/item/hud",
 	"textures": {
 		"base": "ssbrc:fighters/joker/portraits/jack_frost/inactive"
-	}
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/fighter/joker/portrait/jack_frost/active" }
+	]
 }

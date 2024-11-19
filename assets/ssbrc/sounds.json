@@ -799,10 +799,10 @@
 			}
 		]
 	},
-	"fighters.hero.insufficient_mana": {
+	"fighters.hero.insufficient_magic": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/hero/insufficient_mana",
+				"name":"ssbrc:fighters/hero/insufficient_magic",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -1720,10 +1720,10 @@
 			}
 		]
 	},
-	"fighters.shovel_knight.insufficient_mana": {
+	"fighters.shovel_knight.insufficient_magic": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/shovel_knight/insufficient_mana",
+				"name":"ssbrc:fighters/shovel_knight/insufficient_magic",
 				"stream": false,
 				"volume": 1.0
 			}

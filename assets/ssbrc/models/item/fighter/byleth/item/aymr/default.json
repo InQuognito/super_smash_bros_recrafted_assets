@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "ssbrc:fighters/byleth/items/black_eagles/aymr/default"
+		"layer0": "ssbrc:fighters/byleth/items/aymr/default"
 	},
 	"display": {
 		"thirdperson_righthand": {
@@ -23,5 +23,8 @@
 		"ground": {
 			"translation": [0, 4.5, 0]
 		}
-	}
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/fighter/byleth/item/aymr/awakened" }
+	]
 }

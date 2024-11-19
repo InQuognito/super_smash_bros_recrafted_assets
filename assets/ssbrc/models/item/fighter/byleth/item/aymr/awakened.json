@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "ssbrc:fighters/byleth/items/black_eagles/aymr/awakened"
+		"layer0": "ssbrc:fighters/byleth/items/aymr/awakened"
 	},
 	"display": {
 		"thirdperson_righthand": {

@@ -197,5 +197,8 @@
 			"rotation": [45, 45, 0],
 			"scale": [4, 4, 4]
 		}
-	}
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/fighter/ryu/item/collarbone_breaker/default/evil" }
+	]
 }

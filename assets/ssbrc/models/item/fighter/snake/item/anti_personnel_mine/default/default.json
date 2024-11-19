@@ -1,0 +1,12 @@
+{
+	"parent": "ssbrc:item/fighter/snake/item/anti_personnel_mine/parent",
+	"textures": {
+		"base": "ssbrc:fighters/snake/items/anti_personnel_mine/base",
+		"status": "ssbrc:fighters/snake/items/anti_personnel_mine/idle"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/fighter/snake/item/anti_personnel_mine/default/priming_0" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "ssbrc:item/fighter/snake/item/anti_personnel_mine/default/priming_1" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "ssbrc:item/fighter/snake/item/anti_personnel_mine/default/active" }
+	]
+}

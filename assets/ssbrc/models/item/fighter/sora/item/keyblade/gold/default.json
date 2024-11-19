@@ -32,5 +32,8 @@
 			"rotation": [45, 90, 0],
 			"scale": [2, 2, 2]
 		}
-	}
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/fighter/sora/item/keyblade/gold/wisdom" }
+	]
 }
