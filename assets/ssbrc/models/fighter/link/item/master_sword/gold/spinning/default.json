@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/link/item/master_sword/parent/spinning",
+	"textures": {
+		"layer0": "ssbrc:fighter/link/item/master_sword/gold/default"
+	}
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:item/stage/luigis_mansion/painting/parent",
-	"textures": {
-		"base": "ssbrc:stages/luigis_mansion/paintings/uncle_grimmly"
-	}
-}

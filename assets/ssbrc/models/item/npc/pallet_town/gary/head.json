@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/player/head",
-	"textures": {
-		"base": "ssbrc:stages/pallet_town/armor_stands/gary"
-	}
-}

@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/head",
-	"textures": {
-		"base": "ssbrc:fighters/jigglypuff/skins/default/rest"
-	}
-}

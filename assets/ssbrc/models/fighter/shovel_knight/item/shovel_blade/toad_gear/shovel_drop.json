@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/shovel_knight/item/shovel_blade/parent/shovel_drop",
+	"textures": {
+		"base": "ssbrc:fighter/shovel_knight/item/shovel_blade/toad_gear/shovel_drop"
+	}
+}

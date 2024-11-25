@@ -1,0 +1,35 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:display_context",
+		"cases": [
+			{
+				"when": "thirdperson_lefthand",
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:npc/magicant/jeff/arm_left"
+				}
+			},
+			{
+				"when": "thirdperson_righthand",
+				"model": {
+					"type": "minecraft:composite",
+					"models": [
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:npc/magicant/jeff/arm_right"
+						},
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:npc/magicant/jeff/multi_bottle_rocket"
+						}
+					]
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "ssbrc:npc/magicant/jeff/head"
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/snake/item/socom/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/snake/item/socom/default"
+	}
+}

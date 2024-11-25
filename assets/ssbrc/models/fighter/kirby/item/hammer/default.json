@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/kirby/item/hammer/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/kirby/item/hammer/default"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/kirby/item/katana/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/kirby/item/katana/gold"
+	}
+}

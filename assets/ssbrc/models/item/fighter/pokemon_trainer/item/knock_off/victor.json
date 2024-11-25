@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/item/hud",
-	"textures": {
-		"base": "ssbrc:fighters/pokemon_trainer/items/knock_off/victor"
-	}
-}

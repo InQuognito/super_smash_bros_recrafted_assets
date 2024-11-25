@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/arm_right/steve",
+	"textures": {
+		"base": "ssbrc:stage/castle_siege/armor_stands/king"
+	}
+}

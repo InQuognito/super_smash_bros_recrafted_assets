@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/yar/item/railgun/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/yar/item/railgun/default/default"
+	}
+}

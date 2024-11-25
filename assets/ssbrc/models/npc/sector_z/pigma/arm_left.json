@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/arm_left/alex",
+	"textures": {
+		"base": "ssbrc:stage/sector_z/armor_stands/pigma"
+	}
+}

@@ -1,7 +1,0 @@
-{
-	"parent": "ssbrc:item/stage/miiverse/post/template",
-	"textures": {
-		"post": "ssbrc:stages/miiverse/posts/pokemon_trainer/1",
-		"author": "ssbrc:stages/miiverse/signatures/jedimasterhomer"
-	}
-}

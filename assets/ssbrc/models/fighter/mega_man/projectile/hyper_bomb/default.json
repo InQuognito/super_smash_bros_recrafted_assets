@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/mega_man/projectile/hyper_bomb/parent",
+	"textures": {
+		"base": "ssbrc:fighter/mega_man/projectile/hyper_bomb/default"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/rob/skin/parent/ready",
+	"textures": {
+		"base": "ssbrc:fighter/rob/skin/gold"
+	}
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/arm_right/steve",
-	"textures": {
-		"base": "ssbrc:stages/green_hill_zone/armor_stands/vector"
-	}
-}

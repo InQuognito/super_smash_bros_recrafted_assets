@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:common/pokemon/pokemon/geodude/parent",
+	"textures": {
+		"base": "ssbrc:common/pokemon/pokemon/geodude/default"
+	}
+}

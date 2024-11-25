@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/player/head",
-	"textures": {
-		"base": "ssbrc:stages/castle_siege/armor_stands/king"
-	}
-}

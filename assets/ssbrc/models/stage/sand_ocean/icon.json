@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:stage/icon",
+	"textures": {
+		"base": "ssbrc:stage/sand_ocean/icon"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/player/head",
+	"textures": {
+		"base": "ssbrc:stage/magicant/armor_stands/poo"
+	}
+}

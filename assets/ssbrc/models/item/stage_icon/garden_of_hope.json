@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:item/stage_icon/parent",
-	"textures": {
-		"base": "ssbrc:stage_icons/garden_of_hope"
-	}
-}

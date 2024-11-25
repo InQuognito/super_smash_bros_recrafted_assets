@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/yar/item/missile_launcher/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/yar/item/missile_launcher/default"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/yar/item/triple_shot/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/yar/item/triple_shot/gold"
+	}
+}

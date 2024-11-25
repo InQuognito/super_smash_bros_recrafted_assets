@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/mega_man/item/mega_buster/parent/default",
+	"textures": {
+		"base": "ssbrc:fighter/mega_man/item/mega_buster/default/drill_bomb"
+	}
+}

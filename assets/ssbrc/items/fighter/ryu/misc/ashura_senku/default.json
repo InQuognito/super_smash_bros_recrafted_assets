@@ -1,0 +1,34 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"index": 0,
+		"entries": [
+			{
+				"threshold": 1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/ryu/misc/ashura_senku/default/faded_1"
+				}
+			},
+			{
+				"threshold": 2,
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/ryu/misc/ashura_senku/default/faded_2"
+				}
+			},
+			{
+				"threshold": 3,
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/ryu/misc/ashura_senku/default/faded_3"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/ryu/misc/ashura_senku/default/default"
+		}
+	}
+}

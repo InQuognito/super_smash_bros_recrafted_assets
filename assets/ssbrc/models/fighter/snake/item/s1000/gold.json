@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/snake/item/s1000/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/snake/item/s1000/gold"
+	}
+}

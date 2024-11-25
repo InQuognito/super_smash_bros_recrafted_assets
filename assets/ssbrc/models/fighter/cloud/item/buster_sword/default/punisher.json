@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/cloud/item/buster_sword/parent/punisher",
+	"textures": {
+		"layer0": "ssbrc:fighter/cloud/item/sword/default"
+	}
+}

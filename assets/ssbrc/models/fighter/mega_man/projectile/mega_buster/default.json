@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/mega_man/projectile/mega_buster/parent",
+	"textures": {
+		"base": "ssbrc:colors/yellow"
+	}
+}

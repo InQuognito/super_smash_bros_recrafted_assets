@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/sora/item/keyblade/parent/default",
+	"textures": {
+		"layer0": "ssbrc:fighter/sora/item/keyblade/default/default"
+	}
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/player/steve",
-	"textures": {
-		"base": "ssbrc:developers/inquognito"
-	}
-}

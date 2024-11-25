@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/arm_left/alex",
-	"textures": {
-		"base": "ssbrc:stages/mementos/armor_stands/queen"
-	}
-}

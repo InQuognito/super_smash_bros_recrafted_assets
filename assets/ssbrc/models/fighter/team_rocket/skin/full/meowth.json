@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/player/steve",
+	"textures": {
+		"base": "ssbrc:fighter/team_rocket/skin/full/meowth"
+	}
+}

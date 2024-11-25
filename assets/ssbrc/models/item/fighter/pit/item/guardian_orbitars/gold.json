@@ -1,7 +1,0 @@
-{
-	"parent": "ssbrc:item/fighter/pit/item/guardian_orbitars/parent",
-	"textures": {
-		"base": "ssbrc:fighters/pit/items/guardian_orbitars/gold",
-		"particle": "ssbrc:fighters/pit/items/guardian_orbitars/gold"
-	}
-}

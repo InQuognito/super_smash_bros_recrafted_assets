@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "ssbrc:fighters/shadow/items/chaos_emeralds/blue"
-	}
-}

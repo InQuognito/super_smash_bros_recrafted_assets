@@ -190,7 +190,6 @@
 	"ssbrc.game.time_remaining": "Time Remaining",
 	"ssbrc.game.out": " has run out of stocks!",
 	"ssbrc.game.fighters": "Fighters",
-	"ssbrc.game.skins": "Skins",
 
 	"ssbrc.game.end.summary": "Post-Game Summary",
 
@@ -1000,7 +999,6 @@
 	"ssbrc.fighter.ryu": "Ryu",
 	"ssbrc.skin.hot_ryu": "Hot Ryu",
 	"ssbrc.skin.iron_fist": "Iron Fist",
-	"ssbrc.skin.super_turbo": "Super Turbo",
 	"ssbrc.fighter.ryu.collarbone_breaker": "Collarbone Breaker",
 	"ssbrc.fighter.ryu.collarbone_breaker.description.1": "] and release to launch a Hadouken",
 	"ssbrc.fighter.ryu.collarbone_breaker.description.2": "- Hold before release to launch a stronger, slower Hadouken",

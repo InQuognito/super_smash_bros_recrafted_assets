@@ -1,0 +1,98 @@
+{
+	"model": {
+		"type": "minecraft:condition",
+		"property": "minecraft:using_item",
+		"on_true": {
+			"type": "minecraft:range_dispatch",
+			"property": "minecraft:use_duration",
+			"scale": 0.025,
+			"entries": [
+				{
+					"threshold": 0.08,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/yar/item/railgun/default/charging_1"
+					}
+				},
+				{
+					"threshold": 0.16,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/yar/item/railgun/default/charging_2"
+					}
+				},
+				{
+					"threshold": 0.24,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/yar/item/railgun/default/charging_3"
+					}
+				},
+				{
+					"threshold": 0.40,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/yar/item/railgun/default/charging_4"
+					}
+				},
+				{
+					"threshold": 0.48,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/yar/item/railgun/default/charging_5"
+					}
+				},
+				{
+					"threshold": 0.56,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/yar/item/railgun/default/charging_6"
+					}
+				},
+				{
+					"threshold": 0.64,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/yar/item/railgun/default/charging_7"
+					}
+				},
+				{
+					"threshold": 0.72,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/yar/item/railgun/default/charging_8"
+					}
+				},
+				{
+					"threshold": 0.8,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/yar/item/railgun/default/charging_9"
+					}
+				},
+				{
+					"threshold": 0.88,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/yar/item/railgun/default/charging_10"
+					}
+				},
+				{
+					"threshold": 1.0,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/yar/item/railgun/default/charged"
+					}
+				}
+			],
+			"fallback": {
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/yar/item/railgun/default/charging_0"
+			}
+		},
+		"on_false": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/yar/item/railgun/default/default"
+		}
+	}
+}

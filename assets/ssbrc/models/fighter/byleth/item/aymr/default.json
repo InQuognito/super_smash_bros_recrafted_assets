@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/byleth/item/aymr/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/byleth/item/aymr/default"
+	}
+}

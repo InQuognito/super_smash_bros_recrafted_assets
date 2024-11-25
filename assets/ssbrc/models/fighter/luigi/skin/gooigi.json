@@ -1,0 +1,7 @@
+{
+	"parent": "ssbrc:fighter/mario/skin/parent/default",
+	"textures": {
+		"base": "ssbrc:fighter/luigi/skin/gooigi",
+		"particle": "ssbrc:fighter/luigi/skin/gooigi"
+	}
+}

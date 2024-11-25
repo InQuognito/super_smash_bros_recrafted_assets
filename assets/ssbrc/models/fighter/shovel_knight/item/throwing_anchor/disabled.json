@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/shovel_knight/item/throwing_anchor/parent",
+	"textures": {
+		"base": "ssbrc:fighter/shovel_knight/item/throwing_anchor/disabled"
+	}
+}

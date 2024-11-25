@@ -1,9 +1,0 @@
-{
-	"parent": "ssbrc:item/fighter/captain_falcon/item/fists_of_fury/parent/default",
-	"textures": {
-		"base": "ssbrc:fighters/captain_falcon/items/fists_of_fury/gold"
-	},
-	"overrides": [
-		{ "predicate": { "lefthanded": 1 }, "model": "ssbrc:item/fighter/captain_falcon/item/fists_of_fury/gold/left" }
-	]
-}

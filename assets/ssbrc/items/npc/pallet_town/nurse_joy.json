@@ -1,0 +1,26 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:display_context",
+		"cases": [
+			{
+				"when": "thirdperson_lefthand",
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:npc/pallet_town/nurse_joy/arm_left"
+				}
+			},
+			{
+				"when": "thirdperson_righthand",
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:npc/pallet_town/nurse_joy/arm_right"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "ssbrc:npc/pallet_town/nurse_joy/head"
+		}
+	}
+}

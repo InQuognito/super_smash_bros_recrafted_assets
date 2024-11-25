@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/head",
-	"textures": {
-		"base": "ssbrc:fighters/snake/skins/default/night_vision_goggles"
-	}
-}

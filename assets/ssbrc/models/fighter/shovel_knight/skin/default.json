@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/shovel_knight/skin/parent",
+	"textures": {
+		"base": "ssbrc:fighter/shovel_knight/skin/default"
+	}
+}

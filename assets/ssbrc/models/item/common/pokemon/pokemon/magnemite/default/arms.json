@@ -1,9 +1,0 @@
-{
-	"parent": "ssbrc:item/common/pokemon/pokemon/magnemite/parent/arms",
-	"textures": {
-		"base": "ssbrc:pokemon/magnemite/default"
-	},
-	"overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/common/pokemon/pokemon/magnemite/shiny/arms" }
-	]
-}

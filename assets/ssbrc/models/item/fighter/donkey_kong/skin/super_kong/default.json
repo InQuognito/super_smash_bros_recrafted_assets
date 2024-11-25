@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:item/fighter/donkey_kong/skin/parent",
-	"textures": {
-		"base": "ssbrc:fighters/donkey_kong/skins/super_kong"
-	}
-}

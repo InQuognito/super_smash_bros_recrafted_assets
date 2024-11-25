@@ -1,4 +1,7 @@
 {
+	"textures": {
+		"particle": "ssbrc:misc/empty"
+	},
 	"elements": [
 		{
 			"from": [0, 0, 8],

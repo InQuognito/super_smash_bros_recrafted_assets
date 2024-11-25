@@ -1,0 +1,6 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "ssbrc:fighter/snake/projectile/smoke_grenade/default"
+	}
+}

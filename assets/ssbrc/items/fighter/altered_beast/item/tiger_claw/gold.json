@@ -1,0 +1,26 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:display_context",
+		"cases": [
+			{
+				"when": "firstperson_lefthand",
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/altered_beast/item/tiger_claw/gold/left"
+				}
+			},
+			{
+				"when": "thirdperson_lefthand",
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/altered_beast/item/tiger_claw/gold/left"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/altered_beast/item/tiger_claw/gold/default"
+		}
+	}
+}

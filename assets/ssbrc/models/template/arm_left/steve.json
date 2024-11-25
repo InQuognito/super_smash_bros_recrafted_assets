@@ -1,4 +1,7 @@
 {
+	"textures": {
+		"particle": "ssbrc:misc/empty"
+	},
 	"elements": [
 		{
 			"name": "Left Arm",

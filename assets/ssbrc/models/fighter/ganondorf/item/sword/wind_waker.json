@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/ganondorf/item/sword/parent/wind_waker",
+	"textures": {
+		"layer0": "ssbrc:fighter/ganondorf/item/sword/wind_waker"
+	}
+}

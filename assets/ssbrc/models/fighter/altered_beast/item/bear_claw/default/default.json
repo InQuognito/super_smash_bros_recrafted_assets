@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/altered_beast/item/bear_claw/parent/default",
+	"textures": {
+		"base": "ssbrc:fighter/altered_beast/item/bear_claw/default"
+	}
+}

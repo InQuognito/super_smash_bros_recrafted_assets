@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/jigglypuff/item/hyper_voice/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/jigglypuff/item/hyper_voice/default"
+	}
+}

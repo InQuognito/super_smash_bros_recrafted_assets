@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/player/alex",
-	"textures": {
-		"base": "ssbrc:fighters/jigglypuff/skins/default/full"
-	}
-}

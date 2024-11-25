@@ -1,0 +1,35 @@
+{
+	"model": {
+		"type": "minecraft:condition",
+		"property": "minecraft:using_item",
+		"on_true": {
+			"type": "minecraft:range_dispatch",
+			"property": "minecraft:use_duration",
+			"scale": 0.1,
+			"entries": [
+				{
+					"threshold": 0.5,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/pit/item/palutena_bow/default/pulling_1"
+					}
+				},
+				{
+					"threshold": 1.0,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/pit/item/palutena_bow/default/pulling_2"
+					}
+				}
+			],
+			"fallback": {
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/pit/item/palutena_bow/default/pulling_0"
+			}
+		},
+		"on_false": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/pit/item/palutena_bow/default/default"
+		}
+	}
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/fighter/head",
-	"textures": {
-		"base": "ssbrc:fighters/pokemon_trainer/skins/dawn/trainer"
-	}
-}

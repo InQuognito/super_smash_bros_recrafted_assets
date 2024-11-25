@@ -1,0 +1,7 @@
+{
+	"parent": "ssbrc:fighter/king_k_rool/projectile/cannonball/parent",
+	"textures": {
+		"side": "ssbrc:fighter/king_k_rool/projectile/cannonball/gold/side",
+		"top": "ssbrc:fighter/king_k_rool/projectile/cannonball/gold/top"
+	}
+}

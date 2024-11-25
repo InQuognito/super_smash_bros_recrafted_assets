@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:item/misc/logo/parent",
-	"textures": {
-		"base": "ssbrc:misc/discord"
-	}
-}

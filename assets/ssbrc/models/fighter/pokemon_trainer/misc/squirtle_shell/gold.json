@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/pokemon_trainer/misc/squirtle_shell/parent",
+	"textures": {
+		"base": "ssbrc:fighter/pokemon_trainer/misc/squirtle_shell/gold"
+	}
+}

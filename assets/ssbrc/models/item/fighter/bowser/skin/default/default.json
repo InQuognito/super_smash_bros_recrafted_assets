@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:item/fighter/bowser/skin/parent",
-	"textures": {
-		"base": "ssbrc:fighters/bowser/skins/default"
-	}
-}

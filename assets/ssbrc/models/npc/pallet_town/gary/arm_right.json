@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/arm_right/steve",
+	"textures": {
+		"base": "ssbrc:stage/pallet_town/armor_stands/gary"
+	}
+}

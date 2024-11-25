@@ -1,0 +1,21 @@
+{
+	"textures": {
+		"0": "ssbrc:stage/wily_castle/dr_w"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0.1429, 0.1429, 15.8572, 15.8572], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"scale": [2, 2, 1]
+		}
+	}
+}

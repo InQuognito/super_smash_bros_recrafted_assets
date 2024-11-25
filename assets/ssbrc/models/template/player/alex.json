@@ -1,5 +1,8 @@
 {
 	"texture_size": [64, 64],
+	"textures": {
+		"particle": "ssbrc:misc/empty"
+	},
 	"elements": [
 		{
 			"name": "head",

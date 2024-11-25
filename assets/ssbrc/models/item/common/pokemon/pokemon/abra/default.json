@@ -1,9 +1,0 @@
-{
-	"parent": "ssbrc:item/common/pokemon/pokemon/abra/parent",
-	"textures": {
-		"base": "ssbrc:pokemon/abra/default"
-	},
-	"overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/common/pokemon/pokemon/abra/shiny" }
-	]
-}

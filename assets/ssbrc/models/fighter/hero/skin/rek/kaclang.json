@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/fighter/head",
+	"textures": {
+		"base": "ssbrc:fighter/hero/skin/rek/kaclang"
+	}
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:item/fighter/zelda/item/bomb/parent",
-	"textures": {
-		"0": "ssbrc:fighters/zelda/items/dungeon_items/bomb/white"
-	}
-}

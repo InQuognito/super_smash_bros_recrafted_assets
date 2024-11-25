@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:item/fighter/mega_man/item/mega_buster/parent/star_force",
-	"textures": {
-		"base": "ssbrc:fighters/mega_man/items/mega_buster/star_force/air_shooter"
-	}
-}

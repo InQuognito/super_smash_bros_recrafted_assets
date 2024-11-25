@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/bow_pulling_2",
+	"textures": {
+		"layer0": "ssbrc:fighter/byleth/item/steel_bow/default/pulling_2"
+	}
+}

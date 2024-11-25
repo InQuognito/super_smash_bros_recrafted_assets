@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:item/fighter/rob/skin/parent/depleted",
-	"textures": {
-		"base": "ssbrc:fighters/rob/skins/default"
-	}
-}

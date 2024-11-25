@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:fighters/altered_beast/items/werebear/bear_claw/right/parent",
-	"textures": {
-		"base": "ssbrc:fighters/altered_beast/items/werebear/bear_claw/gold"
-	}
-}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/bow",
+	"textures": {
+		"layer0": "ssbrc:fighter/link/item/fairy_bow/gold/default"
+	}
+}

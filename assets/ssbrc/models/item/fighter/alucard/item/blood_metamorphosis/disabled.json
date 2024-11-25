@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/item/hud",
-	"textures": {
-		"base": "ssbrc:fighters/alucard/items/blood_metamorphosis/disabled"
-	}
-}

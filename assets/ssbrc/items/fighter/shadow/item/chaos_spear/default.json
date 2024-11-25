@@ -1,0 +1,14 @@
+{
+	"model": {
+		"type": "minecraft:condition",
+		"property": "minecraft:damaged",
+		"on_true": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/shadow/item/chaos_spear/disabled"
+		},
+		"on_false": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/shadow/item/chaos_spear/default"
+		}
+	}
+}

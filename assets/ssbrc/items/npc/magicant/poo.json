@@ -1,0 +1,35 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:display_context",
+		"cases": [
+			{
+				"when": "thirdperson_lefthand",
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:npc/magicant/poo/arm_left"
+				}
+			},
+			{
+				"when": "thirdperson_righthand",
+				"model": {
+					"type": "minecraft:composite",
+					"models": [
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:npc/magicant/poo/arm_right"
+						},
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:npc/magicant/poo/sword_of_kings"
+						}
+					]
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "ssbrc:npc/magicant/poo/head"
+		}
+	}
+}

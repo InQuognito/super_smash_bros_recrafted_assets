@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/arm_left/steve",
-	"textures": {
-		"base": "ssbrc:fighters/shadow/skins/full"
-	}
-}

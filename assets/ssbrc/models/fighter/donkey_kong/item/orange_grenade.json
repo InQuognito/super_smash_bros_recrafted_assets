@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "ssbrc:fighter/donkey_kong/item/orange_grenade"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/pit/item/palutena_bow/parent/split",
+	"textures": {
+		"layer0": "ssbrc:fighter/pit/item/palutena_bow/retro/split"
+	}
+}

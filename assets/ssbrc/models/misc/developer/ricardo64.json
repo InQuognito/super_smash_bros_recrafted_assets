@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/player/alex",
+	"textures": {
+		"base": "ssbrc:developer/ricardo64"
+	}
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:fighters/shovel_knight/items/shovel_blade/parent/default",
-	"textures": {
-		"base": "ssbrc:fighters/shovel_knight/items/shovel_blade/toad_shovel/default"
-	}
-}

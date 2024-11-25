@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:item/fighter/mario/skin/parent/default",
-	"textures": {
-		"base": "ssbrc:fighters/mario/skins/default"
-	}
-}

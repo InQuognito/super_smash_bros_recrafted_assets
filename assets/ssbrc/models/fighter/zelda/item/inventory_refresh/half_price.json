@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/item/hud",
+	"textures": {
+		"base": "ssbrc:fighter/zelda/item/inventory_refresh/half_price"
+	}
+}

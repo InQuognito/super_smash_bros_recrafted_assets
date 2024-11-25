@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:stage/icon",
+	"textures": {
+		"base": "ssbrc:stage/lake_of_rage/icon"
+	}
+}

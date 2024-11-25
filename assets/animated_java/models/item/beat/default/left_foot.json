@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "ssbrc:fighters/mega_man/projectiles/beat/default/default"
+		"0": "ssbrc:fighter/mega_man/projectile/beat/default/default"
 	},
 	"display": {
 		"head": {

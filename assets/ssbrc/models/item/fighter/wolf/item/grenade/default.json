@@ -1,9 +1,0 @@
-{
-	"parent": "ssbrc:item/fighter/wolf/item/grenade/parent",
-	"textures": {
-		"base": "ssbrc:fighters/wolf/items/grenade/default"
-	},
-	"overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/fighter/wolf/item/grenade/beep" }
-	]
-}

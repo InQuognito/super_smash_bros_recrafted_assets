@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/peach/skin/parent",
+	"textures": {
+		"base": "ssbrc:fighter/peach/skin/default"
+	}
+}

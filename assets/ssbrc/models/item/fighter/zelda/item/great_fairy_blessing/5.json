@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:item/fighter/zelda/item/great_fairy_blessing/parent",
-	"textures": {
-		"price": "ssbrc:fighters/zelda/items/great_fairy_blessing/5"
-	}
-}

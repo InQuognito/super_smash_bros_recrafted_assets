@@ -1,9 +1,0 @@
-{
-	"parent": "ssbrc:item/common/pokemon/pokemon/gastly/parent",
-	"textures": {
-		"base": "ssbrc:pokemon/gastly/default"
-	},
-	"overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:item/common/pokemon/pokemon/gastly/shiny" }
-	]
-}

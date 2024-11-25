@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/arm_right/alex",
+	"textures": {
+		"base": "ssbrc:stage/pallet_town/armor_stands/officer_jenny"
+	}
+}
