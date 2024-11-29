@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/mega_man/gold/remote_mine" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/mega_man/gold/remote_mine" }
+		]
+	}
+}

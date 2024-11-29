@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/shadow/yellow_android" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/shadow/yellow_android" }
+		]
+	}
+}

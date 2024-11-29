@@ -12,64 +12,36 @@ def skin_model(fighter, skin):
 			js_write(file, tab(1) + '}')
 			js_write(file, '}')
 
-def equipment_model_old(path='assets\\ssbrc\\equipment\\fighter\\'):
-	reset_path(path)
-	for fighter in ssbrc.fighter:
-		for skin in chain(['default','gold'], ssbrc.fighter[fighter]['skin']):
-			if has_forms(fighter):
-				create_path(path + fighter + '\\' + skin)
-				for form in ssbrc.fighter[fighter]['forms']:
-					if fighter == 'pit' and form == 'wings':
-						wings = True
-					else:
-						wings = False
-					with open(f'{path}{fighter}\\{skin}\\{form}.json', 'w') as file:
-						js_write(file, '{')
-						js_write(file, tab(1) + qm + 'layers' + suf_e)
-						js_write(file, tab(2) + qm + 'humanoid' + suf_l)
-						if fighter == 'shovel_knight':
-							if form == 'phase_locket':
-								js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{form}' + '" }')
-							else:
-								js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
-						else:
-							if has_forms(fighter) and forms_isolated_to(fighter) != 'head':
-								js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}/{form}' + '" }')
-							else:
-								js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
-						js_write(file, tab(2) + '],')
-						js_write(file, tab(2) + qm + 'humanoid_leggings' + suf_l)
-						if fighter == 'shovel_knight':
-							if form == 'phase_locket':
-								js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{form}' + '" }')
-							else:
-								js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
-						else:
-							if has_forms(fighter) and forms_isolated_to(fighter) != 'head':
-								js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}/{form}' + '" }')
-							else:
-								js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/{skin}' + '" }')
-						if fighter == 'pit' and skin == 'retro' and form == 'wings':
-							js_write(file, tab(2) + '],')
-							js_write(file, tab(2) + qm + 'wings' + suf_l)
-							js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{fighter}/default' + '" }')
-							js_write(file, tab(2) + ']')
-						else:
-							js_write(file, tab(2) + ']')
-						js_write(file, tab(1) + '}')
-						js_write(file, '}')
-	equipment_model_file(skin_path='petrified')
-
 def equipment_model(path='assets\\ssbrc\\equipment\\fighter\\'):
 	reset_path(path)
 
 	for fighter in ssbrc.fighter:
+		create_path(path + fighter)
 		for skin in chain(['default','gold'], ssbrc.fighter[fighter]['skin']):
-			pass
+			if has_forms(fighter):
+				for form in ssbrc.fighter[fighter]['forms']:
+					skin_path = f'{fighter}/{skin}/{form}'
+					if fighter == 'pit':
+						skin_path = f'{fighter}/{skin}'
+						if skin == 'retro':
+							equipment_model_file(path, skin_path, f'{fighter}/default')
+						else:
+							equipment_model_file(path, skin_path, f'{fighter}/{skin}')
+					elif fighter == 'shovel_knight':
+						skin_path = f'{fighter}/{skin}'
+						if form == 'phase_locket':
+							equipment_model_file(path, f'{fighter}/{form}')
+						else:
+							equipment_model_file(path, f'{fighter}/{skin}')
+					else:
+						create_path(path + fighter + '\\' + skin)
+						equipment_model_file(path, f'{fighter}/{skin}/{form}')
+			else:
+				equipment_model_file(path, f'{fighter}/{skin}')
 
 	equipment_model_file(path, skin_path='petrified')
 
-def equipment_model_file(path, skin_path, wings=False, wing_path=''):
+def equipment_model_file(path, skin_path, wing_path='null'):
 	with open(path + f'{skin_path}.json', 'w') as file:
 		js_write(file, '{')
 		js_write(file, tab(1) + qm + 'layers' + suf_e)
@@ -78,7 +50,7 @@ def equipment_model_file(path, skin_path, wings=False, wing_path=''):
 		js_write(file, tab(2) + '],')
 		js_write(file, tab(2) + qm + 'humanoid_leggings' + suf_l)
 		js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{skin_path}' + '" }')
-		if wings == True:
+		if wing_path != 'null':
 			js_write(file, tab(2) + '],')
 			js_write(file, tab(2) + qm + 'wings' + suf_l)
 			js_write(file, tab(3) + '{ "texture": "' + f'ssbrc:fighter/{wing_path}' + '" }')
@@ -104,4 +76,4 @@ def create_skin_model(path='assets\\ssbrc\\models\\item\\fighter\\'):
 
 #create_skin_model()
 
-#equipment_model()
+equipment_model()

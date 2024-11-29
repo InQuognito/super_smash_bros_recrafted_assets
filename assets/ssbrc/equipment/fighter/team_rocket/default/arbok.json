@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/team_rocket/default/arbok" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/team_rocket/default/arbok" }
+		]
+	}
+}

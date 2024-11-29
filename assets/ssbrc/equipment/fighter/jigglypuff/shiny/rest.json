@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/jigglypuff/shiny/rest" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/jigglypuff/shiny/rest" }
+		]
+	}
+}

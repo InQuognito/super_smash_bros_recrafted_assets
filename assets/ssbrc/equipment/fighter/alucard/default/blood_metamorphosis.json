@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/alucard/default/blood_metamorphosis" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/alucard/default/blood_metamorphosis" }
+		]
+	}
+}
