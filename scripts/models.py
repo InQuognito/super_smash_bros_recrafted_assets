@@ -22,27 +22,33 @@ def equipment_model(path='assets\\ssbrc\\equipment\\fighter\\'):
 				for form in ssbrc.fighter[fighter]['forms']:
 					skin_path = f'{fighter}/{skin}/{form}'
 					if fighter == 'pit':
+						create_path(path + fighter + '\\' + skin)
 						skin_path = f'{fighter}/{skin}'
-						if skin == 'retro':
-							equipment_model_file(path, skin_path, f'{fighter}/default')
+						if form == 'wings':
+							if skin == 'retro':
+								equipment_model_file(f'{path}{skin_path}/{form}', skin_path, f'{fighter}/default')
+							else:
+								equipment_model_file(f'{path}{skin_path}/{form}', skin_path, skin_path)
 						else:
-							equipment_model_file(path, skin_path, f'{fighter}/{skin}')
+							equipment_model_file(f'{path}{skin_path}/{form}', skin_path)
 					elif fighter == 'shovel_knight':
-						skin_path = f'{fighter}/{skin}'
 						if form == 'phase_locket':
-							equipment_model_file(path, f'{fighter}/{form}')
+							skin_path = f'{fighter}/{form}'
+							equipment_model_file(f'{path}{skin_path}', skin_path)
 						else:
-							equipment_model_file(path, f'{fighter}/{skin}')
+							skin_path = f'{fighter}/{skin}'
+							equipment_model_file(f'{path}{skin_path}', skin_path)
 					else:
 						create_path(path + fighter + '\\' + skin)
-						equipment_model_file(path, f'{fighter}/{skin}/{form}')
+						equipment_model_file(f'{path}{fighter}/{skin}/{form}', f'{fighter}/{skin}/{form}')
 			else:
-				equipment_model_file(path, f'{fighter}/{skin}')
+				equipment_model_file(f'{path}{fighter}/{skin}', f'{fighter}/{skin}')
 
-	equipment_model_file(path, skin_path='petrified')
+	skin_path = 'petrified'
+	equipment_model_file(f'{path}{skin_path}', skin_path)
 
 def equipment_model_file(path, skin_path, wing_path='null'):
-	with open(path + f'{skin_path}.json', 'w') as file:
+	with open(f'{path}.json', 'w') as file:
 		js_write(file, '{')
 		js_write(file, tab(1) + qm + 'layers' + suf_e)
 		js_write(file, tab(2) + qm + 'humanoid' + suf_l)
