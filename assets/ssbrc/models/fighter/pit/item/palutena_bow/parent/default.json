@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:fighter/pit/item/palutena_bow/parent/default",
+	"parent": "minecraft:item/bow",
 	"textures": {
 		"layer0": "ssbrc:fighter/pit/item/palutena_bow/default/default"
 	}
