@@ -1,7 +1,4 @@
 {
-	"textures": {
-		"0": "ssbrc:fighter/mega_man/item/metal_blade"
-	},
 	"elements": [
 		{
 			"name": "hexadecagon",
