@@ -18,7 +18,7 @@ def equipment_model(path='assets\\ssbrc\\equipment\\fighter\\'):
 	for fighter in ssbrc.fighter:
 		create_path(path + fighter)
 		for skin in chain(['default','gold'], ssbrc.fighter[fighter]['skin']):
-			if has_forms(fighter):
+			if has_forms(fighter) and forms_isolated_to(fighter) != 'head':
 				for form in ssbrc.fighter[fighter]['forms']:
 					create_path(path + fighter + '\\' + skin)
 					skin_path = f'{fighter}/{skin}/{form}'
