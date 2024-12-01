@@ -20,9 +20,9 @@ def equipment_model(path='assets\\ssbrc\\equipment\\fighter\\'):
 		for skin in chain(['default','gold'], ssbrc.fighter[fighter]['skin']):
 			if has_forms(fighter):
 				for form in ssbrc.fighter[fighter]['forms']:
+					create_path(path + fighter + '\\' + skin)
 					skin_path = f'{fighter}/{skin}/{form}'
 					if fighter == 'pit':
-						create_path(path + fighter + '\\' + skin)
 						skin_path = f'{fighter}/{skin}'
 						if form == 'wings':
 							if skin == 'retro':
@@ -34,12 +34,11 @@ def equipment_model(path='assets\\ssbrc\\equipment\\fighter\\'):
 					elif fighter == 'shovel_knight':
 						if form == 'phase_locket':
 							skin_path = f'{fighter}/{form}'
-							equipment_model_file(f'{path}{skin_path}', skin_path)
+							equipment_model_file(f'{path}{fighter}/{skin}/{form}', skin_path)
 						else:
 							skin_path = f'{fighter}/{skin}'
-							equipment_model_file(f'{path}{skin_path}', skin_path)
+							equipment_model_file(f'{path}{fighter}/{skin}/{form}', skin_path)
 					else:
-						create_path(path + fighter + '\\' + skin)
 						equipment_model_file(f'{path}{fighter}/{skin}/{form}', f'{fighter}/{skin}/{form}')
 			else:
 				equipment_model_file(f'{path}{fighter}/{skin}', f'{fighter}/{skin}')
