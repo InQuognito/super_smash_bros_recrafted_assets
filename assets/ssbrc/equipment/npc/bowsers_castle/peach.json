@@ -4,7 +4,7 @@
 			{ "texture": "ssbrc:empty" }
 		],
 		"humanoid_leggings": [
-			{ "texture": "ssbrc:fighter/peach/skin/full" }
+			{ "texture": "ssbrc:fighter/peach/default" }
 		]
 	}
 }
