@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/item/hud",
-	"textures": {
-		"base": "ssbrc:fighter/joker/portrait/jack_frost/inactive"
-	}
-}

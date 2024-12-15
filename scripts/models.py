@@ -41,7 +41,10 @@ def equipment_model(path='assets\\ssbrc\\equipment\\fighter\\'):
 					else:
 						equipment_model_file(f'{path}{fighter}/{skin}/{form}', f'{fighter}/{skin}/{form}')
 			else:
-				equipment_model_file(f'{path}{fighter}/{skin}', f'{fighter}/{skin}')
+				if fighter == 'steve' and skin == 'herobrine':
+					equipment_model_file(f'{path}{fighter}/{skin}', f'{fighter}/default')
+				else:
+					equipment_model_file(f'{path}{fighter}/{skin}', f'{fighter}/{skin}')
 
 	skin_path = 'petrified'
 	equipment_model_file(f'{path}{skin_path}', skin_path)

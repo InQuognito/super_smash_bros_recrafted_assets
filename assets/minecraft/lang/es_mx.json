@@ -1,5 +1,9 @@
 {
+	"advancements.toast.task": "Fighter Tip",
+
 	"block.minecraft.cyan_carpet": "Arena movediza",
+
+	"book.pageIndicator": "",
 
 	"container.crafting": "",
 	"container.enderchest": "",
@@ -10,5 +14,17 @@
 	"effect.minecraft.unluck": "Congelado",
 	"effect.minecraft.wither": "Quemando",
 
-	"item.minecraft.spectral_arrow": "Flecha"
+	"item.minecraft.spectral_arrow": "Flecha",
+
+	"key.keyboard.left.control": "L Control",
+	"key.keyboard.right.control": "R Control",
+	"key.keyboard.left.alt": "L Alt",
+	"key.keyboard.right.alt": "R Alt",
+	"key.keyboard.left.shift": "L Shift",
+	"key.keyboard.right.shift": "R Shift",
+	"key.keyboard.left.win": "L Win",
+	"key.keyboard.right.win": "R Win",
+	"key.mouse.left": "L Click",
+	"key.mouse.right": "R Click",
+	"key.mouse.middle": "M Click"
 }
