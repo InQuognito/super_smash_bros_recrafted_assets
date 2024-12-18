@@ -20,7 +20,7 @@
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "ssbrc:npc/green_hill_zone/shadow/head"
+			"model": "ssbrc:fighter/shadow/skin/default"
 		}
 	}
 }

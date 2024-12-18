@@ -20,7 +20,7 @@
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "ssbrc:npc/bowsers_castle/peach/head"
+			"model": "ssbrc:fighter/peach/skin/default"
 		}
 	}
 }
