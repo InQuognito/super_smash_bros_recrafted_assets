@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/player/steve",
 	"textures": {
-		"base": "ssbrc:fighter/ryu/misc/ashura_senku/default/faded_3"
+		"base": "ssbrc:fighter/ryu/misc/ashura_senku/default/1"
 	}
 }
