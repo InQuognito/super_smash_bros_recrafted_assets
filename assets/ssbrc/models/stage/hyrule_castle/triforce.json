@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "ssbrc:stage/hyrule_castle/triforce"
+		"base": "ssbrc:stage/hyrule_castle/triforce",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{
@@ -8,8 +9,8 @@
 			"to": [32, 20, 8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#base"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#base"}
 			}
 		}
 	]

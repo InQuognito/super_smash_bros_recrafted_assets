@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "ssbrc:stage/wily_castle/dr_w"
+		"base": "ssbrc:stage/wily_castle/dr_w",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{
@@ -8,7 +9,7 @@
 			"to": [16, 16, 8],
 			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
 			"faces": {
-				"north": {"uv": [0.1429, 0.1429, 15.8572, 15.8572], "texture": "#0"}
+				"north": {"uv": [0.1429, 0.1429, 15.8572, 15.8572], "texture": "#base"}
 			}
 		}
 	],

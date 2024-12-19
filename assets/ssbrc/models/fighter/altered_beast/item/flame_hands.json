@@ -1,8 +1,9 @@
 {
 	"textures": {
-		"1": "minecraft:block/fire_0",
-		"2": "minecraft:block/fire_1",
-		"3": "ssbrc:fighter/altered_beast/item/flame_hands"
+		"base": "ssbrc:fighter/altered_beast/item/flame_hands",
+		"fire_1": "minecraft:block/fire_0",
+		"fire_2": "minecraft:block/fire_1",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{
@@ -11,11 +12,11 @@
 			"to": [9, 11.2, 9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"down": {"uv": [2, 2, 14, 14], "texture": "#3"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#fire_2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#fire_1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#fire_2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#fire_1"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#base"}
 			}
 		},
 		{
@@ -24,8 +25,8 @@
 			"to": [9, 11.2, 7.1],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"south": {"uv": [16, 0, 0, 16], "texture": "#2"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#fire_2"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#fire_2"}
 			}
 		},
 		{
@@ -34,8 +35,8 @@
 			"to": [8.9, 11.2, 9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"west": {"uv": [16, 0, 0, 16], "texture": "#1"}
+				"east": {"uv": [0, 0, 16, 16], "texture": "#fire_1"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#fire_1"}
 			}
 		},
 		{
@@ -44,8 +45,8 @@
 			"to": [9, 11.2, 8.9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"north": {"uv": [16, 0, 0, 16], "texture": "#2"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#2"}
+				"north": {"uv": [16, 0, 0, 16], "texture": "#fire_2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#fire_2"}
 			}
 		},
 		{
@@ -54,8 +55,8 @@
 			"to": [7.1, 11.2, 9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"east": {"uv": [16, 0, 0, 16], "texture": "#1"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#1"}
+				"east": {"uv": [16, 0, 0, 16], "texture": "#fire_1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#fire_1"}
 			}
 		},
 		{
@@ -64,8 +65,8 @@
 			"to": [8.9, 7.3, 8.9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"up": {"uv": [2, 2, 14, 14], "texture": "#3"},
-				"down": {"uv": [0, 0, 0, 0], "texture": "#3"}
+				"up": {"uv": [2, 2, 14, 14], "texture": "#base"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#base"}
 			}
 		}
 	],

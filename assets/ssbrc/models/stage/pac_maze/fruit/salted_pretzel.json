@@ -1,7 +1,8 @@
 {
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "ssbrc:stage/pac_maze/salted_pretzel"
+		"0": "ssbrc:stage/pac_maze/salted_pretzel",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

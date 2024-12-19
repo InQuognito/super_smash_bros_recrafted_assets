@@ -1,4 +1,7 @@
 {
+	"textures": {
+		"particle": "ssbrc:miscellaneous/empty"
+	},
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-11, 16, -6],

@@ -2,7 +2,8 @@
 	"textures": {
 		"e_w": "ssbrc:stage/green_hill_zone/totem_pole/east_west_side",
 		"t_b": "ssbrc:stage/green_hill_zone/totem_pole/top_bottom_side",
-		"n_s": "ssbrc:stage/green_hill_zone/totem_pole/north_south_side"
+		"n_s": "ssbrc:stage/green_hill_zone/totem_pole/north_south_side",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

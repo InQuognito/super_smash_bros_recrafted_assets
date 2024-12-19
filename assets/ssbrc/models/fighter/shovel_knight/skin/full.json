@@ -1,7 +1,8 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"base": "ssbrc:fighter/shovel_knight/skin/full"
+		"base": "ssbrc:fighter/shovel_knight/skin/full",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

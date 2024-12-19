@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "ssbrc:ui/question_mark"
+		"0": "ssbrc:ui/question_mark",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

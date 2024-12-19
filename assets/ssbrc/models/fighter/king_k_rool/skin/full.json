@@ -1,8 +1,9 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
+		"base": "ssbrc:fighter/king_k_rool/skin/full",
 		"head": "ssbrc:fighter/king_k_rool/skin/default",
-		"base": "ssbrc:fighter/king_k_rool/skin/full"
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

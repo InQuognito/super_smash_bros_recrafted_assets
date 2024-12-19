@@ -2,7 +2,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"base": "ssbrc:fighter/dark_samus/skin/full",
-		"arm_cannon": "ssbrc:fighter/dark_samus/item/phazon_beam/default"
+		"arm_cannon": "ssbrc:fighter/dark_samus/item/phazon_beam/default",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

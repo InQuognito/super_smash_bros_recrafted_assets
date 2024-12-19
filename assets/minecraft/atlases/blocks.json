@@ -17,11 +17,6 @@
 		},
 		{
 			"type": "directory",
-			"source": "entity",
-			"prefix": "entity/"
-		},
-		{
-			"type": "directory",
 			"source": "fighter",
 			"prefix": "fighter/"
 		},
@@ -37,8 +32,8 @@
 		},
 		{
 			"type": "directory",
-			"source": "misc",
-			"prefix": "misc/"
+			"source": "miscellaneous",
+			"prefix": "miscellaneous/"
 		},
 		{
 			"type": "directory",

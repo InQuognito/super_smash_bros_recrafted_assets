@@ -1,7 +1,8 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "ssbrc:stage/hyrule_castle/tornado"
+		"0": "ssbrc:stage/hyrule_castle/tornado",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

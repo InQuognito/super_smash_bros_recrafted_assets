@@ -2,7 +2,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"head": "ssbrc:fighter/donkey_kong/skin/default",
-		"base": "ssbrc:fighter/donkey_kong/skin/full"
+		"base": "ssbrc:fighter/donkey_kong/skin/full",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

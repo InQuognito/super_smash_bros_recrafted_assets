@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:item/pokemon_lapras/default/shell",
-	"textures": {
-		"0": "ssbrc:common/pokemon/pokemon/lapras/shiny"
-	}
-}

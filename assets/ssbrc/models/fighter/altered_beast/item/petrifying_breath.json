@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:template/item/hud",
 	"textures": {
-		"layer0": "ssbrc:fighter/altered_beast/item/petrifying_breath"
+		"base": "ssbrc:fighter/altered_beast/item/petrifying_breath"
 	}
 }

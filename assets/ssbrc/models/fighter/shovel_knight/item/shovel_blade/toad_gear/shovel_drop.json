@@ -1,7 +1,7 @@
 {
 	"textures": {
 		"base": "ssbrc:fighter/shovel_knight/item/shovel_blade/toad_gear/shovel_drop",
-		"particle": "ssbrc:misc/empty"
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

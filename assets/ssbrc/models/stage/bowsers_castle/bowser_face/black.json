@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "ssbrc:stage/bowsers_castle/bowser_face/black"
+		"base": "ssbrc:stage/bowsers_castle/bowser_face/black",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{
@@ -8,7 +9,7 @@
 			"to": [32, 32, 8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#base"}
 			}
 		}
 	]

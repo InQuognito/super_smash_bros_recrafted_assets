@@ -1,7 +1,8 @@
 {
 	"texture_size": [1, 1],
 	"textures": {
-		"0": "ssbrc:colors/white"
+		"0": "ssbrc:colors/white",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

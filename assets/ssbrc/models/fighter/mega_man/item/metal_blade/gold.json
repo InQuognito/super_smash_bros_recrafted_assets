@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:fighter/mega_man/item/metal_blade/parent",
 	"textures": {
-		"0": "ssbrc:fighter/mega_man/item/metal_blade/gold"
+		"base": "ssbrc:fighter/mega_man/item/metal_blade/gold"
 	}
 }

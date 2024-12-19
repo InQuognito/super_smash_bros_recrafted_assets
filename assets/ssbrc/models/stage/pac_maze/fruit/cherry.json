@@ -1,7 +1,8 @@
 {
 	"texture_size": [4, 4],
 	"textures": {
-		"0": "ssbrc:stage/pac_maze/fruit"
+		"0": "ssbrc:stage/pac_maze/fruit",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

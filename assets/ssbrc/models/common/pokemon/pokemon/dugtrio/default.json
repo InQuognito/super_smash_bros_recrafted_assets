@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:common/pokemon/pokemon/dugtrio/parent",
 	"textures": {
-		"base": "ssbrc:common/pokemon/pokemon/dugtrio/default"
+		"base": "ssbrc:common/pokemon/pokemon/diglett/default"
 	}
 }

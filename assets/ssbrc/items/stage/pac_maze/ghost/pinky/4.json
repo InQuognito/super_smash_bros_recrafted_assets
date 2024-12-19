@@ -1,4 +1,15 @@
 {
-	"type": "minecraft:model",
-	"model": "ssbrc:stage/pac_maze/ghost/pinky/4"
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "ssbrc:stage/pac_maze/ghost/pinky/4"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "ssbrc:stage/pac_maze/ghost/eyes/1"
+			}
+		]
+	}
 }

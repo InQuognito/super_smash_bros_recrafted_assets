@@ -2,7 +2,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"base": "ssbrc:fighter/pit/skin/full",
-		"elytra": "ssbrc:entity/equipment/wings/fighter/pit/default"
+		"elytra": "ssbrc:fighter/pit/skin/elytra",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

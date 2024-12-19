@@ -1,5 +1,8 @@
 {
 	"texture_size": [4, 4],
+	"textures": {
+		"particle": "ssbrc:miscellaneous/empty"
+	},
 	"elements": [
 		{
 			"from": [7.46875, 5.96736, 7.5],

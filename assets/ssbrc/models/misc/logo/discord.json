@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:misc/logo/parent",
 	"textures": {
-		"base": "ssbrc:misc/discord"
+		"base": "ssbrc:miscellaneous/discord"
 	}
 }

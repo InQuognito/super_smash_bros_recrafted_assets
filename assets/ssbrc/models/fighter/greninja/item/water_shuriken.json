@@ -1,7 +1,8 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "ssbrc:fighter/greninja/item/water_shuriken"
+		"0": "ssbrc:fighter/greninja/item/water_shuriken",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

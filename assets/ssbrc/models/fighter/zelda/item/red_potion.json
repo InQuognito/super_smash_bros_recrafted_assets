@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "ssbrc:misc/empty",
+		"layer0": "ssbrc:miscellaneous/empty",
 		"layer1": "ssbrc:fighter/zelda/item/red_potion"
 	},
 	"display": {

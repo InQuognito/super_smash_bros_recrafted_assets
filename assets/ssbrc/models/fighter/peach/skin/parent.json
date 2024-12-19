@@ -2,7 +2,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"base": "ssbrc:fighter/peach/skin/default",
-		"particle": "ssbrc:misc/empty"
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"base": "ssbrc:misc/youtube"
+		"base": "ssbrc:miscellaneous/youtube",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

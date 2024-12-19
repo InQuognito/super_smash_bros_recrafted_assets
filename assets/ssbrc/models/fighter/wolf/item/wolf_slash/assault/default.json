@@ -1,7 +1,8 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "ssbrc:fighter/wolf/item/wolf_slash/assault"
+		"0": "ssbrc:fighter/wolf/item/wolf_slash/assault",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

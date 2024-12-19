@@ -3,7 +3,8 @@
 	"textures": {
 		"base": "ssbrc:fighter/samus/skin/full",
 		"arm_cannon_body": "ssbrc:fighter/samus/item/power_beam/default",
-		"arm_cannon_energy": "ssbrc:fighter/samus/item/power_beam/energy/default"
+		"arm_cannon_energy": "ssbrc:fighter/samus/item/power_beam/energy/default",
+		"particle": "ssbrc:miscellaneous/empty"
 	},
 	"elements": [
 		{

@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "ssbrc:misc/team_flags/green"
+		"layer0": "ssbrc:miscellaneous/team_flags/green"
 	}
 }

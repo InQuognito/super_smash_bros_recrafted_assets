@@ -1,7 +1,7 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "ssbrc:misc/empty"
+        "particle": "ssbrc:miscellaneous/empty"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],
