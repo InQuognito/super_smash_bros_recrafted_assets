@@ -1197,6 +1197,15 @@
 			}
 		]
 	},
+	"fighter.mega_man.drill_bomb.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighter/mega_man/drill_bomb/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighter.mega_man.flame_sword.hit": {
 		"sounds":[
 			{
@@ -1255,6 +1264,15 @@
 		"sounds":[
 			{
 				"name":"ssbrc:fighter/mega_man/pile_driver/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighter.mega_man.remote_mine.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighter/mega_man/remote_mine/activate",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -1941,6 +1959,24 @@
 		"sounds":[
 			{
 				"name":"ssbrc:fighter/team_rocket/arbok/acid/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighter.team_rocket.meowth.fury_swipes.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighter/team_rocket/meowth/fury_swipes/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighter.team_rocket.meowth.fury_swipes.final": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighter/team_rocket/meowth/fury_swipes/final",
 				"stream": false,
 				"volume": 1.0
 			}

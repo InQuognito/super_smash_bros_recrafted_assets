@@ -1,20 +1,6 @@
 {
 	"model": {
-		"type": "minecraft:range_dispatch",
-		"property": "minecraft:custom_model_data",
-		"index": 0,
-		"entries": [
-			{
-				"threshold": 1,
-				"model": {
-					"type": "minecraft:model",
-					"model": "ssbrc:fighter/byleth/item/areadbhar/spinning/awakened"
-				}
-			}
-		],
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "ssbrc:fighter/byleth/item/areadbhar/awakened"
-		}
+		"type": "minecraft:model",
+		"model": "ssbrc:fighter/byleth/item/areadbhar/awakened"
 	}
 }

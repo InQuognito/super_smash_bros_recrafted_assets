@@ -31,6 +31,8 @@ def equipment_model(path='assets\\ssbrc\\equipment\\fighter\\'):
 								equipment_model_file(f'{path}{skin_path}/{form}', skin_path, skin_path)
 						else:
 							equipment_model_file(f'{path}{skin_path}/{form}', skin_path)
+					elif fighter == 'pokemon_trainer' and skin == 'shiny' and form == 'trainer':
+						equipment_model_file(f'{path}{skin_path}', f'{fighter}/default/{form}')
 					elif fighter == 'shovel_knight':
 						if form == 'phase_locket':
 							skin_path = f'{fighter}/{form}'

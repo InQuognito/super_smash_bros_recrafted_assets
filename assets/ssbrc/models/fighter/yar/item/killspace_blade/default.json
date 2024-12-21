@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:fighter/yar/item/killspace_blade/parent",
-	"textures": {
-		"layer0": "ssbrc:fighter/yar/item/killspace_blade/default"
-	}
-}
