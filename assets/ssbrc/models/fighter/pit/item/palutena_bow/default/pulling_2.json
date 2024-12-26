@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:fighter/pit/item/palutena_bow/parent/pulling_2",
+	"parent": "ssbrc:fighter/pit/item/palutena_bow/parent/pulling",
 	"textures": {
 		"layer0": "ssbrc:fighter/pit/item/palutena_bow/default/pulling_2"
 	}

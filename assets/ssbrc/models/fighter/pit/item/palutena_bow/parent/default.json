@@ -1,8 +1,5 @@
 {
 	"parent": "minecraft:item/handheld",
-	"textures": {
-		"layer0": "ssbrc:fighter/pit/item/palutena_bow/default/default"
-	},
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-135, 90, 0],
