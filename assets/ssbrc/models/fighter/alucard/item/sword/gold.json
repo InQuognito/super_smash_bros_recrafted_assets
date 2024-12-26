@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/handheld",
+	"parent": "ssbrc:fighter/alucard/item/sword/parent",
 	"textures": {
 		"layer0": "ssbrc:fighter/alucard/item/sword/gold"
 	}
