@@ -989,6 +989,24 @@
 			}
 		]
 	},
+	"fighter.king_k_rool.adaptive_armor.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighter/king_k_rool/adaptive_armor/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighter.king_k_rool.adaptive_armor.shatter": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighter/king_k_rool/adaptive_armor/shatter",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighter.king_k_rool.blunderbuss.activate": {
 		"sounds":[
 			{
