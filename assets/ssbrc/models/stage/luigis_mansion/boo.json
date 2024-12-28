@@ -1,5 +1,4 @@
 {
-	"texture_size": [1, 1],
 	"textures": {
 		"base": "ssbrc:stage/luigis_mansion/boo",
 		"particle": "ssbrc:miscellaneous/empty"

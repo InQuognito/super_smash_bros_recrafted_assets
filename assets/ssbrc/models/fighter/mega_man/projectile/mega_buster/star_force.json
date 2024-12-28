@@ -1,5 +1,5 @@
 {
-	"parent": "ssbrc:fighter/mega_man/projectile/mega_buster/parent",
+	"parent": "ssbrc:template/sphere",
 	"textures": {
 		"base": "ssbrc:colors/lime"
 	}
