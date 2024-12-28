@@ -1215,6 +1215,15 @@
 			}
 		]
 	},
+	"fighter.mega_man.beat_call.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighter/mega_man/beat_call/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighter.mega_man.drill_bomb.activate": {
 		"sounds":[
 			{
