@@ -1,0 +1,14 @@
+{
+	"model": {
+		"type": "minecraft:condition",
+		"property": "minecraft:damaged",
+		"on_true": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/zelda/item/nayrus_ring/default"
+		},
+		"on_false": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/zelda/item/nayrus_ring/active"
+		}
+	}
+}
