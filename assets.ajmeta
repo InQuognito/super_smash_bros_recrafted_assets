@@ -40,6 +40,27 @@
 			"assets/animated_java/models/blueprint/beat/gold_angry_/beat.json"
 		]
 	},
+	"boo": {
+		"files": [
+			"assets/minecraft/atlases/blocks.json",
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/transparent.png",
+			"assets/animated_java/items/blueprint/boo/eyes.json",
+			"assets/animated_java/items/blueprint/boo/body.json",
+			"assets/animated_java/items/blueprint/boo/tongue.json",
+			"assets/animated_java/items/blueprint/boo/teeth.json",
+			"assets/animated_java/items/blueprint/boo/mouthouter.json",
+			"assets/animated_java/items/blueprint/boo/brow.json",
+			"assets/animated_java/items/blueprint/boo/mouth.json",
+			"assets/animated_java/models/blueprint/boo/eyes.json",
+			"assets/animated_java/models/blueprint/boo/body.json",
+			"assets/animated_java/models/blueprint/boo/tongue.json",
+			"assets/animated_java/models/blueprint/boo/teeth.json",
+			"assets/animated_java/models/blueprint/boo/mouthouter.json",
+			"assets/animated_java/models/blueprint/boo/brow.json",
+			"assets/animated_java/models/blueprint/boo/mouth.json"
+		]
+	},
 	"lapras": {
 		"files": [
 			"assets/minecraft/atlases/blocks.json",
