@@ -1,4 +1,34 @@
 {
+	"block.honey_block.fall": {
+		"sounds":[
+			{
+				"name":"minecraft:step/sand1",
+				"stream": false,
+				"volume": 1.0
+			},
+			{
+				"name":"minecraft:step/sand2",
+				"stream": false,
+				"volume": 1.0
+			},
+			{
+				"name":"minecraft:step/sand3",
+				"stream": false,
+				"volume": 1.0
+			},
+			{
+				"name":"minecraft:step/sand4",
+				"stream": false,
+				"volume": 1.0
+			},
+			{
+				"name":"minecraft:step/sand5",
+				"stream": false,
+				"volume": 1.0
+			}
+		],
+		"replace":true
+	},
 	"block.honey_block.slide": {
 		"sounds":[
 			{
