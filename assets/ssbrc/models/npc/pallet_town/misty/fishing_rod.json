@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"base": "item/fishing_rod_cast",
 		"particle": "ssbrc:miscellaneous/empty"

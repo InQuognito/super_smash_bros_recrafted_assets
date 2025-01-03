@@ -1,0 +1,6 @@
+{
+	"textures": {
+		"base": "ssbrc:stage/pac_maze/fruit",
+		"particle": "ssbrc:miscellaneous/empty"
+	}
+}
