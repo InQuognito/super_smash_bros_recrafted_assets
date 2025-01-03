@@ -2189,6 +2189,15 @@
 			}
 		]
 	},
+	"fighter.zelda.nayrus_ring.restore": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighter/zelda/nayrus_ring/restore",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighter.zelda.rupee.remove.end": {
 		"sounds":[
 			{
