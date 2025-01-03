@@ -2252,6 +2252,15 @@
 			}
 		]
 	},
+	"items.poke_ball.open": {
+		"sounds":[
+			{
+				"name":"ssbrc:items/poke_ball/open",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"stage.bowsers_castle.banzai_bill.activate": {
 		"sounds":[
 			{

@@ -307,9 +307,9 @@
 
 	"ssbrc.fighter.menu.select_fighter": "Select Fighter",
 	"ssbrc.fighter.menu.skin_options": "Skin Options",
-	"ssbrc.fighter.menu.skin_options.description": " to change your equipped skin!",
+	"ssbrc.fighter.menu.skin_options.description": "] to change your equipped skin!",
 	"ssbrc.fighter.menu.wiki": "Click for Wiki",
-	"ssbrc.fighter.menu.wiki.description": " to open this Fighter's wiki!",
+	"ssbrc.fighter.menu.wiki.description": "] to open this Fighter's wiki!",
 
 	"ssbrc.fighter.menu.select_random": "You have selected a Random fighter!",
 	"ssbrc.fighter.menu.selected": "You have selected: ",

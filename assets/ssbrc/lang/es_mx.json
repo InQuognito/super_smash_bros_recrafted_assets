@@ -300,9 +300,9 @@
 
 	"ssbrc.fighter.menu.select_fighter": "Seleccionar Combatiente",
 	"ssbrc.fighter.menu.skin_options": "Opciones de aspecto",
-	"ssbrc.fighter.menu.skin_options.description": " para cambiar tu aspecto equipado",
+	"ssbrc.fighter.menu.skin_options.description": "] para cambiar tu aspecto equipado",
 	"ssbrc.fighter.menu.wiki": "Haga clic para wiki",
-	"ssbrc.fighter.menu.wiki.description": " para abrir el wiki de este combatiente",
+	"ssbrc.fighter.menu.wiki.description": "] para abrir el wiki de este combatiente",
 
 	"ssbrc.fighter.menu.select_random": "¡Has seleccionado un combatiente al azar!",
 	"ssbrc.fighter.menu.selected": "Has seleccionado: ",
