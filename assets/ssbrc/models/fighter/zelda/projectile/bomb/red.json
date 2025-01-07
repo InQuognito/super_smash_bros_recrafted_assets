@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:fighter/zelda/projectile/bomb/parent",
-	"textures": {
-		"base": "ssbrc:fighter/zelda/projectile/bomb/red"
-	}
-}

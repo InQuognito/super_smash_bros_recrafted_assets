@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:common/bomb/projectile/parent",
+	"textures": {
+		"base": "ssbrc:common/bomb/projectile/blue"
+	}
+}
