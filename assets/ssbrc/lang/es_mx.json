@@ -341,7 +341,7 @@
 
 	"ssbrc.series.super_mario_bros": "Super Mario Bros.",
 	"ssbrc.skin.flower_power": "Poder Flor",
-	"ssbrc.skin.penguin": "Pingüino",
+	"ssbrc.skin.penguin": "Traje de pingüino",
 	"ssbrc.fighter.super_mario_bros.hammer": "Martillo",
 	"ssbrc.fighter.super_mario_bros.super_jump": "Súper salto",
 	"ssbrc.fighter.super_mario_bros.super_jump.description.1": "] para cargar",
@@ -350,6 +350,7 @@
 	"ssbrc.fighter.super_mario_bros.stomp": "Pisar",
 	"ssbrc.fighter.super_mario_bros.stomp.description.1": "- Saltar sobre una oponente causará daño",
 	"ssbrc.fighter.mario": "Mario",
+	"ssbrc.skin.skeleton": "Traje de esqueleto",
 	"ssbrc.fighter.mario.fireball": "Bola de Fuego",
 	"ssbrc.fighter.mario.fireball.description.1": "] para lanzar una bola de fuego",
 	"ssbrc.fighter.luigi": "Luigi",
