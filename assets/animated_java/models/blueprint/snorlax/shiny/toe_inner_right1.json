@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/snorlax/toe_inner_right1",
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/snorlax/shiny"
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/gastly/default",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.49, 7.49, 7.99],
+			"to": [8.51, 8.51, 8.01],
+			"faces": {
+				"north": {
+					"uv": [1, 0.75, 1.25, 1],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [1, 0.75, 1, 1],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [1.25, 0.75, 1.5, 1],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [1.25, 0.75, 1.25, 1],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [1.25, 0.75, 1, 0.75],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [1.5, 0.75, 1.25, 0.75],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

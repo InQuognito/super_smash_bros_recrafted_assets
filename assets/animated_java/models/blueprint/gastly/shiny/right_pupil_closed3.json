@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/gastly/right_pupil_closed3",
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/gastly/shiny"
+	}
+}

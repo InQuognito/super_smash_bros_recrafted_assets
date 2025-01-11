@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/gyarados/default",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [1.73438, 7.98438, -4.51563],
+			"to": [15.82812, 15.82813, 8.01562],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8.78125, -56.0625, 27.53125]
+			},
+			"faces": {
+				"north": {
+					"uv": [3.625, 0.5, 4.1875, 0.8125],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [3.125, 0.5, 3.625, 0.8125],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [4.6875, 0.5, 5.25, 0.8125],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [4.1875, 0.5, 4.6875, 0.8125],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [4.1875, 0.5, 3.625, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [4.75, 0, 4.1875, 0.5],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

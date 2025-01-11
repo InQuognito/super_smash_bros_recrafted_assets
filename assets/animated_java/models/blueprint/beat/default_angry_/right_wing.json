@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:blueprint/beat/right_wing",
-	"textures": {
-		"0": "animated_java:blueprint/beat/angry"
-	}
-}

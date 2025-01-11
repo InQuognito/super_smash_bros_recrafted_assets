@@ -4,7 +4,7 @@
 		"models": [
 			{
 				"type": "minecraft:model",
-				"model": "ssbrc:fighter/sora/skin/gold/valor"
+				"model": "ssbrc:fighter/sora/skin/gold/default"
 			},
 			{
 				"type": "minecraft:model",

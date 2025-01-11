@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/dugtrio/pupil_right6",
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/dugtrio/shiny"
+	}
+}

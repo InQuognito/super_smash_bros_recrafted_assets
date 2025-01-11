@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "ssbrc:common/pokemon/pokemon/lapras/default"
+		"0": "ssbrc:common/pokemon/pokemon/lapras/default",
+		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
 		"head": {

@@ -1,0 +1,73 @@
+{
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/slowpoke/default",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [6.875, 6.5, 7.5025],
+			"to": [8.875, 9.5, 8.5025],
+			"faces": {
+				"north": {
+					"uv": [8.5, 0.25, 9, 1],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [8.25, 0.25, 8.5, 1],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [9.25, 0.25, 9.75, 1],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [9, 0.25, 9.25, 1],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [9, 0.25, 8.5, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [9.5, 0, 9, 0.25],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [7.625, 7.5, 7.4975],
+			"to": [8.625, 8.5, 8.4975],
+			"faces": {
+				"north": {
+					"uv": [2.25, 2.25, 2.5, 2.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [2, 2.25, 2.25, 2.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [2.75, 2.25, 3, 2.5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [2.5, 2.25, 2.75, 2.5],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [2.5, 2.25, 2.25, 2],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [2.75, 2, 2.5, 2.25],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

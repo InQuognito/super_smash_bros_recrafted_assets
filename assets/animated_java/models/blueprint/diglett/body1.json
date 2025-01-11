@@ -1,0 +1,43 @@
+{
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/diglett/default",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [4.5, 6, 4.5],
+			"to": [11.5, 11, 11.5],
+			"faces": {
+				"north": {
+					"uv": [10, 11.5, 11.75, 14],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [8.25, 11.5, 10, 14],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [13.5, 11.5, 15.25, 14],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [11.75, 11.5, 13.5, 14],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [11.75, 11.5, 10, 8],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [13.5, 8, 11.75, 11.5],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

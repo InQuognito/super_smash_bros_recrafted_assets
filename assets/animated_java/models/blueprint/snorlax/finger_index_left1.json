@@ -1,0 +1,43 @@
+{
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/snorlax/default",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [6, 6, 8],
+			"to": [9, 8, 8],
+			"faces": {
+				"north": {
+					"uv": [3.625, 14.75, 3.8125, 15],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [3.625, 14.75, 3.625, 15],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [3.8125, 14.75, 4, 15],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [3.8125, 14.75, 3.8125, 15],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [3.8125, 14.75, 3.625, 14.75],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [4, 14.75, 3.8125, 14.75],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

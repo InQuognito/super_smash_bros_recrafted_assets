@@ -2,11 +2,6 @@
 	"sources": [
 		{
 			"type": "directory",
-			"source": "blueprint",
-			"prefix": "blueprint/"
-		},
-		{
-			"type": "directory",
 			"source": "colors",
 			"prefix": "colors/"
 		},
@@ -49,6 +44,11 @@
 			"type": "directory",
 			"source": "ui",
 			"prefix": "ui/"
+		},
+		{
+			"type": "directory",
+			"source": "blueprint",
+			"prefix": "blueprint/"
 		}
 	]
 }

@@ -55,8 +55,10 @@
 	"ssbrc.shop.purchase": "Haga clic para comprar!",
 	"ssbrc.shop.owned": "Posesión",
 
-	"ssbrc.shop.collection.autumn": "Colección Otoño",
-	"ssbrc.shop.collection.winter": "Colección Invierno",
+	"ssbrc.shop.collection.autumn": "Colección de otoño",
+	"ssbrc.shop.collection.spring": "Colección de primavera",
+	"ssbrc.shop.collection.summer": "Colección de verano",
+	"ssbrc.shop.collection.winter": "Colección de invierno",
 
 	"ssbrc.lobby.selector": "Puntero",
 	"ssbrc.lobby.selector.suffix": "] para interactuar con objetos",

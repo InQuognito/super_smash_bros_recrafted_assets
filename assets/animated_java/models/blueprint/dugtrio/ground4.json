@@ -1,0 +1,83 @@
+{
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/dugtrio/default",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [2.5, 8, 2.5],
+			"to": [13.5, 11, 13.5],
+			"rotation": {
+				"angle": 22.5,
+				"axis": "y",
+				"origin": [8, 9.25, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [1.375, 14, 2.75, 14.75],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 14, 1.375, 14.75],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [4.125, 14, 5.5, 14.75],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [2.75, 14, 4.125, 14.75],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [2.75, 14, 1.375, 11.25],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [4.125, 11.25, 2.75, 14],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [2.3, 7.8, 2.3],
+			"to": [13.7, 10.2, 13.7],
+			"rotation": {
+				"angle": 22.5,
+				"axis": "y",
+				"origin": [8, 9.25, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [9.625, 15.5, 11, 16],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [8.25, 15.5, 9.625, 16],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [12.375, 15.5, 13.75, 16],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [11, 15.5, 12.375, 16],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [11, 15.5, 9.625, 12.75],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [12.375, 12.75, 11, 15.5],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
