@@ -1,10 +1,10 @@
 {
 	"layers": {
 		"humanoid": [
-			{ "texture": "ssbrc:fighter/pikachu/default" }
+			{ "texture": "ssbrc:fighter/pikachu/pikachu_libre" }
 		],
 		"humanoid_leggings": [
-			{ "texture": "ssbrc:fighter/pikachu/default" }
+			{ "texture": "ssbrc:fighter/pikachu/pikachu_libre" }
 		]
 	}
 }
