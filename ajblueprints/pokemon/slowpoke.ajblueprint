@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.1",
+		"format_version": "1.6.2",
 		"uuid": "cda4790c-c30d-91b5-4e34-55a965d7b844",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\slowpoke.ajblueprint",
 		"last_used_export_namespace": "slowpoke"
@@ -18,14 +18,10 @@
 		"display_item": "minecraft:diamond",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
-		"enable_advanced_resource_pack_folders": false,
 		"resource_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets",
-		"display_item_path": "",
-		"model_folder": "",
-		"texture_folder": "",
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC World v2.4.2 (MC1.20.4)\\datapacks\\super_smash_bros_recrafted",
-		"summon_commands": "tag @s add slowpoke\n\nfunction ssbrc:logic/pokemon/init",
+		"summon_commands": "function ssbrc:logic/pokemon/init {name:\"slowpoke\"}",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
 		"teleportation_duration": 1,
@@ -33,7 +29,11 @@
 		"show_function_errors": true,
 		"show_outdated_warning": true,
 		"baked_animations": true,
-		"json_file": ""
+		"json_file": "",
+		"enable_advanced_resource_pack_folders": false,
+		"display_item_path": "",
+		"model_folder": "",
+		"texture_folder": ""
 	},
 	"resolution": {
 		"width": 64,
@@ -1554,7 +1554,7 @@
 	"variants": {
 		"default": {
 			"name": "default",
-			"display_name": "default",
+			"display_name": "Default",
 			"uuid": "625ab7a1-d304-e048-8a2b-6fa70728c0b0",
 			"texture_map": {},
 			"excluded_nodes": [],

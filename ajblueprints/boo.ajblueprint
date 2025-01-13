@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.5.2",
+		"format_version": "1.6.2",
 		"uuid": "c3a1d8a1-89e9-067a-916d-df82e8180ebd",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\boo.ajblueprint",
 		"last_used_export_namespace": "boo"
@@ -18,11 +18,7 @@
 		"display_item": "minecraft:phantom_membrane",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
-		"enable_advanced_resource_pack_folders": false,
 		"resource_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets",
-		"display_item_path": "",
-		"model_folder": "",
-		"texture_folder": "",
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC World v2.4.2 (MC1.20.4)\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "",
@@ -33,7 +29,11 @@
 		"show_function_errors": true,
 		"show_outdated_warning": true,
 		"baked_animations": true,
-		"json_file": ""
+		"json_file": "",
+		"enable_advanced_resource_pack_folders": false,
+		"display_item_path": "",
+		"model_folder": "",
+		"texture_folder": ""
 	},
 	"resolution": {
 		"width": 16,
@@ -1566,7 +1566,6 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
-			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -1595,7 +1594,6 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
-			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -1612,7 +1610,7 @@
 		"default": {
 			"name": "default",
 			"display_name": "Default",
-			"uuid": "b46ef39b-86d6-8b53-e9e1-4461c60c554f",
+			"uuid": "241e5ca4-613b-d5bf-f17b-8131e0eba815",
 			"texture_map": {},
 			"excluded_nodes": [],
 			"is_default": true
@@ -1644,9 +1642,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": "-20*math.sin(query.anim_time*90)",
+									"x": "5+4*math.sin(q.anim_time*90*2-30)+math.clamp(3*math.sin(q.anim_time*90*2-30)*1,0,3)\n",
 									"y": 0,
-									"z": 0
+									"z": "0.4*math.sin(q.anim_time*90*15)"
 								}
 							],
 							"uuid": "65a28669-f6b0-3173-102e-bc64acc5f848",
@@ -1660,8 +1658,8 @@
 							"channel": "position",
 							"data_points": [
 								{
-									"x": 0,
-									"y": "2*math.sin(query.anim_time*90)",
+									"x": "2.25*math.sin(q.anim_time*90*2)*0.4-2.25*math.sin(q.anim_time*90*2-30)*0.4+2.25*math.sin(q.anim_time*90*2-60)*0.4-2.25*math.sin(q.anim_time*90*2-90)*0.4",
+									"y": "5+2.25*math.sin(q.anim_time*90*2)*0.4-2.25*math.sin(q.anim_time*90*2-30)*0.4-2.25*math.sin(q.anim_time*90*2-60)*0.4+2.25*math.sin(q.anim_time*90*2-90)*0.4\n",
 									"z": 0
 								}
 							],

@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.5.2",
+		"format_version": "1.6.2",
 		"uuid": "30bfacf1-2e70-d25e-62f2-e53409d04b07",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\beat.ajblueprint",
 		"last_used_export_namespace": "beat"
@@ -18,11 +18,7 @@
 		"display_item": "minecraft:feather",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
-		"enable_advanced_resource_pack_folders": false,
 		"resource_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets",
-		"display_item_path": "",
-		"model_folder": "",
-		"texture_folder": "",
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC World v2.4.2 (MC1.20.4)\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "",
@@ -33,7 +29,11 @@
 		"show_function_errors": true,
 		"show_outdated_warning": true,
 		"baked_animations": true,
-		"json_file": ""
+		"json_file": "",
+		"enable_advanced_resource_pack_folders": false,
+		"display_item_path": "",
+		"model_folder": "",
+		"texture_folder": ""
 	},
 	"resolution": {
 		"width": 64,
@@ -1543,7 +1543,6 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
-			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -1573,7 +1572,6 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
-			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -1603,7 +1601,6 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
-			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -1633,7 +1630,6 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
-			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -1651,15 +1647,15 @@
 		"default": {
 			"name": "default",
 			"display_name": "Default",
-			"uuid": "6f60ec24-e60e-d6f9-c9ae-c3fd56ff6eaf",
+			"uuid": "07fe5f66-3f19-0897-6e02-28babc9d0f8e",
 			"texture_map": {},
 			"excluded_nodes": [],
 			"is_default": true
 		},
 		"list": [
 			{
-				"name": "default_angry_",
-				"display_name": "default (angry)",
+				"name": "default_angry",
+				"display_name": "default_angry",
 				"uuid": "b472b1f4-cf84-0f98-899d-23dd9952f2fe",
 				"texture_map": {
 					"16a69a84-00b2-d184-d1be-0de6bf4d70e1": "3ed4423c-27e9-6b60-9655-b5a1e20e909e"
@@ -1667,8 +1663,8 @@
 				"excluded_nodes": []
 			},
 			{
-				"name": "gold_default_",
-				"display_name": "gold (default)",
+				"name": "gold",
+				"display_name": "gold",
 				"uuid": "ca33c7aa-40c9-5570-8e08-d5ad346ca91e",
 				"texture_map": {
 					"16a69a84-00b2-d184-d1be-0de6bf4d70e1": "cadc9cd5-68e2-35f2-b6b1-c9c47f7e4844"
@@ -1676,8 +1672,8 @@
 				"excluded_nodes": []
 			},
 			{
-				"name": "gold_angry_",
-				"display_name": "gold (angry)",
+				"name": "gold_angry",
+				"display_name": "gold_angry",
 				"uuid": "af796ca4-264c-585c-2294-b945bfe4f414",
 				"texture_map": {
 					"16a69a84-00b2-d184-d1be-0de6bf4d70e1": "9e3238dc-ce2e-631a-e4b7-4f7261689099"

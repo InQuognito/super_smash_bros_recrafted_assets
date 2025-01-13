@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.1",
+		"format_version": "1.6.2",
 		"uuid": "da5e94b6-7f9d-34c6-3cc1-3e13591fadd5",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\geodude.ajblueprint",
 		"last_used_export_namespace": "geodude"
@@ -18,14 +18,10 @@
 		"display_item": "minecraft:diamond",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
-		"enable_advanced_resource_pack_folders": false,
 		"resource_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets",
-		"display_item_path": "",
-		"model_folder": "",
-		"texture_folder": "",
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC World v2.4.2 (MC1.20.4)\\datapacks\\super_smash_bros_recrafted",
-		"summon_commands": "tag @s add geodude\n\nfunction ssbrc:logic/pokemon/init",
+		"summon_commands": "function ssbrc:logic/pokemon/init {name:\"geodude\"}",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
 		"teleportation_duration": 1,
@@ -33,7 +29,11 @@
 		"show_function_errors": true,
 		"show_outdated_warning": true,
 		"baked_animations": true,
-		"json_file": ""
+		"json_file": "",
+		"enable_advanced_resource_pack_folders": false,
+		"display_item_path": "",
+		"model_folder": "",
+		"texture_folder": ""
 	},
 	"resolution": {
 		"width": 64,
@@ -2454,7 +2454,7 @@
 	"variants": {
 		"default": {
 			"name": "default",
-			"display_name": "default",
+			"display_name": "Default",
 			"uuid": "65dafd10-ac90-c215-2cc6-aceb0aac2aa0",
 			"texture_map": {},
 			"excluded_nodes": [],

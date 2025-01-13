@@ -1,7 +1,6 @@
 {
 	"abra": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/abra/torso1.json",
@@ -144,9 +143,68 @@
 			"assets/animated_java/models/blueprint/abra/shiny/leg_left1.json"
 		]
 	},
+	"beat": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/beat/default.png",
+			"assets/animated_java/textures/blueprint/beat/angry.png",
+			"assets/animated_java/textures/blueprint/beat/gold_default.png",
+			"assets/animated_java/textures/blueprint/beat/gold_angry.png",
+			"assets/animated_java/textures/blueprint/transparent.png",
+			"assets/animated_java/items/blueprint/beat/beat.json",
+			"assets/animated_java/items/blueprint/beat/left_foot.json",
+			"assets/animated_java/items/blueprint/beat/right_foot.json",
+			"assets/animated_java/items/blueprint/beat/mouth.json",
+			"assets/animated_java/items/blueprint/beat/right_wing.json",
+			"assets/animated_java/items/blueprint/beat/left_wing.json",
+			"assets/animated_java/models/blueprint/beat/beat.json",
+			"assets/animated_java/models/blueprint/beat/left_foot.json",
+			"assets/animated_java/models/blueprint/beat/right_foot.json",
+			"assets/animated_java/models/blueprint/beat/mouth.json",
+			"assets/animated_java/models/blueprint/beat/right_wing.json",
+			"assets/animated_java/models/blueprint/beat/left_wing.json",
+			"assets/animated_java/models/blueprint/beat/default_angry/left_foot.json",
+			"assets/animated_java/models/blueprint/beat/default_angry/right_foot.json",
+			"assets/animated_java/models/blueprint/beat/default_angry/mouth.json",
+			"assets/animated_java/models/blueprint/beat/default_angry/right_wing.json",
+			"assets/animated_java/models/blueprint/beat/default_angry/left_wing.json",
+			"assets/animated_java/models/blueprint/beat/default_angry/beat.json",
+			"assets/animated_java/models/blueprint/beat/gold/left_foot.json",
+			"assets/animated_java/models/blueprint/beat/gold/right_foot.json",
+			"assets/animated_java/models/blueprint/beat/gold/mouth.json",
+			"assets/animated_java/models/blueprint/beat/gold/right_wing.json",
+			"assets/animated_java/models/blueprint/beat/gold/left_wing.json",
+			"assets/animated_java/models/blueprint/beat/gold/beat.json",
+			"assets/animated_java/models/blueprint/beat/gold_angry/left_foot.json",
+			"assets/animated_java/models/blueprint/beat/gold_angry/right_foot.json",
+			"assets/animated_java/models/blueprint/beat/gold_angry/mouth.json",
+			"assets/animated_java/models/blueprint/beat/gold_angry/right_wing.json",
+			"assets/animated_java/models/blueprint/beat/gold_angry/left_wing.json",
+			"assets/animated_java/models/blueprint/beat/gold_angry/beat.json"
+		]
+	},
+	"boo": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/transparent.png",
+			"assets/animated_java/items/blueprint/boo/eyes.json",
+			"assets/animated_java/items/blueprint/boo/body.json",
+			"assets/animated_java/items/blueprint/boo/tongue.json",
+			"assets/animated_java/items/blueprint/boo/teeth.json",
+			"assets/animated_java/items/blueprint/boo/mouthouter.json",
+			"assets/animated_java/items/blueprint/boo/brow.json",
+			"assets/animated_java/items/blueprint/boo/mouth.json",
+			"assets/animated_java/models/blueprint/boo/eyes.json",
+			"assets/animated_java/models/blueprint/boo/body.json",
+			"assets/animated_java/models/blueprint/boo/tongue.json",
+			"assets/animated_java/models/blueprint/boo/teeth.json",
+			"assets/animated_java/models/blueprint/boo/mouthouter.json",
+			"assets/animated_java/models/blueprint/boo/brow.json",
+			"assets/animated_java/models/blueprint/boo/mouth.json"
+		]
+	},
 	"diglett": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/diglett/ground1.json",
@@ -183,7 +241,6 @@
 	},
 	"dugtrio": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/dugtrio/ground4.json",
@@ -277,7 +334,6 @@
 	},
 	"gastly": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/gastly/torso1.json",
@@ -356,7 +412,6 @@
 	},
 	"geodude": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/geodude/torso1.json",
@@ -459,7 +514,6 @@
 	},
 	"gyarados": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/gyarados/neck6.json",
@@ -730,7 +784,6 @@
 	},
 	"lapras": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/lapras/torso.json",
@@ -857,7 +910,6 @@
 	},
 	"magnemite": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/magnemite/body1.json",
@@ -891,7 +943,6 @@
 	},
 	"metapod": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/metapod/body1.json",
@@ -919,7 +970,6 @@
 	},
 	"slowpoke": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/slowpoke/torso1.json",
@@ -977,7 +1027,6 @@
 	},
 	"snorlax": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/snorlax/belly1.json",
@@ -1113,7 +1162,6 @@
 	},
 	"sudowoodo": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/sudowoodo/torso1.json",

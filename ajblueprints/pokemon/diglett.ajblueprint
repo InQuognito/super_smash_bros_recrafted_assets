@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.1",
+		"format_version": "1.6.2",
 		"uuid": "25168702-0a26-8ce8-5211-620acb2e223b",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\diglett.ajblueprint",
 		"last_used_export_namespace": "diglett"
@@ -18,11 +18,7 @@
 		"display_item": "minecraft:diamond",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
-		"enable_advanced_resource_pack_folders": false,
 		"resource_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets",
-		"display_item_path": "",
-		"model_folder": "",
-		"texture_folder": "",
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC World v2.4.2 (MC1.20.4)\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "function ssbrc:logic/pokemon/init {name:\"diglett\"}",
@@ -33,7 +29,11 @@
 		"show_function_errors": true,
 		"show_outdated_warning": true,
 		"baked_animations": true,
-		"json_file": ""
+		"json_file": "",
+		"enable_advanced_resource_pack_folders": false,
+		"display_item_path": "",
+		"model_folder": "",
+		"texture_folder": ""
 	},
 	"resolution": {
 		"width": 64,
@@ -788,7 +788,7 @@
 		"default": {
 			"name": "default",
 			"display_name": "Default",
-			"uuid": "5d21be1c-984d-442e-a729-fa05619092a4",
+			"uuid": "a91209c4-28c3-711e-2dc0-472fdba9cce6",
 			"texture_map": {},
 			"excluded_nodes": [],
 			"is_default": true
@@ -811,7 +811,7 @@
 			"name": "ground_idle",
 			"loop": "loop",
 			"override": false,
-			"length": 0.05,
+			"length": 4,
 			"snapping": 20,
 			"selected": true,
 			"saved": false,

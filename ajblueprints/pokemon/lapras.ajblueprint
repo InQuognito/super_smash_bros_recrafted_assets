@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.1",
+		"format_version": "1.6.2",
 		"uuid": "50b1ae3c-91b5-eca0-e59a-926da9b8435d",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\lapras.ajblueprint",
 		"last_used_export_namespace": "lapras"
@@ -18,14 +18,10 @@
 		"display_item": "minecraft:diamond",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
-		"enable_advanced_resource_pack_folders": false,
 		"resource_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets",
-		"display_item_path": "",
-		"model_folder": "",
-		"texture_folder": "",
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC World v2.4.2 (MC1.20.4)\\datapacks\\super_smash_bros_recrafted",
-		"summon_commands": "",
+		"summon_commands": "function ssbrc:logic/pokemon/int {name:\"lapras\"}",
 		"ticking_commands": "particle minecraft:cloud ~ ~0.5 ~ 0.5 0.1 0.5 0.0 5 normal @a",
 		"interpolation_duration": 1,
 		"teleportation_duration": 1,
@@ -33,7 +29,11 @@
 		"show_function_errors": true,
 		"show_outdated_warning": true,
 		"baked_animations": true,
-		"json_file": ""
+		"json_file": "",
+		"enable_advanced_resource_pack_folders": false,
+		"display_item_path": "",
+		"model_folder": "",
+		"texture_folder": ""
 	},
 	"resolution": {
 		"width": 256,
@@ -2814,7 +2814,7 @@
 					"children": ["da08264c-7612-f3f4-573c-1c52f08d41dd"]
 				},
 				{
-					"name": "body",
+					"name": "body1",
 					"origin": [0, 4.5, 2],
 					"color": 2,
 					"configs": {
@@ -2992,7 +2992,7 @@
 															"children": [
 																"523adf18-3a5b-c47a-1fb4-e2950d6fdedd",
 																{
-																	"name": "head",
+																	"name": "head1",
 																	"origin": [0, 33.5, -12.5],
 																	"color": 2,
 																	"configs": {
@@ -3963,7 +3963,7 @@
 	"variants": {
 		"default": {
 			"name": "default",
-			"display_name": "default",
+			"display_name": "Default",
 			"uuid": "2289334b-53fe-cfd9-ce90-46b74112c173",
 			"texture_map": {},
 			"excluded_nodes": [],
@@ -4613,7 +4613,7 @@
 					]
 				},
 				"6db3c124-b359-1759-dd2f-19e921647fd6": {
-					"name": "body",
+					"name": "body1",
 					"type": "bone",
 					"keyframes": [
 						{
@@ -4651,7 +4651,7 @@
 					]
 				},
 				"711b6c52-d2a6-755d-674d-d624d0a9d7b9": {
-					"name": "head",
+					"name": "head1",
 					"type": "bone",
 					"keyframes": [
 						{

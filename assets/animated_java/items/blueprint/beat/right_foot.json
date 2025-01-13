@@ -1,0 +1,39 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": "default_angry",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/beat/default_angry/right_foot"
+				}
+			},
+			{
+				"when": "gold",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/beat/gold/right_foot"
+				}
+			},
+			{
+				"when": "gold_angry",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/beat/gold_angry/right_foot"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "animated_java:blueprint/beat/right_foot"
+		},
+		"tints": [
+			{
+				"type": "minecraft:dye",
+				"default": [1, 1, 1]
+			}
+		]
+	}
+}
