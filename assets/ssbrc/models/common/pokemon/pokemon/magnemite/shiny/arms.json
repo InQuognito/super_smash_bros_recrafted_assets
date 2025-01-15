@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:common/pokemon/pokemon/magnemite/parent/arms",
-	"textures": {
-		"base": "ssbrc:common/pokemon/pokemon/magnemite/shiny"
-	}
-}

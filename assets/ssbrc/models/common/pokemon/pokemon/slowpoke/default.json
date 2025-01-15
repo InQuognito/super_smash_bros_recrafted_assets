@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:common/pokemon/pokemon/slowpoke/parent",
-	"textures": {
-		"base": "ssbrc:common/pokemon/pokemon/slowpoke/default"
-	}
-}

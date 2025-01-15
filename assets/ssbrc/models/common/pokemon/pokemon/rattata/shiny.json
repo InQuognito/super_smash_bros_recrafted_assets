@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:common/pokemon/pokemon/rattata/parent",
-	"textures": {
-		"base": "ssbrc:common/pokemon/pokemon/rattata/shiny"
-	}
-}

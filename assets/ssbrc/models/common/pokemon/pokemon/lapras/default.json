@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:common/pokemon/pokemon/lapras/parent",
-	"textures": {
-		"base": "ssbrc:common/pokemon/pokemon/lapras/default"
-	}
-}

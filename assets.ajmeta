@@ -332,6 +332,16 @@
 			"assets/animated_java/models/blueprint/dugtrio/shiny/ground6.json"
 		]
 	},
+	"fgii_graham": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/transparent.png",
+			"assets/animated_java/items/blueprint/fgii_graham/body.json",
+			"assets/animated_java/items/blueprint/fgii_graham/propeller.json",
+			"assets/animated_java/models/blueprint/fgii_graham/body.json",
+			"assets/animated_java/models/blueprint/fgii_graham/propeller.json"
+		]
+	},
 	"gastly": {
 		"files": [
 			"assets/animated_java/models/empty.json",
@@ -781,6 +791,9 @@
 			"assets/animated_java/models/blueprint/gyarados/shiny/segment11.json",
 			"assets/animated_java/models/blueprint/gyarados/shiny/segment10.json"
 		]
+	},
+	"jukebox_display": {
+		"files": ["assets/animated_java/models/empty.json", "assets/animated_java/textures/blueprint/transparent.png"]
 	},
 	"lapras": {
 		"files": [
@@ -1263,6 +1276,18 @@
 			"assets/animated_java/models/blueprint/sudowoodo/shiny/foot_right1.json",
 			"assets/animated_java/models/blueprint/sudowoodo/shiny/leg_right3.json",
 			"assets/animated_java/models/blueprint/sudowoodo/shiny/leg_right1.json"
+		]
+	},
+	"tornado": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/transparent.png",
+			"assets/animated_java/items/blueprint/tornado/base.json",
+			"assets/animated_java/items/blueprint/tornado/middle.json",
+			"assets/animated_java/items/blueprint/tornado/top.json",
+			"assets/animated_java/models/blueprint/tornado/base.json",
+			"assets/animated_java/models/blueprint/tornado/middle.json",
+			"assets/animated_java/models/blueprint/tornado/top.json"
 		]
 	}
 }
