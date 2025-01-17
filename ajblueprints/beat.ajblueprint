@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.2",
+		"format_version": "1.6.3",
 		"uuid": "30bfacf1-2e70-d25e-62f2-e53409d04b07",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\beat.ajblueprint",
 		"last_used_export_namespace": "beat"
@@ -21,7 +21,7 @@
 		"resource_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets",
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC World v2.4.2 (MC1.20.4)\\datapacks\\super_smash_bros_recrafted",
-		"summon_commands": "",
+		"summon_commands": "function ssbrc:fighter/mega_man/logic/abilities/beat_call/init",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
 		"teleportation_duration": 1,
@@ -1543,6 +1543,7 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
+			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -1572,6 +1573,7 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
+			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -1601,6 +1603,7 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
+			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -1630,6 +1633,7 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
+			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -1723,9 +1727,9 @@
 							"channel": "position",
 							"data_points": [
 								{
-									"x": 0,
+									"x": "0",
 									"y": "0",
-									"z": 0
+									"z": "0"
 								}
 							],
 							"uuid": "6727b248-8728-9993-e5e2-f0cc5a37c9f4",
@@ -1739,9 +1743,9 @@
 							"channel": "position",
 							"data_points": [
 								{
-									"x": 0,
+									"x": "0",
 									"y": "-1",
-									"z": 0
+									"z": "0"
 								}
 							],
 							"uuid": "32ec4631-bf4e-6e74-ca58-d38b091dfe90",
@@ -1755,9 +1759,9 @@
 							"channel": "position",
 							"data_points": [
 								{
-									"x": 0,
+									"x": "0",
 									"y": "0",
-									"z": 0
+									"z": "0"
 								}
 							],
 							"uuid": "7c46bb13-7ebe-d53d-ccf7-36e4616b3bac",
@@ -1777,9 +1781,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
-									"z": 0
+									"x": "0",
+									"y": "0",
+									"z": "0"
 								}
 							],
 							"uuid": "db34a99a-9849-81b4-4361-ee0b9ca12862",
@@ -1793,9 +1797,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
-									"z": 30
+									"x": "0",
+									"y": "0",
+									"z": "30"
 								}
 							],
 							"uuid": "bcf8ca0a-7e78-23f5-3181-742548ca3646",
@@ -1809,9 +1813,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
-									"z": -30
+									"x": "0",
+									"y": "0",
+									"z": "-30"
 								}
 							],
 							"uuid": "47d04cbc-c2a9-fef9-d25b-79b0d93f777f",
@@ -1825,9 +1829,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
-									"z": 0
+									"x": "0",
+									"y": "0",
+									"z": "0"
 								}
 							],
 							"uuid": "d204af9c-23c4-34c7-379d-6dfd00fd3f74",
@@ -1863,9 +1867,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
-									"z": 0
+									"x": "0",
+									"y": "0",
+									"z": "0"
 								}
 							],
 							"uuid": "292323da-270a-e352-f3f5-031c452b01bf",
@@ -1879,9 +1883,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
-									"z": -30
+									"x": "0",
+									"y": "0",
+									"z": "-30"
 								}
 							],
 							"uuid": "07532f71-8e62-ae3e-9df9-ecb36f1daeaa",
@@ -1895,8 +1899,8 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
+									"x": "0",
+									"y": "0",
 									"z": "30"
 								}
 							],
@@ -1960,7 +1964,7 @@
 								{
 									"x": "0",
 									"y": "1",
-									"z": -8
+									"z": "-8"
 								}
 							],
 							"uuid": "c05cbb6d-9a31-58b5-44a8-9b4d9d6002d8",
@@ -1974,9 +1978,9 @@
 							"channel": "position",
 							"data_points": [
 								{
-									"x": 0,
+									"x": "0",
 									"y": "0",
-									"z": 0
+									"z": "0"
 								}
 							],
 							"uuid": "6727b248-8728-9993-e5e2-f0cc5a37c9f4",
@@ -1990,9 +1994,9 @@
 							"channel": "position",
 							"data_points": [
 								{
-									"x": 0,
+									"x": "0",
 									"y": "-1",
-									"z": 4
+									"z": "4"
 								}
 							],
 							"uuid": "32ec4631-bf4e-6e74-ca58-d38b091dfe90",
@@ -2006,9 +2010,9 @@
 							"channel": "position",
 							"data_points": [
 								{
-									"x": 0,
+									"x": "0",
 									"y": "0",
-									"z": 0
+									"z": "0"
 								}
 							],
 							"uuid": "7c46bb13-7ebe-d53d-ccf7-36e4616b3bac",
@@ -2022,9 +2026,9 @@
 							"channel": "position",
 							"data_points": [
 								{
-									"x": 0,
+									"x": "0",
 									"y": "0",
-									"z": 4
+									"z": "4"
 								}
 							],
 							"uuid": "f0520246-c0aa-7fa4-e626-4e874ced2c38",
@@ -2044,9 +2048,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
-									"z": 0
+									"x": "0",
+									"y": "0",
+									"z": "0"
 								}
 							],
 							"uuid": "db34a99a-9849-81b4-4361-ee0b9ca12862",
@@ -2060,9 +2064,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
-									"z": 30
+									"x": "0",
+									"y": "0",
+									"z": "30"
 								}
 							],
 							"uuid": "bcf8ca0a-7e78-23f5-3181-742548ca3646",
@@ -2076,9 +2080,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
-									"z": -30
+									"x": "0",
+									"y": "0",
+									"z": "-30"
 								}
 							],
 							"uuid": "47d04cbc-c2a9-fef9-d25b-79b0d93f777f",
@@ -2092,9 +2096,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
-									"z": 0
+									"x": "0",
+									"y": "0",
+									"z": "0"
 								}
 							],
 							"uuid": "d204af9c-23c4-34c7-379d-6dfd00fd3f74",
@@ -2130,9 +2134,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
-									"z": 0
+									"x": "0",
+									"y": "0",
+									"z": "0"
 								}
 							],
 							"uuid": "292323da-270a-e352-f3f5-031c452b01bf",
@@ -2146,9 +2150,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
-									"z": -30
+									"x": "0",
+									"y": "0",
+									"z": "-30"
 								}
 							],
 							"uuid": "07532f71-8e62-ae3e-9df9-ecb36f1daeaa",
@@ -2162,8 +2166,8 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
+									"x": "0",
+									"y": "0",
 									"z": "30"
 								}
 							],
@@ -2184,7 +2188,7 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 45,
+									"x": "45",
 									"y": "0",
 									"z": "0"
 								}
@@ -2232,7 +2236,7 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 45,
+									"x": "45",
 									"y": "0",
 									"z": "0"
 								}
@@ -2254,7 +2258,7 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": -30,
+									"x": "-30",
 									"y": "0",
 									"z": "0"
 								}
@@ -2324,7 +2328,7 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": -30,
+									"x": "-30",
 									"y": "0",
 									"z": "0"
 								}
