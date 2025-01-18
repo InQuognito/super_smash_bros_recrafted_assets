@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/bow_pulling_1",
+	"parent": "ssbrc:fighter/pit/item/palutena_bow/retro/pulling_parent",
 	"textures": {
 		"layer0": "ssbrc:fighter/pit/item/palutena_bow/retro/pulling_1"
 	}
