@@ -1,113 +1,107 @@
 {
 	"providers": [
 		{
-			"type": "space",
-			"advances": {
-				"-": -160
-			}
-		},
-		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/0.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf800" ]
 		},
 		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/1.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf801" ]
 		},
 		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/2.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf802" ]
 		},
 		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/3.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf803" ]
 		},
 		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/4.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf804" ]
 		},
 		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/5.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf805" ]
 		},
 		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/6.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf806" ]
 		},
 		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/7.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf807" ]
 		},
 		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/8.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf808" ]
 		},
 		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/9.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf809" ]
 		},
 		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/10.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf810" ]
 		},
 		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/11.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf811" ]
 		},
 		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/12.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf812" ]
 		},
 		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/13.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf813" ]
 		},
 		{
 			"type": "bitmap",
 			"file": "ssbrc:common/sonic_the_hedgehog/speedometer/14.png",
-			"height": 160,
+			"height": 64,
 			"ascent": 10,
 			"chars": [ "\uf814" ]
 		}
