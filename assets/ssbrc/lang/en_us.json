@@ -268,8 +268,6 @@
 	"ssbrc.options.game_mode.stock.enable": "[!] Stocks required",
 	"ssbrc.options.game_mode.time": "Time",
 	"ssbrc.options.game_mode.time.description": "In this mode, you are never out of the game. Instead, you have a certain amount of time to get as many points as you can.",
-	"ssbrc.options.game_mode.ctf": "CTF",
-	"ssbrc.options.game_mode.ctf.description": "In this mode, two teams compete to capture the other teams' flag as much as possible.",
 
 	"ssbrc.options.stock_limit": "Stock Limit",
 	"ssbrc.options.stock_limit.description": "Controls how many stocks players have.",
@@ -586,7 +584,6 @@
 	"ssbrc.fighter.kirby.puff_up.description.1": "] in midair to perform an extra jump",
 	"ssbrc.fighter.kirby.puff_up.description.2": "- Can jump up to 5 times",
 	"ssbrc.fighter.kirby.puff_up.description.3": "- Each jump is weaker than the last",
-	"ssbrc.fighter.king_dedede": "King Dedede",
 	"ssbrc.stage.dream_land": "Dream Land",
 	"ssbrc.music.checker_knights": "Checker Knights",
 	"ssbrc.music.planet_popstar": "Planet Popstar",
@@ -603,8 +600,6 @@
 	"ssbrc.fighter.fox.fire_fox": "Fire Fox",
 	"ssbrc.fighter.fox.fire_fox.description.1": "] in midair to charge forward",
 	"ssbrc.fighter.wolf": "Wolf",
-	"ssbrc.skin.star_fox_2": "Star Fox 2",
-	"ssbrc.skin.starlink": "Starlink",
 	"ssbrc.skin.assault": "Assault",
 	"ssbrc.fighter.wolf.wolf_slash": "Wolf Slash",
 	"ssbrc.fighter.wolf.wolf_slash.description.1": "] to dash incredibly quickly at an upward angle",
@@ -617,7 +612,6 @@
 	"ssbrc.music.star_wolf": "Star Wolf",
 
 	"ssbrc.series.pokemon": "Pokémon",
-	"ssbrc.skin.shadow": "Shadow",
 	"ssbrc.skin.shiny": "Shiny",
 	"ssbrc.series.pokemon.catch_shiny": "You have caught a shiny Pokémon and unlocked their shiny skin!",
 	"ssbrc.fighter.pokemon.mega_punch": "Mega Punch",
@@ -632,7 +626,6 @@
 	"ssbrc.fighter.pikachu.electric_terrain.description.2": "- Changes or improves functionality of many eletric-based attacks",
 	"ssbrc.fighter.pikachu.electric_terrain.description.3": "- Disappears after a while",
 	"ssbrc.fighter.jigglypuff": "Jigglypuff",
-
 	"ssbrc.skin.scream_tail": "Scream Tail",
 	"ssbrc.fighter.jigglypuff.pound": "Pound",
 	"ssbrc.fighter.jigglypuff.hyper_voice": "Hyper Voice",
@@ -832,7 +825,6 @@
 	"ssbrc.music.with_milas_divine_protection": "With Mila's Divine Protection",
 
 	"ssbrc.series.game_and_watch": "Game & Watch",
-	"ssbrc.fighter.mr_game_and_watch": "Mr. Game & Watch",
 	"ssbrc.stage.flat_zone": "Flat Zone",
 	"ssbrc.music.flat_zone": "Flat Zone",
 	"ssbrc.music.flat_zone_2": "Flat Zone 2",
@@ -856,7 +848,6 @@
 	"ssbrc.fighter.snake": "Snake",
 	"ssbrc.skin.classic_tuxedo": "Classic Tuxedo",
 	"ssbrc.skin.iroquois_pliskin": "Iroquois Pliskin",
-	"ssbrc.skin.old_snake": "Old Snake",
 	"ssbrc.fighter.snake.select_loadout": "Select Loadout",
 	"ssbrc.fighter.snake.loadout.undo": "UNDO",
 	"ssbrc.fighter.snake.loadout.undo.description": "Click here to undo this choice.",
@@ -961,9 +952,6 @@
 	"ssbrc.fighter.rob.robo_burner.description.1": "] to propel into the air",
 	"ssbrc.fighter.rob.robo_burner.description.2": "- Recharges while not in use",
 
-	"ssbrc.series.animal_crossing": "Animal Crossing",
-	"ssbrc.fighter.villager": "Villager",
-
 	"ssbrc.fighter.mega_man": "Mega Man",
 	"ssbrc.skin.star_force": "Star Force",
 	"ssbrc.fighter.mega_man.mega_buster": "Mega Buster",
@@ -973,7 +961,6 @@
 	"ssbrc.fighter.mega_man.flame_sword": "Flame Sword",
 	"ssbrc.fighter.mega_man.hyper_bomb": "Hyper Bomb",
 	"ssbrc.fighter.mega_man.junk_shield": "Junk Shield",
-	"ssbrc.fighter.mega_man.magma_bazooka": "Magma Bazooka",
 	"ssbrc.fighter.mega_man.metal_blade": "Metal Blade",
 	"ssbrc.fighter.mega_man.pile_driver": "Pile Driver",
 	"ssbrc.fighter.mega_man.remote_mine": "Remote Mine",
@@ -997,7 +984,6 @@
 	"ssbrc.series.street_fighter": "Street Fighter",
 	"ssbrc.fighter.ryu": "Ryu",
 	"ssbrc.skin.hot_ryu": "Hot Ryu",
-	"ssbrc.skin.iron_fist": "Iron Fist",
 	"ssbrc.fighter.ryu.collarbone_breaker": "Collarbone Breaker",
 	"ssbrc.fighter.ryu.collarbone_breaker.description.1": "] and release to launch a Hadouken",
 	"ssbrc.fighter.ryu.collarbone_breaker.description.2": "- Hold before release to launch a stronger, slower Hadouken",
