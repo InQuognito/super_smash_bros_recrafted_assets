@@ -2,5 +2,6 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "ssbrc:fighter/link/item/master_sword/dark_link/spinning/dormant"
-	}
+	},
+	"hand_animation_on_swap": false
 }

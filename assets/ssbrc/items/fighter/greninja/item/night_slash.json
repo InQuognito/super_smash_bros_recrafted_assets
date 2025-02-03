@@ -2,5 +2,6 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "ssbrc:fighter/greninja/item/night_slash"
-	}
+	},
+	"hand_animation_on_swap": false
 }

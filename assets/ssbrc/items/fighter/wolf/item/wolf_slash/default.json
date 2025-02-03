@@ -22,5 +22,6 @@
 			"type": "minecraft:model",
 			"model": "ssbrc:fighter/wolf/item/wolf_slash/default/default"
 		}
-	}
+	},
+	"hand_animation_on_swap": false
 }

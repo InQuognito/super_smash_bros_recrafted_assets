@@ -2,5 +2,6 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "ssbrc:fighter/mega_man/item/remote_mine/star_force"
-	}
+	},
+	"hand_animation_on_swap": false
 }

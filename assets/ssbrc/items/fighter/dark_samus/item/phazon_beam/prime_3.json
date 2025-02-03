@@ -47,5 +47,6 @@
 			"type": "minecraft:model",
 			"model": "ssbrc:fighter/dark_samus/item/phazon_beam/prime_3/default"
 		}
-	}
+	},
+	"hand_animation_on_swap": false
 }

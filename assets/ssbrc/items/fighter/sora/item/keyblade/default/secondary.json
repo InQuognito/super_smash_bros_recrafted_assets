@@ -2,5 +2,6 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "ssbrc:fighter/sora/item/keyblade/default/secondary"
-	}
+	},
+	"hand_animation_on_swap": false
 }

@@ -2,5 +2,6 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "ssbrc:fighter/donkey_kong/item/orange_grenade"
-	}
+	},
+	"hand_animation_on_swap": false
 }

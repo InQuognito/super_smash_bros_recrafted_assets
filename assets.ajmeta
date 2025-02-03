@@ -792,7 +792,7 @@
 		]
 	},
 	"jukebox_display": {
-		"files": ["assets/animated_java/models/empty.json", "assets/animated_java/textures/blueprint/transparent.png"]
+		"files": []
 	},
 	"lapras": {
 		"files": [

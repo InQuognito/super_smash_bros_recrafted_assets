@@ -2,5 +2,6 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "ssbrc:fighter/fox/item/krazoan_staff/gold"
-	}
+	},
+	"hand_animation_on_swap": false
 }

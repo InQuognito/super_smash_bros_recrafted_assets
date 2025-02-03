@@ -2,5 +2,6 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "ssbrc:fighter/king_k_rool/item/blunderbuss/gold"
-	}
+	},
+	"hand_animation_on_swap": false
 }

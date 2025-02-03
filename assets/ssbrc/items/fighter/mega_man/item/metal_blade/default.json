@@ -2,5 +2,6 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "ssbrc:fighter/mega_man/item/metal_blade/default"
-	}
+	},
+	"hand_animation_on_swap": false
 }

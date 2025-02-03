@@ -1,6 +1,15 @@
 {
 	"model": {
-		"type": "minecraft:model",
-		"model": "ssbrc:fighter/alucard/item/holy_water/default"
-	}
+		"type": "minecraft:condition",
+		"property": "minecraft:damaged",
+		"on_true": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/alucard/item/holy_water/disabled"
+		},
+		"on_false": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/alucard/item/holy_water/default"
+		}
+	},
+	"hand_animation_on_swap": false
 }

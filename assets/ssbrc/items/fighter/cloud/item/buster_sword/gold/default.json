@@ -2,5 +2,6 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "ssbrc:fighter/cloud/item/buster_sword/gold/default"
-	}
+	},
+	"hand_animation_on_swap": false
 }

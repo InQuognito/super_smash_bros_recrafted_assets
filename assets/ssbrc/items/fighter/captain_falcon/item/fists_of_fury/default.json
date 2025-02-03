@@ -22,5 +22,6 @@
 			"type": "minecraft:model",
 			"model": "ssbrc:fighter/captain_falcon/item/fists_of_fury/default/default"
 		}
-	}
+	},
+	"hand_animation_on_swap": false
 }

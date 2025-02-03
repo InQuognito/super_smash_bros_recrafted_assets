@@ -31,5 +31,6 @@
 			"type": "minecraft:model",
 			"model": "ssbrc:fighter/wolf/item/grenade/default"
 		}
-	}
+	},
+	"hand_animation_on_swap": false
 }

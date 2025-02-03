@@ -2,5 +2,6 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "ssbrc:fighter/jigglypuff/item/hyper_voice/gold"
-	}
+	},
+	"hand_animation_on_swap": false
 }
