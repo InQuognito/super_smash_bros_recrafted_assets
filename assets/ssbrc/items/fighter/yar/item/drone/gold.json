@@ -2,5 +2,6 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "ssbrc:fighter/yar/item/drone/gold"
-	}
+	},
+	"hand_animation_on_swap": false
 }

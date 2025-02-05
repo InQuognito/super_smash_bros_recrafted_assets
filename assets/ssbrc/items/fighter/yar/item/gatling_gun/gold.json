@@ -10,5 +10,6 @@
 			"type": "minecraft:model",
 			"model": "ssbrc:fighter/yar/item/gatling_gun/gold/default"
 		}
-	}
+	},
+	"hand_animation_on_swap": false
 }

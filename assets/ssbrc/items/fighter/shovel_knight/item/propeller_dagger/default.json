@@ -2,5 +2,6 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "ssbrc:fighter/shovel_knight/item/propeller_dagger/default"
-	}
+	},
+	"hand_animation_on_swap": false
 }
