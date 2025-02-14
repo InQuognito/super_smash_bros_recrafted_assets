@@ -11,5 +11,5 @@ jobs:
     - name: Upload Resourcepack
       uses: actions/upload-artifact@v4
       with:
-        name: ssbrc-latest.zip
+        name: ssbrc-latest
         path: ./**/*
