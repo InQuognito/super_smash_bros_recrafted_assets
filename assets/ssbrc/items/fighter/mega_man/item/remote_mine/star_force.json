@@ -1,7 +1,20 @@
 {
 	"model": {
-		"type": "minecraft:model",
-		"model": "ssbrc:fighter/mega_man/item/remote_mine/star_force"
+		"type": "minecraft:select",
+		"property": "minecraft:display_context",
+		"cases": [
+			{
+				"when": "gui",
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/mega_man/misc/remote_mine"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/mega_man/item/remote_mine/star_force"
+		}
 	},
 	"hand_animation_on_swap": false
 }

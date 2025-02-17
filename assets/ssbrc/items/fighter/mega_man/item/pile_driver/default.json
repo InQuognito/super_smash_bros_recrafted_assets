@@ -1,7 +1,20 @@
 {
 	"model": {
-		"type": "minecraft:model",
-		"model": "ssbrc:fighter/mega_man/item/pile_driver/default"
+		"type": "minecraft:select",
+		"property": "minecraft:display_context",
+		"cases": [
+			{
+				"when": "gui",
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/mega_man/misc/pile_driver/default"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/mega_man/item/pile_driver/default"
+		}
 	},
 	"hand_animation_on_swap": false
 }
