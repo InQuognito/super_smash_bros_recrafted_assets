@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.3",
+		"format_version": "1.6.4",
 		"uuid": "328dc867-3627-b3b7-0e9f-147a87844a33",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\tyrogue.ajblueprint",
 		"last_used_export_namespace": "tyrogue"
@@ -20,7 +20,7 @@
 		"enable_advanced_resource_pack_settings": false,
 		"resource_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets",
 		"enable_advanced_data_pack_settings": false,
-		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC World v2.4.2 (MC1.20.4)\\datapacks\\super_smash_bros_recrafted",
+		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "function ssbrc:logic/pokemon/init {name:\"tyrogue\"}",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
@@ -1782,6 +1782,7 @@
 			"locked": false,
 			"visibility": true,
 			"autouv": 0,
+			"selected": false,
 			"children": [
 				{
 					"name": "body",
@@ -1797,6 +1798,7 @@
 					"locked": false,
 					"visibility": true,
 					"autouv": 0,
+					"selected": false,
 					"children": [
 						{
 							"name": "torso",
@@ -1812,6 +1814,7 @@
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
+							"selected": false,
 							"children": [
 								"68a53122-e10e-0c43-1187-084a492d72a7",
 								{
@@ -1828,6 +1831,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": [
 										"cf83f4f4-3900-03bf-a9d0-12dc519872c7",
 										{
@@ -1844,6 +1848,7 @@
 											"locked": false,
 											"visibility": true,
 											"autouv": 0,
+											"selected": false,
 											"children": [
 												"ac38d384-9ec1-76f6-2777-fdf93c1b3b8a",
 												"752727ab-daf7-0d4a-394a-5c1b1db4ac86",
@@ -1862,6 +1867,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": ["dcfd8322-f50c-0673-057e-a645f847456c"]
 												},
 												{
@@ -1879,6 +1885,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": ["788a07b4-4043-59ca-0748-5018b7b39588"]
 												},
 												{
@@ -1896,6 +1903,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": [
 														"b638be28-b03e-e7a8-7aae-f7da07c22eeb",
 														"183ed178-80ab-e08c-c566-d3a5d0da063d",
@@ -1913,6 +1921,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": ["7b9bff90-e566-badb-820a-86cd3e184c67"]
 														}
 													]
@@ -1932,6 +1941,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": [
 														"02dadde8-1d17-a3ac-2627-ca77ccd058f6",
 														"1bb59a97-5f6a-5275-f6ff-969ee6cb3e89",
@@ -1949,6 +1959,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": ["15d08b34-4cf8-8e63-c343-5f9403025886"]
 														}
 													]
@@ -1967,6 +1978,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": [
 														{
 															"name": "mouth_closed",
@@ -1982,6 +1994,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": ["9c36df82-8feb-a3e0-f40e-0f69c2c46b1b"]
 														},
 														{
@@ -1998,6 +2011,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": ["884ee933-cabd-e553-4cda-1e3ec5e661c0"]
 														}
 													]
@@ -2020,6 +2034,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": [
 										"9be09042-50bf-1f2c-c79b-ce007c90313f",
 										{
@@ -2036,6 +2051,7 @@
 											"locked": false,
 											"visibility": true,
 											"autouv": 0,
+											"selected": false,
 											"children": [
 												"abbfea02-464d-6b91-ea90-0217ed358df6",
 												{
@@ -2052,6 +2068,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": [
 														"f60462f6-0d41-d339-92a6-5f06628591e2",
 														{
@@ -2068,6 +2085,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": [
 																"a46650da-0716-d139-ba47-d5b86b13edb2",
 																{
@@ -2084,6 +2102,7 @@
 																	"locked": false,
 																	"visibility": true,
 																	"autouv": 0,
+																	"selected": false,
 																	"children": ["063da917-e11c-cf3e-543b-b8dc4e9cca33"]
 																}
 															]
@@ -2102,6 +2121,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": [
 																"d05ec177-ab4a-32bc-c3b2-500b85b5f153",
 																{
@@ -2118,6 +2138,7 @@
 																	"locked": false,
 																	"visibility": true,
 																	"autouv": 0,
+																	"selected": false,
 																	"children": ["5bddcd9d-38a4-7214-2380-778a6b482e56"]
 																}
 															]
@@ -2136,6 +2157,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": [
 																"c3152aad-fd0a-6eb3-1a18-d03de6d6c779",
 																{
@@ -2152,6 +2174,7 @@
 																	"locked": false,
 																	"visibility": true,
 																	"autouv": 0,
+																	"selected": false,
 																	"children": ["cf3d52ce-15e0-2c89-d967-70bb22281d98"]
 																}
 															]
@@ -2176,6 +2199,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": [
 										"36445628-d326-22f9-c32f-81f092b26e29",
 										{
@@ -2192,6 +2216,7 @@
 											"locked": false,
 											"visibility": true,
 											"autouv": 0,
+											"selected": false,
 											"children": [
 												"fd606d76-b118-889c-42cc-60049806ec2c",
 												{
@@ -2208,6 +2233,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": [
 														"a7382fa1-609f-c7ad-19be-39770cb3743e",
 														{
@@ -2224,6 +2250,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": [
 																"39502871-b4c9-7128-32a4-b5beafff9eca",
 																{
@@ -2240,6 +2267,7 @@
 																	"locked": false,
 																	"visibility": true,
 																	"autouv": 0,
+																	"selected": false,
 																	"children": ["9b82b7fc-168e-dce0-1b8f-dea06174b0b5"]
 																}
 															]
@@ -2258,6 +2286,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": [
 																"0eed946f-0fd5-e09b-0fc0-c145a261ac8b",
 																{
@@ -2274,6 +2303,7 @@
 																	"locked": false,
 																	"visibility": true,
 																	"autouv": 0,
+																	"selected": false,
 																	"children": ["2e0a5018-2fc4-e96a-92bf-66c320b1ac1c"]
 																}
 															]
@@ -2292,6 +2322,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": [
 																"267d2f8f-0aa8-5510-e009-29b3525f81dd",
 																{
@@ -2308,6 +2339,7 @@
 																	"locked": false,
 																	"visibility": true,
 																	"autouv": 0,
+																	"selected": false,
 																	"children": ["105990ca-2d2a-1d2c-cf64-249e9095fb9f"]
 																}
 															]
@@ -2334,6 +2366,7 @@
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
+							"selected": false,
 							"children": [
 								"31b32bbf-19d9-5303-a02c-93b4c4754414",
 								{
@@ -2350,6 +2383,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": [
 										"bbea4e01-d776-463c-9f95-e94afa615625",
 										{
@@ -2366,6 +2400,7 @@
 											"locked": false,
 											"visibility": true,
 											"autouv": 0,
+											"selected": false,
 											"children": [
 												"fd82aa6f-cf7a-376b-a9e2-e4c6a4717713",
 												{
@@ -2382,6 +2417,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": ["e7c8deb0-a197-5238-14d8-8b3de2de6a45"]
 												}
 											]
@@ -2404,6 +2440,7 @@
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
+							"selected": false,
 							"children": [
 								"4c3511ee-e356-43fb-3b00-6766e40c40ef",
 								{
@@ -2420,6 +2457,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": [
 										"36273202-c6ff-3edc-87dd-f8d325817eba",
 										{
@@ -2436,6 +2474,7 @@
 											"locked": false,
 											"visibility": true,
 											"autouv": 0,
+											"selected": false,
 											"children": [
 												"54fef55e-c5aa-ae70-975d-6bd82f630aee",
 												{
@@ -2452,6 +2491,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": ["e7f33042-3767-9336-8ba8-ac70c89803b2"]
 												}
 											]

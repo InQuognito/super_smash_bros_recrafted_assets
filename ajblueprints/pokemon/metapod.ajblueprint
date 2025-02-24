@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.2",
+		"format_version": "1.6.4",
 		"uuid": "a957d450-db55-7117-46cc-ed9758951fc9",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\metapod.ajblueprint",
 		"last_used_export_namespace": "metapod"
@@ -20,7 +20,7 @@
 		"enable_advanced_resource_pack_settings": false,
 		"resource_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets",
 		"enable_advanced_data_pack_settings": false,
-		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC World v2.4.2 (MC1.20.4)\\datapacks\\super_smash_bros_recrafted",
+		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "function ssbrc:logic/pokemon/init {name:\"metapod\"}",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
@@ -665,6 +665,7 @@
 			"locked": false,
 			"visibility": true,
 			"autouv": 0,
+			"selected": false,
 			"children": [
 				{
 					"name": "body1",
@@ -680,6 +681,7 @@
 					"locked": false,
 					"visibility": true,
 					"autouv": 0,
+					"selected": false,
 					"children": [
 						"f43b58e3-bd60-bb8d-2491-1582b41fe62e",
 						"8a5a2016-5085-f0f1-fb42-672625a27e3c",
@@ -701,6 +703,7 @@
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
+							"selected": false,
 							"children": [
 								"409c0a7a-904d-4440-ba2f-2fce2cd043fb",
 								{
@@ -717,6 +720,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": ["011762ad-39ea-c4ed-552a-9cee1a4f1b27"]
 								}
 							]
@@ -735,6 +739,7 @@
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
+							"selected": false,
 							"children": [
 								{
 									"name": "eye_right1",
@@ -751,6 +756,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": [
 										"744c6ff0-88d7-5ea5-9c90-de4554e4b972",
 										"02b0e388-06ae-17c7-6e8a-e02e5a5c27da",
@@ -768,6 +774,7 @@
 											"locked": false,
 											"visibility": true,
 											"autouv": 0,
+											"selected": false,
 											"children": ["6e272900-6f0d-47d6-9e0a-b027c846ed2c"]
 										}
 									]
@@ -787,6 +794,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": [
 										"8a31fff9-a4f0-ca8d-cc67-0eb6f87c0f79",
 										"2b272b3c-da6c-ce03-0613-12db4526e8d0",
@@ -804,6 +812,7 @@
 											"locked": false,
 											"visibility": true,
 											"autouv": 0,
+											"selected": false,
 											"children": ["1402c76c-18f4-fd22-76a8-14c7e4ea41ff"]
 										}
 									]
@@ -833,6 +842,7 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
+			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -861,6 +871,7 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
+			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -920,7 +931,7 @@
 							"data_points": [
 								{
 									"x": "math.sin(q.anim_time*90*2)*0.5",
-									"y": 0,
+									"y": "0",
 									"z": "math.clamp(math.sin(q.anim_time*90*4)*0.1,-0.8,0)+math.clamp(math.sin(q.anim_time*90*4)*0.5,0,0.8)+math.sin(q.anim_time*90*2)*0.1"
 								}
 							],
@@ -935,9 +946,9 @@
 							"channel": "position",
 							"data_points": [
 								{
-									"x": 0,
+									"x": "0",
 									"y": "(-math.clamp(math.sin(q.anim_time*90*2)*0.2,-0.1,0)-math.clamp(math.sin(q.anim_time*90*2)*0.2,0,0.1)-math.sin(q.anim_time*90*2)*0.2)*0.1",
-									"z": 0
+									"z": "0"
 								}
 							],
 							"uuid": "49e64ea5-7cea-842a-968b-e66b918682e2",
@@ -958,8 +969,8 @@
 							"data_points": [
 								{
 									"x": "-math.clamp(math.sin(q.anim_time*90*2)*0.5,-0.8,0)-math.clamp(math.sin(q.anim_time*90*2)*0.5,0,0.8)-math.sin(q.anim_time*90*2)*0.1",
-									"y": 0,
-									"z": 0
+									"y": "0",
+									"z": "0"
 								}
 							],
 							"uuid": "6385ea49-2092-cbd5-9cc6-0cb80cb1a1ff",

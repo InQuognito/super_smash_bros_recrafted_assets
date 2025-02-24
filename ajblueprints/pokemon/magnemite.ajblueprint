@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.2",
+		"format_version": "1.6.4",
 		"uuid": "6ab78e66-38d4-c926-8eef-22a4a44542fe",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\magnemite.ajblueprint",
 		"last_used_export_namespace": "magnemite"
@@ -20,7 +20,7 @@
 		"enable_advanced_resource_pack_settings": false,
 		"resource_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets",
 		"enable_advanced_data_pack_settings": false,
-		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC World v2.4.2 (MC1.20.4)\\datapacks\\super_smash_bros_recrafted",
+		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "function ssbrc:logic/pokemon/init {name:\"magnemite\"}",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
@@ -792,6 +792,7 @@
 			"locked": false,
 			"visibility": true,
 			"autouv": 0,
+			"selected": false,
 			"children": [
 				{
 					"name": "body1",
@@ -807,6 +808,7 @@
 					"locked": false,
 					"visibility": true,
 					"autouv": 0,
+					"selected": false,
 					"children": [
 						"39c4cda7-a820-1fe6-50b3-1c1b50992426",
 						{
@@ -823,6 +825,7 @@
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
+							"selected": false,
 							"children": [
 								"ca172819-b8a9-e2f7-9d7d-7d2135f4036c",
 								{
@@ -839,6 +842,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": ["e50c236c-0ca7-0e82-62f2-bee221b807cb"]
 								},
 								{
@@ -855,6 +859,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": ["85b38327-83b7-fc15-3ba7-7d16d2cb6f11"]
 								}
 							]
@@ -873,6 +878,7 @@
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
+							"selected": false,
 							"children": ["fc46d189-f55e-b5c9-e19b-5a79d02ae0db", "5c0b9b70-d031-6899-d2f3-2344c88d6b08", "d44f61be-8056-7eb8-227a-01b04c742c80"]
 						},
 						{
@@ -890,6 +896,7 @@
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
+							"selected": false,
 							"children": [
 								{
 									"name": "nail_left_rotation1",
@@ -905,6 +912,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": ["05f11f1d-7e68-9839-8205-120f6ebea849", "d1036822-49ad-34da-6a3c-ae150d03eec3"]
 								}
 							]
@@ -924,6 +932,7 @@
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
+							"selected": false,
 							"children": [
 								{
 									"name": "nail_right_rotation1",
@@ -939,6 +948,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": ["45d87aab-74ea-c19c-49ed-c6ed87311fbc", "d28abfc9-660b-3238-8d13-a02197806bba"]
 								}
 							]
@@ -957,6 +967,7 @@
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
+							"selected": false,
 							"children": [
 								{
 									"name": "magnet_left1",
@@ -972,6 +983,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": ["9f0bafd9-2168-491b-34ac-abf8c66b3519", "6569131c-3738-2b08-a0ec-5c211ca6a7d7", "743f1548-67a6-8384-aeb4-ccec20f7a37b"]
 								},
 								{
@@ -988,6 +1000,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": ["322eee7e-5e7b-be4d-d86f-8c1d245a7f45", "060259de-23c8-6531-08ff-c4abf9bc7c69", "2cc0c6cf-1727-ab6e-d991-bcf3587e26d5"]
 								}
 							]
@@ -1006,6 +1019,7 @@
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
+							"selected": false,
 							"children": []
 						}
 					]
@@ -1031,6 +1045,7 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
+			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -1059,6 +1074,7 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
+			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -1117,7 +1133,7 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
+									"x": "0",
 									"y": "0 - Math.Sin(((q.anim_time + 0.1) * 180 * 0.5) * 1) * 5",
 									"z": "Math.Sin(((q.anim_time + 0.4) * 180 * 0.5) * 1) * 5"
 								}
@@ -1135,7 +1151,7 @@
 								{
 									"x": "Math.Sin((q.anim_time * 180 * 0.5) * 1) * 1.5",
 									"y": "1+Math.Sin((q.anim_time * 90 * 0.5) * 1) * 1.5",
-									"z": 0
+									"z": "0"
 								}
 							],
 							"uuid": "737202f2-4d28-8916-c9f7-846c8f87a8cb",
@@ -1155,9 +1171,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
+									"x": "0",
 									"y": "q.anim_time * -270",
-									"z": 0
+									"z": "0"
 								}
 							],
 							"uuid": "6c3bbeda-9b73-e44a-2a10-9386dfa02595",
@@ -1178,8 +1194,8 @@
 							"data_points": [
 								{
 									"x": "q.anim_time * 270",
-									"y": 0,
-									"z": 0
+									"y": "0",
+									"z": "0"
 								}
 							],
 							"uuid": "db4915bd-a921-d704-7591-b72e0224102c",
@@ -1200,8 +1216,8 @@
 							"data_points": [
 								{
 									"x": "q.anim_time * -270",
-									"y": 0,
-									"z": 0
+									"y": "0",
+									"z": "0"
 								}
 							],
 							"uuid": "d3bdd0cf-8426-1b79-f5c2-60cb213b6aec",
@@ -1221,9 +1237,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 4.8225,
-									"y": -4.98167,
-									"z": -0.46322
+									"x": "4.8225",
+									"y": "-4.98167",
+									"z": "-0.46322"
 								}
 							],
 							"uuid": "959be17d-7fa0-892a-e659-29562e47ff54",
@@ -1243,8 +1259,8 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
+									"x": "0",
+									"y": "0",
 									"z": "q.anim_time * -270"
 								}
 							],
@@ -1265,8 +1281,8 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
+									"x": "0",
+									"y": "0",
 									"z": "q.anim_time * 270"
 								}
 							],
@@ -1287,9 +1303,9 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
+									"x": "0",
 									"y": "q.anim_time * -270 ",
-									"z": 0
+									"z": "0"
 								}
 							],
 							"uuid": "623d022d-1ee4-5afa-4e1c-cb5d58bbcebf",

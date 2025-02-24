@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.2",
+		"format_version": "1.6.4",
 		"uuid": "c3a1d8a1-89e9-067a-916d-df82e8180ebd",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\boo.ajblueprint",
 		"last_used_export_namespace": "boo"
@@ -20,7 +20,7 @@
 		"enable_advanced_resource_pack_settings": false,
 		"resource_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets",
 		"enable_advanced_data_pack_settings": false,
-		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC World v2.4.2 (MC1.20.4)\\datapacks\\super_smash_bros_recrafted",
+		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
@@ -1403,6 +1403,7 @@
 			"locked": false,
 			"visibility": true,
 			"autouv": 0,
+			"selected": false,
 			"children": [
 				{
 					"name": "eyes",
@@ -1418,6 +1419,7 @@
 					"locked": false,
 					"visibility": true,
 					"autouv": 0,
+					"selected": false,
 					"children": ["16858eea-426d-363f-0f1d-345591f91fa0", "dd2c0cbd-e0b5-3753-2a8e-7ae22d0e2589"]
 				},
 				{
@@ -1434,6 +1436,7 @@
 					"locked": false,
 					"visibility": true,
 					"autouv": 0,
+					"selected": false,
 					"children": [
 						"49044df8-7133-23d5-064a-9ff0c39c010d",
 						"1aeab521-7103-8e4d-66c6-8448ec7e6b8f",
@@ -1458,6 +1461,7 @@
 					"locked": false,
 					"visibility": true,
 					"autouv": 0,
+					"selected": false,
 					"children": ["6ac3fa8b-d34f-ae73-b137-68195aae2946", "990f56d3-fae6-5a2b-688d-195f6f6a833c", "e2f72876-8fd3-2fbf-60a9-3b310e02e656"]
 				},
 				{
@@ -1474,6 +1478,7 @@
 					"locked": false,
 					"visibility": true,
 					"autouv": 0,
+					"selected": false,
 					"children": [
 						"acd0bef8-2841-32cb-97fa-74c52c86563e",
 						"470194dd-52e0-b7a7-251b-ceb42bbf8ae2",
@@ -1495,6 +1500,7 @@
 					"locked": false,
 					"visibility": true,
 					"autouv": 0,
+					"selected": false,
 					"children": [
 						"7e0e97b9-2431-8867-c4b2-c3aa728e599b",
 						"1cf957a5-b0c4-5e0d-edcd-36c8e12bbe2a",
@@ -1521,6 +1527,7 @@
 					"locked": false,
 					"visibility": true,
 					"autouv": 0,
+					"selected": false,
 					"children": [
 						"cdd90491-a503-ebc7-8974-dc6b81a9286f",
 						"a0d4a37f-cba8-d834-d4d3-3e87567406e9",
@@ -1543,6 +1550,7 @@
 					"locked": false,
 					"visibility": true,
 					"autouv": 0,
+					"selected": false,
 					"children": ["f995915a-96c7-1a72-55c3-bdb5225cda4a", "d2ba32e5-30ac-8624-f6cb-92365fe74ed1"]
 				}
 			]
@@ -1566,6 +1574,7 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
+			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -1594,6 +1603,7 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
+			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -1643,7 +1653,7 @@
 							"data_points": [
 								{
 									"x": "5+4*math.sin(q.anim_time*90*2-30)+math.clamp(3*math.sin(q.anim_time*90*2-30)*1,0,3)\n",
-									"y": 0,
+									"y": "0",
 									"z": "0.4*math.sin(q.anim_time*90*15)"
 								}
 							],
@@ -1660,7 +1670,7 @@
 								{
 									"x": "2.25*math.sin(q.anim_time*90*2)*0.4-2.25*math.sin(q.anim_time*90*2-30)*0.4+2.25*math.sin(q.anim_time*90*2-60)*0.4-2.25*math.sin(q.anim_time*90*2-90)*0.4",
 									"y": "5+2.25*math.sin(q.anim_time*90*2)*0.4-2.25*math.sin(q.anim_time*90*2-30)*0.4-2.25*math.sin(q.anim_time*90*2-60)*0.4+2.25*math.sin(q.anim_time*90*2-90)*0.4\n",
-									"z": 0
+									"z": "0"
 								}
 							],
 							"uuid": "46450db7-ab83-6cfe-80f3-4b88ae1e51e1",

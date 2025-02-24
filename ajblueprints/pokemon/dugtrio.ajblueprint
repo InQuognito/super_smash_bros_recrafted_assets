@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.2",
+		"format_version": "1.6.4",
 		"uuid": "8ddc7846-f9ed-d979-172e-579fb05874f6",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\dugtrio.ajblueprint",
 		"last_used_export_namespace": "dugtrio"
@@ -20,7 +20,7 @@
 		"enable_advanced_resource_pack_settings": false,
 		"resource_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets",
 		"enable_advanced_data_pack_settings": false,
-		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC World v2.4.2 (MC1.20.4)\\datapacks\\super_smash_bros_recrafted",
+		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "function ssbrc:logic/pokemon/init {name:\"dugtrio\"}",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
@@ -1456,6 +1456,7 @@
 			"locked": false,
 			"visibility": true,
 			"autouv": 0,
+			"selected": false,
 			"children": [
 				{
 					"name": "body4",
@@ -1471,6 +1472,7 @@
 					"locked": false,
 					"visibility": true,
 					"autouv": 0,
+					"selected": false,
 					"children": [
 						{
 							"name": "ground4",
@@ -1486,6 +1488,7 @@
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
+							"selected": false,
 							"children": [
 								"7bb78303-81fc-fd85-ca05-8ae805b4a41b",
 								"bcbdad21-2a70-43e9-edcb-bc7e9faffb6c",
@@ -1503,6 +1506,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": [
 										"45ccae52-1809-cd53-9ba2-d37314b24540",
 										{
@@ -1519,6 +1523,7 @@
 											"locked": false,
 											"visibility": true,
 											"autouv": 0,
+											"selected": false,
 											"children": [
 												"2c54eeb1-cc4f-565e-40e9-84f6c54b7430",
 												{
@@ -1535,6 +1540,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": ["b072affd-5049-b76a-5c9f-1e1692b6229e"]
 												},
 												{
@@ -1551,6 +1557,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": [
 														{
 															"name": "eye_left4",
@@ -1566,6 +1573,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": [
 																"fc2af6ab-4813-c9e2-76db-7149838f353e",
 																{
@@ -1582,6 +1590,7 @@
 																	"locked": false,
 																	"visibility": true,
 																	"autouv": 0,
+																	"selected": false,
 																	"children": ["be32b40a-28cf-be12-d47a-e0832eed1444"]
 																},
 																{
@@ -1598,6 +1607,7 @@
 																	"locked": false,
 																	"visibility": true,
 																	"autouv": 0,
+																	"selected": false,
 																	"children": ["fd870d96-b16a-fa87-2676-98a8b97fd54c"]
 																}
 															]
@@ -1616,6 +1626,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": [
 																"29e75ade-1e0d-5938-c1b1-50e4c811b2bf",
 																{
@@ -1632,6 +1643,7 @@
 																	"locked": false,
 																	"visibility": true,
 																	"autouv": 0,
+																	"selected": false,
 																	"children": ["8715d4d9-370a-1f83-5fe9-57f6df4381ee"]
 																},
 																{
@@ -1648,6 +1660,7 @@
 																	"locked": false,
 																	"visibility": true,
 																	"autouv": 0,
+																	"selected": false,
 																	"children": ["6e47bb72-0236-aecf-6a7a-a590d8fe4e3d"]
 																}
 															]
@@ -1674,6 +1687,7 @@
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
+							"selected": false,
 							"children": [
 								"7e062684-80ad-f0dd-27ea-e3ac3145c05e",
 								"596d387a-41fb-929d-cde2-ce4c6649beed",
@@ -1691,6 +1705,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": [
 										"c4304177-00d5-5ab5-040d-647e6f3b8b51",
 										{
@@ -1707,6 +1722,7 @@
 											"locked": false,
 											"visibility": true,
 											"autouv": 0,
+											"selected": false,
 											"children": ["2b1f4c70-a28d-94f3-1d4e-c6545eb6740e"]
 										},
 										{
@@ -1723,6 +1739,7 @@
 											"locked": false,
 											"visibility": true,
 											"autouv": 0,
+											"selected": false,
 											"children": [
 												{
 													"name": "eye_left5",
@@ -1738,6 +1755,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": [
 														"2f337fb2-8117-bd3c-2d4c-95d4da9d2603",
 														{
@@ -1754,6 +1772,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": ["453c4243-9bdf-6211-a174-01bc27b448a2"]
 														},
 														{
@@ -1770,6 +1789,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": ["f129e429-5fad-5acd-959f-743ce7c581cf"]
 														}
 													]
@@ -1788,6 +1808,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": [
 														"22db997a-d426-bc1f-2885-522b46417389",
 														{
@@ -1804,6 +1825,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": ["ba414d8b-676d-9db5-ebc3-73618be11930"]
 														},
 														{
@@ -1820,6 +1842,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": ["e8b87b05-d901-dea9-1d46-9a30a102b4c5"]
 														}
 													]
@@ -1844,6 +1867,7 @@
 							"locked": false,
 							"visibility": true,
 							"autouv": 0,
+							"selected": false,
 							"children": [
 								"17e50d38-965c-fba0-4678-f56a7261efc9",
 								"a6d63a39-d656-aed6-0493-a2323f157b2a",
@@ -1861,6 +1885,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
+									"selected": false,
 									"children": [
 										"c33f3a90-20c3-0d97-40b4-59f807c5df34",
 										{
@@ -1877,6 +1902,7 @@
 											"locked": false,
 											"visibility": true,
 											"autouv": 0,
+											"selected": false,
 											"children": [
 												"a88f16ec-4d6f-6ced-c8ca-ba8a1dd6272c",
 												{
@@ -1893,6 +1919,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": ["a103cdce-40f3-4a75-0d68-14f9e0ea5e26"]
 												},
 												{
@@ -1909,6 +1936,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
+													"selected": false,
 													"children": [
 														{
 															"name": "eye_left6",
@@ -1924,6 +1952,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": [
 																"8620e930-8e47-bcc3-8de3-79de763d1be4",
 																{
@@ -1940,6 +1969,7 @@
 																	"locked": false,
 																	"visibility": true,
 																	"autouv": 0,
+																	"selected": false,
 																	"children": ["ec63be24-63bb-751f-76fe-87b76e5b7ed3"]
 																},
 																{
@@ -1956,6 +1986,7 @@
 																	"locked": false,
 																	"visibility": true,
 																	"autouv": 0,
+																	"selected": false,
 																	"children": ["87aa4081-f8ef-1be5-5350-cf6f58cd1bbb"]
 																}
 															]
@@ -1974,6 +2005,7 @@
 															"locked": false,
 															"visibility": true,
 															"autouv": 0,
+															"selected": false,
 															"children": [
 																"a6b5f47b-78f1-c096-82fa-5cbae27a3b38",
 																{
@@ -1990,6 +2022,7 @@
 																	"locked": false,
 																	"visibility": true,
 																	"autouv": 0,
+																	"selected": false,
 																	"children": ["676644cb-1f5e-abc4-fba3-0cffed08f306"]
 																},
 																{
@@ -2006,6 +2039,7 @@
 																	"locked": false,
 																	"visibility": true,
 																	"autouv": 0,
+																	"selected": false,
 																	"children": ["704e59bd-94c9-19aa-89f7-fb6a93a10c31"]
 																}
 															]
@@ -2041,6 +2075,7 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
+			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -2069,6 +2104,7 @@
 			"sync_to_project": "",
 			"render_mode": "default",
 			"render_sides": "auto",
+			"pbr_channel": "color",
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
@@ -2145,7 +2181,7 @@
 								{
 									"x": "0.4+0.1*math.sin(q.anim_time*90*1-90)",
 									"y": "-0.3+0.1*math.sin(q.anim_time*90*3-90)",
-									"z": -0.3
+									"z": "-0.3"
 								}
 							],
 							"uuid": "06592f7f-f682-ddb0-c2bf-9c623bf43be0",
@@ -2183,7 +2219,7 @@
 								{
 									"x": "0.1*math.sin(q.anim_time*90*1-180)",
 									"y": "-0.3+0.1*math.sin(q.anim_time*90*3-180)",
-									"z": 0
+									"z": "0"
 								}
 							],
 							"uuid": "ca1bebea-7400-9636-35aa-cc361567031f",
@@ -2221,7 +2257,7 @@
 								{
 									"x": "-0.3+0.1*math.sin(q.anim_time*90*1)",
 									"y": "-0.3+0.1*math.sin(q.anim_time*90*3)",
-									"z": 0
+									"z": "0"
 								}
 							],
 							"uuid": "af4632a0-7a0a-595b-a1e8-9623d884e56d",
@@ -2241,8 +2277,8 @@
 							"channel": "rotation",
 							"data_points": [
 								{
-									"x": 0,
-									"y": 0,
+									"x": "0",
+									"y": "0",
 									"z": "math.sin(q.anim_time*90*1-220)*1"
 								}
 							],

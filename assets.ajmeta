@@ -2,7 +2,6 @@
 	"abra": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/abra/torso1.json",
 			"assets/animated_java/items/blueprint/abra/tail1.json",
 			"assets/animated_java/items/blueprint/abra/tail5.json",
@@ -185,7 +184,6 @@
 	"boo": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/boo/eyes.json",
 			"assets/animated_java/items/blueprint/boo/body.json",
 			"assets/animated_java/items/blueprint/boo/tongue.json",
@@ -205,7 +203,6 @@
 	"diglett": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/diglett/ground1.json",
 			"assets/animated_java/items/blueprint/diglett/body1.json",
 			"assets/animated_java/items/blueprint/diglett/body3.json",
@@ -241,7 +238,6 @@
 	"dugtrio": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/dugtrio/ground4.json",
 			"assets/animated_java/items/blueprint/dugtrio/body5.json",
 			"assets/animated_java/items/blueprint/dugtrio/body1_3.json",
@@ -334,7 +330,6 @@
 	"fgii_graham": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/fgii_graham/body.json",
 			"assets/animated_java/items/blueprint/fgii_graham/propeller.json",
 			"assets/animated_java/models/blueprint/fgii_graham/body.json",
@@ -344,7 +339,6 @@
 	"gastly": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/gastly/torso1.json",
 			"assets/animated_java/items/blueprint/gastly/closed_mouth1.json",
 			"assets/animated_java/items/blueprint/gastly/closed_mouth_left1.json",
@@ -422,7 +416,6 @@
 	"geodude": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/geodude/torso1.json",
 			"assets/animated_java/items/blueprint/geodude/eye_right1.json",
 			"assets/animated_java/items/blueprint/geodude/eyelid_right1.json",
@@ -524,7 +517,6 @@
 	"gyarados": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/gyarados/neck6.json",
 			"assets/animated_java/items/blueprint/gyarados/neck7.json",
 			"assets/animated_java/items/blueprint/gyarados/neck8.json",
@@ -797,7 +789,6 @@
 	"lapras": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/lapras/torso.json",
 			"assets/animated_java/items/blueprint/lapras/shell.json",
 			"assets/animated_java/items/blueprint/lapras/shell2.json",
@@ -923,7 +914,6 @@
 	"magnemite": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/magnemite/body1.json",
 			"assets/animated_java/items/blueprint/magnemite/eye1.json",
 			"assets/animated_java/items/blueprint/magnemite/pupil1.json",
@@ -956,7 +946,6 @@
 	"metapod": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/metapod/body1.json",
 			"assets/animated_java/items/blueprint/metapod/body_segment1.json",
 			"assets/animated_java/items/blueprint/metapod/body_segment3.json",
@@ -983,7 +972,6 @@
 	"slowpoke": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/slowpoke/torso1.json",
 			"assets/animated_java/items/blueprint/slowpoke/tail1.json",
 			"assets/animated_java/items/blueprint/slowpoke/tail5.json",
@@ -1040,7 +1028,6 @@
 	"snorlax": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/snorlax/belly1.json",
 			"assets/animated_java/items/blueprint/snorlax/belly3.json",
 			"assets/animated_java/items/blueprint/snorlax/neck1.json",
@@ -1175,7 +1162,6 @@
 	"sudowoodo": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/sudowoodo/torso1.json",
 			"assets/animated_java/items/blueprint/sudowoodo/torso3.json",
 			"assets/animated_java/items/blueprint/sudowoodo/head1.json",
@@ -1280,7 +1266,6 @@
 	"tornado": {
 		"files": [
 			"assets/animated_java/models/empty.json",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/tornado/base.json",
 			"assets/animated_java/items/blueprint/tornado/middle.json",
 			"assets/animated_java/items/blueprint/tornado/top.json",
