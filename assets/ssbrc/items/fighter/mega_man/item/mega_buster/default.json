@@ -1,7 +1,20 @@
 {
 	"model": {
-		"type": "minecraft:model",
-		"model": "ssbrc:fighter/mega_man/item/mega_buster/default"
+		"type": "minecraft:select",
+		"property": "minecraft:display_context",
+		"cases": [
+			{
+				"when": "gui",
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/mega_man/misc/mega_buster/default"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/mega_man/item/mega_buster/default"
+		}
 	},
 	"hand_animation_on_swap": false
 }

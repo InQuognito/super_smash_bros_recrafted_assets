@@ -7,7 +7,7 @@
 				"when": "gui",
 				"model": {
 					"type": "minecraft:model",
-					"model": "ssbrc:fighter/mega_man/misc/pile_driver/default"
+					"model": "ssbrc:fighter/mega_man/misc/pile_driver/star_force"
 				}
 			},
 			{
