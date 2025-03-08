@@ -529,12 +529,12 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -10, 0],
-			"translation": [1, 12, 1],
+			"translation": [1, 0, 1],
 			"scale": [4, 4, 3]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, -10, 0],
-			"translation": [1, 12, 1],
+			"translation": [1, 0, 1],
 			"scale": [4, 4, 3]
 		},
 		"gui": {
