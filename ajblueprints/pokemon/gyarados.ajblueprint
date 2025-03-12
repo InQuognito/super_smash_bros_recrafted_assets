@@ -48,8 +48,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-10.94312, 13.62141, -7.66807],
-			"to": [10.94313, 30.82016, 14.21818],
+			"from": [-12.58609, 14.08782, -9.31104],
+			"to": [12.5861, 33.86938, 15.86115],
 			"autouv": 0,
 			"color": 2,
 			"inflate": 0.01,
@@ -92,8 +92,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-10.96562, 27.66141, -7.69057],
-			"to": [10.96563, 44.90516, 14.24068],
+			"from": [-12.61796, 30.22782, -9.34291],
+			"to": [12.61797, 50.07313, 15.89302],
 			"autouv": 0,
 			"color": 3,
 			"inflate": 0.05,
@@ -136,8 +136,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-10.99375, 41.69578, -7.71869],
-			"to": [10.99375, 58.99578, 14.26881],
+			"from": [-12.65781, 46.35984, -9.38275],
+			"to": [12.65781, 66.28484, 15.93287],
 			"autouv": 0,
 			"color": 4,
 			"inflate": 0.1,
@@ -180,8 +180,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-11.02187, 57.29266, -7.74682],
-			"to": [11.02188, 80.89891, 14.29693],
+			"from": [-12.69765, 64.28875, -9.4226],
+			"to": [12.69766, 91.48094, 15.97271],
 			"autouv": 0,
 			"color": 5,
 			"inflate": 0.15,
@@ -224,8 +224,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [0, 51.12703, 12.65006],
-			"to": [0, 83.93953, 37.65006],
+			"from": [0, 57.22078, 14.05631],
+			"to": [0, 94.95516, 42.80631],
 			"autouv": 0,
 			"color": 6,
 			"origin": [0, 10.50203, 3.27506],
@@ -267,8 +267,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-11.71875, 76.12703, -13.91244],
-			"to": [11.71875, 94.87703, 17.33756],
+			"from": [-13.47656, 85.97078, -16.49056],
+			"to": [13.47656, 107.53328, 19.44694],
 			"autouv": 0,
 			"color": 7,
 			"origin": [0, 10.50203, 3.27506],
@@ -309,8 +309,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [0, 87.06453, -9.22494],
-			"to": [0, 118.31453, 22.02506],
+			"from": [0, 98.54891, -11.09994],
+			"to": [0, 134.4864, 24.83756],
 			"autouv": 0,
 			"color": 8,
 			"origin": [0, 10.50203, 3.27506],
@@ -352,8 +352,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-17.19312, 81.98078, -4.15244],
-			"to": [-7.80688, 83.55453, 16.17131],
+			"from": [-19.77359, 92.70109, -5.26806],
+			"to": [-8.97641, 94.51391, 18.10725],
 			"autouv": 0,
 			"color": 9,
 			"inflate": 0.01,
@@ -396,8 +396,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-23.4375, 82.37703, -10.39682],
-			"to": [-6.25, 82.37703, 23.97818],
+			"from": [-26.95312, 93.15828, -12.4476],
+			"to": [-7.1875, 93.15828, 27.08365],
 			"autouv": 0,
 			"color": 9,
 			"origin": [0, 10.50203, 3.27506],
@@ -439,8 +439,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [7.80688, 81.98078, -4.15244],
-			"to": [17.19312, 83.55453, 16.17131],
+			"from": [8.97641, 92.70109, -5.26806],
+			"to": [19.77359, 94.51391, 18.10725],
 			"autouv": 0,
 			"color": 0,
 			"inflate": 0.01,
@@ -483,8 +483,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [6.25, 82.37703, -10.39682],
-			"to": [23.4375, 82.37703, 23.97818],
+			"from": [7.1875, 93.15828, -12.4476],
+			"to": [26.95312, 93.15828, 27.08365],
 			"autouv": 0,
 			"color": 0,
 			"origin": [0, 10.50203, 3.27506],
@@ -526,8 +526,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-9.375, 74.56453, -27.97494],
-			"to": [9.375, 96.43953, -9.22494],
+			"from": [-10.78125, 84.17391, -32.66244],
+			"to": [10.78125, 109.33015, -11.09994],
 			"autouv": 0,
 			"color": 1,
 			"origin": [0, 10.50203, 3.27506],
@@ -569,8 +569,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [9.21313, 79.24641, -27.19932],
-			"to": [9.22438, 80.82016, -24.06307],
+			"from": [10.5936, 89.55657, -31.77198],
+			"to": [10.60954, 91.36938, -28.16229],
 			"autouv": 0,
 			"color": 3,
 			"inflate": 0.01,
@@ -613,8 +613,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-9.22437, 79.24641, -27.19932],
-			"to": [-9.21312, 80.82016, -24.06307],
+			"from": [-10.60953, 89.55657, -31.77198],
+			"to": [-10.59359, 91.36938, -28.16229],
 			"autouv": 0,
 			"color": 4,
 			"inflate": 0.01,
@@ -657,11 +657,11 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-15.625, 87.06453, -20.16244],
-			"to": [-9.375, 93.31453, -20.16244],
+			"from": [-17.96875, 98.54891, -23.67806],
+			"to": [-10.78125, 105.7364, -23.67806],
 			"autouv": 0,
 			"color": 6,
-			"origin": [-9.375, 90.18953, -20.16244],
+			"origin": [-10.78125, 102.14266, -23.67806],
 			"uv_offset": [12, 0],
 			"faces": {
 				"north": {
@@ -700,12 +700,12 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-13.28125, 80.42391, -21.72494],
-			"to": [-8.59375, 86.67391, -21.72494],
+			"from": [-15.27344, 90.91219, -25.47494],
+			"to": [-9.88281, 98.09969, -25.47494],
 			"autouv": 0,
 			"color": 6,
 			"rotation": [0, 22.5, 0],
-			"origin": [-9.375, 85.50203, -21.72494],
+			"origin": [-10.78125, 96.75203, -25.47494],
 			"uv_offset": [50, 16],
 			"faces": {
 				"north": {
@@ -744,11 +744,11 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-12.10937, 74.95516, -22.50619],
-			"to": [-8.98437, 79.64266, -22.50619],
+			"from": [-13.92578, 84.62313, -26.37338],
+			"to": [-10.33203, 90.01375, -26.37338],
 			"autouv": 0,
 			"color": 6,
-			"origin": [-9.375, 77.68953, -22.50619],
+			"origin": [-10.78125, 87.76766, -26.37338],
 			"faces": {
 				"north": {
 					"uv": [0, 0, 2, 3],
@@ -786,11 +786,11 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [9.375, 87.06453, -20.16244],
-			"to": [15.625, 93.31453, -20.16244],
+			"from": [10.78125, 98.54891, -23.67806],
+			"to": [17.96875, 105.7364, -23.67806],
 			"autouv": 0,
 			"color": 7,
-			"origin": [9.375, 90.18953, -20.16244],
+			"origin": [10.78125, 102.14266, -23.67806],
 			"uv_offset": [12, 44],
 			"faces": {
 				"north": {
@@ -829,12 +829,12 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [8.59375, 80.42391, -21.72494],
-			"to": [13.28125, 86.67391, -21.72494],
+			"from": [9.88281, 90.91219, -25.47494],
+			"to": [15.27344, 98.09969, -25.47494],
 			"autouv": 0,
 			"color": 7,
 			"rotation": [0, -22.5, 0],
-			"origin": [9.375, 85.50203, -21.72494],
+			"origin": [10.78125, 96.75203, -25.47494],
 			"uv_offset": [56, 16],
 			"faces": {
 				"north": {
@@ -873,11 +873,11 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [8.98438, 74.95516, -22.50619],
-			"to": [12.10938, 79.64266, -22.50619],
+			"from": [10.33204, 84.62313, -26.37338],
+			"to": [13.92579, 90.01375, -26.37338],
 			"autouv": 0,
 			"color": 7,
-			"origin": [9.375, 77.68953, -22.50619],
+			"origin": [10.78125, 87.76766, -26.37338],
 			"uv_offset": [18, 39],
 			"faces": {
 				"north": {
@@ -916,8 +916,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-29.6875, 71.83016, -18.99057],
-			"to": [-9.375, 93.70516, -18.99057],
+			"from": [-34.14062, 81.02938, -22.33041],
+			"to": [-10.78125, 106.18563, -22.33041],
 			"autouv": 0,
 			"color": 9,
 			"origin": [0, 10.50203, 3.27506],
@@ -959,8 +959,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [9.375, 71.83016, -18.99057],
-			"to": [29.6875, 93.70516, -18.99057],
+			"from": [10.78125, 81.02938, -22.33041],
+			"to": [34.14063, 106.18563, -22.33041],
 			"autouv": 0,
 			"color": 0,
 			"origin": [0, 10.50203, 3.27506],
@@ -1002,8 +1002,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [7.8125, 74.56453, -23.28744],
-			"to": [15.625, 76.12703, -23.28744],
+			"from": [8.98438, 84.17391, -27.27181],
+			"to": [17.96875, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 2,
 			"origin": [0, 10.50203, 3.27506],
@@ -1045,8 +1045,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [15.625, 74.56453, -23.28744],
-			"to": [21.875, 76.12703, -23.28744],
+			"from": [17.96875, 84.17391, -27.27181],
+			"to": [25.15625, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 3,
 			"origin": [0, 10.50203, 3.27506],
@@ -1088,8 +1088,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [21.875, 74.56453, -23.28744],
-			"to": [28.125, 76.12703, -23.28744],
+			"from": [25.15625, 84.17391, -27.27181],
+			"to": [32.34375, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 4,
 			"origin": [0, 10.50203, 3.27506],
@@ -1131,8 +1131,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [28.125, 74.56453, -23.28744],
-			"to": [34.375, 76.12703, -23.28744],
+			"from": [32.34375, 84.17391, -27.27181],
+			"to": [39.53125, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 5,
 			"origin": [0, 10.50203, 3.27506],
@@ -1174,8 +1174,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [34.375, 74.56453, -23.28744],
-			"to": [39.0625, 76.12703, -23.28744],
+			"from": [39.53125, 84.17391, -27.27181],
+			"to": [44.92188, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 6,
 			"origin": [0, 10.50203, 3.27506],
@@ -1217,8 +1217,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [39.0625, 74.56453, -23.28744],
-			"to": [43.75, 76.12703, -23.28744],
+			"from": [44.92188, 84.17391, -27.27181],
+			"to": [50.3125, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 7,
 			"origin": [0, 10.50203, 3.27506],
@@ -1260,8 +1260,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [43.75, 74.56453, -23.28744],
-			"to": [48.4375, 76.12703, -23.28744],
+			"from": [50.3125, 84.17391, -27.27181],
+			"to": [55.70312, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 8,
 			"origin": [0, 10.50203, 3.27506],
@@ -1303,8 +1303,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [48.4375, 74.56453, -23.28744],
-			"to": [51.5625, 76.12703, -23.28744],
+			"from": [55.70312, 84.17391, -27.27181],
+			"to": [59.29687, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 9,
 			"origin": [0, 10.50203, 3.27506],
@@ -1346,8 +1346,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-15.625, 74.56453, -23.28744],
-			"to": [-7.8125, 76.12703, -23.28744],
+			"from": [-17.96875, 84.17391, -27.27181],
+			"to": [-8.98437, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 0,
 			"origin": [0, 10.50203, 3.27506],
@@ -1389,8 +1389,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-21.875, 74.56453, -23.28744],
-			"to": [-15.625, 76.12703, -23.28744],
+			"from": [-25.15625, 84.17391, -27.27181],
+			"to": [-17.96875, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 1,
 			"origin": [0, 10.50203, 3.27506],
@@ -1432,8 +1432,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-28.125, 74.56453, -23.28744],
-			"to": [-21.875, 76.12703, -23.28744],
+			"from": [-32.34375, 84.17391, -27.27181],
+			"to": [-25.15625, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 2,
 			"origin": [0, 10.50203, 3.27506],
@@ -1475,8 +1475,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-34.375, 74.56453, -23.28744],
-			"to": [-28.125, 76.12703, -23.28744],
+			"from": [-39.53125, 84.17391, -27.27181],
+			"to": [-32.34375, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 3,
 			"origin": [0, 10.50203, 3.27506],
@@ -1518,8 +1518,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-39.0625, 74.56453, -23.28744],
-			"to": [-34.375, 76.12703, -23.28744],
+			"from": [-44.92187, 84.17391, -27.27181],
+			"to": [-39.53125, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 4,
 			"origin": [0, 10.50203, 3.27506],
@@ -1561,8 +1561,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-43.75, 74.56453, -23.28744],
-			"to": [-39.0625, 76.12703, -23.28744],
+			"from": [-50.3125, 84.17391, -27.27181],
+			"to": [-44.92187, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 5,
 			"origin": [0, 10.50203, 3.27506],
@@ -1604,8 +1604,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-48.4375, 74.56453, -23.28744],
-			"to": [-43.75, 76.12703, -23.28744],
+			"from": [-55.70312, 84.17391, -27.27181],
+			"to": [-50.3125, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 6,
 			"origin": [0, 10.50203, 3.27506],
@@ -1647,8 +1647,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-51.5625, 74.56453, -23.28744],
-			"to": [-48.4375, 76.12703, -23.28744],
+			"from": [-59.29687, 84.17391, -27.27181],
+			"to": [-55.70312, 85.97078, -27.27181],
 			"autouv": 0,
 			"color": 7,
 			"origin": [0, 10.50203, 3.27506],
@@ -1690,8 +1690,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-7.03687, 80.80891, -35.79307],
-			"to": [7.03687, 85.50766, -26.40682],
+			"from": [-8.0939, 91.35344, -41.65479],
+			"to": [8.0939, 96.76, -30.8576],
 			"autouv": 0,
 			"color": 9,
 			"inflate": 0.01,
@@ -1734,8 +1734,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-5.07812, 78.31453, -36.56869],
-			"to": [-5.07812, 81.43953, -35.00619],
+			"from": [-5.83984, 88.48641, -42.54525],
+			"to": [-5.83984, 92.08016, -40.74838],
 			"autouv": 0,
 			"color": 0,
 			"origin": [0, 10.50203, 3.27506],
@@ -1777,8 +1777,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [5.07813, 78.31453, -36.56869],
-			"to": [5.07813, 81.43953, -35.00619],
+			"from": [5.83985, 88.48641, -42.54525],
+			"to": [5.83985, 92.08016, -40.74838],
 			"autouv": 0,
 			"color": 1,
 			"origin": [0, 10.50203, 3.27506],
@@ -1820,8 +1820,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-7.0875, 80.75828, -36.62494],
-			"to": [7.0875, 82.43328, -22.44994],
+			"from": [-8.16562, 91.28172, -42.62494],
+			"to": [8.16563, 93.23797, -26.29369],
 			"autouv": 0,
 			"color": 2,
 			"inflate": 0.1,
@@ -1864,8 +1864,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [7.03125, 82.37703, -33.44369],
-			"to": [7.03125, 93.31453, -24.06869],
+			"from": [8.08594, 93.15828, -38.9515],
+			"to": [8.08594, 105.7364, -28.17025],
 			"autouv": 0,
 			"color": 2,
 			"origin": [0, 10.50203, 3.27506],
@@ -1907,8 +1907,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-7.03125, 82.37703, -33.44369],
-			"to": [-7.03125, 93.31453, -24.06869],
+			"from": [-8.08594, 93.15828, -38.9515],
+			"to": [-8.08594, 105.7364, -28.17025],
 			"autouv": 0,
 			"color": 2,
 			"origin": [0, 10.50203, 3.27506],
@@ -1950,8 +1950,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-7.03687, 74.55891, -28.76182],
-			"to": [7.03687, 82.38266, -16.25057],
+			"from": [-8.0939, 84.16594, -33.56885],
+			"to": [8.0939, 93.16625, -19.17791],
 			"autouv": 0,
 			"color": 3,
 			"inflate": 0.01,
@@ -1994,8 +1994,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-7.03125, 74.56453, -41.25619],
-			"to": [7.03125, 77.68953, -28.75619],
+			"from": [-8.08594, 84.17391, -47.93588],
+			"to": [8.08594, 87.76766, -33.56088],
 			"autouv": 0,
 			"color": 4,
 			"origin": [0, 10.50203, 3.27506],
@@ -2037,8 +2037,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [5.07813, 77.53328, -41.25619],
-			"to": [5.07813, 80.65828, -39.69369],
+			"from": [5.83985, 87.58797, -47.93588],
+			"to": [5.83985, 91.18172, -46.139],
 			"autouv": 0,
 			"color": 5,
 			"origin": [0, 10.50203, 3.27506],
@@ -2080,8 +2080,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-5.07812, 77.53328, -41.25619],
-			"to": [-5.07812, 80.65828, -39.69369],
+			"from": [-5.83984, 87.58797, -47.93588],
+			"to": [-5.83984, 91.18172, -46.139],
 			"autouv": 0,
 			"color": 6,
 			"origin": [0, 10.50203, 3.27506],
@@ -2123,8 +2123,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-7.11562, 76.04266, -41.73119],
-			"to": [7.11563, 77.77391, -29.06244],
+			"from": [-8.20546, 85.85125, -48.50463],
+			"to": [8.20547, 87.88719, -33.89056],
 			"autouv": 0,
 			"color": 7,
 			"inflate": 0.15,
@@ -2167,8 +2167,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-7.02563, 73.00766, -36.17244],
-			"to": [-7.03687, 77.68391, -26.80869],
+			"from": [-8.07797, 82.385, -42.08806],
+			"to": [-8.0939, 87.75969, -31.32275],
 			"autouv": 0,
 			"color": 7,
 			"inflate": -0.01,
@@ -2211,8 +2211,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [7.03687, 73.00766, -36.17244],
-			"to": [7.02563, 77.68391, -26.80869],
+			"from": [8.0939, 82.385, -42.08806],
+			"to": [8.07797, 87.75969, -31.32275],
 			"autouv": 0,
 			"color": 7,
 			"inflate": -0.01,
@@ -2255,8 +2255,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-4.77187, 77.60516, -38.60619],
-			"to": [4.77187, 79.33641, -29.06244],
+			"from": [-5.51015, 87.64813, -44.91088],
+			"to": [5.51015, 89.68407, -33.89056],
 			"autouv": 0,
 			"color": 8,
 			"inflate": 0.15,
@@ -2299,8 +2299,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [1.55688, 84.71516, -27.98057],
-			"to": [9.38063, 89.41391, -24.84432],
+			"from": [1.78891, 95.84563, -32.67041],
+			"to": [10.78922, 101.25219, -29.06073],
 			"autouv": 0,
 			"color": 0,
 			"inflate": 0.01,
@@ -2343,8 +2343,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [7.63938, 84.70391, -27.83557],
-			"to": [9.23563, 86.30016, -26.23932],
+			"from": [8.78079, 95.82969, -32.50666],
+			"to": [10.62547, 97.67438, -30.66198],
 			"autouv": 0,
 			"color": 1,
 			"inflate": 0.03,
@@ -2387,8 +2387,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [4.28562, 84.70953, -27.98619],
-			"to": [7.43313, 89.41953, -27.96369],
+			"from": [4.92546, 95.83766, -32.67838],
+			"to": [8.5511, 101.26015, -32.6465],
 			"autouv": 0,
 			"color": 2,
 			"inflate": 0.02,
@@ -2431,8 +2431,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [5.06406, 85.48797, -27.98901],
-			"to": [6.65469, 88.64109, -27.96088],
+			"from": [5.81992, 96.73211, -32.68237],
+			"to": [7.65664, 100.3657, -32.64252],
 			"autouv": 0,
 			"color": 2,
 			"inflate": 0.025,
@@ -2475,8 +2475,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [4.28562, 84.70953, -27.82994],
-			"to": [7.43313, 89.41953, -27.80744],
+			"from": [4.92546, 95.83766, -32.49869],
+			"to": [8.5511, 101.26015, -32.46681],
 			"autouv": 0,
 			"color": 3,
 			"inflate": 0.02,
@@ -2519,8 +2519,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [5.06406, 85.48797, -27.83276],
-			"to": [6.65469, 88.64109, -27.80463],
+			"from": [5.81992, 96.73211, -32.50268],
+			"to": [7.65664, 100.3657, -32.46283],
 			"autouv": 0,
 			"color": 3,
 			"inflate": 0.025,
@@ -2563,8 +2563,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [5.4575, 86.27203, -27.82994],
-			"to": [7.0425, 87.85703, -27.80744],
+			"from": [6.27312, 97.63453, -32.49869],
+			"to": [8.10188, 99.46328, -32.46681],
 			"autouv": 0,
 			"color": 4,
 			"inflate": 0.02,
@@ -2607,8 +2607,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [3.895, 85.49078, -27.82994],
-			"to": [8.605, 87.07578, -27.80744],
+			"from": [4.47625, 96.73609, -32.49869],
+			"to": [9.89875, 98.56484, -32.46681],
 			"autouv": 0,
 			"color": 4,
 			"inflate": 0.02,
@@ -2651,8 +2651,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [1.38938, 84.70391, -27.83557],
-			"to": [9.23563, 89.42516, -24.67682],
+			"from": [1.59329, 95.82969, -32.50666],
+			"to": [10.62547, 101.26813, -28.8651],
 			"autouv": 0,
 			"color": 5,
 			"inflate": 0.03,
@@ -2695,8 +2695,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [7.63938, 87.82891, -27.83557],
-			"to": [9.23563, 89.42516, -26.23932],
+			"from": [8.78079, 99.42344, -32.50666],
+			"to": [10.62547, 101.26813, -30.66198],
 			"autouv": 0,
 			"color": 7,
 			"inflate": 0.03,
@@ -2739,8 +2739,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [4.51438, 87.82891, -27.83557],
-			"to": [7.67313, 90.98766, -27.80182],
+			"from": [5.18704, 99.42344, -32.50666],
+			"to": [8.8286, 103.065, -32.45885],
 			"autouv": 0,
 			"color": 8,
 			"inflate": 0.03,
@@ -2783,8 +2783,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [1.38938, 87.82891, -27.83557],
-			"to": [4.54813, 89.42516, -27.80182],
+			"from": [1.59329, 99.42344, -32.50666],
+			"to": [5.23485, 101.26813, -32.45885],
 			"autouv": 0,
 			"color": 9,
 			"inflate": 0.03,
@@ -2827,8 +2827,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-9.38062, 84.71516, -27.98057],
-			"to": [-1.55687, 89.41391, -24.84432],
+			"from": [-10.78921, 95.84563, -32.67041],
+			"to": [-1.7889, 101.25219, -29.06073],
 			"autouv": 0,
 			"color": 0,
 			"inflate": 0.01,
@@ -2871,8 +2871,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-9.23563, 84.70391, -27.83557],
-			"to": [-7.63937, 86.30016, -26.23932],
+			"from": [-10.62547, 95.82969, -32.50666],
+			"to": [-8.78078, 97.67438, -30.66198],
 			"autouv": 0,
 			"color": 1,
 			"inflate": 0.03,
@@ -2915,8 +2915,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-7.43312, 84.70953, -27.82994],
-			"to": [-4.28562, 89.41953, -27.80744],
+			"from": [-8.55109, 95.83766, -32.49869],
+			"to": [-4.92546, 101.26015, -32.46681],
 			"autouv": 0,
 			"color": 2,
 			"inflate": 0.02,
@@ -2959,8 +2959,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-6.65469, 85.48797, -27.83276],
-			"to": [-5.06406, 88.64109, -27.80463],
+			"from": [-7.65664, 96.73211, -32.50268],
+			"to": [-5.81992, 100.3657, -32.46283],
 			"autouv": 0,
 			"color": 2,
 			"inflate": 0.025,
@@ -3003,8 +3003,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-7.43312, 84.70953, -27.98619],
-			"to": [-4.28562, 89.41953, -27.96369],
+			"from": [-8.55109, 95.83766, -32.67838],
+			"to": [-4.92546, 101.26015, -32.6465],
 			"autouv": 0,
 			"color": 3,
 			"inflate": 0.02,
@@ -3047,8 +3047,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-6.65469, 85.48797, -27.98901],
-			"to": [-5.06406, 88.64109, -27.96088],
+			"from": [-7.65664, 96.73211, -32.68237],
+			"to": [-5.81992, 100.3657, -32.64252],
 			"autouv": 0,
 			"color": 3,
 			"inflate": 0.025,
@@ -3091,8 +3091,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-9.23563, 84.70391, -27.83557],
-			"to": [-1.38937, 89.42516, -24.67682],
+			"from": [-10.62547, 95.82969, -32.50666],
+			"to": [-1.59328, 101.26813, -28.8651],
 			"autouv": 0,
 			"color": 4,
 			"inflate": 0.03,
@@ -3135,8 +3135,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-7.0425, 86.27203, -27.82994],
-			"to": [-5.4575, 87.85703, -27.80744],
+			"from": [-8.10187, 97.63453, -32.49869],
+			"to": [-6.27312, 99.46328, -32.46681],
 			"autouv": 0,
 			"color": 5,
 			"inflate": 0.02,
@@ -3179,8 +3179,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-8.605, 85.49078, -27.82994],
-			"to": [-3.895, 87.07578, -27.80744],
+			"from": [-9.89875, 96.73609, -32.49869],
+			"to": [-4.47625, 98.56484, -32.46681],
 			"autouv": 0,
 			"color": 5,
 			"inflate": 0.02,
@@ -3223,8 +3223,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-9.23563, 87.82891, -27.83557],
-			"to": [-7.63937, 89.42516, -26.23932],
+			"from": [-10.62547, 99.42344, -32.50666],
+			"to": [-8.78078, 101.26813, -30.66198],
 			"autouv": 0,
 			"color": 7,
 			"mirror_uv": true,
@@ -3268,8 +3268,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-7.67313, 87.82891, -27.83557],
-			"to": [-4.51437, 90.98766, -27.80182],
+			"from": [-8.8286, 99.42344, -32.50666],
+			"to": [-5.18703, 103.065, -32.45885],
 			"autouv": 0,
 			"color": 8,
 			"mirror_uv": true,
@@ -3313,8 +3313,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-4.54812, 87.82891, -27.83557],
-			"to": [-1.38937, 89.42516, -27.80182],
+			"from": [-5.23484, 99.42344, -32.50666],
+			"to": [-1.59328, 101.26813, -32.45885],
 			"autouv": 0,
 			"color": 9,
 			"mirror_uv": true,
@@ -3358,8 +3358,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-2.34938, 84.32453, -32.66807],
-			"to": [2.34938, 90.58578, -26.40682],
+			"from": [-2.70329, 95.3964, -38.06104],
+			"to": [2.70329, 102.59984, -30.8576],
 			"autouv": 0,
 			"color": 1,
 			"inflate": 0.01,
@@ -3402,8 +3402,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-2.34375, 89.01766, -31.49057],
-			"to": [2.34375, 96.83016, -28.36557],
+			"from": [-2.69531, 100.795, -36.70541],
+			"to": [2.69531, 109.77938, -33.11166],
 			"autouv": 0,
 			"color": 2,
 			"origin": [0, 10.50203, 3.27506],
@@ -3445,8 +3445,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-1.5625, 96.83016, -30.31869],
-			"to": [1.5625, 106.20516, -28.75619],
+			"from": [-1.79687, 109.77938, -35.35775],
+			"to": [1.79687, 120.56063, -33.56088],
 			"autouv": 0,
 			"color": 3,
 			"origin": [0, 10.50203, 3.27506],
@@ -3488,8 +3488,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-0.78125, 106.20516, -30.31869],
-			"to": [0.78125, 115.58016, -28.75619],
+			"from": [-0.89844, 120.56063, -35.35775],
+			"to": [0.89844, 131.34188, -33.56088],
 			"autouv": 0,
 			"color": 4,
 			"origin": [0, 10.50203, 3.27506],
@@ -3531,8 +3531,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-0.78687, 87.05891, -31.10557],
-			"to": [3.91188, 96.44516, -27.96932],
+			"from": [-0.9064, 98.54094, -36.26416],
+			"to": [4.50016, 109.33813, -32.65448],
 			"autouv": 0,
 			"color": 5,
 			"inflate": 0.01,
@@ -3575,8 +3575,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [0, 96.43953, -30.31869],
-			"to": [3.125, 104.25203, -28.75619],
+			"from": [0, 109.33015, -35.35775],
+			"to": [3.59375, 118.31453, -33.56088],
 			"autouv": 0,
 			"color": 6,
 			"origin": [0, 10.50203, 3.27506],
@@ -3618,8 +3618,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [0.78125, 104.25203, -30.31869],
-			"to": [2.34375, 113.62703, -28.75619],
+			"from": [0.89844, 118.31453, -35.35775],
+			"to": [2.69531, 129.09578, -33.56088],
 			"autouv": 0,
 			"color": 7,
 			"origin": [0, 10.50203, 3.27506],
@@ -3661,8 +3661,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-3.91187, 87.05891, -31.10557],
-			"to": [0.78688, 96.44516, -27.96932],
+			"from": [-4.50015, 98.54094, -36.26416],
+			"to": [0.90641, 109.33813, -32.65448],
 			"autouv": 0,
 			"color": 8,
 			"inflate": 0.01,
@@ -3705,8 +3705,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-3.125, 96.43953, -30.31869],
-			"to": [0, 104.25203, -28.75619],
+			"from": [-3.59375, 109.33015, -35.35775],
+			"to": [0, 118.31453, -33.56088],
 			"autouv": 0,
 			"color": 9,
 			"origin": [0, 10.50203, 3.27506],
@@ -3748,8 +3748,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-2.34375, 104.25203, -30.31869],
-			"to": [-0.78125, 113.62703, -28.75619],
+			"from": [-2.69531, 118.31453, -35.35775],
+			"to": [-0.89844, 129.09578, -33.56088],
 			"autouv": 0,
 			"color": 0,
 			"origin": [0, 10.50203, 3.27506],
@@ -3791,8 +3791,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-10.9375, -5.12297, -7.66244],
-			"to": [10.9375, 15.18953, 14.21256],
+			"from": [-12.57812, -7.46672, -9.30306],
+			"to": [12.57812, 15.89266, 15.85318],
 			"autouv": 0,
 			"color": 1,
 			"origin": [0, 10.50203, 3.27506],
@@ -3834,8 +3834,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-10.90937, -22.28234, -7.63432],
-			"to": [10.90938, 2.66141, 14.18443],
+			"from": [-12.53828, -27.1925, -9.26323],
+			"to": [12.53829, 1.47782, 15.81334],
 			"autouv": 0,
 			"color": 2,
 			"inflate": -0.05,
@@ -3878,8 +3878,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-10.88125, -42.56672, -7.60619],
-			"to": [10.88125, -19.24172, 14.15631],
+			"from": [-12.49844, -50.51203, -9.22338],
+			"to": [12.49844, -23.71828, 15.7735],
 			"autouv": 0,
 			"color": 3,
 			"inflate": -0.1,
@@ -3922,8 +3922,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-10.85312, -56.60109, -7.57807],
-			"to": [10.85313, -38.01984, 14.12818],
+			"from": [-12.45859, -66.64406, -9.18354],
+			"to": [12.4586, -45.32062, 15.73365],
 			"autouv": 0,
 			"color": 4,
 			"inflate": -0.15,
@@ -3966,8 +3966,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [0, -57.46672, 13.43131],
-			"to": [0, -30.90422, 38.43131],
+			"from": [0, -67.66203, 14.95475],
+			"to": [0, -37.11516, 43.70475],
 			"autouv": 0,
 			"color": 5,
 			"origin": [0, 10.50203, 3.27506],
@@ -4009,8 +4009,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-9.375, -72.31047, -5.70932],
-			"to": [9.375, -50.43547, 13.04068],
+			"from": [-10.78125, -84.73234, -7.05698],
+			"to": [10.78125, -59.57609, 14.50552],
 			"autouv": 0,
 			"color": 6,
 			"origin": [0, 10.50203, 3.27506],
@@ -4052,8 +4052,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-7.8125, -87.93547, -4.14682],
-			"to": [7.8125, -69.18547, 11.47818],
+			"from": [-8.98437, -102.70109, -5.2601],
+			"to": [8.98438, -81.13859, 12.70865],
 			"autouv": 0,
 			"color": 7,
 			"origin": [0, 10.50203, 3.27506],
@@ -4095,8 +4095,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [0, -93.40422, 9.52506],
-			"to": [0, -74.65422, 23.58756],
+			"from": [0, -108.99016, 10.46256],
+			"to": [0, -87.42766, 26.63443],
 			"autouv": 0,
 			"color": 8,
 			"origin": [0, 10.50203, 3.27506],
@@ -4138,8 +4138,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-6.25, -101.99797, -2.58432],
-			"to": [6.25, -84.81047, 9.91568],
+			"from": [-7.1875, -118.87297, -3.46323],
+			"to": [7.1875, -99.10734, 10.91177],
 			"autouv": 0,
 			"color": 9,
 			"origin": [0, 10.50203, 3.27506],
@@ -4181,8 +4181,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-4.6875, -111.37297, -1.02182],
-			"to": [4.6875, -98.87297, 8.35318],
+			"from": [-5.39062, -129.65422, -1.66635],
+			"to": [5.39063, -115.27922, 9.1149],
 			"autouv": 0,
 			"color": 0,
 			"origin": [0, 10.50203, 3.27506],
@@ -4224,8 +4224,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-3.125, -122.31047, 0.54068],
-			"to": [3.125, -109.81047, 6.79068],
+			"from": [-3.59375, -142.23235, 0.13052],
+			"to": [3.59375, -127.85734, 7.31802],
 			"autouv": 0,
 			"color": 1,
 			"origin": [0, 10.50203, 3.27506],
@@ -4266,8 +4266,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-10.9375, -125.43547, 3.66568],
-			"to": [10.9375, -112.93547, 3.66568],
+			"from": [-12.57812, -145.8261, 3.72427],
+			"to": [12.57812, -131.4511, 3.72427],
 			"autouv": 0,
 			"color": 2,
 			"origin": [0, 10.50203, 3.27506],
@@ -4309,8 +4309,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-14.84375, -137.93547, 3.66568],
-			"to": [14.84375, -125.43547, 3.66568],
+			"from": [-17.07031, -160.2011, 3.72427],
+			"to": [17.07031, -145.8261, 3.72427],
 			"autouv": 0,
 			"color": 3,
 			"origin": [0, 10.50203, 3.27506],
@@ -4352,8 +4352,8 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-17.96875, -156.68547, 3.66568],
-			"to": [17.96875, -137.93547, 3.66568],
+			"from": [-20.66406, -181.76359, 3.72427],
+			"to": [20.66406, -160.2011, 3.72427],
 			"autouv": 0,
 			"color": 4,
 			"origin": [0, 10.50203, 3.27506],
@@ -4389,7 +4389,7 @@
 		},
 		{
 			"name": "mouth",
-			"position": [0, 84, -46],
+			"position": [0, 95.0247, -53.39126],
 			"rotation": [-90, 0, 0],
 			"ignore_inherited_scale": false,
 			"visibility": true,
@@ -4418,7 +4418,7 @@
 			"children": [
 				{
 					"name": "body1",
-					"origin": [0, 54.25203, 3.27506],
+					"origin": [0, 60.81453, 3.27506],
 					"color": 1,
 					"configs": {
 						"variants": {}
@@ -4434,7 +4434,7 @@
 					"children": [
 						{
 							"name": "neck6",
-							"origin": [0, 15.18953, 3.27506],
+							"origin": [0, 15.89266, 3.27506],
 							"color": 2,
 							"configs": {
 								"variants": {}
@@ -4451,7 +4451,7 @@
 								"79a34c21-262a-09cd-aee0-e252e01808bb",
 								{
 									"name": "neck7",
-									"origin": [0, 29.25203, 3.27506],
+									"origin": [0, 32.06453, 3.27506],
 									"color": 3,
 									"configs": {
 										"variants": {}
@@ -4468,7 +4468,7 @@
 										"2f7a4fc0-e630-ef52-a69d-2c5ed25aeecd",
 										{
 											"name": "neck8",
-											"origin": [0, 44.09578, 3.27506],
+											"origin": [0, 49.13484, 3.27506],
 											"color": 4,
 											"configs": {
 												"variants": {}
@@ -4485,7 +4485,7 @@
 												"9f7ac8e4-5179-e2ce-8eba-554dc22abd54",
 												{
 													"name": "neck9",
-													"origin": [0, 58.93953, 2.49381],
+													"origin": [0, 66.20515, 2.37662],
 													"color": 5,
 													"configs": {
 														"variants": {}
@@ -4502,7 +4502,7 @@
 														"bf40e376-0549-21fd-ea1b-0971bcd043fa",
 														{
 															"name": "neck_spine5",
-															"origin": [-1.5625, 68.31453, 13.04068],
+															"origin": [-1.79687, 76.98641, 14.50552],
 															"rotation": [15, 0, 0],
 															"color": 6,
 															"configs": {
@@ -4520,7 +4520,7 @@
 														},
 														{
 															"name": "neck10",
-															"origin": [0, 79.25203, 3.27506],
+															"origin": [0, 89.56453, 3.27506],
 															"color": 7,
 															"configs": {
 																"variants": {}
@@ -4537,7 +4537,7 @@
 																"defa3b6a-1a24-9533-2dc5-bbf40e241543",
 																{
 																	"name": "neck_spine2",
-																	"origin": [0, 94.87703, -4.53744],
+																	"origin": [0, 107.53328, -5.70931],
 																	"rotation": [7.5, 0, 0],
 																	"color": 8,
 																	"configs": {
@@ -4555,7 +4555,7 @@
 																},
 																{
 																	"name": "scale_neck_left1",
-																	"origin": [-10.9375, 82.37703, -5.70932],
+																	"origin": [-12.57812, 93.15828, -7.05698],
 																	"rotation": [-12.5, 0, 15],
 																	"color": 9,
 																	"configs": {
@@ -4573,7 +4573,7 @@
 																},
 																{
 																	"name": "scale_neck_right1",
-																	"origin": [10.9375, 82.37703, -5.70932],
+																	"origin": [12.57812, 93.15828, -7.05698],
 																	"rotation": [-12.5, 0, -15],
 																	"color": 0,
 																	"configs": {
@@ -4591,7 +4591,7 @@
 																},
 																{
 																	"name": "head1",
-																	"origin": [0, 85.50203, -11.56869],
+																	"origin": [0, 96.75203, -13.79525],
 																	"color": 1,
 																	"configs": {
 																		"variants": {}
@@ -4608,7 +4608,7 @@
 																		"b8082855-c712-cbd5-3a2d-d70d72fce7de",
 																		{
 																			"name": "blush1",
-																			"origin": [0, 87.06453, -21.72494],
+																			"origin": [0, 98.54891, -25.47494],
 																			"color": 2,
 																			"configs": {
 																				"variants": {}
@@ -4624,7 +4624,7 @@
 																			"children": [
 																				{
 																					"name": "blush_right1",
-																					"origin": [9.21875, 80.03328, -25.63119],
+																					"origin": [10.60156, 90.46297, -29.96713],
 																					"color": 3,
 																					"configs": {
 																						"variants": {}
@@ -4641,7 +4641,7 @@
 																				},
 																				{
 																					"name": "blush_left1",
-																					"origin": [-9.21875, 80.03328, -25.63119],
+																					"origin": [-10.60156, 90.46297, -29.96713],
 																					"color": 4,
 																					"configs": {
 																						"variants": {}
@@ -4660,7 +4660,7 @@
 																		},
 																		{
 																			"name": "head_scales1",
-																			"origin": [-9.375, 88.62703, -20.16244],
+																			"origin": [-10.78125, 100.34578, -23.67806],
 																			"color": 5,
 																			"configs": {
 																				"variants": {}
@@ -4676,7 +4676,7 @@
 																			"children": [
 																				{
 																					"name": "left_head_scales1",
-																					"origin": [-9.375, 88.62703, -20.16244],
+																					"origin": [-10.78125, 100.34578, -23.67806],
 																					"color": 6,
 																					"configs": {
 																						"variants": {}
@@ -4692,7 +4692,7 @@
 																					"children": [
 																						{
 																							"name": "left_head_scales",
-																							"origin": [-9.375, 90.18953, -20.16244],
+																							"origin": [-10.78125, 102.14266, -23.67806],
 																							"rotation": [0, 27.5, 0],
 																							"color": 0,
 																							"configs": {
@@ -4711,7 +4711,7 @@
 																						"ba8eb79b-8a77-0235-5fe8-c4e9f2a0b62c",
 																						{
 																							"name": "left_head_scales2",
-																							"origin": [-9.375, 77.68953, -22.50619],
+																							"origin": [-10.78125, 87.76766, -26.37338],
 																							"rotation": [0, 35, 0],
 																							"color": 0,
 																							"configs": {
@@ -4731,7 +4731,7 @@
 																				},
 																				{
 																					"name": "right_head_scales1",
-																					"origin": [9.375, 88.62703, -20.16244],
+																					"origin": [10.78125, 100.34578, -23.67806],
 																					"color": 7,
 																					"configs": {
 																						"variants": {}
@@ -4747,7 +4747,7 @@
 																					"children": [
 																						{
 																							"name": "right_head_scales",
-																							"origin": [9.375, 90.18953, -20.16244],
+																							"origin": [10.78125, 102.14266, -23.67806],
 																							"rotation": [0, -27.5, 0],
 																							"color": 0,
 																							"configs": {
@@ -4766,7 +4766,7 @@
 																						"a878341a-43ca-224b-63b4-3e0431233980",
 																						{
 																							"name": "right_head_scales2",
-																							"origin": [9.375, 77.68953, -22.50619],
+																							"origin": [10.78125, 87.76766, -26.37338],
 																							"rotation": [0, -35, 0],
 																							"color": 0,
 																							"configs": {
@@ -4788,7 +4788,7 @@
 																		},
 																		{
 																			"name": "head_fins1",
-																			"origin": [-9.375, 82.76766, -18.99057],
+																			"origin": [-10.78125, 93.6075, -22.33041],
 																			"color": 8,
 																			"configs": {
 																				"variants": {}
@@ -4804,7 +4804,7 @@
 																			"children": [
 																				{
 																					"name": "head_left_fin1",
-																					"origin": [-9.375, 82.76766, -18.99057],
+																					"origin": [-10.78125, 93.6075, -22.33041],
 																					"color": 9,
 																					"configs": {
 																						"variants": {}
@@ -4821,7 +4821,7 @@
 																				},
 																				{
 																					"name": "head_right_fin1",
-																					"origin": [9.375, 82.76766, -18.99057],
+																					"origin": [10.78125, 93.6075, -22.33041],
 																					"color": 0,
 																					"configs": {
 																						"variants": {}
@@ -4840,7 +4840,7 @@
 																		},
 																		{
 																			"name": "whiskers1",
-																			"origin": [0, 76.12703, -21.72494],
+																			"origin": [0, 85.97078, -25.47494],
 																			"color": 1,
 																			"configs": {
 																				"variants": {}
@@ -4856,7 +4856,7 @@
 																			"children": [
 																				{
 																					"name": "right_whisker1",
-																					"origin": [9.375, 75.34578, -23.28744],
+																					"origin": [10.78125, 85.07234, -27.27181],
 																					"color": 2,
 																					"configs": {
 																						"variants": {}
@@ -4873,7 +4873,7 @@
 																						"c0f07dab-8572-bd36-50a6-31970d37c0a4",
 																						{
 																							"name": "right_whisker10",
-																							"origin": [15.625, 75.34578, -23.28744],
+																							"origin": [17.96875, 85.07234, -27.27181],
 																							"color": 3,
 																							"configs": {
 																								"variants": {}
@@ -4890,7 +4890,7 @@
 																								"603bed3b-8adb-b36e-915c-26fc8e2d3028",
 																								{
 																									"name": "right_whisker11",
-																									"origin": [21.875, 75.34578, -23.28744],
+																									"origin": [25.15625, 85.07234, -27.27181],
 																									"color": 4,
 																									"configs": {
 																										"variants": {}
@@ -4907,7 +4907,7 @@
 																										"db68826b-ffeb-f329-fd3b-2b6516901c1d",
 																										{
 																											"name": "right_whisker12",
-																											"origin": [28.125, 75.34578, -23.28744],
+																											"origin": [32.34375, 85.07234, -27.27181],
 																											"color": 5,
 																											"configs": {
 																												"variants": {}
@@ -4924,7 +4924,7 @@
 																												"abe43796-0d86-c667-9bc8-005f45da08a5",
 																												{
 																													"name": "right_whisker13",
-																													"origin": [34.375, 75.34578, -23.28744],
+																													"origin": [39.53125, 85.07234, -27.27181],
 																													"color": 6,
 																													"configs": {
 																														"variants": {}
@@ -4941,7 +4941,7 @@
 																														"11e0dc6a-c6c4-534e-d134-7d3bff82bafe",
 																														{
 																															"name": "right_whisker14",
-																															"origin": [39.0625, 75.34578, -23.28744],
+																															"origin": [44.92188, 85.07234, -27.27181],
 																															"color": 7,
 																															"configs": {
 																																"variants": {}
@@ -4958,7 +4958,7 @@
 																																"5432312d-9e69-132e-a1e2-d07087ca3e3d",
 																																{
 																																	"name": "right_whisker15",
-																																	"origin": [43.75, 75.34578, -23.28744],
+																																	"origin": [50.3125, 85.07234, -27.27181],
 																																	"color": 8,
 																																	"configs": {
 																																		"variants": {}
@@ -4975,7 +4975,7 @@
 																																		"df29e4ea-3bc9-360d-d533-e2ec4025d452",
 																																		{
 																																			"name": "right_whisker16",
-																																			"origin": [48.4375, 75.34578, -23.28744],
+																																			"origin": [55.70312, 85.07234, -27.27181],
 																																			"color": 9,
 																																			"configs": {
 																																				"variants": {}
@@ -5006,7 +5006,7 @@
 																				},
 																				{
 																					"name": "left_whisker1",
-																					"origin": [-9.375, 75.34578, -23.28744],
+																					"origin": [-10.78125, 85.07234, -27.27181],
 																					"color": 0,
 																					"configs": {
 																						"variants": {}
@@ -5023,7 +5023,7 @@
 																						"3bea73d3-ce39-22d4-f3da-c7281763d0f2",
 																						{
 																							"name": "left_whisker10",
-																							"origin": [-15.625, 75.34578, -23.28744],
+																							"origin": [-17.96875, 85.07234, -27.27181],
 																							"color": 1,
 																							"configs": {
 																								"variants": {}
@@ -5040,7 +5040,7 @@
 																								"1e8a03c9-246a-da0a-502f-d300bcfc0ecd",
 																								{
 																									"name": "left_whisker11",
-																									"origin": [-21.875, 75.34578, -23.28744],
+																									"origin": [-25.15625, 85.07234, -27.27181],
 																									"color": 2,
 																									"configs": {
 																										"variants": {}
@@ -5057,7 +5057,7 @@
 																										"fc3b347d-9643-c199-019d-e7b499ff2b9d",
 																										{
 																											"name": "left_whisker12",
-																											"origin": [-28.125, 75.34578, -23.28744],
+																											"origin": [-32.34375, 85.07234, -27.27181],
 																											"color": 3,
 																											"configs": {
 																												"variants": {}
@@ -5074,7 +5074,7 @@
 																												"4639a9ce-aa76-ff30-89a3-02c4327dbf57",
 																												{
 																													"name": "left_whisker13",
-																													"origin": [-34.375, 75.34578, -23.28744],
+																													"origin": [-39.53125, 85.07234, -27.27181],
 																													"color": 4,
 																													"configs": {
 																														"variants": {}
@@ -5091,7 +5091,7 @@
 																														"894c0079-b5a5-6e90-1e63-3074e1d7d236",
 																														{
 																															"name": "left_whisker14",
-																															"origin": [-39.0625, 75.34578, -23.28744],
+																															"origin": [-44.92187, 85.07234, -27.27181],
 																															"color": 5,
 																															"configs": {
 																																"variants": {}
@@ -5108,7 +5108,7 @@
 																																"e4332c25-fb8b-fad5-9724-5b2f4e38890c",
 																																{
 																																	"name": "left_whisker15",
-																																	"origin": [-43.75, 75.34578, -23.28744],
+																																	"origin": [-50.3125, 85.07234, -27.27181],
 																																	"color": 6,
 																																	"configs": {
 																																		"variants": {}
@@ -5125,7 +5125,7 @@
 																																		"c853c84c-35bc-5e42-2406-235ff481eb4c",
 																																		{
 																																			"name": "left_whisker16",
-																																			"origin": [-48.4375, 75.34578, -23.28744],
+																																			"origin": [-55.70312, 85.07234, -27.27181],
 																																			"color": 7,
 																																			"configs": {
 																																				"variants": {}
@@ -5158,7 +5158,7 @@
 																		},
 																		{
 																			"name": "mouth1",
-																			"origin": [0, 84.72078, -27.97494],
+																			"origin": [0, 95.85359, -32.66244],
 																			"color": 8,
 																			"configs": {
 																				"variants": {}
@@ -5174,7 +5174,7 @@
 																			"children": [
 																				{
 																					"name": "muzzle1",
-																					"origin": [0, 84.72078, -27.97494],
+																					"origin": [0, 95.85359, -32.66244],
 																					"rotation": [5, 0, 0],
 																					"color": 9,
 																					"configs": {
@@ -5192,7 +5192,7 @@
 																						"1a1f78f2-79a5-38ec-cdb5-6097f552cd61",
 																						{
 																							"name": "upper_left_tooth1",
-																							"origin": [-4.29687, 80.65828, -35.78744],
+																							"origin": [-4.9414, 91.18172, -41.64682],
 																							"color": 0,
 																							"configs": {
 																								"variants": {}
@@ -5209,7 +5209,7 @@
 																						},
 																						{
 																							"name": "upper_right_tooth1",
-																							"origin": [5.07813, 80.65828, -35.78744],
+																							"origin": [5.83985, 91.18172, -41.64682],
 																							"color": 1,
 																							"configs": {
 																								"variants": {}
@@ -5226,7 +5226,7 @@
 																						},
 																						{
 																							"name": "top_lip1",
-																							"origin": [0, 82.37703, -35.78744],
+																							"origin": [0, 93.15828, -41.64682],
 																							"rotation": [20, 0, 0],
 																							"color": 2,
 																							"configs": {
@@ -5246,7 +5246,7 @@
 																				},
 																				{
 																					"name": "jaw1",
-																					"origin": [-0.78125, 74.56453, -16.25619],
+																					"origin": [-0.89844, 84.17391, -19.18588],
 																					"rotation": [-10, 0, 0],
 																					"color": 3,
 																					"configs": {
@@ -5264,7 +5264,7 @@
 																						"cfc915b8-79fb-1fff-bc1d-74db1dd363f0",
 																						{
 																							"name": "jaw3",
-																							"origin": [-0.78125, 74.56453, -28.75619],
+																							"origin": [-0.89844, 84.17391, -33.56088],
 																							"rotation": [45, 0, 0],
 																							"color": 4,
 																							"configs": {
@@ -5282,7 +5282,7 @@
 																								"9f0075d9-8a04-b823-e4dc-45dcde07eb7c",
 																								{
 																									"name": "jaw_right_tooth1",
-																									"origin": [5.07813, 77.92391, -40.47494],
+																									"origin": [5.83985, 88.03719, -47.03744],
 																									"rotation": [10, 0, 0],
 																									"color": 5,
 																									"configs": {
@@ -5300,7 +5300,7 @@
 																								},
 																								{
 																									"name": "jaw_left_tooth1",
-																									"origin": [-5.07812, 77.92391, -40.47494],
+																									"origin": [-5.83984, 88.03719, -47.03744],
 																									"rotation": [10, 0, 0],
 																									"color": 6,
 																									"configs": {
@@ -5318,7 +5318,7 @@
 																								},
 																								{
 																									"name": "jaw_lips1",
-																									"origin": [-0.78125, 75.73641, -41.25619],
+																									"origin": [-0.89844, 85.52157, -47.93588],
 																									"rotation": [-15, 0, 0],
 																									"color": 7,
 																									"configs": {
@@ -5338,7 +5338,7 @@
 																										"b01347c6-ebe1-0c14-3365-ca55cb092150",
 																										{
 																											"name": "tongue1",
-																											"origin": [0, 77.53328, -28.75619],
+																											"origin": [0, 87.58797, -33.56088],
 																											"color": 8,
 																											"configs": {
 																												"variants": {}
@@ -5364,7 +5364,7 @@
 																		},
 																		{
 																			"name": "eyes1",
-																			"origin": [0, 86.28328, -20.16244],
+																			"origin": [0, 97.65047, -23.67806],
 																			"color": 9,
 																			"configs": {
 																				"variants": {}
@@ -5380,7 +5380,7 @@
 																			"children": [
 																				{
 																					"name": "right_eye1",
-																					"origin": [0, 86.28328, -20.16244],
+																					"origin": [0, 97.65047, -23.67806],
 																					"color": 0,
 																					"configs": {
 																						"variants": {}
@@ -5397,7 +5397,7 @@
 																						"381cddad-bd56-d0f9-5af7-139e0671db40",
 																						{
 																							"name": "tear_right1",
-																							"origin": [8.4375, 85.50203, -27.03744],
+																							"origin": [9.70313, 96.75203, -31.58431],
 																							"color": 1,
 																							"configs": {
 																								"variants": {}
@@ -5414,7 +5414,7 @@
 																						},
 																						{
 																							"name": "right_pupil1",
-																							"origin": [5.85938, 87.06453, -27.97494],
+																							"origin": [6.73829, 98.54891, -32.66244],
 																							"color": 2,
 																							"configs": {
 																								"variants": {}
@@ -5431,7 +5431,7 @@
 																						},
 																						{
 																							"name": "right_sad_pupil1",
-																							"origin": [5.85938, 87.06453, -27.81869],
+																							"origin": [6.73829, 98.54891, -32.48275],
 																							"color": 3,
 																							"configs": {
 																								"variants": {}
@@ -5448,7 +5448,7 @@
 																						},
 																						{
 																							"name": "right_happy_pupil1",
-																							"origin": [6.25, 86.67391, -27.81869],
+																							"origin": [7.1875, 98.09969, -32.48275],
 																							"color": 4,
 																							"configs": {
 																								"variants": {}
@@ -5465,7 +5465,7 @@
 																						},
 																						{
 																							"name": "eyelid_right1",
-																							"origin": [-0.15625, 86.28328, -20.00619],
+																							"origin": [-0.17969, 97.65047, -23.49838],
 																							"color": 5,
 																							"configs": {
 																								"variants": {}
@@ -5482,7 +5482,7 @@
 																						},
 																						{
 																							"name": "eyelid_expressions_right4",
-																							"origin": [-0.3125, 86.28328, -19.84994],
+																							"origin": [-0.35937, 97.65047, -23.31869],
 																							"color": 6,
 																							"configs": {
 																								"variants": {}
@@ -5498,7 +5498,7 @@
 																							"children": [
 																								{
 																									"name": "eyelid_expressions_right5",
-																									"origin": [7.65625, 88.62703, -27.81869],
+																									"origin": [8.80469, 100.34578, -32.48275],
 																									"color": 7,
 																									"configs": {
 																										"variants": {}
@@ -5515,7 +5515,7 @@
 																								},
 																								{
 																									"name": "eyelid_expressions_right6",
-																									"origin": [4.53125, 88.62703, -27.81869],
+																									"origin": [5.21094, 100.34578, -32.48275],
 																									"color": 8,
 																									"configs": {
 																										"variants": {}
@@ -5532,7 +5532,7 @@
 																										"619aea47-8444-65b9-6868-be086781c8f4",
 																										{
 																											"name": "eyelid_expressions_right7",
-																											"origin": [2.96875, 88.62703, -27.81869],
+																											"origin": [3.41406, 100.34578, -32.48275],
 																											"color": 9,
 																											"configs": {
 																												"variants": {}
@@ -5555,7 +5555,7 @@
 																				},
 																				{
 																					"name": "left_eye1",
-																					"origin": [0, 86.28328, -20.16244],
+																					"origin": [0, 97.65047, -23.67806],
 																					"color": 0,
 																					"configs": {
 																						"variants": {}
@@ -5572,7 +5572,7 @@
 																						"20e08dad-4c53-f90b-085a-0004d28eac36",
 																						{
 																							"name": "tear_left1",
-																							"origin": [-8.4375, 85.50203, -27.03744],
+																							"origin": [-9.70312, 96.75203, -31.58431],
 																							"color": 1,
 																							"configs": {
 																								"variants": {}
@@ -5589,7 +5589,7 @@
 																						},
 																						{
 																							"name": "left_sad_pupil1",
-																							"origin": [-5.85937, 87.06453, -27.81869],
+																							"origin": [-6.73828, 98.54891, -32.48275],
 																							"color": 2,
 																							"configs": {
 																								"variants": {}
@@ -5606,7 +5606,7 @@
 																						},
 																						{
 																							"name": "left_pupil1",
-																							"origin": [-5.85937, 87.06453, -27.97494],
+																							"origin": [-6.73828, 98.54891, -32.66244],
 																							"color": 3,
 																							"configs": {
 																								"variants": {}
@@ -5623,7 +5623,7 @@
 																						},
 																						{
 																							"name": "eyelid_left1",
-																							"origin": [0.15625, 86.28328, -20.00619],
+																							"origin": [0.17969, 97.65047, -23.49838],
 																							"color": 4,
 																							"configs": {
 																								"variants": {}
@@ -5640,7 +5640,7 @@
 																						},
 																						{
 																							"name": "left_happy_pupil1",
-																							"origin": [-6.25, 86.67391, -27.81869],
+																							"origin": [-7.1875, 98.09969, -32.48275],
 																							"color": 5,
 																							"configs": {
 																								"variants": {}
@@ -5657,7 +5657,7 @@
 																						},
 																						{
 																							"name": "eyelid_expressions_left4",
-																							"origin": [0.3125, 86.28328, -19.84994],
+																							"origin": [0.35938, 97.65047, -23.31869],
 																							"color": 6,
 																							"configs": {
 																								"variants": {}
@@ -5673,7 +5673,7 @@
 																							"children": [
 																								{
 																									"name": "eyelid_expressions_left5",
-																									"origin": [-7.65625, 88.62703, -27.81869],
+																									"origin": [-8.80469, 100.34578, -32.48275],
 																									"color": 7,
 																									"configs": {
 																										"variants": {}
@@ -5690,7 +5690,7 @@
 																								},
 																								{
 																									"name": "eyelid_expressions_left6",
-																									"origin": [-4.53125, 88.62703, -27.81869],
+																									"origin": [-5.21094, 100.34578, -32.48275],
 																									"color": 8,
 																									"configs": {
 																										"variants": {}
@@ -5707,7 +5707,7 @@
 																										"53423d7d-1e34-ff46-e9ff-40e9776edb65",
 																										{
 																											"name": "eyelid_expressions_left7",
-																											"origin": [-2.96875, 88.62703, -27.81869],
+																											"origin": [-3.41406, 100.34578, -32.48275],
 																											"color": 9,
 																											"configs": {
 																												"variants": {}
@@ -5732,7 +5732,7 @@
 																		},
 																		{
 																			"name": "crest1",
-																			"origin": [-0.78125, 87.84578, -16.25619],
+																			"origin": [-0.89844, 99.44734, -19.18588],
 																			"color": 0,
 																			"configs": {
 																				"variants": {}
@@ -5748,7 +5748,7 @@
 																			"children": [
 																				{
 																					"name": "crest_center1",
-																					"origin": [0, 87.45516, -29.53744],
+																					"origin": [0, 98.99813, -34.45932],
 																					"color": 1,
 																					"configs": {
 																						"variants": {}
@@ -5765,7 +5765,7 @@
 																						"4b341b68-4b14-acd7-5a14-ed9d8bc7952f",
 																						{
 																							"name": "crest_middle1",
-																							"origin": [0, 89.79891, -31.49057],
+																							"origin": [0, 101.69344, -36.70541],
 																							"rotation": [12.5, 0, 0],
 																							"color": 2,
 																							"configs": {
@@ -5783,7 +5783,7 @@
 																								"b75897e2-cfc4-86d3-b1dc-7e8c0af76f4b",
 																								{
 																									"name": "crest_middle4",
-																									"origin": [0, 96.83016, -30.31869],
+																									"origin": [0, 109.77938, -35.35775],
 																									"color": 3,
 																									"configs": {
 																										"variants": {}
@@ -5800,7 +5800,7 @@
 																										"c15e4bb0-f57a-f7cb-fe58-9b285cc65976",
 																										{
 																											"name": "crest_middle5",
-																											"origin": [0, 106.20516, -30.31869],
+																											"origin": [0, 120.56063, -35.35775],
 																											"color": 4,
 																											"configs": {
 																												"variants": {}
@@ -5821,7 +5821,7 @@
 																						},
 																						{
 																							"name": "crest_left1",
-																							"origin": [1.5625, 87.84578, -29.53744],
+																							"origin": [1.79687, 99.44734, -34.45932],
 																							"rotation": [7.5, 0, -57.5],
 																							"color": 5,
 																							"configs": {
@@ -5839,7 +5839,7 @@
 																								"f88c5a10-0168-a1f1-99f5-037d3e1d8ba6",
 																								{
 																									"name": "crest_left4",
-																									"origin": [1.5625, 96.43953, -30.31869],
+																									"origin": [1.79687, 109.33015, -35.35775],
 																									"color": 6,
 																									"configs": {
 																										"variants": {}
@@ -5856,7 +5856,7 @@
 																										"225005d0-f2a7-65c5-912c-b922911c1a38",
 																										{
 																											"name": "crest_left5",
-																											"origin": [1.5625, 104.25203, -30.31869],
+																											"origin": [1.79687, 118.31453, -35.35775],
 																											"color": 7,
 																											"configs": {
 																												"variants": {}
@@ -5879,7 +5879,7 @@
 																				},
 																				{
 																					"name": "crest_right1",
-																					"origin": [-1.5625, 87.84578, -29.53744],
+																					"origin": [-1.79687, 99.44734, -34.45932],
 																					"rotation": [7.5, 0, 57.5],
 																					"color": 8,
 																					"configs": {
@@ -5897,7 +5897,7 @@
 																						"9d5751be-ba47-1b81-7a2a-2d892cee2644",
 																						{
 																							"name": "crest_right4",
-																							"origin": [-1.5625, 96.43953, -30.31869],
+																							"origin": [-1.79687, 109.33015, -35.35775],
 																							"color": 9,
 																							"configs": {
 																								"variants": {}
@@ -5914,7 +5914,7 @@
 																								"d82025b9-b846-2ad3-e1aa-dd0db1a2d1df",
 																								{
 																									"name": "crest_right5",
-																									"origin": [-1.5625, 104.25203, -30.31869],
+																									"origin": [-1.79687, 118.31453, -35.35775],
 																									"color": 0,
 																									"configs": {
 																										"variants": {}
@@ -5949,7 +5949,7 @@
 						},
 						{
 							"name": "segment10",
-							"origin": [0, 15.97078, 3.27506],
+							"origin": [0, 16.79109, 3.27506],
 							"color": 1,
 							"configs": {
 								"variants": {}
@@ -5966,7 +5966,7 @@
 								"ddb910ca-c307-b76e-1a4f-91cfa32ce73e",
 								{
 									"name": "segment11",
-									"origin": [0, -0.04484, 3.27506],
+									"origin": [0, -1.62687, 3.27506],
 									"color": 2,
 									"configs": {
 										"variants": {}
@@ -5983,7 +5983,7 @@
 										"9a5ae48c-31af-7d94-0e29-679c42764dc1",
 										{
 											"name": "segment12",
-											"origin": [0, -19.18547, 3.27506],
+											"origin": [0, -23.63859, 3.27506],
 											"color": 3,
 											"configs": {
 												"variants": {}
@@ -6000,7 +6000,7 @@
 												"1088bb1f-2cc5-4484-ca14-c95f7253180f",
 												{
 													"name": "segment13",
-													"origin": [0, -37.93547, 3.27506],
+													"origin": [0, -45.20109, 3.27506],
 													"color": 4,
 													"configs": {
 														"variants": {}
@@ -6017,7 +6017,7 @@
 														"2ca44e61-ce50-428d-9f44-251cc459e599",
 														{
 															"name": "neck_spine6",
-															"origin": [0, -34.81047, 14.21256],
+															"origin": [0, -41.60734, 15.85318],
 															"rotation": [10, 0, 0],
 															"color": 5,
 															"configs": {
@@ -6035,7 +6035,7 @@
 														},
 														{
 															"name": "segment14",
-															"origin": [0, -55.12297, 3.66568],
+															"origin": [0, -64.96672, 3.72427],
 															"color": 6,
 															"configs": {
 																"variants": {}
@@ -6052,7 +6052,7 @@
 																"69f1d249-63eb-c888-7804-e231159d9f8a",
 																{
 																	"name": "segment15",
-																	"origin": [0, -71.52922, 3.66568],
+																	"origin": [0, -83.83391, 3.72427],
 																	"color": 7,
 																	"configs": {
 																		"variants": {}
@@ -6069,7 +6069,7 @@
 																		"1e5cc906-9b9e-56d8-a203-ae768de128b5",
 																		{
 																			"name": "neck_spine7",
-																			"origin": [0, -84.02922, 9.91568],
+																			"origin": [0, -98.20891, 10.91177],
 																			"rotation": [15, 0, 0],
 																			"color": 8,
 																			"configs": {
@@ -6087,7 +6087,7 @@
 																		},
 																		{
 																			"name": "segment16",
-																			"origin": [0, -87.93547, 3.66568],
+																			"origin": [0, -102.70109, 3.72427],
 																			"color": 9,
 																			"configs": {
 																				"variants": {}
@@ -6104,7 +6104,7 @@
 																				"eb1de15c-4d72-7a1c-6600-7118eb78f825",
 																				{
 																					"name": "segment17",
-																					"origin": [0, -101.21672, 3.66568],
+																					"origin": [0, -117.97453, 3.72427],
 																					"color": 0,
 																					"configs": {
 																						"variants": {}
@@ -6121,7 +6121,7 @@
 																						"452f8cc0-d269-939c-609f-0e31e1aa8161",
 																						{
 																							"name": "segment18",
-																							"origin": [0, -111.37297, 3.66568],
+																							"origin": [0, -129.65422, 3.72427],
 																							"color": 1,
 																							"configs": {
 																								"variants": {}
@@ -6138,7 +6138,7 @@
 																								"aaa2c321-faa4-3063-eed4-a34513859a4f",
 																								{
 																									"name": "tail4",
-																									"origin": [0, -119.18547, 3.66568],
+																									"origin": [0, -138.6386, 3.72427],
 																									"color": 2,
 																									"configs": {
 																										"variants": {}
@@ -6155,7 +6155,7 @@
 																										"1672d3f5-821c-0381-c9a5-990cc22757fe",
 																										{
 																											"name": "tail5",
-																											"origin": [0, -125.43547, 3.66568],
+																											"origin": [0, -145.8261, 3.72427],
 																											"color": 3,
 																											"configs": {
 																												"variants": {}
@@ -6172,7 +6172,7 @@
 																												"7869b166-6a63-8236-defe-6321a0eb6c4e",
 																												{
 																													"name": "tail6",
-																													"origin": [0, -137.93547, 3.66568],
+																													"origin": [0, -160.2011, 3.72427],
 																													"color": 4,
 																													"configs": {
 																														"variants": {}
