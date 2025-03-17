@@ -1,0 +1,95 @@
+{
+	"textures": {
+		"0": "ssbrc:stage/luigis_mansion/boo",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7, 13.8125, 1.38425],
+			"to": [9, 14.3125, 2.88425],
+			"faces": {
+				"north": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [7, 13.5625, 1.13425],
+			"to": [9, 14.0625, 1.63425],
+			"faces": {
+				"north": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [7.25, 13.0625, 0.88425],
+			"to": [8.75, 13.5625, 1.38425],
+			"faces": {
+				"north": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [8, 0, 12, 4],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

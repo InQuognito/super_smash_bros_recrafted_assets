@@ -1,0 +1,15 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/sora/skin/gold/anti"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/sora/skin/crown/anti"
+			}
+		]
+	}
+}

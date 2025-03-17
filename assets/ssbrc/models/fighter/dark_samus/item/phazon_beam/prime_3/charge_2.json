@@ -1,0 +1,7 @@
+{
+	"parent": "ssbrc:fighter/dark_samus/item/phazon_beam/parent/charge_2",
+	"textures": {
+		"base": "ssbrc:fighter/dark_samus/item/phazon_beam/prime_3",
+		"projectile": "ssbrc:colors/aqua"
+	}
+}

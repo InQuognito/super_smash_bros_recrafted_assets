@@ -1,0 +1,25 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": {
+					"strings": [
+						"star_force"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/mega_man/projectile/mega_buster/star_force"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/mega_man/projectile/mega_buster/default"
+		}
+	},
+	"hand_animation_on_swap": false
+}

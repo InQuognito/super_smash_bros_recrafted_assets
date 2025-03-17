@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/bowser/item/power_band/parent",
+	"textures": {
+		"base": "ssbrc:fighter/bowser/item/power_band/gold"
+	}
+}

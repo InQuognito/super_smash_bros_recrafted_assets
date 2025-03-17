@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/yar/item/ray_blaster/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/yar/item/ray_blaster/default"
+	}
+}

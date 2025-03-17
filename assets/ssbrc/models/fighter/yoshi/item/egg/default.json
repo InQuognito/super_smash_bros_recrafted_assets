@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/yoshi/item/egg/parent",
+	"textures": {
+		"base": "ssbrc:fighter/yoshi/item/egg/default"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/altered_beast/item/dragon_claw/parent/left",
+	"textures": {
+		"base": "ssbrc:fighter/altered_beast/item/dragon_claw/default"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/king_k_rool/skin/full/crown"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/king_k_rool/skin/full/body"
+			}
+		]
+	}
+}

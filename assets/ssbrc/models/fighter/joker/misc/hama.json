@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "ssbrc:fighter/joker/misc/hama"
+	}
+}

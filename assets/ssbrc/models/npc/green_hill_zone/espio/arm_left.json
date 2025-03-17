@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/arm_left/steve",
+	"textures": {
+		"base": "ssbrc:stage/green_hill_zone/armor_stands/espio"
+	}
+}

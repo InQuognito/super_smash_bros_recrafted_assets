@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/joker/item/tt33/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/joker/item/tt33/default"
+	}
+}

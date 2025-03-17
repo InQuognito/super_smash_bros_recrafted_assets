@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:fighters/samus/skins/parent_full",
-	"textures": {
-		"base": "ssbrc:fighters/samus/skins/gravity_suit",
-		"arm_cannon_body": "ssbrc:fighters/samus/items/arm_cannon/power_beam/default",
-		"arm_cannon_energy": "ssbrc:fighters/samus/items/arm_cannon/power_beam/energy/default"
-	}
-}

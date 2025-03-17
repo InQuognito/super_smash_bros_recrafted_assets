@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/zelda/item/dagger/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/zelda/item/dagger/obsidian"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/mario/skin/full/head",
+	"textures": {
+		"base": "ssbrc:miscellaneous/mario_statue"
+	}
+}

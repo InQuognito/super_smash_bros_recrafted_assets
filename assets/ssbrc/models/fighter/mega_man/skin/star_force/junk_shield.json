@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/fighter/head",
+	"textures": {
+		"base": "ssbrc:fighter/mega_man/skin/star_force/junk_shield"
+	}
+}

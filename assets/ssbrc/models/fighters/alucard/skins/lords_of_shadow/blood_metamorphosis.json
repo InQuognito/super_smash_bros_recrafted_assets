@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/head",
-	"textures": {
-		"base": "ssbrc:fighters/alucard/skins/lords_of_shadow/blood_metamorphosis"
-	}
-}

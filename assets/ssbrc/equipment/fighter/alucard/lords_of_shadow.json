@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/alucard/lords_of_shadow" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/alucard/lords_of_shadow" }
+		]
+	}
+}

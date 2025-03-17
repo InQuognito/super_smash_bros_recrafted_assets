@@ -1,0 +1,20 @@
+{
+	"textures": {
+		"particle": "ssbrc:miscellaneous/empty"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#base"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#base"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#base"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#base"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#base"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#base"}
+			}
+		}
+	]
+}

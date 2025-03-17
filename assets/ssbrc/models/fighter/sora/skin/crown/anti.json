@@ -1,0 +1,8 @@
+{
+	"parent": "ssbrc:fighter/sora/skin/crown/parent",
+	"textures": {
+		"bottom": "ssbrc:fighter/sora/skin/crown/anti/bottom",
+		"side": "ssbrc:fighter/sora/skin/crown/anti/side",
+		"particle": "ssbrc:miscellaneous/empty"
+	}
+}

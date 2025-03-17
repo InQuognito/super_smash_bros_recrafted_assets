@@ -1,0 +1,7 @@
+{
+	"parent": "ssbrc:fighter/pit/misc/guardian_orbitars/parent",
+	"textures": {
+		"base": "ssbrc:fighter/pit/misc/guardian_orbitars/default",
+		"particle": "ssbrc:fighter/pit/misc/guardian_orbitars/default"
+	}
+}

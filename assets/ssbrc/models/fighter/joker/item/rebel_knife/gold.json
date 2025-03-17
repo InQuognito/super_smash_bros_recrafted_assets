@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/joker/item/rebel_knife/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/joker/item/rebel_knife/gold"
+	}
+}

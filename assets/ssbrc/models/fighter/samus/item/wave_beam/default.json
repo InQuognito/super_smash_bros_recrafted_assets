@@ -1,0 +1,7 @@
+{
+	"parent": "ssbrc:fighter/samus/item/wave_beam/parent",
+	"textures": {
+		"body": "ssbrc:fighter/samus/item/wave_beam/default",
+		"energy": "ssbrc:fighter/samus/item/wave_beam/energy/default"
+	}
+}

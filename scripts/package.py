@@ -1,5 +1,5 @@
-import os
-import shutil
+from scripts.core import *
+
 import zipfile
 
 def copy_and_zip_folders(source_dir, folders_to_include, output_zip):
@@ -26,7 +26,7 @@ def copy_and_zip_folders(source_dir, folders_to_include, output_zip):
 		with zipfile.ZipFile(output_zip, 'w') as zipf:
 			for folder in folders_to_include:
 				folder_path = os.path.join(temp_dir, folder)
-				for root, dirs, files in os.walk(folder_path):
+				for root, files in os.walk(folder_path):
 					for file in files:
 						file_path = os.path.join(root, file)
 						arcname = os.path.relpath(file_path, temp_dir)
@@ -41,7 +41,7 @@ def copy_and_zip_folders(source_dir, folders_to_include, output_zip):
 		print('\n' + ('#' * 20) + '\nAll operations complete. You can now safely close this file.\n' + ('#' * 20))
 
 # Settings
-version = '2.4.2'
+version = '2.5'
 source_directory = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
 folders_to_include = ['assets']
 output_zip_file = 'scripts/bin/ssbrc_' + version + '.zip'

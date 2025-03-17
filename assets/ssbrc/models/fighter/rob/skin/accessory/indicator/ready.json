@@ -1,0 +1,17 @@
+{
+	"parent": "ssbrc:fighter/rob/skin/accessory/indicator/parent",
+	"elements": [
+		{
+			"from": [7.5, 8.5, 7.5],
+			"to": [8.5, 9, 8.5],
+			"faces": {
+				"north": {"uv": [0.5, 0, 1, 0.5], "texture": "#base"},
+				"east": {"uv": [0.5, 0, 1, 0.5], "texture": "#base"},
+				"south": {"uv": [0.5, 0, 1, 0.5], "texture": "#base"},
+				"west": {"uv": [0.5, 0, 1, 0.5], "texture": "#base"},
+				"up": {"uv": [0.5, 0, 1, 0.5], "texture": "#base"},
+				"down": {"uv": [0.5, 0, 1, 0.5], "texture": "#base"}
+			}
+		}
+	]
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:fighters/peach/items/turnip/parent",
-	"textures": {
-		"type": "ssbrc:fighters/peach/items/turnip/type/stitch_face"
-	}
-}

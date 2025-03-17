@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "ssbrc:fighter/greninja/item/night_slash"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-43.13, -90, 0],
+			"translation": [0, 2.25, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-43.13, 90, 0],
+			"translation": [0, 2.25, 2]
+		}
+	}
+}

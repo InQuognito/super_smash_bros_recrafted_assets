@@ -1,0 +1,41 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": {
+					"strings": [
+						"gold"
+					]
+				},
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_true": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/yar/item/gatling_gun/gold/charging"
+					},
+					"on_false": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/yar/item/gatling_gun/gold/default"
+					}
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:condition",
+			"property": "minecraft:using_item",
+			"on_true": {
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/yar/item/gatling_gun/default/charging"
+			},
+			"on_false": {
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/yar/item/gatling_gun/default/default"
+			}
+		}
+	},
+	"hand_animation_on_swap": false
+}

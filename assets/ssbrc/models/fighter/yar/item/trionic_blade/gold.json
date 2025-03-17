@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/yar/item/trionic_blade/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/yar/item/trionic_blade/gold"
+	}
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/head",
-	"textures": {
-		"base": "ssbrc:stages/tower_of_fate/knight_statue"
-	}
-}

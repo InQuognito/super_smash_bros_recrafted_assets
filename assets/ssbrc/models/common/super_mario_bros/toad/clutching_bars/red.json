@@ -1,0 +1,7 @@
+{
+	"parent": "ssbrc:common/super_mario_bros/toad/clutching_bars/parent",
+	"textures": {
+		"base": "ssbrc:common/super_mario_bros/toad/color/red",
+		"face": "ssbrc:common/super_mario_bros/toad/emotion/sad"
+	}
+}

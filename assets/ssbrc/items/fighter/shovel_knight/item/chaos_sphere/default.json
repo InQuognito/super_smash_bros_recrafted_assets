@@ -1,0 +1,7 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "ssbrc:fighter/shovel_knight/item/chaos_sphere/default"
+	},
+	"hand_animation_on_swap": false
+}

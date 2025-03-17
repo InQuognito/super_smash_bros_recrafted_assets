@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/byleth/item/steel_sword/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/byleth/item/steel_sword/default"
+	}
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:pokemon/snorlax/parent",
-	"textures": {
-		"base": "ssbrc:pokemon/snorlax/shiny"
-	}
-}

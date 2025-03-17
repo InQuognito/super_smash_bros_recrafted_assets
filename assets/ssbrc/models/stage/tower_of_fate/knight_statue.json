@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/fighter/head",
+	"textures": {
+		"base": "ssbrc:stage/tower_of_fate/knight_statue"
+	}
+}

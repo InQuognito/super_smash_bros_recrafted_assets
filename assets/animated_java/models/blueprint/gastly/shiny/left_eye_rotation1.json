@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/gastly/left_eye_rotation1",
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/gastly/shiny"
+	}
+}

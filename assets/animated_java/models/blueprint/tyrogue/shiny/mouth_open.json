@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/tyrogue/mouth_open",
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/tyrogue/shiny"
+	}
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/alex",
-	"textures": {
-		"base": "ssbrc:fighters/luigi/skins/gooigi"
-	}
-}

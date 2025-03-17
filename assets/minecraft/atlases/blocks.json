@@ -7,13 +7,18 @@
 		},
 		{
 			"type": "directory",
-			"source": "developers",
-			"prefix": "developers/"
+			"source": "common",
+			"prefix": "common/"
 		},
 		{
 			"type": "directory",
-			"source": "fighters",
-			"prefix": "fighters/"
+			"source": "developer",
+			"prefix": "developer/"
+		},
+		{
+			"type": "directory",
+			"source": "fighter",
+			"prefix": "fighter/"
 		},
 		{
 			"type": "directory",
@@ -22,38 +27,28 @@
 		},
 		{
 			"type": "directory",
-			"source": "items",
-			"prefix": "items/"
+			"source": "item",
+			"prefix": "item/"
 		},
 		{
 			"type": "directory",
-			"source": "misc",
-			"prefix": "misc/"
+			"source": "miscellaneous",
+			"prefix": "miscellaneous/"
 		},
 		{
 			"type": "directory",
-			"source": "pokemon",
-			"prefix": "pokemon/"
-		},
-		{
-			"type": "directory",
-			"source": "stage_icons",
-			"prefix": "stage_icons/"
-		},
-		{
-			"type": "directory",
-			"source": "stages",
-			"prefix": "stages/"
-		},
-		{
-			"type": "directory",
-			"source": "team_flags",
-			"prefix": "team_flags/"
+			"source": "stage",
+			"prefix": "stage/"
 		},
 		{
 			"type": "directory",
 			"source": "ui",
 			"prefix": "ui/"
+		},
+		{
+			"type": "directory",
+			"source": "blueprint",
+			"prefix": "blueprint/"
 		}
 	]
 }

@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/player/steve/body",
+	"textures": {
+		"base": "ssbrc:fighter/bowser/skin/full"
+	}
+}

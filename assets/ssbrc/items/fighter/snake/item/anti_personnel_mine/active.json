@@ -1,0 +1,25 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": {
+					"strings": [
+						"gold"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/snake/item/anti_personnel_mine/gold/active"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/snake/item/anti_personnel_mine/default/active"
+		}
+	},
+	"hand_animation_on_swap": false
+}

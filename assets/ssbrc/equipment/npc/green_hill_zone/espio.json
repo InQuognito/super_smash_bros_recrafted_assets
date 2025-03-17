@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:empty" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:npc/green_hill_zone/espio" }
+		]
+	}
+}

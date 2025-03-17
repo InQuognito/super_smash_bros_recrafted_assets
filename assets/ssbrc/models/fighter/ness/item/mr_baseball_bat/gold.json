@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "ssbrc:fighter/ness/item/mr_baseball_bat/gold"
+	}
+}

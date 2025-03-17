@@ -1,0 +1,25 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "ssbrc:fighter/ness/projectile/pk_fire/single.png",
+			"height": 5,
+			"ascent": 0,
+			"chars": [ "1" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:fighter/ness/projectile/pk_fire/double.png",
+			"height": 5,
+			"ascent": 0,
+			"chars": [ "2" ]
+		},
+		{
+			"type": "bitmap",
+			"file": "ssbrc:fighter/ness/projectile/pk_fire/solid.png",
+			"height": 5,
+			"ascent": 0,
+			"chars": [ "3" ]
+		}
+	]
+}

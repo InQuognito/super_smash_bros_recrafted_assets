@@ -1,0 +1,43 @@
+{
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/sudowoodo/default",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7, 4, 8],
+			"to": [9, 8, 10],
+			"faces": {
+				"north": {
+					"uv": [9.75, 2.5, 10, 3.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [9.5, 2.5, 9.75, 3.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [10.25, 2.5, 10.5, 3.5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [10, 2.5, 10.25, 3.5],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [10, 2.5, 9.75, 2],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [10.25, 2, 10, 2.5],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

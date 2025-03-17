@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/player/alex/body",
+	"textures": {
+		"base": "ssbrc:fighter/luigi/skin/full"
+	}
+}

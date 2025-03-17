@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/cloud/midgar_infantry" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/cloud/midgar_infantry" }
+		]
+	}
+}

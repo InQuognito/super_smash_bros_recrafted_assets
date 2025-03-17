@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/donkey_kong/super_kong" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/donkey_kong/super_kong" }
+		]
+	}
+}

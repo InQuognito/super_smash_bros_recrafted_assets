@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/arm_right/steve",
-	"textures": {
-		"base": "ssbrc:stages/wily_castle/armor_stands/acid_man"
-	}
-}

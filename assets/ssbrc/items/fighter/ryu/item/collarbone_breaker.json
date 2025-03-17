@@ -1,0 +1,49 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": {
+					"strings": [
+						"gold"
+					]
+				},
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:component",
+					"predicate": "minecraft:custom_data",
+					"value": {
+						"evil": "true"
+					},
+					"on_true": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/ryu/item/collarbone_breaker/gold/evil"
+					},
+					"on_false": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/ryu/item/collarbone_breaker/gold/default"
+					}
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:condition",
+			"property": "minecraft:component",
+			"predicate": "minecraft:custom_data",
+			"value": {
+				"evil": "true"
+			},
+			"on_true": {
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/ryu/item/collarbone_breaker/default/evil"
+			},
+			"on_false": {
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/ryu/item/collarbone_breaker/default/default"
+			}
+		}
+	},
+	"hand_animation_on_swap": false
+}

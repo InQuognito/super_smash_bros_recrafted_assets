@@ -1,9 +1,0 @@
-{
-	"parent": "minecraft:item/handheld",
-	"textures": {
-		"layer0": "minecraft:item/string"
-	},
-	"overrides": [
-		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:fighters/kirby/items/tornado/gold" }
-	]
-}

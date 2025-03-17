@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/player/steve/full",
+	"textures": {
+		"base": "ssbrc:fighter/ryu/misc/ashura_senku/hot_ryu/default"
+	}
+}

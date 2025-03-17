@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/ganondorf/item/sword/parent/default",
+	"textures": {
+		"layer0": "ssbrc:fighter/ganondorf/item/sword/default"
+	}
+}

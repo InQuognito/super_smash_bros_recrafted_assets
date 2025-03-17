@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/wolf/item/blaster/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/wolf/item/blaster/gold"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/goat_horn",
+	"textures": {
+		"layer0": "ssbrc:fighter/shovel_knight/item/war_horn/default"
+	}
+}

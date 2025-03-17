@@ -1,0 +1,25 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": "shiny",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/lapras/shiny/leg_front_right4"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "animated_java:blueprint/lapras/leg_front_right4"
+		},
+		"tints": [
+			{
+				"type": "minecraft:dye",
+				"default": [1, 1, 1]
+			}
+		]
+	}
+}

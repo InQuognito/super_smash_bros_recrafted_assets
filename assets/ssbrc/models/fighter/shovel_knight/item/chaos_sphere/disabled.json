@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/item/hud",
+	"textures": {
+		"base": "ssbrc:fighter/shovel_knight/item/chaos_sphere/disabled"
+	}
+}

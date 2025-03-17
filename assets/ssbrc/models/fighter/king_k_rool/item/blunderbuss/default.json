@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/king_k_rool/item/blunderbuss/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/king_k_rool/item/blunderbuss/default"
+	}
+}

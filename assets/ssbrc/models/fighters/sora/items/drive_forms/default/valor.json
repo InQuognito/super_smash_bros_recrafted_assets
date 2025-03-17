@@ -1,7 +1,0 @@
-{
-	"parent": "ssbrc:fighters/sora/items/drive_forms/parent",
-	"textures": {
-		"back": "ssbrc:fighters/sora/items/drive_forms/default/valor/back",
-		"front": "ssbrc:fighters/sora/items/drive_forms/default/valor/front"
-	}
-}

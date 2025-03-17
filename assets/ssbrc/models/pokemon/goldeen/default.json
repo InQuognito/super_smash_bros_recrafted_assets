@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:pokemon/goldeen/parent",
-	"textures": {
-		"base": "ssbrc:pokemon/goldeen/default"
-	}
-}

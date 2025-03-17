@@ -1,0 +1,7 @@
+{
+	"parent": "ssbrc:fighter/ryu/item/collarbone_breaker/parent",
+	"textures": {
+		"base": "ssbrc:fighter/ryu/item/collarbone_breaker/default/default",
+		"particle": "ssbrc:miscellaneous/empty"
+	}
+}

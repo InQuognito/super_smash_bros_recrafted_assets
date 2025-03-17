@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/player/alex/full",
+	"textures": {
+		"base": "ssbrc:developer/orionbrigade"
+	}
+}

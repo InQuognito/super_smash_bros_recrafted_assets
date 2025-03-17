@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/fox/item/reflector/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/fox/item/reflector/default"
+	}
+}

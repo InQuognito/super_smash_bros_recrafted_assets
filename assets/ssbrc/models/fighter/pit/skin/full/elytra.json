@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/player/elytra",
+	"textures": {
+		"elytra": "ssbrc:fighter/pit/skin/elytra"
+	}
+}

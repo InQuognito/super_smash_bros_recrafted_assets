@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/samus/phazon_suit" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/samus/phazon_suit" }
+		]
+	}
+}

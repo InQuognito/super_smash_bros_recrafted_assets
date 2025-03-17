@@ -1,0 +1,103 @@
+{
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/magnemite/default",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.49, 4.99, 6.99],
+			"to": [9.51, 11.01, 9.01],
+			"faces": {
+				"north": {
+					"uv": [7, 1, 6.5, 4],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [7.5, 1, 7, 4],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [8, 1, 7.5, 4],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [6.5, 1, 6, 4],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [6.5, 1, 7, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [7, 0, 7.5, 1],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [9, 9, 7],
+			"to": [15, 11, 9],
+			"faces": {
+				"north": {
+					"uv": [10, 3, 8.5, 4],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [10.5, 3, 10, 4],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [12, 3, 10.5, 4],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [8.5, 3, 8, 4],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [8.5, 3, 10, 2],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [10, 2, 11.5, 3],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [9, 5, 7],
+			"to": [15, 7, 9],
+			"faces": {
+				"north": {
+					"uv": [14, 3, 12.5, 4],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [14.5, 3, 14, 4],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [16, 3, 14.5, 4],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [12.5, 3, 12, 4],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [12.5, 3, 14, 2],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [14, 2, 15.5, 3],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

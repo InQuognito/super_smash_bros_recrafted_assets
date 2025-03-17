@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/shadow/item/sword/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/shadow/item/sword/gold"
+	}
+}

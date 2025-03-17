@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/head",
-	"textures": {
-		"base": "ssbrc:stages/wily_castle/armor_stands/guts_man"
-	}
-}

@@ -1,8 +1,0 @@
-{
-	"parent": "ssbrc:fighters/samus/skins/parent_full",
-	"textures": {
-		"base": "ssbrc:fighters/samus/skins/gold",
-		"arm_cannon_body": "ssbrc:fighters/samus/items/arm_cannon/power_beam/gold",
-		"arm_cannon_energy": "ssbrc:fighters/samus/items/arm_cannon/power_beam/energy/gold"
-	}
-}

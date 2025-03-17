@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/shovel_knight/item/shovel_blade/parent/default",
+	"textures": {
+		"base": "ssbrc:fighter/shovel_knight/item/shovel_blade/armor_of_chaos"
+	}
+}

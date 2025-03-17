@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/arm_right/alex",
-	"textures": {
-		"base": "ssbrc:stages/magicant/armor_stands/jeff"
-	}
-}

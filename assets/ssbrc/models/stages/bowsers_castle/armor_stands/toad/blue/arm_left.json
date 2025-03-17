@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/arm_left/steve",
-	"textures": {
-		"base": "ssbrc:stages/bowsers_castle/armor_stands/toad/blue"
-	}
-}

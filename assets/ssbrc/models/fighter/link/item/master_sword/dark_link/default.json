@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/link/item/master_sword/parent/default",
+	"textures": {
+		"layer0": "ssbrc:fighter/link/item/master_sword/dark_link/default"
+	}
+}

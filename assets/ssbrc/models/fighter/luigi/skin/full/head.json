@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/mario/skin/full/head",
+	"textures": {
+		"base": "ssbrc:fighter/luigi/skin/full"
+	}
+}

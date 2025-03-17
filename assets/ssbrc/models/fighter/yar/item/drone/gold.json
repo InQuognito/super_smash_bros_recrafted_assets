@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/yar/item/drone/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/yar/item/drone/gold"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/link/zora_tunic" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/link/zora_tunic" }
+		]
+	}
+}

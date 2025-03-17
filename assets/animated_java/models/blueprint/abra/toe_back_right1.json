@@ -1,0 +1,43 @@
+{
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/abra/default",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.5, 7, 8],
+			"to": [8.5, 8, 10],
+			"faces": {
+				"north": {
+					"uv": [13.25, 15, 13.5, 15.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [12.75, 15, 13.25, 15.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [14, 15, 14.25, 15.5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [13.5, 15, 14, 15.5],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [13.5, 15, 13.25, 14],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [13.75, 14, 13.5, 15],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/dugtrio/default",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [6.99, 6.99, 7.49],
+			"to": [9.01, 9.01, 8.51],
+			"faces": {
+				"north": {
+					"uv": [2.75, 0.5, 3, 1],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [2.625, 0.5, 2.75, 1],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [3.125, 0.5, 3.375, 1],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [3, 0.5, 3.125, 1],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [3, 0.5, 2.75, 0.25],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [3.25, 0.25, 3, 0.5],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

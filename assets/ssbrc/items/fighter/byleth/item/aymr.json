@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "minecraft:condition",
+		"property": "minecraft:component",
+		"predicate": "minecraft:custom_data",
+		"value": {
+			"awakened": "true"
+		},
+		"on_true": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/byleth/item/aymr/awakened"
+		},
+		"on_false": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/byleth/item/aymr/default"
+		}
+	},
+	"hand_animation_on_swap": false
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/player/head",
+	"textures": {
+		"base": "ssbrc:stage/green_hill_zone/armor_stands/charmy"
+	}
+}

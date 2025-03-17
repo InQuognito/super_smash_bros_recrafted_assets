@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/byleth/item/areadbhar/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/byleth/item/areadbhar/awakened"
+	}
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/head",
-	"textures": {
-		"base": "ssbrc:fighters/hero/skins/default/default"
-	}
-}

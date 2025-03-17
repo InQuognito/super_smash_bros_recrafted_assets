@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/rob/famicom" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/rob/famicom" }
+		]
+	}
+}

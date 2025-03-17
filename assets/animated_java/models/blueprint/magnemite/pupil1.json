@@ -1,0 +1,43 @@
+{
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/magnemite/default",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.5, 7.5, 8.08],
+			"to": [8.5, 8.5, 8.08],
+			"faces": {
+				"north": {
+					"uv": [10, 4, 10.25, 4.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [10, 4, 10, 4.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [10.25, 4, 10.5, 4.5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [10.25, 4, 10.25, 4.5],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [10.25, 4, 10, 4],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [10.5, 4, 10.25, 4],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

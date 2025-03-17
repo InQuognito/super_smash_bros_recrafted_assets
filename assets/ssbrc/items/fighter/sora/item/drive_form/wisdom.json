@@ -1,0 +1,25 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": {
+					"strings": [
+						"timeless_river"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/sora/item/drive_form/wisdom/timeless_river"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/sora/item/drive_form/wisdom/default"
+		}
+	},
+	"hand_animation_on_swap": false
+}

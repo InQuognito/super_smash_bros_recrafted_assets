@@ -1,0 +1,7 @@
+{
+	"parent": "ssbrc:template/item/hud",
+	"textures": {
+		"base": "ssbrc:fighter/ryu/item/satsui_no_hado_rage",
+		"particle": "ssbrc:miscellaneous/empty"
+	}
+}

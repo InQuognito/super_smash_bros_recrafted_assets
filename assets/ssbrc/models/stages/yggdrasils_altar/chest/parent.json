@@ -1,7 +1,0 @@
-{
-	"textures": {
-		"0": "minecraft:block/gold_block",
-		"1": "minecraft:block/red_wool",
-		"2": "ssbrc:stages/yggdrasils_altar/chest"
-	}
-}

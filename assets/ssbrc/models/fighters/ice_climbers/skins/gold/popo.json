@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/head",
-	"textures": {
-		"base": "ssbrc:fighters/ice_climbers/skins/gold/popo"
-	}
-}

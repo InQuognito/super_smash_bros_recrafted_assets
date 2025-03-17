@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/head",
-	"textures": {
-		"base": "ssbrc:fighters/terry/skins/mark_of_the_wolves"
-	}
-}

@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/pit/default" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/pit/default" }
+		]
+	}
+}

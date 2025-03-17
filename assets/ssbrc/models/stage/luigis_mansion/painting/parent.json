@@ -1,0 +1,31 @@
+{
+	"textures": {
+		"particle": "ssbrc:miscellaneous/empty"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 7.5],
+			"to": [16, 16, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#base"},
+				"east": {"uv": [16, 0, 15.93725, 16], "texture": "#base"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#base"},
+				"west": {"uv": [0, 0, 0.06275, 16], "texture": "#base"},
+				"up": {"uv": [0, 0, 16, 0.06275], "texture": "#base"},
+				"down": {"uv": [0, 16, 16, 15.93725], "texture": "#base"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -17.5, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 0, -46],
+			"scale": [2, 2, 2]
+		}
+	}
+}

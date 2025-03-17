@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/shovel_knight/armor_of_chaos" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/shovel_knight/armor_of_chaos" }
+		]
+	}
+}

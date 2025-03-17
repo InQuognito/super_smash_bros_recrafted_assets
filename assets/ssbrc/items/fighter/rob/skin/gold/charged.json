@@ -1,0 +1,15 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/rob/skin/accessory/indicator/charged"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/rob/skin/gold"
+			}
+		]
+	}
+}

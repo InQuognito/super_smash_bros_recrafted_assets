@@ -1,0 +1,163 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": {
+					"strings": [
+						"gold"
+					]
+				},
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:component",
+					"component": "minecraft:custom_model_data",
+					"cases": [
+						{
+							"when": {
+								"floats": [
+									1.0
+								]
+							},
+							"model": {
+								"type": "minecraft:model",
+								"model": "ssbrc:fighter/rob/item/robo_beam/gold/ready"
+							}
+						},
+						{
+							"when": {
+								"floats": [
+									2.0
+								]
+							},
+							"model": {
+								"type": "minecraft:model",
+								"model": "ssbrc:fighter/rob/item/robo_beam/gold/charged"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/rob/item/robo_beam/gold/default"
+					}
+				}
+			},
+			{
+				"when": {
+					"strings": [
+						"ancient_minister"
+					]
+				},
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:component",
+					"component": "minecraft:custom_model_data",
+					"cases": [
+						{
+							"when": {
+								"floats": [
+									1.0
+								]
+							},
+							"model": {
+								"type": "minecraft:model",
+								"model": "ssbrc:fighter/rob/item/robo_beam/ancient_minister/ready"
+							}
+						},
+						{
+							"when": {
+								"floats": [
+									2.0
+								]
+							},
+							"model": {
+								"type": "minecraft:model",
+								"model": "ssbrc:fighter/rob/item/robo_beam/ancient_minister/charged"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/rob/item/robo_beam/ancient_minister/default"
+					}
+				}
+			},
+			{
+				"when": {
+					"strings": [
+						"famicom"
+					]
+				},
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:component",
+					"component": "minecraft:custom_model_data",
+					"cases": [
+						{
+							"when": {
+								"floats": [
+									1.0
+								]
+							},
+							"model": {
+								"type": "minecraft:model",
+								"model": "ssbrc:fighter/rob/item/robo_beam/famicom/ready"
+							}
+						},
+						{
+							"when": {
+								"floats": [
+									2.0
+								]
+							},
+							"model": {
+								"type": "minecraft:model",
+								"model": "ssbrc:fighter/rob/item/robo_beam/famicom/charged"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/rob/item/robo_beam/famicom/default"
+					}
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:select",
+			"property": "minecraft:component",
+			"component": "minecraft:custom_model_data",
+			"cases": [
+				{
+					"when": {
+						"floats": [
+							1.0
+						]
+					},
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/rob/item/robo_beam/default/ready"
+					}
+				},
+				{
+					"when": {
+						"floats": [
+							2.0
+						]
+					},
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/rob/item/robo_beam/default/charged"
+					}
+				}
+			],
+			"fallback": {
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/rob/item/robo_beam/default/default"
+			}
+		}
+	},
+	"hand_animation_on_swap": false
+}

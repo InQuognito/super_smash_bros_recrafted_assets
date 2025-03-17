@@ -1,0 +1,7 @@
+{
+	"parent": "ssbrc:common/super_mario_bros/toad/sitting/parent",
+	"textures": {
+		"base": "ssbrc:common/super_mario_bros/toad/color/blue",
+		"face": "ssbrc:common/super_mario_bros/toad/emotion/sad"
+	}
+}

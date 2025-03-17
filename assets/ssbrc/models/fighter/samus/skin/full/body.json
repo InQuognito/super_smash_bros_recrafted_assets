@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/player/steve/right_arm_covered",
+	"textures": {
+		"base": "ssbrc:fighter/samus/skin/full"
+	}
+}

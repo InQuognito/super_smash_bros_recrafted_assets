@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/steve",
-	"textures": {
-		"base": "ssbrc:fighters/donkey_kong/skins/gold"
-	}
-}

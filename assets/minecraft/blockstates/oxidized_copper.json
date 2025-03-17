@@ -1,7 +1,7 @@
 {
 	"variants": {
 		"": {
-			"model": "ssbrc:stages/miiverse/yeah"
+			"model": "ssbrc:stage/miiverse/yeah"
 		}
 	}
 }

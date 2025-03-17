@@ -1,0 +1,43 @@
+{
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/geodude/default",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.99, 7.49, 6.99],
+			"to": [10.01, 8.51, 8.01],
+			"faces": {
+				"north": {
+					"uv": [5.25, 6, 5.75, 6.25],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [5, 6, 5.25, 6.25],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [6, 6, 6.5, 6.25],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [5.75, 6, 6, 6.25],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [5.75, 6, 5.25, 5.75],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [6.25, 5.75, 5.75, 6],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

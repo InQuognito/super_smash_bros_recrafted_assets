@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/mega_man/star_force/air_shooter" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/mega_man/star_force/air_shooter" }
+		]
+	}
+}

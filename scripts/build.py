@@ -1,5 +1,7 @@
 import json_checks as jsync
 
+from core import *
+
 # Config
 path = jsync.path
 ext = jsync.ext
@@ -15,12 +17,18 @@ def copy_file(input, output):
 
 	print('Successfully copied ' + input + ' to ' + output + '.')
 
-jsync.length('en_us','es_mx')
+remove_file(path + 'es_ar' + ext)
+remove_file(path + 'es_cl' + ext)
+remove_file(path + 'es_ec' + ext)
+remove_file(path + 'es_es' + ext)
+remove_file(path + 'es_uy' + ext)
+remove_file(path + 'es_ve' + ext)
 
 src = 'es_mx'
-copy_file(src, 'es_ar')
-copy_file(src, 'es_cl')
-copy_file(src, 'es_ec')
-copy_file(src, 'es_es')
-copy_file(src, 'es_uy')
-copy_file(src, 'es_ve')
+if jsync.compare(source, target):
+	copy_file(src, 'es_ar')
+	copy_file(src, 'es_cl')
+	copy_file(src, 'es_ec')
+	copy_file(src, 'es_es')
+	copy_file(src, 'es_uy')
+	copy_file(src, 'es_ve')

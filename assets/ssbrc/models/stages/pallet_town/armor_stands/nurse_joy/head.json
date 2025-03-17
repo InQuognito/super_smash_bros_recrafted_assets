@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:template/head",
-	"textures": {
-		"base": "ssbrc:stages/pallet_town/armor_stands/nurse_joy"
-	}
-}

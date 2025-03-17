@@ -1,0 +1,15 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/rob/skin/full/indicator"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/rob/skin/full/body"
+			}
+		]
+	}
+}

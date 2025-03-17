@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:stage/pac_maze/ghost/parent/4",
+	"textures": {
+		"base": "ssbrc:stage/pac_maze/ghost/pinky"
+	}
+}

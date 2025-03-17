@@ -1,0 +1,13 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/byleth/default/male" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/byleth/default/male" }
+		],
+		"horse_body": [
+			{ "texture": "ssbrc:fighter/byleth/default" }
+		]
+	}
+}

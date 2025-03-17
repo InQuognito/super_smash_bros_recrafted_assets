@@ -1,0 +1,7 @@
+{
+	"parent": "ssbrc:fighter/donkey_kong/item/barrel/parent",
+	"textures": {
+		"base": "ssbrc:fighter/donkey_kong/item/barrel/gold",
+		"particle": "ssbrc:fighter/donkey_kong/item/barrel/gold"
+	}
+}

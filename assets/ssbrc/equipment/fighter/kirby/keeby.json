@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/kirby/keeby" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/kirby/keeby" }
+		]
+	}
+}

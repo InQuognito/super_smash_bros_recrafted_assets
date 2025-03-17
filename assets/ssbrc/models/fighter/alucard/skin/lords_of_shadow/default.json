@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/fighter/head",
+	"textures": {
+		"base": "ssbrc:fighter/alucard/skin/lords_of_shadow/default"
+	}
+}

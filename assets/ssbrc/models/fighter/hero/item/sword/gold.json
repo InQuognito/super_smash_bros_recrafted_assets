@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/hero/item/sword/default/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/hero/item/sword/gold"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"parent": "ssbrc:fighter/shovel_knight/item/throwing_anchor/parent",
+	"textures": {
+		"base": "ssbrc:fighter/shovel_knight/item/throwing_anchor/disabled"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.0, 0.0, 0.0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.0, 0.0, 0.0]
+		},
+		"firstperson_righthand": {
+			"scale": [0.0, 0.0, 0.0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.0, 0.0, 0.0]
+		},
+		"gui": {
+			"rotation": [-20, 0, -45],
+			"translation": [-1, -1, 0],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}

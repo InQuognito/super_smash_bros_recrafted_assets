@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:pokemon/abra/parent",
-	"textures": {
-		"base": "ssbrc:pokemon/abra/shiny"
-	}
-}

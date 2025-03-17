@@ -1,0 +1,25 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": {
+					"strings": [
+						"victor"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/pokemon_trainer/item/knock_off/victor"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/netherite_sword"
+		}
+	},
+	"hand_animation_on_swap": false
+}

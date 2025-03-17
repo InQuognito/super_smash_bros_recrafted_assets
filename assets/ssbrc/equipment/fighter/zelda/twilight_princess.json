@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/zelda/twilight_princess" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/zelda/twilight_princess" }
+		]
+	}
+}

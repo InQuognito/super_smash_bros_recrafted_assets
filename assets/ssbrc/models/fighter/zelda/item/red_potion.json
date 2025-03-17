@@ -1,0 +1,17 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "ssbrc:fighter/zelda/item/red_potion",
+		"particle": "ssbrc:miscellaneous/empty"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2, 1],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2, 1],
+			"scale": [0.4, 0.4, 0.4]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/magnemite/nail_left_rotation1",
+	"textures": {
+		"0": "ssbrc:common/pokemon/pokemon/magnemite/shiny"
+	}
+}

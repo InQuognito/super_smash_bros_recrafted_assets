@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/wolf/item/wolf_slash/parent/left",
+	"textures": {
+		"base": "ssbrc:fighter/wolf/item/wolf_slash/gold"
+	}
+}

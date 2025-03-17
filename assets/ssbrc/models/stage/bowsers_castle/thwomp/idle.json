@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:stage/bowsers_castle/thwomp/parent",
+	"textures": {
+		"base": "ssbrc:stage/bowsers_castle/thwomp/idle"
+	}
+}

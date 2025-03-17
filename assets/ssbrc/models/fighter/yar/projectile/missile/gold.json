@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/yar/projectile/missile/parent",
+	"textures": {
+		"base": "ssbrc:fighter/yar/projectile/missile/gold"
+	}
+}

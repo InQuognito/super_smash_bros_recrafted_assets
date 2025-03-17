@@ -1,7 +1,0 @@
-{
-	"parent": "ssbrc:fighters/samus/items/arm_cannon/plasma_beam/parent",
-	"textures": {
-		"body": "ssbrc:fighters/samus/items/arm_cannon/plasma_beam/default",
-		"energy": "ssbrc:fighters/samus/items/arm_cannon/plasma_beam/energy/default"
-	}
-}

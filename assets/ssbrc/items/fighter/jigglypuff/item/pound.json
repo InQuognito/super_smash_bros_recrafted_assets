@@ -1,0 +1,25 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": {
+					"strings": [
+						"shiny"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:common/pokemon/shiny_baton"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/iron_axe"
+		}
+	},
+	"hand_animation_on_swap": false
+}

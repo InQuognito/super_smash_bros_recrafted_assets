@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:pokemon/magnemite/parent_arms",
-	"textures": {
-		"base": "ssbrc:pokemon/magnemite/default"
-	}
-}

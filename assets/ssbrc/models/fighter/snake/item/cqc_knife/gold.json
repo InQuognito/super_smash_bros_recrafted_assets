@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/snake/item/cqc_knife/parent",
+	"textures": {
+		"layer0": "ssbrc:fighter/snake/item/cqc_knife/gold"
+	}
+}
