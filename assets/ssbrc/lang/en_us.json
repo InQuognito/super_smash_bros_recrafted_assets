@@ -280,6 +280,13 @@
 	"ssbrc.options.blind_pick": "Blind Pick",
 	"ssbrc.options.blind_pick.description": "When enabled, players will not be able to see the fighter recieved when selecting random.",
 
+	"ssbrc.options.items": "Items",
+	"ssbrc.options.items.description": "When enabled, various items will spawn on the battlefield.",
+
+	"ssbrc.options.item_rate": "Item Rate",
+	"ssbrc.options.item_rate.description": "Controls how often items will appear.",
+	"ssbrc.options.item_rate.fixed.description": "Only stage-related items will spawn.",
+
 	"ssbrc.options.friendly_fire": "Friendly Fire",
 	"ssbrc.options.friendly_fire.description": "When enabled, players will be able to hurt teammates and NPCs under their control.",
 
@@ -387,6 +394,8 @@
 	"ssbrc.music.mario_paint_medley": "Mario Paint Medley",
 	"ssbrc.music.nintendo_land_medley": "Nintendo Land Medley",
 	"ssbrc.music.super_mario_bros_main_theme": "Super Mario Bros. Main Theme",
+	"ssbrc.fish.blooper": "Blooper",
+	"ssbrc.fish.cheep_cheep": "Cheep Cheep",
 
 	"ssbrc.fighter.donkey_kong": "Donkey Kong",
 	"ssbrc.skin.super_kong": "Super Kong",
@@ -411,6 +420,7 @@
 	"ssbrc.music.jungle_japes_melee": "Jungle Japes (Melee)",
 	"ssbrc.music.jungle_swing": "Jungle Swing",
 	"ssbrc.music.stickerbrush_symphony": "Stickerbrush Symphony",
+	"ssbrc.fish.puftup": "Puftup",
 
 	"ssbrc.series.the_legend_of_zelda": "The Legend of Zelda",
 	"ssbrc.fighter.the_legend_of_zelda.boomerang": "Boomerang",
@@ -540,6 +550,7 @@
 	"ssbrc.music.legend_of_zelda_main_theme": "Legend of Zelda Main Theme",
 	"ssbrc.music.rescue_operation": "Rescue Operation",
 	"ssbrc.music.termina_field": "Termina Field",
+	"ssbrc.fish.hylian_loach": "Hylian Loach",
 
 	"ssbrc.series.metroid": "Metroid",
 	"ssbrc.fighter.samus": "Samus",
@@ -587,6 +598,7 @@
 	"ssbrc.stage.dream_land": "Dream Land",
 	"ssbrc.music.checker_knights": "Checker Knights",
 	"ssbrc.music.planet_popstar": "Planet Popstar",
+	"ssbrc.fish.blipper": "Blipper",
 
 	"ssbrc.series.star_fox": "Star Fox",
 	"ssbrc.fighter.star_fox.blaster": "Blaster",
@@ -722,6 +734,7 @@
 	"ssbrc.music.road_to_viridian_city": "Road to Viridian City",
 	"ssbrc.music.team_galactic_battle": "Team Galactic Battle",
 	"ssbrc.music.trainer_battle_pokemon_gold_silver": "Trainer Battle! (Pokémon Gold / Silver)",
+	"ssbrc.fish.magikarp": "Magikarp",
 
 	"ssbrc.series.earthbound": "Earthbound",
 	"ssbrc.fighter.earthbound.alpha": " α",
@@ -843,6 +856,7 @@
 	"ssbrc.stage.palutenas_temple": "Palutena's Temple",
 	"ssbrc.music.dark_pits_theme": "Dark Pit's Theme",
 	"ssbrc.music.destroyed_skyworld": "Destroyed Skyworld",
+	"ssbrc.fish.treasurefish": "Treasurefish",
 
 	"ssbrc.series.metal_gear": "Metal Gear",
 	"ssbrc.fighter.snake": "Snake",
@@ -934,10 +948,12 @@
 	"ssbrc.stage.green_hill_zone": "Green Hill Zone",
 	"ssbrc.music.green_hill_zone_sonic_adventure_2": "Green Hill Zone (Sonic Adventure 2)",
 	"ssbrc.music.green_hill_zone_sonic_mania": "Green Hill Zone (Sonic Mania)",
+	"ssbrc.fish.chopper": "Chopper",
 
 	"ssbrc.series.pikmin": "Pikmin",
 	"ssbrc.stage.garden_of_hope": "Garden of Hope",
 	"ssbrc.music.forest_of_hope": "Forest of Hope",
+	"ssbrc.fish.wogpole": "Wogpole",
 
 	"ssbrc.series.nes_robot": "NES Robot",
 	"ssbrc.fighter.rob": "R.O.B.",
@@ -1129,6 +1145,7 @@
 	"ssbrc.stage.yggdrasils_altar": "Yggdrasil's Altar",
 	"ssbrc.music.battle_for_glory": "Battle for Glory",
 	"ssbrc.music.the_hero_goes_forth_with_a_determination": "The Hero Goes Forth with a Determination",
+	"ssbrc.fish.aqua_slime": "Aqua Slime",
 
 	"ssbrc.series.minecraft": "Minecraft",
 	"ssbrc.fighter.steve": "Steve",
@@ -1146,6 +1163,8 @@
 	"ssbrc.fighter.steve.discard_item": "Discarded.",
 	"ssbrc.fighter.steve.pickaxe.description.1": "] to mine for items",
 	"ssbrc.fighter.steve.pickaxe.description.2": "- Taking damage will interrupt mining",
+	"ssbrc.fish.cod": "Cod",
+	"ssbrc.fish.salmon": "Salmon",
 
 	"ssbrc.series.kingdom_hearts": "Kingdom Hearts",
 	"ssbrc.fighter.sora": "Sora",
@@ -1187,6 +1206,7 @@
 	"ssbrc.fighter.sora.wisdom_form.description.3": "Increases magic regeneration",
 	"ssbrc.fighter.sora.wisdom_form.description.4": "Increases movement speed",
 	"ssbrc.fighter.sora.wisdom_form.description.5": "Reduced attack damage",
+	"ssbrc.fish.sea_neon": "Sea Neon",
 
 	"ssbrc.fighter.shovel_knight": "Shovel Knight",
 	"ssbrc.skin.armor_of_chaos": "Armor of Chaos",
@@ -1212,6 +1232,7 @@
 	"ssbrc.stage.tower_of_fate": "Tower of Fate",
 	"ssbrc.music.hitting_close_to_home": "Hitting Close to Home",
 	"ssbrc.music.the_fateful_return": "The Fateful Return",
+	"ssbrc.fish.troupple": "Troupple",
 
 	"ssbrc.fighter.altered_beast": "Altered Beast",
 	"ssbrc.fighter.altered_beast.spirit": "Spirit: ",

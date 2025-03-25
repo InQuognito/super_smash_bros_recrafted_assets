@@ -1,0 +1,24 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "ssbrc:item/deaths_scythe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, -90, 0],
+			"translation": [0, 4.25, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, 90, 0],
+			"translation": [0, 4.25, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [45, -90, 0],
+			"translation": [1.5, 4, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [45, 90, 0],
+			"translation": [1.5, 4, 0]
+		}
+	}
+}

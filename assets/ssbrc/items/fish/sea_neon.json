@@ -1,0 +1,13 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "minecraft:item/squid_spawn_egg",
+		"tints": [
+			{
+				"type": "minecraft:constant",
+				"value": 36095
+			}
+		]
+	},
+	"hand_animation_on_swap": false
+}

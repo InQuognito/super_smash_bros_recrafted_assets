@@ -2090,15 +2090,6 @@
 			}
 		]
 	},
-	"fighter.yar.ray_blaster.activate": {
-		"sounds":[
-			{
-				"name":"ssbrc:fighter/yar/ray_blaster/activate",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
 	"fighter.yar.gatling_gun.activate": {
 		"sounds":[
 			{
@@ -2252,28 +2243,73 @@
 			}
 		]
 	},
-	"items.angel_feather.activate": {
+	"item.angel_feather.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:items/angel_feather/activate",
+				"name":"ssbrc:item/angel_feather/activate",
 				"stream": false,
 				"volume": 1.0
 			}
 		]
 	},
-	"items.angel_feather.jump": {
+	"item.angel_feather.jump": {
 		"sounds":[
 			{
-				"name":"ssbrc:items/angel_feather/jump",
+				"name":"ssbrc:item/angel_feather/jump",
 				"stream": false,
 				"volume": 1.0
 			}
 		]
 	},
-	"items.poke_ball.open": {
+	"item.black_hole.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:items/poke_ball/open",
+				"name":"ssbrc:item/black_hole/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"item.mushroom.grow": {
+		"sounds":[
+			{
+				"name":"ssbrc:item/mushroom/grow",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"item.mushroom.shrink": {
+		"sounds":[
+			{
+				"name":"ssbrc:item/mushroom/shrink",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"item.poke_ball.open": {
+		"sounds":[
+			{
+				"name":"ssbrc:item/poke_ball/open",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"item.ray_gun.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:item/ray_gun/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"item.special_flag.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:item/special_flag/activate",
 				"stream": false,
 				"volume": 1.0
 			}

@@ -1,0 +1,13 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "minecraft:item/chest",
+		"tints": [
+			{
+				"type": "minecraft:constant",
+				"value": 16767232
+			}
+		]
+	},
+	"hand_animation_on_swap": false
+}

@@ -1,0 +1,13 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "minecraft:item/slime_spawn_egg",
+		"tints": [
+			{
+				"type": "minecraft:constant",
+				"value": 42985
+			}
+		]
+	},
+	"hand_animation_on_swap": false
+}
