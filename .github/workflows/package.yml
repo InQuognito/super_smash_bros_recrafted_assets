@@ -1,0 +1,18 @@
+on: push
+name: FTP File Sync
+jobs:
+  web-deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: Get latest code
+      uses: actions/checkout@v4
+
+    - name: Upload Resourcepack
+      uses: actions/upload-artifact@v4
+      with:
+        name: ssbrc-latest
+        path: |
+            assets/
+            pack.mcmeta
+            pack.png
