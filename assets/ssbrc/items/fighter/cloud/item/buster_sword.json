@@ -15,7 +15,7 @@
 					"property": "minecraft:component",
 					"predicate": "minecraft:custom_data",
 					"value": {
-						"form": "punisher"
+						"mode": "punisher"
 					},
 					"on_true": {
 						"type": "minecraft:model",
@@ -33,7 +33,7 @@
 			"property": "minecraft:component",
 			"predicate": "minecraft:custom_data",
 			"value": {
-				"form": "punisher"
+				"mode": "punisher"
 			},
 			"on_true": {
 				"type": "minecraft:model",
