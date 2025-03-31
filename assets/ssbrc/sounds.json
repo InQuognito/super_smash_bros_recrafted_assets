@@ -2090,6 +2090,15 @@
 			}
 		]
 	},
+	"fighter.yar.drone.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighter/yar/drone/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighter.yar.ray_blaster.activate": {
 		"sounds":[
 			{
