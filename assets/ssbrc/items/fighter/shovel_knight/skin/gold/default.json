@@ -1,6 +1,15 @@
 {
 	"model": {
-		"type": "minecraft:model",
-		"model": "ssbrc:fighter/shovel_knight/skin/gold"
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/shovel_knight/skin/gold"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/shovel_knight/skin/accessory/horns/gold"
+			}
+		]
 	}
 }
