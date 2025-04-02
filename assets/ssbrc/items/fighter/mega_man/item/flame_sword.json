@@ -18,7 +18,7 @@
 							"when": "gui",
 							"model": {
 								"type": "minecraft:model",
-								"model": "ssbrc:fighter/mega_man/misc/flame_sword"
+								"model": "ssbrc:fighter/mega_man/misc/flame_sword/star_force"
 							}
 						}
 					],
@@ -37,7 +37,7 @@
 					"when": "gui",
 					"model": {
 						"type": "minecraft:model",
-						"model": "ssbrc:fighter/mega_man/misc/flame_sword"
+						"model": "ssbrc:fighter/mega_man/misc/flame_sword/default"
 					}
 				}
 			],
