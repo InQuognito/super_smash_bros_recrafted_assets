@@ -86,6 +86,6 @@ def get_texture(fighter, skin, form=''):
 			result += f'/{form}'
 	return result
 
-def js_write(file, str):
+def js_write(file, str, n):
 	'''Write to file, JSON format.'''
-	file.write(str + '\n')
+	file.write(str + ('\n' * (n + 1)))
