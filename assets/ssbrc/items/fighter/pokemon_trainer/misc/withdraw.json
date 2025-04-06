@@ -7,6 +7,17 @@
 			{
 				"when": {
 					"strings": [
+						"default"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/pokemon_trainer/misc/squirtle_shell/default"
+				}
+			},
+			{
+				"when": {
+					"strings": [
 						"gold"
 					]
 				},
@@ -29,7 +40,7 @@
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "ssbrc:fighter/pokemon_trainer/misc/squirtle_shell/default"
+			"model": "ssbrc:common/pokemon/clam/closed"
 		}
 	},
 	"hand_animation_on_swap": false
