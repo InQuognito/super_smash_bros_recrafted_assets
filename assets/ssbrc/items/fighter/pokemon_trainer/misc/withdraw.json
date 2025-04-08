@@ -1,37 +1,24 @@
 {
 	"model": {
 		"type": "minecraft:select",
-		"property": "minecraft:component",
-		"component": "minecraft:custom_model_data",
+		"property": "minecraft:custom_model_data",
 		"cases": [
 			{
-				"when": {
-					"strings": [
-						"default"
-					]
-				},
+				"when": "default",
 				"model": {
 					"type": "minecraft:model",
 					"model": "ssbrc:fighter/pokemon_trainer/misc/squirtle_shell/default"
 				}
 			},
 			{
-				"when": {
-					"strings": [
-						"gold"
-					]
-				},
+				"when": "gold",
 				"model": {
 					"type": "minecraft:model",
 					"model": "ssbrc:fighter/pokemon_trainer/misc/squirtle_shell/gold"
 				}
 			},
 			{
-				"when": {
-					"strings": [
-						"shiny"
-					]
-				},
+				"when": "shiny",
 				"model": {
 					"type": "minecraft:model",
 					"model": "ssbrc:fighter/pokemon_trainer/misc/squirtle_shell/shiny"

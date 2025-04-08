@@ -1,26 +1,17 @@
 {
 	"model": {
 		"type": "minecraft:select",
-		"property": "minecraft:component",
-		"component": "minecraft:custom_model_data",
+		"property": "minecraft:custom_model_data",
 		"cases": [
 			{
-				"when": {
-					"strings": [
-						"gold"
-					]
-				},
+				"when": "gold",
 				"model": {
 					"type": "minecraft:model",
 					"model": "ssbrc:fighter/alucard/item/sword/gold"
 				}
 			},
 			{
-				"when": {
-					"strings": [
-						"lords_of_shadow"
-					]
-				},
+				"when": "lords_of_shadow",
 				"model": {
 					"type": "minecraft:model",
 					"model": "ssbrc:fighter/alucard/item/sword/lords_of_shadow"

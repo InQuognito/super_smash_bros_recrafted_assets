@@ -1,15 +1,10 @@
 {
 	"model": {
 		"type": "minecraft:select",
-		"property": "minecraft:component",
-		"component": "minecraft:custom_model_data",
+		"property": "minecraft:custom_model_data",
 		"cases": [
 			{
-				"when": {
-					"strings": [
-						"victor"
-					]
-				},
+				"when": "victor",
 				"model": {
 					"type": "minecraft:model",
 					"model": "ssbrc:fighter/pokemon_trainer/item/knock_off/victor"

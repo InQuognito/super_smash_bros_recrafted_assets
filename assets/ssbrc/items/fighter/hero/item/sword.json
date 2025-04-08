@@ -1,15 +1,10 @@
 {
 	"model": {
 		"type": "minecraft:select",
-		"property": "minecraft:component",
-		"component": "minecraft:custom_model_data",
+		"property": "minecraft:custom_model_data",
 		"cases": [
 			{
-				"when": {
-					"strings": [
-						"gold"
-					]
-				},
+				"when": "gold",
 				"model": {
 					"type": "minecraft:condition",
 					"property": "minecraft:component",
@@ -28,11 +23,7 @@
 				}
 			},
 			{
-				"when": {
-					"strings": [
-						"rek"
-					]
-				},
+				"when": "rek",
 				"model": {
 					"type": "minecraft:condition",
 					"property": "minecraft:component",
@@ -51,11 +42,7 @@
 				}
 			},
 			{
-				"when": {
-					"strings": [
-						"sofia"
-					]
-				},
+				"when": "sofia",
 				"model": {
 					"type": "minecraft:condition",
 					"property": "minecraft:component",
@@ -74,11 +61,7 @@
 				}
 			},
 			{
-				"when": {
-					"strings": [
-						"solo"
-					]
-				},
+				"when": "solo",
 				"model": {
 					"type": "minecraft:condition",
 					"property": "minecraft:component",

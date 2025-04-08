@@ -1,26 +1,17 @@
 {
 	"model": {
 		"type": "minecraft:select",
-		"property": "minecraft:component",
-		"component": "minecraft:custom_model_data",
+		"property": "minecraft:custom_model_data",
 		"cases": [
 			{
-				"when": {
-					"strings": [
-						"gold"
-					]
-				},
+				"when": "gold",
 				"model": {
 					"type": "minecraft:model",
 					"model": "ssbrc:fighter/shadow/item/sword/gold"
 				}
 			},
 			{
-				"when": {
-					"strings": [
-						"sir_lancelot"
-					]
-				},
+				"when": "sir_lancelot",
 				"model": {
 					"type": "minecraft:model",
 					"model": "ssbrc:fighter/shadow/item/sword/sir_lancelot"

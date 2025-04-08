@@ -1,48 +1,31 @@
 {
 	"model": {
 		"type": "minecraft:select",
-		"property": "minecraft:component",
-		"component": "minecraft:custom_model_data",
+		"property": "minecraft:custom_model_data",
 		"cases": [
 			{
-				"when": {
-					"strings": [
-						"gold"
-					]
-				},
+				"when": "gold",
 				"model": {
 					"type": "minecraft:model",
 					"model": "ssbrc:fighter/ganondorf/item/sword/gold"
 				}
 			},
 			{
-				"when": {
-					"strings": [
-						"ocarina_of_time"
-					]
-				},
+				"when": "ocarina_of_time",
 				"model": {
 					"type": "minecraft:model",
 					"model": "ssbrc:fighter/ganondorf/item/sword/ocarina_of_time"
 				}
 			},
 			{
-				"when": {
-					"strings": [
-						"tears_of_the_kingdom"
-					]
-				},
+				"when": "tears_of_the_kingdom",
 				"model": {
 					"type": "minecraft:model",
 					"model": "ssbrc:fighter/ganondorf/item/sword/tears_of_the_kingdom"
 				}
 			},
 			{
-				"when": {
-					"strings": [
-						"wind_waker"
-					]
-				},
+				"when": "wind_waker",
 				"model": {
 					"type": "minecraft:model",
 					"model": "ssbrc:fighter/ganondorf/item/sword/wind_waker"

@@ -1,15 +1,10 @@
 {
 	"model": {
 		"type": "minecraft:select",
-		"property": "minecraft:component",
-		"component": "minecraft:custom_model_data",
+		"property": "minecraft:custom_model_data",
 		"cases": [
 			{
-				"when": {
-					"strings": [
-						"blood_falcon"
-					]
-				},
+				"when": "blood_falcon",
 				"model": {
 					"type": "minecraft:model",
 					"model": "ssbrc:fighter/captain_falcon/item/falcon_punch/blood_falcon"
