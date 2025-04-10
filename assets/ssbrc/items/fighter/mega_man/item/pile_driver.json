@@ -15,11 +15,25 @@
 								"type": "minecraft:model",
 								"model": "ssbrc:fighter/mega_man/misc/pile_driver/star_force"
 							}
+						},
+						{
+							"when": "firstperson_lefthand",
+							"model": {
+								"type": "minecraft:model",
+								"model": "ssbrc:fighter/mega_man/item/pile_driver/star_force/left"
+							}
+						},
+						{
+							"when": "thirdperson_lefthand",
+							"model": {
+								"type": "minecraft:model",
+								"model": "ssbrc:fighter/mega_man/item/pile_driver/star_force/left"
+							}
 						}
 					],
 					"fallback": {
 						"type": "minecraft:model",
-						"model": "ssbrc:fighter/mega_man/item/pile_driver/star_force"
+						"model": "ssbrc:fighter/mega_man/item/pile_driver/star_force/default"
 					}
 				}
 			}
