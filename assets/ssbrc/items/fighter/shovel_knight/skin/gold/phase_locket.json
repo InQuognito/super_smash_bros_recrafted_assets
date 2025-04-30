@@ -4,7 +4,7 @@
 		"models": [
 			{
 				"type": "minecraft:model",
-				"model": "ssbrc:fighter/shovel_knight/skin/default"
+				"model": "ssbrc:fighter/shovel_knight/skin/phase_locket"
 			},
 			{
 				"type": "minecraft:model",
