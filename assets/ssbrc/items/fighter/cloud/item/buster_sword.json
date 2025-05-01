@@ -1,21 +1,16 @@
 {
 	"model": {
 		"type": "minecraft:select",
-		"property": "minecraft:component",
-		"component": "minecraft:custom_model_data",
+		"property": "minecraft:custom_model_data",
 		"cases": [
 			{
-				"when": {
-					"strings": [
-						"gold"
-					]
-				},
+				"when": "gold",
 				"model": {
 					"type": "minecraft:condition",
 					"property": "minecraft:component",
 					"predicate": "minecraft:custom_data",
 					"value": {
-						"form": "punisher"
+						"mode": "punisher"
 					},
 					"on_true": {
 						"type": "minecraft:model",
@@ -33,7 +28,7 @@
 			"property": "minecraft:component",
 			"predicate": "minecraft:custom_data",
 			"value": {
-				"form": "punisher"
+				"mode": "punisher"
 			},
 			"on_true": {
 				"type": "minecraft:model",

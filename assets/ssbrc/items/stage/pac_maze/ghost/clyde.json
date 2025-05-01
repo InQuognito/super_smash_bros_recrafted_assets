@@ -1,0 +1,134 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"entries": [
+			{
+				"threshold": 2.0,
+				"model": {
+					"type": "minecraft:composite",
+					"models": [
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:stage/pac_maze/ghost/clyde/2"
+						},
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:stage/pac_maze/ghost/eyes/1"
+						}
+					]
+				}
+			},
+			{
+				"threshold": 3.0,
+				"model": {
+					"type": "minecraft:composite",
+					"models": [
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:stage/pac_maze/ghost/clyde/3"
+						},
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:stage/pac_maze/ghost/eyes/1"
+						}
+					]
+				}
+			},
+			{
+				"threshold": 4.0,
+				"model": {
+					"type": "minecraft:composite",
+					"models": [
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:stage/pac_maze/ghost/clyde/4"
+						},
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:stage/pac_maze/ghost/eyes/1"
+						}
+					]
+				}
+			},
+			{
+				"threshold": 5.0,
+				"model": {
+					"type": "minecraft:composite",
+					"models": [
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:stage/pac_maze/ghost/clyde/5"
+						},
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:stage/pac_maze/ghost/eyes/2"
+						}
+					]
+				}
+			},
+			{
+				"threshold": 6.0,
+				"model": {
+					"type": "minecraft:composite",
+					"models": [
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:stage/pac_maze/ghost/clyde/6"
+						},
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:stage/pac_maze/ghost/eyes/2"
+						}
+					]
+				}
+			},
+			{
+				"threshold": 7.0,
+				"model": {
+					"type": "minecraft:composite",
+					"models": [
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:stage/pac_maze/ghost/clyde/7"
+						},
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:stage/pac_maze/ghost/eyes/2"
+						}
+					]
+				}
+			},
+			{
+				"threshold": 8.0,
+				"model": {
+					"type": "minecraft:composite",
+					"models": [
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:stage/pac_maze/ghost/clyde/8"
+						},
+						{
+							"type": "minecraft:model",
+							"model": "ssbrc:stage/pac_maze/ghost/eyes/2"
+						}
+					]
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:composite",
+			"models": [
+				{
+					"type": "minecraft:model",
+					"model": "ssbrc:stage/pac_maze/ghost/clyde/1"
+				},
+				{
+					"type": "minecraft:model",
+					"model": "ssbrc:stage/pac_maze/ghost/eyes/1"
+				}
+			]
+		}
+	},
+	"hand_animation_on_swap": false
+}

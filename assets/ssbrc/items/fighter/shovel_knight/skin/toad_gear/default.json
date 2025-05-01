@@ -1,6 +1,15 @@
 {
 	"model": {
-		"type": "minecraft:model",
-		"model": "ssbrc:fighter/shovel_knight/skin/toad_gear"
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/shovel_knight/skin/toad_gear"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "ssbrc:fighter/shovel_knight/skin/accessory/horns/toad_gear"
+			}
+		]
 	}
 }

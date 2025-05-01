@@ -1,116 +1,71 @@
 {
 	"model": {
 		"type": "minecraft:select",
-		"property": "minecraft:component",
-		"component": "minecraft:custom_model_data",
+		"property": "minecraft:custom_model_data",
 		"cases": [
 			{
-				"when": {
-					"strings": [
-						"gold"
-					]
-				},
+				"when": "gold",
 				"model": {
-					"type": "minecraft:condition",
-					"property": "minecraft:keybind_down",
-					"keybind": "key.sneak",
-					"on_true": {
-						"type": "minecraft:condition",
-						"property": "minecraft:using_item",
-						"on_true": {
-							"type": "minecraft:range_dispatch",
-							"property": "minecraft:use_duration",
-							"scale": 0.025,
-							"entries": [
-								{
-									"threshold": 0.25,
-									"model": {
-										"type": "minecraft:model",
-										"model": "ssbrc:fighter/dark_samus/item/phazon_beam/gold/charge_0"
-									}
-								},
-								{
-									"threshold": 0.5,
-									"model": {
-										"type": "minecraft:model",
-										"model": "ssbrc:fighter/dark_samus/item/phazon_beam/gold/charge_1"
-									}
-								},
-								{
-									"threshold": 1.0,
-									"model": {
-										"type": "minecraft:model",
-										"model": "ssbrc:fighter/dark_samus/item/phazon_beam/gold/charge_2"
-									}
-								}
-							],
-							"fallback": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:custom_model_data",
+					"entries": [
+						{
+							"threshold": 1.0,
+							"model": {
 								"type": "minecraft:model",
-								"model": "ssbrc:fighter/dark_samus/item/phazon_beam/gold/default"
+								"model": "ssbrc:fighter/dark_samus/item/phazon_beam/gold/charge_0"
 							}
 						},
-						"on_false": {
-							"type": "minecraft:model",
-							"model": "ssbrc:fighter/dark_samus/item/phazon_beam/gold/default"
+						{
+							"threshold": 2.0,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ssbrc:fighter/dark_samus/item/phazon_beam/gold/charge_1"
+							}
+						},
+						{
+							"threshold": 3.0,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ssbrc:fighter/dark_samus/item/phazon_beam/gold/charge_2"
+							}
 						}
-					},
-					"on_false": {
+					],
+					"fallback": {
 						"type": "minecraft:model",
 						"model": "ssbrc:fighter/dark_samus/item/phazon_beam/gold/default"
 					}
 				}
 			},
 			{
-				"when": {
-					"strings": [
-						"prime_3"
-					]
-				},
+				"when": "prime_3",
 				"model": {
-					"type": "minecraft:condition",
-					"property": "minecraft:keybind_down",
-					"keybind": "key.sneak",
-					"on_true": {
-						"type": "minecraft:condition",
-						"property": "minecraft:using_item",
-						"on_true": {
-							"type": "minecraft:range_dispatch",
-							"property": "minecraft:use_duration",
-							"scale": 0.025,
-							"entries": [
-								{
-									"threshold": 0.25,
-									"model": {
-										"type": "minecraft:model",
-										"model": "ssbrc:fighter/dark_samus/item/phazon_beam/prime_3/charge_0"
-									}
-								},
-								{
-									"threshold": 0.5,
-									"model": {
-										"type": "minecraft:model",
-										"model": "ssbrc:fighter/dark_samus/item/phazon_beam/prime_3/charge_1"
-									}
-								},
-								{
-									"threshold": 1.0,
-									"model": {
-										"type": "minecraft:model",
-										"model": "ssbrc:fighter/dark_samus/item/phazon_beam/prime_3/charge_2"
-									}
-								}
-							],
-							"fallback": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:custom_model_data",
+					"entries": [
+						{
+							"threshold": 1.0,
+							"model": {
 								"type": "minecraft:model",
-								"model": "ssbrc:fighter/dark_samus/item/phazon_beam/prime_3/default"
+								"model": "ssbrc:fighter/dark_samus/item/phazon_beam/prime_3/charge_0"
 							}
 						},
-						"on_false": {
-							"type": "minecraft:model",
-							"model": "ssbrc:fighter/dark_samus/item/phazon_beam/prime_3/default"
+						{
+							"threshold": 2.0,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ssbrc:fighter/dark_samus/item/phazon_beam/prime_3/charge_1"
+							}
+						},
+						{
+							"threshold": 3.0,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ssbrc:fighter/dark_samus/item/phazon_beam/prime_3/charge_2"
+							}
 						}
-					},
-					"on_false": {
+					],
+					"fallback": {
 						"type": "minecraft:model",
 						"model": "ssbrc:fighter/dark_samus/item/phazon_beam/prime_3/default"
 					}
@@ -118,50 +73,32 @@
 			}
 		],
 		"fallback": {
-			"type": "minecraft:condition",
-			"property": "minecraft:keybind_down",
-			"keybind": "key.sneak",
-			"on_true": {
-				"type": "minecraft:condition",
-				"property": "minecraft:using_item",
-				"on_true": {
-					"type": "minecraft:range_dispatch",
-					"property": "minecraft:use_duration",
-					"scale": 0.025,
-					"entries": [
-						{
-							"threshold": 0.25,
-							"model": {
-								"type": "minecraft:model",
-								"model": "ssbrc:fighter/dark_samus/item/phazon_beam/default/charge_0"
-							}
-						},
-						{
-							"threshold": 0.5,
-							"model": {
-								"type": "minecraft:model",
-								"model": "ssbrc:fighter/dark_samus/item/phazon_beam/default/charge_1"
-							}
-						},
-						{
-							"threshold": 1.0,
-							"model": {
-								"type": "minecraft:model",
-								"model": "ssbrc:fighter/dark_samus/item/phazon_beam/default/charge_2"
-							}
-						}
-					],
-					"fallback": {
+			"type": "minecraft:range_dispatch",
+			"property": "minecraft:custom_model_data",
+			"entries": [
+				{
+					"threshold": 1.0,
+					"model": {
 						"type": "minecraft:model",
-						"model": "ssbrc:fighter/dark_samus/item/phazon_beam/default/default"
+						"model": "ssbrc:fighter/dark_samus/item/phazon_beam/default/charge_0"
 					}
 				},
-				"on_false": {
-					"type": "minecraft:model",
-					"model": "ssbrc:fighter/dark_samus/item/phazon_beam/default/default"
+				{
+					"threshold": 2.0,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/dark_samus/item/phazon_beam/default/charge_1"
+					}
+				},
+				{
+					"threshold": 3.0,
+					"model": {
+						"type": "minecraft:model",
+						"model": "ssbrc:fighter/dark_samus/item/phazon_beam/default/charge_2"
+					}
 				}
-			},
-			"on_false": {
+			],
+			"fallback": {
 				"type": "minecraft:model",
 				"model": "ssbrc:fighter/dark_samus/item/phazon_beam/default/default"
 			}

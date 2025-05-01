@@ -910,7 +910,7 @@
 	"ssbrc.fighter.sonic_the_hedgehog.acceleration": "Aceleración",
 	"ssbrc.fighter.sonic_the_hedgehog.acceleration.description.1": "- Gana impulso mientras corres",
 	"ssbrc.fighter.sonic": "Sonic",
-	"ssbrc.fighter.sonic.mania_punch": "Sonic Puñetazo",
+	"ssbrc.fighter.sonic.sonic_punch": "Sonic Puñetazo",
 	"ssbrc.skin.classic": "Classic",
 	"ssbrc.skin.werehog": "Werehog",
 	"ssbrc.skin.hylian_tunic": "Hylian Hedgehog",
@@ -1210,7 +1210,7 @@
 
 	"ssbrc.fighter.altered_beast": "Altered Beast",
 	"ssbrc.fighter.altered_beast.spirit": "Espíritu: ",
-	"ssbrc.fighter.altered_beast.centurion.gladius": "Gladius",
+	"ssbrc.fighter.altered_beast.gladius": "Gladius",
 	"ssbrc.fighter.altered_beast.spirit_orb": "Bola de espíritu",
 	"ssbrc.fighter.altered_beast.spirit_orb.description": "] para transformarse en la Bestia",
 	"ssbrc.fighter.altered_beast.mark_of_the_beast": "La marca de la bestia",
