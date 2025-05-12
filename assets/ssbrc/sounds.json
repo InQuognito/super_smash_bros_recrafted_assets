@@ -790,10 +790,10 @@
 			}
 		]
 	},
-	"fighter.hero.magic_burst.charge": {
+	"fighter.hero.magic_burst.unleash": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighter/hero/magic_burst/charge",
+				"name":"ssbrc:fighter/hero/magic_burst/unleash",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -884,25 +884,6 @@
 		"sounds":[
 			{
 				"name":"ssbrc:fighter/joker/eiagon/pool",
-				"stream": false,
-				"volume": 1.0
-			}
-		]
-	},
-	"fighter.joker.final_guard.activate": {
-		"sounds":[
-			{
-				"name":"ssbrc:fighter/joker/final_guard/activate/1",
-				"stream": false,
-				"volume": 1.0
-			},
-			{
-				"name":"ssbrc:fighter/joker/final_guard/activate/2",
-				"stream": false,
-				"volume": 1.0
-			},
-			{
-				"name":"ssbrc:fighter/joker/final_guard/activate/3",
 				"stream": false,
 				"volume": 1.0
 			}

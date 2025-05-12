@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/shadow/dark_knight" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/shadow/dark_knight" }
+		]
+	}
+}

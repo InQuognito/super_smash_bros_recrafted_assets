@@ -1,14 +1,6 @@
 {
 	"model": {
-		"type": "minecraft:condition",
-		"property": "minecraft:damaged",
-		"on_true": {
-			"type": "minecraft:model",
-			"model": "ssbrc:fighter/hero/item/kaclang/disabled"
-		},
-		"on_false": {
-			"type": "minecraft:model",
-			"model": "ssbrc:fighter/hero/item/kaclang/default"
-		}
+		"type": "minecraft:model",
+		"model": "ssbrc:fighter/hero/item/kaclang"
 	}
 }

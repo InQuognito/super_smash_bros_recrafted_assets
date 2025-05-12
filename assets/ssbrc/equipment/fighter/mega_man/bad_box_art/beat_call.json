@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/mega_man/bad_box_art/beat_call" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/mega_man/bad_box_art/beat_call" }
+		]
+	}
+}

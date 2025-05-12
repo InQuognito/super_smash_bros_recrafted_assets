@@ -1,7 +1,34 @@
 {
 	"model": {
-		"type": "minecraft:model",
-		"model": "minecraft:item/diamond_sword"
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": "werehog",
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/sonic/item/sonic_punch/werehog"
+				}
+			},
+			{
+				"when": "hylian_tunic",
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/sonic/item/sonic_punch/hylian_tunic"
+				}
+			},
+			{
+				"when": "scarlet_speedster",
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/sonic/item/sonic_punch/scarlet_speedster"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/sonic/item/sonic_punch/default"
+		}
 	},
 	"hand_animation_on_swap": false
 }

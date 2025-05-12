@@ -1,0 +1,20 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": "gold",
+				"model": {
+					"type": "minecraft:model",
+					"model": "ssbrc:fighter/peach/item/frying_pan"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "ssbrc:fighter/peach/item/frying_pan"
+		}
+	},
+	"hand_animation_on_swap": false
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "ssbrc:fighter/peach/item/golf_club"
+	}
+}

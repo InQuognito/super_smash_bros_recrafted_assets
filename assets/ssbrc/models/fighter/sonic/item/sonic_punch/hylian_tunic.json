@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/sonic/item/sonic_punch/parent",
+	"textures": {
+		"base": "ssbrc:fighter/sonic/item/sonic_punch/hylian_tunic"
+	}
+}

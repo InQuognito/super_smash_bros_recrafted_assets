@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/toon_link/fourth_sword" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/toon_link/fourth_sword" }
+		]
+	}
+}

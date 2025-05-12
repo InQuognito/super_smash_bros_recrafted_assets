@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/ryu/default/evil" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/ryu/super_turbo/evil" }
+		]
+	}
+}

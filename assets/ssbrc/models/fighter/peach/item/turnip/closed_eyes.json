@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighter/peach/item/turnip/parent",
+	"textures": {
+		"face": "ssbrc:fighter/peach/item/turnip/closed_eyes"
+	}
+}

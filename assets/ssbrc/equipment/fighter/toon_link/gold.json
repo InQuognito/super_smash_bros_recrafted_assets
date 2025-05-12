@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/toon_link/gold" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/toon_link/gold" }
+		]
+	}
+}

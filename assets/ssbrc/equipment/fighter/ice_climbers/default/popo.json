@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "ssbrc:fighter/ice_climbers/default/popo" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "ssbrc:fighter/ice_climbers/default/popo" }
+		]
+	}
+}
