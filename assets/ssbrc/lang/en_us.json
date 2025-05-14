@@ -878,7 +878,6 @@
 	"ssbrc.fighter.snake.loadout.utility": "Utility",
 	"ssbrc.fighter.snake.loadout.equip": "You have equipped the ",
 	"ssbrc.fighter.snake.loadout.unequip": "You have unequipped the ",
-	"ssbrc.fighter.snake.loadout.warn.encumbered": "You're encumbered! You can't equip this.",
 	"ssbrc.fighter.snake.loadout.warn.already_equipped": "You already have this equipped.",
 	"ssbrc.fighter.snake.capacity": "Capacity: ",
 	"ssbrc.fighter.snake.reloading": "Reloading...",

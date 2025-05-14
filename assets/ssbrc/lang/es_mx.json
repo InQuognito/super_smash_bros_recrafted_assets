@@ -853,7 +853,6 @@
 	"ssbrc.fighter.snake.loadout.utility": "Táctico",
 	"ssbrc.fighter.snake.loadout.equip": "Has equipado el ",
 	"ssbrc.fighter.snake.loadout.unequip": "Has desequipado el ",
-	"ssbrc.fighter.snake.loadout.warn.encumbered": "¡Estás sobrecargado! No puedes equipar esto.",
 	"ssbrc.fighter.snake.loadout.warn.already_equipped": "Ya lo tienes equipado.",
 	"ssbrc.fighter.snake.capacity": "Capacidad: ",
 	"ssbrc.fighter.snake.reloading": "Recargando...",
