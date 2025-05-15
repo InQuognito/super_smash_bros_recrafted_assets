@@ -4,36 +4,49 @@
 		"property": "minecraft:custom_model_data",
 		"cases": [
 			{
+				"when": "AJ_INTERNAL_EMPTY",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:empty"
+				}
+			},
+			{
 				"when": "default_angry",
 				"model": {
 					"type": "minecraft:model",
-					"model": "animated_java:blueprint/beat/default_angry/right_foot"
+					"model": "animated_java:blueprint/beat/default_angry/right_foot",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
 				}
 			},
 			{
 				"when": "gold",
 				"model": {
 					"type": "minecraft:model",
-					"model": "animated_java:blueprint/beat/gold/right_foot"
+					"model": "animated_java:blueprint/beat/gold/right_foot",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
 				}
 			},
 			{
 				"when": "gold_angry",
 				"model": {
 					"type": "minecraft:model",
-					"model": "animated_java:blueprint/beat/gold_angry/right_foot"
+					"model": "animated_java:blueprint/beat/gold_angry/right_foot",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
 				}
 			}
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "animated_java:blueprint/beat/right_foot"
-		},
-		"tints": [
-			{
-				"type": "minecraft:dye",
-				"default": [1, 1, 1]
-			}
-		]
+			"model": "animated_java:blueprint/beat/right_foot",
+			"tints": [
+				{"type": "minecraft:dye", "default": [1, 1, 1]}
+			]
+		}
 	}
 }

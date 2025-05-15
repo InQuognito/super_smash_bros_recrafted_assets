@@ -4,22 +4,29 @@
 		"property": "minecraft:custom_model_data",
 		"cases": [
 			{
+				"when": "AJ_INTERNAL_EMPTY",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:empty"
+				}
+			},
+			{
 				"when": "shiny",
 				"model": {
 					"type": "minecraft:model",
-					"model": "animated_java:blueprint/abra/shiny/toe_back_right1"
+					"model": "animated_java:blueprint/abra/shiny/toe_back_right1",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
 				}
 			}
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "animated_java:blueprint/abra/toe_back_right1"
-		},
-		"tints": [
-			{
-				"type": "minecraft:dye",
-				"default": [1, 1, 1]
-			}
-		]
+			"model": "animated_java:blueprint/abra/toe_back_right1",
+			"tints": [
+				{"type": "minecraft:dye", "default": [1, 1, 1]}
+			]
+		}
 	}
 }

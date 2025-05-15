@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.4",
+		"format_version": "1.7.2",
 		"uuid": "ea3056cb-ba4b-d983-4557-14699c0ea050",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\tornado.ajblueprint",
 		"last_used_export_namespace": "tornado"
@@ -14,7 +14,7 @@
 		"enable_plugin_mode": false,
 		"resource_pack_export_mode": "raw",
 		"data_pack_export_mode": "raw",
-		"target_minecraft_version": "1.21.4",
+		"target_minecraft_versions": ["1.21.5"],
 		"display_item": "minecraft:white_dye",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
@@ -22,6 +22,7 @@
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "function ssbrc:stage/hyrule_castle/logic/hazards/tornadoes/init",
+		"remove_commands": "",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
 		"teleportation_duration": 1,
@@ -29,7 +30,8 @@
 		"show_function_errors": true,
 		"show_outdated_warning": true,
 		"baked_animations": true,
-		"json_file": ""
+		"json_file": "",
+		"target_minecraft_version": "1.21.4"
 	},
 	"resolution": {
 		"width": 128,
@@ -838,8 +840,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "1ca7e88e-bc27-7f48-bf9b-50a9bcbd1425",
-			"source": "data:image/png;base64,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",
-			"mode": "bitmap"
+			"relative_path": "../assets/ssbrc/textures/stage/hyrule_castle/tornado.png"
 		}
 	],
 	"variants": {

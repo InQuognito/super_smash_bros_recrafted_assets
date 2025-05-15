@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.4",
+		"format_version": "1.7.2",
 		"uuid": "a957d450-db55-7117-46cc-ed9758951fc9",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\metapod.ajblueprint",
 		"last_used_export_namespace": "metapod"
@@ -14,7 +14,7 @@
 		"enable_plugin_mode": false,
 		"resource_pack_export_mode": "raw",
 		"data_pack_export_mode": "raw",
-		"target_minecraft_version": "1.21.4",
+		"target_minecraft_versions": ["1.21.5"],
 		"display_item": "minecraft:diamond",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
@@ -22,6 +22,7 @@
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "function ssbrc:logic/pokemon/init {name:\"metapod\"}",
+		"remove_commands": "",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
 		"teleportation_duration": 1,
@@ -30,6 +31,7 @@
 		"show_outdated_warning": true,
 		"baked_animations": true,
 		"json_file": "",
+		"target_minecraft_version": "1.21.4",
 		"enable_advanced_resource_pack_folders": false,
 		"display_item_path": "",
 		"model_folder": "",
@@ -851,8 +853,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "5d407d65-4d48-7c05-b471-9d69e4369c6a",
-			"source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgCAYAAACinX6EAAAAAXNSR0IArs4c6QAABNlJREFUaEPlma1vVEEUxd86wCwFDJCsKE0gJBUgMCAQIAkCj+A/qMZg0P0PKvAIggSBAIMA0YRAUio2gRqgrKG4kvO2v8fZuzOd97bbJoRn3sfO3Ln33HM/ZrZXdbxurlzeLU35Nfpdnegfq7hr/KvVD73SvC6/31+9PqHHk5U3tfy7j65O6dfvH69Fj0Y71bNH7yb06C0sLExM2N7e3lfREgD9/rFqNPrdGM/7YQFwes+41QcvkwDIeMZ8H+1UAAXYvZW1W7v6QZcP5B3BTBAAGMU3f5fXzw5ONs7cGv6s2TAvAKLnI2vkZb8WB6eqM3sgfRvtVNGe3sbGxm6/39+jyKi++/vS0tIEI6CYvIzhuo8pNu15wmCeAOAoDMWBvAMC3t8XgC5xl4sxlyGP6yIH6FmMIPZyHozUbKuXx7zH+tiRf2M/J69zYkolGRcuFsRLDHEA5EEPu1RsdgEAQ1MhLDmsFcNDvzUAKBe8X/86FavxuzzoFEs9OwiEB0qSWyJtMbgrE3BIjHXJc+pvDn8kMW0AkGHD4fYUAPE7FJbhMor7OAdMfkuN0TitMxgsJBWaBQDP9NFwzxPuLPSdqAIsLq87dfy7POcUjh6Nxvm7nnXJeH92JLoCEFF8/PROU9Y/DX80TsnJ7XldJ1PHWu/fryyfq9d0ChN7CiEZB0DcAQGjJUNjAWOeAMh5or5KntM+NkCs2TkJ0jdEervRKMA99hlvXm9W128sTgGpDwdlAOyVrEMBQBSDWqCoGLw4ONU4UuhzkYg0hyuG0DwZoByFfM/6WQY43cnYUihmbU8u+wGA8R4irkiqTKay4ayNk/cZrQFww3PGu5IyzoXHLOyZl+dYg0tAzAqAyiLVyXXOMoA6up/HJchpXQIA2vu8LozwxinFDn1TKEa25foTjSdRu2763lQBLZoDQQspa1MBqAIkQu/NGUcCjBVDc0re15wSA7xUe0KOgHmv4npSzmsAYrcWNxMSKsNu37hQyxcgsQyC7IvXnxugnCmxLy+BUALAO9IcS1LfXQ89T/QB4/gf7+y4NIg6Xsr0mqMEyfi2cd/1AMW70air3rWuNmWXls9WH9e36iE8+8asDoESelQJP93xZ83X+9u1zaKs0lptf/czjNjeiubqM2SwrthxChDXtag0dTXV1BDvqd0cSUrz3q5/afYNuWzc1nhPgHFDJeO1nsKQjpSOU/lL4+N+pwgAZSU2FwoNoSmkU2dtYk5kSpvklgPCHZHKQ/oGAKnfYziSC4oAXHuwWG8u/IADJT3GYgh4RybFYEs8kmrreZIeisuTApiWWrSXjuwyc7vUcZ77u4stApA6wWFxJZTcmV9sSDhCmzUEJI+1ZAQU9z0/FCcv+dlkDugiABiCAKgkZQBA92vL55vYyzUkAs5LqZR/eO95UYe2LJllXHHx1BEYh58sCPXIuLmTYTxHvB7kKGwWY1NzWgEQT4ABwEOAE2JRM3X2Rj/hTVcqec7LsLZy6kYIpWkeUg1MPAJnAaqBwMBIfjvMf4baGlgaN9EKA4AmlXp23zuoHJJwaHF935A6bC0pdlS/91TmvMRR10u9+ricjDdQtJtRDr1D7L6Oyrg269QAYDRlJv71lRPk/wMSAoDBO335UbbKbQxnTDEJdhH2L4797wH4A1NGIqIIxS32AAAAAElFTkSuQmCC",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/metapod/default.png"
 		},
 		{
 			"path": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\assets\\ssbrc\\textures\\common\\pokemon\\pokemon\\metapod\\shiny.png",
@@ -880,8 +881,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "87a8b98c-3f2e-668d-c961-64c4263f4fd1",
-			"source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgCAYAAACinX6EAAAAAXNSR0IArs4c6QAABNlJREFUaEPlWc1qU0EUvllU0arXWPEHJBUJbqQI4s5uXPcNBB9An0CfQJ9AH0DwDbp2U3ciSHEjodgg+EPbNFYrNYvKN7nf5bsnM5nMTSOI2eTeyZ2553znO985M2lkiZ/HV84cxqb0B4Msn5vL+I3nn3z63ojNS/n9+Z3LFTsevP7s1n96Y2HEvvzsMbd0f/d39uj9dsWORrPZ9DrU6/W8BscAyPO5rN8flM7zflYA0Ll7q5teAPC7AkCgCHbj5criIZDBRx/kPRfmBABApzim94h66/zJMpjdrX3HhqMCwEbesoa+cLx19VSWnzs+ZMDOQWb9aXQ6ncM8z4cP9PtDIOS+3W5XmECKIcp0HN/D+aORZxocJQAMFJ20TmtAHQPGAZCSd6Ec0zUQcQdioQG4BiOYe6EIWmpOapfmvI/BzP3QesnC5BMZXRwssB8wRAGAoRolXE8DAB2PAWCZAjtLAKAF6+96I7lqxxFBazz1guMKAtNDaasAWLBSgWBAbK47m4T63Y8/vCQoAYBj3c2fIwDYcVIYztIRRV7HfM/ACryntTjvNagOAKr01nHVCZ/YV6oAX46oa+7ouDrFxTWi1jm9x7XThMV5BwKvFYlUACyKq/evl2W9u7HnUg32hdZtaF2nUttar+NLN5tDxS9KJ+mPb6QQnLMsIAh0Gmvg2VkAgOCB+ih5SnvbABG4ZBFk32DprU7TAH5b6q29+ZYt374wAiQGpmUA2etSTfL+yAAAxUgtTYHWtdMlG4F++VshRJjjS5lpRdDOh0YxGMrSIABKdyq20lqvqarjAKDz+vLKtadM+tSwbuOkfcbEAKjjIefVSCxsNcB2Z1YnRrq1CBB1AUBZ9JXZIANYR22ddkAU9HXOCK1jAPjmpTBCGycfOzCGVLRsC/UnPhaXIsgUwEtDIOBFUG1WAEaXQqjz+BwF0McEX7doHY0xQEu1rzRbvbG9Aue4Mmi7NbuZYIlbvntpqNw7B6MpULBl7dWXEihlim1TYyDEANCONMQS37ht2ip9gKNKsbNTBFnHY0rvSs/GXtnpTZr3qQco2o2qk+ocNmVL7bPZemfXPcJr3ZhhPNoHMEX0dEevHSMGg+zZ11/RtVIiNe5ZPcOwPQZAQJ8Bh11ATMcJQNTWqNGsq76mhvnu281RpDBv/e122R2G1DgFHK5tGca9P9KQHSk7TugXnrf7nSgALCu2ucA90ATSWNg6BuZYpsDJWG6HgNBA+HSISq87wFDl0aoQBeDhxRNuc6EHHDRSc8ymgHZkDqyiitgjqUkjT9FjniOSAJgtNWgPG7nLpMqzCvnOIDAWBcB3gsOXQ1BCZ362IeERWt0UwHp8F5wixW3EmfP2bDIEdBQAOsIFSCsYQwDwvXRrIWPuhRoSGKelFMavvPgQtWFSltR5Lvpy3xEYDz/LUllQL4S+jRxz0CeedZyYZs5EANgTYAKgKcATYlDTqjMdBkDadPnEcxpn6sx1jRCNZvPga2DsEXgZ/aIaAAyIClnA/gDCNI3613EqZU6lFSYAVM5x7aruHVAO+WcI5+i+wXfYmmLkLJ9toMxpiWNdj/XqjtbFBortpl2Hpcd2X7N0KHVtBwCdpljZv75Ci+r/gEwBgsF7131t7f/VVjkFhKgIpiz2Lz773wPwBxS/IDqtUPl7AAAAAElFTkSuQmCC",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/metapod/shiny.png"
 		}
 	],
 	"variants": {

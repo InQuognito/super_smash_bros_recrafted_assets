@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.4",
+		"format_version": "1.7.2",
 		"uuid": "009c6214-3fea-8e9d-7600-c026c91a6af5",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\abra.ajblueprint",
 		"last_used_export_namespace": "abra"
@@ -14,7 +14,7 @@
 		"enable_plugin_mode": false,
 		"resource_pack_export_mode": "raw",
 		"data_pack_export_mode": "raw",
-		"target_minecraft_version": "1.21.4",
+		"target_minecraft_versions": ["1.21.5"],
 		"display_item": "minecraft:diamond",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
@@ -22,6 +22,7 @@
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "function ssbrc:stage/pallet_town/logic/pokemon/abra/init",
+		"remove_commands": "",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
 		"teleportation_duration": 1,
@@ -30,6 +31,7 @@
 		"show_outdated_warning": true,
 		"baked_animations": true,
 		"json_file": "",
+		"target_minecraft_version": "1.21.4",
 		"enable_advanced_resource_pack_folders": false,
 		"display_item_path": "",
 		"model_folder": "",
@@ -3282,8 +3284,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "eead6927-24d9-3e87-ae3e-5f8de0d56068",
-			"source": "data:image/png;base64,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",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/abra/default.png"
 		},
 		{
 			"path": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\assets\\ssbrc\\textures\\common\\pokemon\\pokemon\\abra\\shiny.png",
@@ -3311,8 +3312,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "8dea8f5b-5fd0-06da-02cf-d43150a925fd",
-			"source": "data:image/png;base64,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",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/abra/shiny.png"
 		}
 	],
 	"variants": {

@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.4",
+		"format_version": "1.7.2",
 		"uuid": "e235b78d-deff-4f65-6e82-057e3dbd004e",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\fgii_graham.ajblueprint",
 		"last_used_export_namespace": "fgii_graham"
@@ -14,7 +14,7 @@
 		"enable_plugin_mode": false,
 		"resource_pack_export_mode": "raw",
 		"data_pack_export_mode": "raw",
-		"target_minecraft_version": "1.21.4",
+		"target_minecraft_versions": ["1.21.5"],
 		"display_item": "minecraft:white_dye",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
@@ -22,6 +22,7 @@
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "",
+		"remove_commands": "",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
 		"teleportation_duration": 1,
@@ -29,7 +30,8 @@
 		"show_function_errors": true,
 		"show_outdated_warning": true,
 		"baked_animations": true,
-		"json_file": ""
+		"json_file": "",
+		"target_minecraft_version": "1.21.4"
 	},
 	"resolution": {
 		"width": 16,
@@ -2956,7 +2958,7 @@
 			"locked": false,
 			"visibility": true,
 			"autouv": 0,
-			"selected": true,
+			"selected": false,
 			"children": [
 				"0038f39a-5a3d-d09e-b82c-fa9b1433c1d7",
 				"3fcc37e3-c82b-b83d-eb50-addbd864ce76",
@@ -3028,7 +3030,7 @@
 			"locked": false,
 			"visibility": true,
 			"autouv": 0,
-			"selected": true,
+			"selected": false,
 			"children": [
 				"47d9baec-f714-9199-1ffd-0ecffe49ddb4",
 				"16e1cc77-1a55-e70a-5b25-a7d566cec7dc",
@@ -3070,8 +3072,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "9c6892d3-c9bb-a9fa-7440-6c03d0ebb265",
-			"source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAANxJREFUOE9jXLx67X8GLCA2NJgx/PF/uJzPiXVwVSU5WXA2o7i4OFYDXr58SbwBL+aIoLhBIuUNAyEDpKWlwXrwugCb19DFGPGFAbJidHWgMAK7AJctIA2HDx1isLWzYwApRg8rkBfBBnyU1gAH4s73bxjcBUUY9s7qZwjy9gS7DNkAmAtAMdAzZRrYULABO4RlwQbc/f+XQZmRmeFYSQ5DU2U58QYMPRfAAp1gLBCTBsCBiCsdgCRBtuCTJ8sAv4Jqhk0TWhGZCWQDSBAEkCVgLoDFEkwHuhqKvQAAqsrHFhFKe+EAAAAASUVORK5CYII=",
-			"mode": "bitmap"
+			"relative_path": "../assets/ssbrc/textures/stage/pyrosphere/fgii_graham.png"
 		}
 	],
 	"variants": {

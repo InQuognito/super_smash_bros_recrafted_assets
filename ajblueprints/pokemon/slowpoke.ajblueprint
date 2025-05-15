@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.4",
+		"format_version": "1.7.2",
 		"uuid": "cda4790c-c30d-91b5-4e34-55a965d7b844",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\slowpoke.ajblueprint",
 		"last_used_export_namespace": "slowpoke"
@@ -14,7 +14,7 @@
 		"enable_plugin_mode": false,
 		"resource_pack_export_mode": "raw",
 		"data_pack_export_mode": "raw",
-		"target_minecraft_version": "1.21.4",
+		"target_minecraft_versions": ["1.21.5"],
 		"display_item": "minecraft:diamond",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
@@ -22,6 +22,7 @@
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "function ssbrc:logic/pokemon/init {name:\"slowpoke\"}",
+		"remove_commands": "",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
 		"teleportation_duration": 1,
@@ -30,6 +31,7 @@
 		"show_outdated_warning": true,
 		"baked_animations": true,
 		"json_file": "",
+		"target_minecraft_version": "1.21.4",
 		"enable_advanced_resource_pack_folders": false,
 		"display_item_path": "",
 		"model_folder": "",
@@ -1539,8 +1541,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "158c2e90-9b8a-a3d1-fa98-4c1bab5390ec",
-			"source": "data:image/png;base64,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",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/slowpoke/default.png"
 		},
 		{
 			"path": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\assets\\ssbrc\\textures\\common\\pokemon\\pokemon\\slowpoke\\shiny.png",
@@ -1568,8 +1569,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "2104ceb7-b6ce-8dd8-7a3e-a3a7cd00ff92",
-			"source": "data:image/png;base64,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",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/slowpoke/shiny.png"
 		}
 	],
 	"variants": {

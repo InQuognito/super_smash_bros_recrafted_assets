@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.4",
+		"format_version": "1.7.2",
 		"uuid": "25168702-0a26-8ce8-5211-620acb2e223b",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\diglett.ajblueprint",
 		"last_used_export_namespace": "diglett"
@@ -14,7 +14,7 @@
 		"enable_plugin_mode": false,
 		"resource_pack_export_mode": "raw",
 		"data_pack_export_mode": "raw",
-		"target_minecraft_version": "1.21.4",
+		"target_minecraft_versions": ["1.21.5"],
 		"display_item": "minecraft:diamond",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
@@ -22,6 +22,7 @@
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "function ssbrc:logic/pokemon/init {name:\"diglett\"}",
+		"remove_commands": "",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
 		"teleportation_duration": 1,
@@ -30,6 +31,7 @@
 		"show_outdated_warning": true,
 		"baked_animations": true,
 		"json_file": "",
+		"target_minecraft_version": "1.21.4",
 		"enable_advanced_resource_pack_folders": false,
 		"display_item_path": "",
 		"model_folder": "",
@@ -765,8 +767,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "306177ff-7f75-5c14-e613-26a6f36cae16",
-			"source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgCAYAAACinX6EAAAAAXNSR0IArs4c6QAABP9JREFUaEPVWTtoFUEUncUiGJKgvvgpfMTwIIVR/CAStRLBD9aCokVARbGQFNooIiLaxEIsREHBQrGwFrRRsTFI8PmLRSAkIRpN4mrQGFGQJ2fCWc9Odje7iYHNNG9+Ozvn3DP33tnn1dfXV4yUcrlsW8Vi0XtwdGtoTOcNdI9qM1Q//KjsxQ7mbMBLIqDj9O7KqD9ut7ygUG20/ubZoKkpVJkx/1cAie05RQB2T6Bf/Z8WzL57HdaCUACAuwVEUAEAzUIy5hQBAF+9tNZiGB/6blou3A/kS2KUBIBHu7fbjxUzCcyZ2iO3493d0xI657p5EBAHAkRQMQsL80P1ndcee3Gqyhspic5K1aEbh1KgAACnOugfQEpjU8HEqWpOEfD6yt5YBQy+GwqcI0EpCQo0z0fChjo947RcFktBEUoCI0bUr/qYLO+YrblBrMdmAR5gspDA+fjVMIkNs80wit9cE6AspyFBLe8CjrMYHORsWXM664YUwBDnLqRkuKAJXBMl9MEZwkmysJ07AhAG4bWTwCtoHhOXJDc/IHglAvW8OcRQvq9OK62cCFzPOxXgrgFScqkAlarG9ag02PX27tlnchRHYO4UgI0OHzxXWbC4ysxrWGT8zo9m/P2/sIbxFQ8vpXJcF8+fqdTU1pnjbSftfLYL9YvN/gOtwRpXLrdX0IeC/ju3b9l8Q+v+55FgHYyzjWexPn7Hvn8zX33ftF++6uFdWOPUmfOh+sm2Y5WFhcKkfhrIU/Do/NP/xYyOTNzwSET18lqz5ObZWBLwEmyCoLEJJQB1JQGb1z6CQp+CZRu/IAAF4AEW79D3unWCRj+e4/50Hvq9vh0nKgAIBVg5j/yapIAsKkjrO9LOc+8q+pxexd310t5IU0mbix851GrZrKupNsUVjabrbZcdamgoGkif7bTgOO/6jVux+1AC9NKFZ0HATL9JZCKA5wznDhLD77excUsI2v39A5YMFNTTlqkIUCfNNeFsqYCZfJPITAAsPdDXa4H39PQEGEulkq03ryyZsR+/QwSAIMxncdtJBOCuEpdUJUWctNEmMwG0OsB/GhoOGXnZ0iUGRDSvag5IUtCsu2TQQUUpht8l3Y8yqgTUo75JpFFgJgLoA6LA82VbNm8KWRoNAlbLo86xqRQQd7ukMqK+ScyqAsqv3kyyPlHv2r4t8A+uxaMIwJwkBUz1VQrPR6kjbcaZSQFwgjgCcQTgCKxbs9pGCPiJCWlOOEdanFaHs8RaKOs/vAhdnP53NspoQYOoOjIRgCSlv7fHAnKPAc8/gDU0lszLzueTlMDIwY2wDQL0HLuf2uK+TCtRPA7qGKPyBESMGREAYDzTGgUAAA5QCVCgqDN8ss5xEkAS1HlNdR/RuS54hkdVAOqaJGVSAHN7vBR5uEob1kSI5BjljX4XsNvX9PqZnaPxPIoMBcu6GwqTssOoP26mRQAvMk+fPAmyQBAC6SNn5yWFQKM2/g+Ab0iAkuCGNXeNqE/ySeD1+ZACGNo0nUUcJyA8yPNMgOgDCehfu2GjXRu+gQrAGNpQAcZZZ/rsZot8HzNJ5hq6J2abvGglkZplzAMBXFxTW2wWJKil0EfwJEYJAEEoqgKMo42ooBFBU2lNnJQcTbFnjQBcD5nP00J8GQHRgnrOaWWVvRIAwCSMR4Jk4n20LolR8jGPe9JnsK+knCGL5Tk3kw+Yzgvy/sxfoeXlTk4XbUYAAAAASUVORK5CYII=",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/diglett/default.png"
 		},
 		{
 			"path": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\assets\\ssbrc\\textures\\common\\pokemon\\pokemon\\diglett\\shiny.png",
@@ -794,8 +795,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "a9412073-ce7a-1a06-5447-cd226850ba15",
-			"source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgCAYAAACinX6EAAAAAXNSR0IArs4c6QAABPpJREFUaEPVWTtoFFEUfWMj4poPu0QR1mgUUbTwgyAoRLCJWKQTP2ChiCDRQrQRhIBgo1ioCBYKCn6wsxCClYpdkATxh2hiDAYNu675iNhk5bz1jGdeZiYziYHJa/b95s075553732zXqFQqBopPT09tlUsFr2uzvbAmM4b7P+lzUD9yK3HXuRgxga8OAK6r+6tlks1oPnCAqP13u7vJrdonhkfm/AhsT2nCMDuCbRS+m3B7LvaZS0IBQC4W0AEFQDQLCRjThEA8POb6i2G38MjZkvHfV++JEZJAHi0P7z7ESlmEpgxtYdux7vX0RY457p5EBAFAkRQMY2F+YF6W+dDL0pVWSMl1lmpOnTjUAoUAOBUB/0DSFm1psFEqWpOEfDywdFIBQy9+eo7R4JSEhRolo+EDXV6xmm5NJaCIpQERoywX/Uxad4xW3P9WI/NAjzApCGB8/GrYRIbZpthFL+ZJkBZTkKCWt4FHGUxOMjZsuZ01g0ogCHOXUjJcEETuCZK6IMzhJNkYTtzBCAMwmvHgVfQPCYuSW5+QPBKBOpZc4iBfF+dVlI5EbiedyrAXQOkZFIBKlWN62FpsOvt3bPP5CiKwMwpABvdvedptb6QM/nmOtP3YsiMDwfT3KdP2hM5rvOdp6q5unpz4uRZO5/tfCFvDhw85q9x+dK5KvpQ0H/n9jWbb2i9XCr762CcbTyL9fE7PjpiKuWKuXDlhod3YY0znRcD9dPHD1cb842T+mkgT8Fbaw6MmpHSuB0nEbmmBvPoQWskCXgJNkHQ2IQSUAuD/0jA5rWPoNCnYNmuqaxs9wTwAIt36HvdOkGjH89xfzoP/V7rjodVAIQCUADeVQD6k6ogqe9IOs+9q+hzehV310t6I00kbS5+9NB+y2bdwgWmuGK5ef3qrR1qXrbUQPpsJwXHeddv3o3chxKgly6r0LGJGX+TSEUAzxnOHSSG39GfvywhaA98HrJkoKCetExFgDpprglnSwXM5JtEagJg6cH+Txb4x/5BH+PKFUVbX7d+rYFzUgJAEOazuO04AnBXiUqq4iJO0miTmgBaHeC/fhsOGHnJ4iYDIkACSVLQrLtk0EGFKYbfJd2PMqoE1MO+SSRRYCoC6APCwPNl27ZuDlgaDQJWy6POsakUEHW7pDLCvknMqgJ6Xr2fZH2i3rVzu+8fXIuHEYA5cQqY6qsUng9TR9KMM5UC4ARxBKIIwBHYuH61jRA4Alaaf50jLU6rw1liLZRN1S+Bi9P/zkYZLWgQVUcqApCkDPT1WQfnHgOefwBrbmkxvd0vJimBkYMbYRsE6Dl2P7VFfZlWongc1DGG5QmIGDMiAMB4pjUKAAAcoBKgQFFn+GSd4ySAJKjzmuo+onNd8AyPqgDUNUlKpQDm9ngpQx2lDWsiRHKM8ka/C9jtWz1aC6caz8PIULCsu6EwLjsM++NmWgTwIvPsyXM/CwQhkD5ydl5SCDRs4z6AcsWQACXBDWvuGmGf5OPA6/MBBTC0aTrLZAaAUHieCRB9IAH9G7bUwh58AxWAMbShAoyzzvTZzRY1eaJzxDHTPTHb5EUrjtQ0Yx4I4OKa2mKzsKRaCn0ET2KUABKmKsA42ogKGhE0ldbEScnRFHvWCMD1kPk8LcSXERAtqOecVlbZKwEATMJ4JEimWpfEKPmYxz3pM9hXXM6QxvKcm8oHTOcFWX/mD5bM5U7d6i3EAAAAAElFTkSuQmCC",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/diglett/shiny.png"
 		}
 	],
 	"variants": {

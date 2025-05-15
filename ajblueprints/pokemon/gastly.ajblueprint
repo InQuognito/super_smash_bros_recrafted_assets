@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.4",
+		"format_version": "1.7.2",
 		"uuid": "16e9ad6d-2a62-0125-1681-3df898e5feec",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\gastly.ajblueprint",
 		"last_used_export_namespace": "gastly"
@@ -14,7 +14,7 @@
 		"enable_plugin_mode": false,
 		"resource_pack_export_mode": "raw",
 		"data_pack_export_mode": "raw",
-		"target_minecraft_version": "1.21.4",
+		"target_minecraft_versions": ["1.21.5"],
 		"display_item": "minecraft:diamond",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
@@ -22,6 +22,7 @@
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "function ssbrc:logic/pokemon/init {name:\"gastly\"}",
+		"remove_commands": "",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
 		"teleportation_duration": 1,
@@ -30,6 +31,7 @@
 		"show_outdated_warning": true,
 		"baked_animations": true,
 		"json_file": "",
+		"target_minecraft_version": "1.21.4",
 		"enable_advanced_resource_pack_folders": false,
 		"display_item_path": "",
 		"model_folder": "",
@@ -1885,8 +1887,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "82d75bd8-22a7-9951-be29-4d5b0050d917",
-			"source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAB6BJREFUeF7tWl1sFUUUnkUiaXuhpbXBIAhFEGnE+GCEBxP74E80auKbEh5MjD6J+GQkUZsSE4lPaFETjdEHlOiLCRoNqKEmJkIkaCBaEWyRgkIKpYXbVpLaNd/c+y3nnjuzu7eXejfx7svuzszOzPnmO985M/cGi1uWhkZc/ecG7Vvz3LmBLMfz+s67bNvxibxpasyZXGND1CQ/MRmVo3D4/LD+3Pv++9mjZWPtfbKnZF764/d37zDN8+aZFjEHthmdmDRjly8X7EhoE3Su7iwZ6PufD3sBWLv89lAbridGICYmJ01jQ4PB3Xex3gXAged6w7FLI4W5zG+1d/m+/cOt1jhcLz7/bjTEK689VWgrAIhrE3Qs6ygBYM7f19oOXJMiAKjH6jfmctHAE/m8gfFkiDRcA6HfkwC4cdkqMzZyPgIA77e8vCF4vL097N70usm1LLzCxNELpqd3s9k1PGxZldQmgFGvNpwwWyaXG9yf/mu+OTBwxCxtbfG6QBIA2gVmAsCvWz8KT/5xzK5+c2ubNVC+A4DUPhbTMIAGwOCuNeu8K8/vqQHS910uIAGA8XAb6AYvvpMlSQxwucC67ZuuDgBh97clLhD03O3t+J477o3agv6gPS/9Pjh00moAjcWdF0UUd4Dw9kMbIj/HaoPuN6xYWYLt6YHjJe/UA1l433vdFYMSzAQA6fuaAQQFAOAiCLodjUf5ndMFsav2ot9X0k9FiMEFtPi5ANCRgKuPb7VQAqBbx09bRadyyz5leVKb/wQATM4Hgo4EaMtwyPCpwUGbIyd+Cl64eVUo4zfKGcO3/XbMLlSaNpWsPtpWxABqgA5/+h0dy5XGuwaAZbh3DB9NTFgkINpIAjfrDAAALmOtr3tyAk5WZ43SiP2/fGcZ8MTGnrKY/sHObiMZkNSmYgbArxmipK/KVZSTTwsAJ0ImsA8XM9g2TYoNsMampsKma+ZUZOv4P9PO9N4mQuxp0XXtiZ0SABkC+VFcne747Dn/XsHlLvz+i0N99nHBgpxJCwKMv3ixELJ1ghfctGh1CCWG8b7VlZOXRmI1qexSGF3guNwEILhSZpk/6D1FX/+BMgBgoNWUIitc714A5AZHx3ep6i5fhgEAjndNe/mNr2+6nwSive0KE+WuEsB8su9zk2suJFVgAa8/h86YNR1LrKj3D54KFy+9Pqqj8fmxfNSGlQFju6aoXmkNgKzX1Kef45skZrg2UJoBlj3FrBIaAANt3805C4Jr6456aAWMh+G4CJC01WqATFMpVi5/JuVJZ18qLNtJ6rO9BEjuEdCWTJAbKDzz+nHwkF4r+y5FLk4k5wZzSkJ/pAESBK4cR6pE3OK+kYbbSRf3AtE3RUO1Lkhgjp7pLwNAihwrfSJZBgCjQBoA5MhYzbiEiG0lS1wARO2KBydxW2fUgQFxIucCQLaPZYDesmomaDr7ANBRQMd+9KO3xE5eOwqxdY4TOWoD7j6RLNEAhEFrmDq+ghIzMXEBIcGwFBVbYw4gDYfBWtHjjst8gMizA5/IpRVJjGE1wDUYhcflGjq7w/eyzEf1mRis5+Y6PEnLHle7VJshHE9ZFrQsNDiYwGFFfvRCSX+uurhjKxx64vADx1y4eO6HZ1f5hl07bDsZESzzYg5d5QR9wKUGgAePBMCuehEEX10SAOgDJzs88pIT1uU4AsNmjCEW+rO771Pn/B/pejRkEoew/vXBr7x2RhVT4bRd5W+2FXLtN/f02jsGOfXGl7auoXWhGR4YMO0rVpjJkVIGuOqWPPuAd2DJAB584ihMMkCWb977sdlzuC91/o9+oP7339Zl+0QCFesCEBQ02LPlM9vunX1v2TvQAwAwEBcBwDNB8NXFAQC3otuA8niWjALTZHnTMw/a8WV8Z3hjJkgb5J7AtwcgGBEqQyOjFgDulngCDOQ4Wb3KcsKuujgXIKu0G3FiuvzSw2udewCdBhME9BO3BygDgKGD+TITJBxXEQB8dLU0gH3CUJ4CS6N1OcBMG97S7AHKAND+wfAI9ZxNDZB+H/d8tX4H0HaWCMP5nftD+DXRhxLjrB3l/BD19Hndma47fvCHqIn0Z/lTlkuYMD41gaCwnStEVgNOqjA4UwDaNq5P7B/RAMbpH0JpsC6XxvrCXdpwiTGsf+NBqjDfXSvtYwCZw4nr/tinK5HiD5/MB/hboPxBlCFx5UuPuUhTEvJsNPOEzLLNkLO3YqGM1a5MjWXVUFCGQwwrs0yGSVkOMYwLd7QnLlxKm2MpKumpszWZqVUDAHMM5Be4ZJLF0CrLmVv4wp1lmuPIzHdqlAgARWe2GDBTAKxueI680oZLqwFxLkB9gC/SLyNxEmXV/FY/ExeIm3OldYkASIHS4kRhqgYA6kyt8oFEF2CIqkYDaKSOEJXkA5J5aUJkWiYkAiD/iKD/qYFBUFaNCKad6Gy1C6j01pjif3Fc/9CQE+BOzbKjuIVlvfxnB9plHZzETG22kM9Kv3UAsrIStZpHnQG1Qj4r49YZkJWVqNU86gyoFfJZGbfOgKysRK3mUWdArZDPyrh1BmRlJWo1jzoDaoV8VsatMyArK1GredQZUCvkszJunQFZWYlazeN/z4B/AWw5GZ9TxGQXAAAAAElFTkSuQmCC",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/gastly/default.png"
 		},
 		{
 			"path": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\assets\\ssbrc\\textures\\common\\pokemon\\pokemon\\gastly\\shiny.png",
@@ -1914,8 +1915,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "504a30ac-5b9c-fcbb-9593-3df1e958cf01",
-			"source": "data:image/png;base64,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",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/gastly/shiny.png"
 		}
 	],
 	"variants": {

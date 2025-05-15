@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.4",
+		"format_version": "1.7.2",
 		"uuid": "6ab78e66-38d4-c926-8eef-22a4a44542fe",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\magnemite.ajblueprint",
 		"last_used_export_namespace": "magnemite"
@@ -14,7 +14,7 @@
 		"enable_plugin_mode": false,
 		"resource_pack_export_mode": "raw",
 		"data_pack_export_mode": "raw",
-		"target_minecraft_version": "1.21.4",
+		"target_minecraft_versions": ["1.21.5"],
 		"display_item": "minecraft:diamond",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
@@ -22,6 +22,7 @@
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "function ssbrc:logic/pokemon/init {name:\"magnemite\"}",
+		"remove_commands": "",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
 		"teleportation_duration": 1,
@@ -30,6 +31,7 @@
 		"show_outdated_warning": true,
 		"baked_animations": true,
 		"json_file": "",
+		"target_minecraft_version": "1.21.4",
 		"enable_advanced_resource_pack_folders": false,
 		"display_item_path": "",
 		"model_folder": "",
@@ -1054,8 +1056,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "6338840a-2d0b-b615-54b2-72fd638b6f51",
-			"source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgCAYAAACinX6EAAAAAXNSR0IArs4c6QAABU1JREFUaEPtWVtvVGUU3efBxIahF6r0YnXAaEWFkHCThKQoYNL4WLSakJAYY0BrMDU2gpfaqOiDTYziDaMPJTFiW8YHxUy1AUfbUDASlAiEmuKhE3pJpwN1pDZWx6w9XYfvfJ4DP2Bmv3z3PWetvfY+38k4MmePb38yGyktlhPHTsh0ZloGjiUcLO3tjGXRlleUc6u2qbFUrh0d883bg+d3PKF+wvybv2+e7btpgw5LvtyjbVGkSNvB0gdkNjUjo4kW9UtraNySe84FJTrV2v+Ftg8V1Xp74OO5gXEZv3ydbJWjet5z0rxzpzpwh4YlPZGSw4fiutadSOg8rXLhAhkdn/TGZ38+pf3yygofdhJDAsL8mwQgALTvouvkr4kZqTz8sZTdcIX848UbZXYyI8nYDh8BIBhn6WPXuYMyc2pCtt64XF3SR2vPERn9u1TqLx/PEQDmwBoPZi5OSWrykh4CEU0v79I+gJtGEkwlkASAZ7+n+4BGJcz/bbW3emumfxAAAwnT7pT2AbwmecBTA0Ex6iaBIAAGElLnc+oB8Lal87VPRfkIAHgYCAB42KvvvekDbg9+PTmo6UEiuM45k4Ag/wBBAGYEqQCAB3DIHrZo+ivfIwCITQQ27E7/4IEHcMge9v6a633nPQL440gB2IXfk8rSvu4OccfGdS5asdDrc/x1b7+uhdUIEhDmn6lGCfPpmj6La3f7HTf7IvboobSOmcPcb9eAb2dX6VLlLx0eYOA5/c9GHbOGOPdtqM+aUWD0UQhh7R3veg5AAIyEoE8F+GidG0AV+z/8SCPEKNv+WWxZJOnnmYMdKt3mlbW+GmDnMPfbNSA+b5WmzuKhTt1Cldg1RAnABuQi7LezQ9qaBBC4DZJEoB4E1QjMvdTUosfC/C9bcXdgDbBzmDKGhJm/V6sBdg1hGjGFvBqwds36LPMIUQIBBI8H74p3asRtEjh39OSZ/4EnUSCmvaVVH5gqsP1XL6oJrAFUAIDDwnI4rAbgNcr6gfNhNcTBa47RMyUeFvUgqTMt7BQxlYE+CyXqBX9z3ZKl6jKVzuU2rbysTLvV1dXadnV1Sbw3Ia+1veC9/oaHh1W9ez/ZJ6UlEXm2+Wnn0/2d2WhN7oybvCCnzwxqH+sXL2V85zGvBKBjS5gPYoLiqw97TYLMmmBGn30A51uBxZJzm+vqwjjVecdxFDCAjYyMKEiM+/r6stFoVL7vPyIADLAwgsea67pKGsDDAgnATY8RsQGawMzLj00Y3w7meTvi9n2BhGzedK8w2lSBOe75plcA/OEHG+Tz7phUVVXpGC2iW79pvYLHHGzt6pUC8KoA15WBH3/SvTCTQLLukACComyDIm+HylQCyOLZsEsSb4fmrfH+e1ZL8fx5SsK580n9icW31GhKTP3xp8RiMQ98UATtZ2JacB4KMW3LI42+G6SmAOUYlgp29OkwKG1M8Ixy2PcCiNjW2OAE5TJ/A2uMPOZsAEgNSp+R51kogKnAFIEKQCQMqaEKMBkyLzQEeC0CzHX7RshrsU0CwGOubsUyfUg7lylzSpfSt3MZtcAuji+27c6yWJp9Wy0YO6+/84FHQO3yu3SP+cETRoI9b57hBxJ8md8HPqLnPp4i/84G5jIAo6CZ+WzmOouhXRwBmBWfUb5a6ngEmHlpV+yg1LCjbn8PXOszmWTseeMViZQVSyad+w5h/7FtT3l8mVWck3cuuT2wOIKY9rfezpIgsx+ogKDJfJrzVcR8Ak6sBQLyMeom5oICCgrIcwYKKZDnArjyv0C+ElFIgXyNfOEmOMdAIQUKKZDnDPwHfVdz5e/qYBIAAAAASUVORK5CYII=",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/magnemite/default.png"
 		},
 		{
 			"path": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\assets\\ssbrc\\textures\\common\\pokemon\\pokemon\\magnemite\\shiny.png",
@@ -1083,8 +1084,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "18c29317-b36c-63a1-0f85-2832f6b99632",
-			"source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgCAYAAACinX6EAAAAAXNSR0IArs4c6QAABORJREFUaEPtV11sFFUUPvMI1sK2YuimsJZooRi0wSA8QVQeeDExjSkmvBgJkRCDkkiCYkgf/HnQxCgxaowmGoyF6hI1NNUSBGlpA8Ggxohg0GWb1gTbZcvadp/WfKd+kzPHmVZ83b0v994zc87M953vnLkTyD9jx85dlbrF9XLh7AWZLk3L8NlTAS5lP+iqYE4vW8JbdR7NX9N5/I+JiN1vdjz/psZJim+fb337+3p1u/T2jM4L6hbo/N35ISmXyzIzM6NxOTo6t+l7NjYsUpP3ZwzvHwbZs2+fBshdyUvhz3H55kSfXhvuf0vtHKmGhVKYmAr3P577RdeNSxsi2EkMCUiKbwlAAjj6j/VK6caktKxYJanbGkP74OkTMjM1JcViMUIACMZNjGH9YWcM7x+AObBGx9L1SRmfKOoDQcQrzz2sawC3gyRYJZAEgOf6UN9lzUpS/DtbV4TXbHwAwAAJ0+WyrgG8bWV7qAaCYtY9gUn+VAPmCAEAjwECAB7jnVe3RoD7zU/f57Q8SASv02YJiIsPEAQQl0GAB3DIHqP9nvWRV0BpeCJww9DgQEjeXP4hAXw4SgBj9PcRZfqzT/bKtZGralvSvDxcc3/y2Gm9ltQjSEBSfJYaJUx0X3x+VJcty1p1Zg8YOnNyVg3z9ADvzxjeP3jgwS0VmwVmH40Q48O3Hw8ZBwEYJARrKiBOJlDFwUPDmiFm2cdns2WTZJyj3d0q/dVt9/6vHmD9ETOxB4AA3IBaxPj10hWdLQEE7kGSCPSDuB4B2869h9UtKf6atXf/px5AGaMEqIab6QHW3yoq2HD/pgrrCFkCAQSPG3u/PKAZ9yTQdumHi/8CT6JAzDP7j+gLUwU+fvqO5tgewAzixTFutgfgM8j+MZd/gM8cs2clnpT1OKmzLHyJWGVgzUaJfsFntq6dLbHxQiESujGV0n06nda5p6dH+o6fkhe79oefv3w+r+p99/2PZPGiOnl2z9PBx91HKpnmWZ/cyKj8fPGyrnH9erEU8YddCdAacZ85vo0FxU8f7rUE2Z5gs881gPOrwGZJ2/rNu5I4VXsQBAoYwMbGxhQk9gMDA5VMJiPfDg4JAAMsBsHjWi6XU9IAHiOWAJz0mBEP0AKzhx9PGL8O1t9n3J8XSMjGR3YLs00V2P1XXx8XAN/6aIcc/jQrTU1NuseM7G7ZvEnBw4axYd19AvCqgFxOhs+d13sxLIFkPSABBEXZxmXep8oqAWTRN+mQxNOhPTW2P7Rd6m+9RUn47eqIPqJlebOWxOSNvySbzYbg4zLo34llQTsUYse2xzojJ0gtAcoxqRR89hkwrmwseGY56X8BRHQ80RXE1TKfgWvMPGweAEqD0mfm6QsFsBRYIlABiMRAaagCLEP2QEOA8xFgr/sTIY/FngSAh61tY6e+pK9lypzSpfR9LaMX+Ob4QtdLFTZLu/ZqwT547+XdIQFr1q3Ue+wPTxIJ3m59+IOEWPb/wL4A7dMLV8fWMgCjodl6trXOZuibIwCz4zPLc5VOSICtS9+x40rDZ93/D8z3m0wyDhzskbpUvZQKs/8hXG9/8qmQL9vFaWxbdVdscwQxr73+RoUE2XWsAuKM1WSLdMRqAk6sNQKqMesWc00BNQVUOQO1EqhyAUhNATUFVDkDtRKocgHUmmDVl8DfVlyN5dxbdk4AAAAASUVORK5CYII=",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/magnemite/shiny.png"
 		}
 	],
 	"variants": {

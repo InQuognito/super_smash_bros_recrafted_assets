@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.4",
+		"format_version": "1.7.2",
 		"uuid": "da5e94b6-7f9d-34c6-3cc1-3e13591fadd5",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\geodude.ajblueprint",
 		"last_used_export_namespace": "geodude"
@@ -14,7 +14,7 @@
 		"enable_plugin_mode": false,
 		"resource_pack_export_mode": "raw",
 		"data_pack_export_mode": "raw",
-		"target_minecraft_version": "1.21.4",
+		"target_minecraft_versions": ["1.21.5"],
 		"display_item": "minecraft:diamond",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
@@ -22,6 +22,7 @@
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "function ssbrc:logic/pokemon/init {name:\"geodude\"}",
+		"remove_commands": "",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
 		"teleportation_duration": 1,
@@ -30,6 +31,7 @@
 		"show_outdated_warning": true,
 		"baked_animations": true,
 		"json_file": "",
+		"target_minecraft_version": "1.21.4",
 		"enable_advanced_resource_pack_folders": false,
 		"display_item_path": "",
 		"model_folder": "",
@@ -2454,8 +2456,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "ace0c70f-1c8f-7b91-7757-7e8846738039",
-			"source": "data:image/png;base64,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",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/geodude/default.png"
 		},
 		{
 			"path": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\assets\\ssbrc\\textures\\common\\pokemon\\pokemon\\geodude\\shiny.png",
@@ -2483,8 +2484,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "b2fbe6d9-cfdc-2624-645d-9154b8ebecd3",
-			"source": "data:image/png;base64,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",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/geodude/shiny.png"
 		}
 	],
 	"variants": {

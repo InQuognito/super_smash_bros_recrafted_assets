@@ -4,22 +4,29 @@
 		"property": "minecraft:custom_model_data",
 		"cases": [
 			{
+				"when": "AJ_INTERNAL_EMPTY",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:empty"
+				}
+			},
+			{
 				"when": "shiny",
 				"model": {
 					"type": "minecraft:model",
-					"model": "animated_java:blueprint/geodude/shiny/finger_right_pinky1"
+					"model": "animated_java:blueprint/geodude/shiny/finger_right_pinky1",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
 				}
 			}
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "animated_java:blueprint/geodude/finger_right_pinky1"
-		},
-		"tints": [
-			{
-				"type": "minecraft:dye",
-				"default": [1, 1, 1]
-			}
-		]
+			"model": "animated_java:blueprint/geodude/finger_right_pinky1",
+			"tints": [
+				{"type": "minecraft:dye", "default": [1, 1, 1]}
+			]
+		}
 	}
 }

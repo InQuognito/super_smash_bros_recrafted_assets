@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated_java_blueprint",
-		"format_version": "1.6.4",
+		"format_version": "1.7.2",
 		"uuid": "328dc867-3627-b3b7-0e9f-147a87844a33",
 		"save_location": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\ajblueprints\\pokemon\\tyrogue.ajblueprint",
 		"last_used_export_namespace": "tyrogue"
@@ -14,7 +14,7 @@
 		"enable_plugin_mode": false,
 		"resource_pack_export_mode": "raw",
 		"data_pack_export_mode": "raw",
-		"target_minecraft_version": "1.21.4",
+		"target_minecraft_versions": ["1.21.5"],
 		"display_item": "minecraft:diamond",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
@@ -22,6 +22,7 @@
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\saves\\SSBRC\\datapacks\\super_smash_bros_recrafted",
 		"summon_commands": "function ssbrc:logic/pokemon/init {name:\"tyrogue\"}",
+		"remove_commands": "",
 		"ticking_commands": "",
 		"interpolation_duration": 1,
 		"teleportation_duration": 1,
@@ -29,7 +30,8 @@
 		"show_function_errors": true,
 		"show_outdated_warning": true,
 		"baked_animations": true,
-		"json_file": ""
+		"json_file": "",
+		"target_minecraft_version": "1.21.4"
 	},
 	"resolution": {
 		"width": 64,
@@ -2532,8 +2534,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "92d30590-28b7-b870-25fd-0a05ba62deb8",
-			"source": "data:image/png;base64,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",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/tyrogue/default.png"
 		},
 		{
 			"path": "C:\\Users\\Patri\\AppData\\Roaming\\PrismLauncher\\instances\\Main (Experimental)\\minecraft\\resourcepacks\\super_smash_bros_recrafted_assets\\assets\\ssbrc\\textures\\common\\pokemon\\pokemon\\tyrogue\\shiny.png",
@@ -2561,8 +2562,7 @@
 			"internal": false,
 			"saved": true,
 			"uuid": "56011107-f47d-3044-9f22-235b15ec9381",
-			"source": "data:image/png;base64,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",
-			"mode": "bitmap"
+			"relative_path": "../../assets/ssbrc/textures/common/pokemon/pokemon/tyrogue/shiny.png"
 		}
 	],
 	"variants": {
